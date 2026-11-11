@@ -1,0 +1,27 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_market_tools_0.png" id="1_cggj0"]
+
+[node name="market_tools" type="StaticBody2D"]
+metadata/asset_id = "market_tools"
+
+[node name="_CollisionPolygon2D_456" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-128, -52, 126, -52, 126, -3, -128, -3)
+
+[node name="_Sprite2D_457" type="Sprite2D" parent="."]
+modulate = Color(0.86, 0.86, 0.83, 1)
+position = Vector2(-149, -199)
+texture = ExtResource("1_cggj0")
+centered = false
+
+[node name="PropGroundContact" type="Polygon2D" parent="."]
+z_index = -3
+position = Vector2(2, 2)
+color = Color(0.1, 0.09, 0.07, 0.18)
+polygon = PackedVector2Array(-104.65, -5, -80.73, -5, -80.73, 1, -104.65, 1)
+
+[node name="_Polygon2D_458" type="Polygon2D" parent="."]
+z_index = -3
+position = Vector2(2, 2)
+color = Color(0.1, 0.09, 0.07, 0.18)
+polygon = PackedVector2Array(80.73, -5, 104.65, -5, 104.65, 1, 80.73, 1)

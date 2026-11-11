@@ -1,0 +1,26 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_market_horse_cargo_cart_0.png" id="1_lwbes"]
+
+[node name="market_horse_cargo_cart" type="StaticBody2D"]
+metadata/asset_id = "market_horse_cargo_cart"
+
+[node name="_CollisionPolygon2D_478" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-105, -38, 82, -74, 111, -40, -35, 0, -75, 0)
+
+[node name="_Sprite2D_479" type="Sprite2D" parent="."]
+position = Vector2(-128, -219)
+texture = ExtResource("1_lwbes")
+centered = false
+
+[node name="PropGroundContact" type="Polygon2D" parent="."]
+z_index = -3
+position = Vector2(2, 2)
+color = Color(0.1, 0.09, 0.07, 0.18)
+polygon = PackedVector2Array(-100, -25, -90, -36, -24, -29, -11, -12, -35, 3, -75, 5)
+
+[node name="_Polygon2D_480" type="Polygon2D" parent="."]
+z_index = -3
+position = Vector2(2, 2)
+color = Color(0.1, 0.09, 0.07, 0.18)
+polygon = PackedVector2Array(62, -59, 85, -64, 107, -51, 93, -41, 70, -42)

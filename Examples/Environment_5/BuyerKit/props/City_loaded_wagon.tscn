@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_loaded_wagon_0.png" id="1_imiy2"]
+
+[node name="loaded_wagon" type="StaticBody2D"]
+metadata/asset_id = "loaded_wagon"
+
+[node name="_CollisionPolygon2D_197" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-36, -20, 36, -20, 36, 0, -36, 0)
+
+[node name="_Sprite2D_198" type="Sprite2D" parent="."]
+position = Vector2(-64, -125)
+texture = ExtResource("1_imiy2")
+centered = false

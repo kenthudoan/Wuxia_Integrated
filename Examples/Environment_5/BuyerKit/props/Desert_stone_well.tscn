@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Desert_stone_well_0.png" id="1_8jk7m"]
+
+[node name="stone_well" type="StaticBody2D"]
+metadata/desert_kind = "stone_well"
+metadata/asset_id = "stone_well"
+
+[node name="_CollisionPolygon2D_4457" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-31, -28, 0, -38, 31, -28, 34, -14, 25, -3, -25, -3, -34, -14)
+
+[node name="_Sprite2D_4458" type="Sprite2D" parent="."]
+position = Vector2(-39, -76)
+texture = ExtResource("1_8jk7m")
+centered = false

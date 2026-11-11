@@ -1,0 +1,160 @@
+{
+  "id": "15_heal",
+  "sect": "百花谷",
+  "name": "回春花阵",
+  "mode": "heal",
+  "number": 3,
+  "phases": {
+    "cast": {
+      "sheet": "SectVFX/Textures/d0f354dfff3e89c38694f9fcecd79ac85f5662ce1fa6274752ad2c7a1aa3e317.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1254,
+            1254
+          ],
+          "duration": 1,
+          "png": "SectVFX/Frames/a98085b25eeb474053f5795a6e5570f406cbfb109f1a7e5007b6e99b0ff9f1c2.png",
+          "sha256": "61696fccb6641babb67ab570f266f23d8aed2d7c55abe0ad6250f5f4e9ff8d1e"
+        }
+      ],
+      "canvas": [
+        1254,
+        1254
+      ],
+      "logical_canvas": [
+        64,
+        64
+      ],
+      "anchor": [
+        627,
+        627
+      ],
+      "sha256": "d0f354dfff3e89c38694f9fcecd79ac85f5662ce1fa6274752ad2c7a1aa3e317"
+    },
+    "projectile": {
+      "sheet": "SectVFX/Textures/1e539682244f997085619ea01146c7fbf2ef1cfa6119da805ce1c62e230c7eb5.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1254,
+            1254
+          ],
+          "duration": 1,
+          "png": "SectVFX/Frames/520612d14d1c3984e6d0049cc582ee7f1a6f6877297b5616a6bf31cc95ab1ec1.png",
+          "sha256": "7a8047159fdd549b4462001d80a46b1998be1d4fb97a1feccba8a507573e91fc"
+        }
+      ],
+      "canvas": [
+        1254,
+        1254
+      ],
+      "logical_canvas": [
+        256,
+        256
+      ],
+      "anchor": [
+        627,
+        627
+      ],
+      "sha256": "1e539682244f997085619ea01146c7fbf2ef1cfa6119da805ce1c62e230c7eb5"
+    },
+    "impact": {
+      "sheet": "SectVFX/Textures/4569f1eb16a3e5967528be344d2222c6e17972369cb3949e9aa45bf1d4773c4d.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1254,
+            1254
+          ],
+          "duration": 1,
+          "png": "SectVFX/Frames/822b8e221370ed26cf6a24ed6a9316afc19cf9b0a8471a945a0afb5fef405c7c.png",
+          "sha256": "a2f7abd2125b0e38c0bcf8b9e9e0e478bae4894e6ab61fb89ea56c746834617b"
+        }
+      ],
+      "canvas": [
+        1254,
+        1254
+      ],
+      "logical_canvas": [
+        128,
+        128
+      ],
+      "anchor": [
+        627,
+        1018.875
+      ],
+      "sha256": "4569f1eb16a3e5967528be344d2222c6e17972369cb3949e9aa45bf1d4773c4d"
+    },
+    "mote": {
+      "sheet": "SectVFX/Textures/adefbf1ea2dfca410fd392366c18ed9318676c26664e7796dff6040bb99114d6.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1254,
+            1254
+          ],
+          "duration": 1,
+          "png": "SectVFX/Frames/96257f8d583a6d22d485904fdc4d3b8da2b0cf5885d747725a88a8ba5ec6e100.png",
+          "sha256": "adb1fcc2ebe111c69e6409cdc7a4b3379ead2ac50cbb426a48813137320489ba"
+        }
+      ],
+      "canvas": [
+        1254,
+        1254
+      ],
+      "logical_canvas": [
+        32,
+        32
+      ],
+      "anchor": [
+        627,
+        627
+      ],
+      "sha256": "adefbf1ea2dfca410fd392366c18ed9318676c26664e7796dff6040bb99114d6"
+    }
+  },
+  "caster": {
+    "file": "SectVFX/Textures/00715e055fe6728af03c0716ff303b3b75658cfa492d598b68f94e3ad2926239.png",
+    "anchor": [
+      64,
+      114
+    ]
+  },
+  "ally": {
+    "file": "SectVFX/Textures/65bac5b50d6a4c512ff962690550f883b786d05bfe02e747569a47aead38cf7c.png",
+    "anchor": [
+      27,
+      93
+    ]
+  },
+  "runtime_script": "SectVFX/Runtime/SectBaihuaEffects.gd",
+  "standalone_contract": {
+    "coordinate_space": "local ground positions in the VFX node; no game objects mutated",
+    "visual_contact_only": true,
+    "native_sampling": "nearest core, local shader glow",
+    "actor_optional": true
+  },
+  "motion_flags_by_facing": {},
+  "has_spin_action": false,
+  "playback_contract": {
+    "clock_hz": 60,
+    "nominal_end_seconds": 4.5,
+    "preview_peak_seconds": 1.7,
+    "timing_summary": "Field reveal .35->1.40; pulses .95/1.40 at two supplied ally positions; motes.75+, fade3.4->4.2. No HP changed.",
+    "incoming_acceptance_window_seconds": null,
+    "automatic_demo_incoming_default": false,
+    "core_sampling": "nearest",
+    "local_soft_light": "shaders; not a full-screen blur",
+    "coordinate_space": "world ground pixels through private identity context; component placed at foot",
+    "array_frame_clock": "paused atlas clock"
+  }
+}

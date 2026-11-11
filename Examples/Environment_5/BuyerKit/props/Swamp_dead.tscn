@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Swamp_dead_0.png" id="1_ed8pd"]
+
+[node name="dead" type="StaticBody2D"]
+metadata/asset_id = "broadleaf_tree"
+metadata/swamp_kind = "dead"
+
+[node name="_Sprite2D_3512" type="Sprite2D" parent="."]
+position = Vector2(-236, -495)
+texture = ExtResource("1_ed8pd")
+centered = false
+
+[node name="_CollisionPolygon2D_3513" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-42, -25, 42, -25, 42, 0, -42, 0)

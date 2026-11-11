@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://BuyerKit/scripts/EnvironmentMotion/EnvironmentMotion.gd" id="environment_motion"]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_broadleaf_tree_0.png" id="1_gb58r"]
+
+[node name="broadleaf_tree" type="StaticBody2D"]
+metadata/asset_id = "broadleaf_tree"
+
+metadata/environment_kind = "broadleaf_tree"
+[node name="_CollisionPolygon2D_216" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-9, -13, 9, -13, 9, -1, -9, -1)
+
+[node name="_Sprite2D_217" type="Sprite2D" parent="."]
+position = Vector2(-127, -251)
+texture = ExtResource("1_gb58r")
+centered = false
+
+[node name="EnvironmentMotion" type="Node" parent="."]
+script = ExtResource("environment_motion")

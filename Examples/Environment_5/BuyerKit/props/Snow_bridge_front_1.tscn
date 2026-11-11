@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://assets/river_bridge/source.png" id="1_vlnmd"]
+
+[node name="bridge_front_1" type="Polygon2D"]
+texture_filter = 1
+texture = ExtResource("1_vlnmd")
+polygon = PackedVector2Array(-139, -4, -136, -32, -114, -32, -113, -22, -82, -28, -49, -34, -9, -37, 29, -35, 74, -29, 114, -22, 114, -35, 136, -34, 138, -5, 113, 1, 76, -5, 30, -11, -10, -12, -50, -10, -91, -4, -115, 2)
+uv = PackedVector2Array(857, 884, 860, 856, 882, 856, 883, 866, 914, 860, 947, 854, 987, 851, 1025, 853, 1070, 859, 1110, 866, 1110, 853, 1132, 854, 1134, 883, 1109, 889, 1072, 883, 1026, 877, 986, 876, 946, 878, 905, 884, 881, 890)
+metadata/asset_id = "bridge_front"

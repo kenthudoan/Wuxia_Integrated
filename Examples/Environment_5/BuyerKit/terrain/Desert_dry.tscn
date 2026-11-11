@@ -1,0 +1,15 @@
+[gd_scene load_steps=4 format=3]
+
+[ext_resource type="Shader" path="res://DesertTerrain.gdshader" id="1_tmmqn"]
+[ext_resource type="Texture2D" path="res://BuyerKit/terrain/Desert_dry.png" id="2_832ao"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_sxphn"]
+shader = ExtResource("1_tmmqn")
+
+[node name="Desert_dry" type="Polygon2D"]
+z_index = -10
+texture_repeat = 2
+material = SubResource("ShaderMaterial_sxphn")
+texture = ExtResource("2_832ao")
+polygon = PackedVector2Array(0, 0, 512, 0, 512, 512, 0, 512)
+uv = PackedVector2Array(0, 0, 512, 0, 512, 512, 0, 512)

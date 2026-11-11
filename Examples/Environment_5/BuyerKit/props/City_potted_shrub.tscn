@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_potted_shrub_0.png" id="1_es0qu"]
+
+[node name="potted_shrub" type="StaticBody2D"]
+metadata/asset_id = "potted_shrub"
+
+[node name="_CollisionPolygon2D_159" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-31, -20, 31, -20, 31, -4, -31, -4)
+
+[node name="_Sprite2D_160" type="Sprite2D" parent="."]
+position = Vector2(-42, -111)
+texture = ExtResource("1_es0qu")
+centered = false

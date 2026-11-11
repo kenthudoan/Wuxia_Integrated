@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://assets/river_bridge/source.png" id="1_2meed"]
+
+[node name="stone_bridge_267" type="Polygon2D"]
+z_index = -2
+texture_filter = 1
+texture = ExtResource("1_2meed")
+polygon = PackedVector2Array(-138, -31, -91, -37, -50, -43, -10, -45, 32, -44, 75, -38, 116, -30, 141, -27, 141, 28, 102, 21, 58, 10, 14, 6, -34, 7, -77, 16, -117, 27, -142, 33)
+uv = PackedVector2Array(858, 887, 905, 881, 946, 875, 986, 873, 1028, 874, 1071, 880, 1112, 888, 1137, 891, 1137, 946, 1098, 939, 1054, 928, 1010, 924, 962, 925, 919, 934, 879, 945, 854, 951)
+metadata/asset_id = "stone_bridge"

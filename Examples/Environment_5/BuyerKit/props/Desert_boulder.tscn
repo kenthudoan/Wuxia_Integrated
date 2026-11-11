@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Desert_boulder_0.png" id="1_htaej"]
+
+[node name="boulder" type="StaticBody2D"]
+metadata/desert_kind = "boulder"
+metadata/asset_id = "broadleaf_tree"
+
+[node name="_CollisionPolygon2D_4314" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-150, -100, 150, -100, 150, 0, -150, 0)
+
+[node name="_Sprite2D_4315" type="Sprite2D" parent="."]
+position = Vector2(-210, -245)
+texture = ExtResource("1_htaej")
+centered = false

@@ -1,0 +1,496 @@
+{
+  "paths_relative_to": "asset pack root",
+  "clips": [
+    {
+      "id": "01_cleave",
+      "boss": "黑风大王",
+      "name": "裂地霸斩",
+      "canvas": [
+        320,
+        320
+      ],
+      "anchor": [
+        160,
+        244
+      ],
+      "placement": "target_ground",
+      "durations_ms": [
+        100,
+        90,
+        80,
+        80,
+        100,
+        100,
+        110,
+        140
+      ],
+      "loop": false,
+      "end_mode": "hide",
+      "base_direction": "east",
+      "native_scale": 1,
+      "optional_hold_loop_0based": null,
+      "frames": [
+        "VFX/Boss_Clips_12/01_cleave/frames/frame_000.png",
+        "VFX/Boss_Clips_12/01_cleave/frames/frame_001.png",
+        "VFX/Boss_Clips_12/01_cleave/frames/frame_002.png",
+        "VFX/Boss_Clips_12/01_cleave/frames/frame_003.png",
+        "VFX/Boss_Clips_12/01_cleave/frames/frame_004.png",
+        "VFX/Boss_Clips_12/01_cleave/frames/frame_005.png",
+        "VFX/Boss_Clips_12/01_cleave/frames/frame_006.png",
+        "VFX/Boss_Clips_12/01_cleave/frames/frame_007.png"
+      ],
+      "atlas": "VFX/Boss_Clips_12/01_cleave/atlas.png"
+    },
+    {
+      "id": "02_whirl",
+      "boss": "黑风大王",
+      "name": "黑风绞杀",
+      "canvas": [
+        320,
+        320
+      ],
+      "anchor": [
+        160,
+        224
+      ],
+      "placement": "caster_ground",
+      "durations_ms": [
+        100,
+        90,
+        80,
+        80,
+        100,
+        100,
+        110,
+        140
+      ],
+      "loop": false,
+      "end_mode": "hide",
+      "base_direction": "east",
+      "native_scale": 1,
+      "optional_hold_loop_0based": [
+        4,
+        5
+      ],
+      "frames": [
+        "VFX/Boss_Clips_12/02_whirl/frames/frame_000.png",
+        "VFX/Boss_Clips_12/02_whirl/frames/frame_001.png",
+        "VFX/Boss_Clips_12/02_whirl/frames/frame_002.png",
+        "VFX/Boss_Clips_12/02_whirl/frames/frame_003.png",
+        "VFX/Boss_Clips_12/02_whirl/frames/frame_004.png",
+        "VFX/Boss_Clips_12/02_whirl/frames/frame_005.png",
+        "VFX/Boss_Clips_12/02_whirl/frames/frame_006.png",
+        "VFX/Boss_Clips_12/02_whirl/frames/frame_007.png"
+      ],
+      "atlas": "VFX/Boss_Clips_12/02_whirl/atlas.png"
+    },
+    {
+      "id": "03_charge",
+      "boss": "黑风大王",
+      "name": "破阵狂袭",
+      "canvas": [
+        320,
+        320
+      ],
+      "anchor": [
+        264,
+        224
+      ],
+      "placement": "target_ground",
+      "durations_ms": [
+        100,
+        90,
+        80,
+        80,
+        100,
+        100,
+        110,
+        140
+      ],
+      "loop": false,
+      "end_mode": "hide",
+      "base_direction": "east",
+      "native_scale": 1,
+      "optional_hold_loop_0based": null,
+      "frames": [
+        "VFX/Boss_Clips_12/03_charge/frames/frame_000.png",
+        "VFX/Boss_Clips_12/03_charge/frames/frame_001.png",
+        "VFX/Boss_Clips_12/03_charge/frames/frame_002.png",
+        "VFX/Boss_Clips_12/03_charge/frames/frame_003.png",
+        "VFX/Boss_Clips_12/03_charge/frames/frame_004.png",
+        "VFX/Boss_Clips_12/03_charge/frames/frame_005.png",
+        "VFX/Boss_Clips_12/03_charge/frames/frame_006.png",
+        "VFX/Boss_Clips_12/03_charge/frames/frame_007.png"
+      ],
+      "atlas": "VFX/Boss_Clips_12/03_charge/atlas.png"
+    },
+    {
+      "id": "04_needles",
+      "boss": "万毒老祖",
+      "name": "蚀脉毒针",
+      "canvas": [
+        320,
+        320
+      ],
+      "anchor": [
+        32,
+        160
+      ],
+      "placement": "caster_hand",
+      "durations_ms": [
+        100,
+        90,
+        80,
+        80,
+        100,
+        100,
+        110,
+        140
+      ],
+      "loop": false,
+      "end_mode": "hide",
+      "base_direction": "east",
+      "native_scale": 1,
+      "optional_hold_loop_0based": null,
+      "frames": [
+        "VFX/Boss_Clips_12/04_needles/frames/frame_000.png",
+        "VFX/Boss_Clips_12/04_needles/frames/frame_001.png",
+        "VFX/Boss_Clips_12/04_needles/frames/frame_002.png",
+        "VFX/Boss_Clips_12/04_needles/frames/frame_003.png",
+        "VFX/Boss_Clips_12/04_needles/frames/frame_004.png",
+        "VFX/Boss_Clips_12/04_needles/frames/frame_005.png",
+        "VFX/Boss_Clips_12/04_needles/frames/frame_006.png",
+        "VFX/Boss_Clips_12/04_needles/frames/frame_007.png"
+      ],
+      "atlas": "VFX/Boss_Clips_12/04_needles/atlas.png"
+    },
+    {
+      "id": "05_gourd",
+      "boss": "万毒老祖",
+      "name": "毒葫裂瘴",
+      "canvas": [
+        320,
+        320
+      ],
+      "anchor": [
+        160,
+        240
+      ],
+      "placement": "target_ground",
+      "durations_ms": [
+        100,
+        90,
+        80,
+        80,
+        100,
+        100,
+        110,
+        140
+      ],
+      "loop": false,
+      "end_mode": "hide",
+      "base_direction": "east",
+      "native_scale": 1,
+      "optional_hold_loop_0based": null,
+      "frames": [
+        "VFX/Boss_Clips_12/05_gourd/frames/frame_000.png",
+        "VFX/Boss_Clips_12/05_gourd/frames/frame_001.png",
+        "VFX/Boss_Clips_12/05_gourd/frames/frame_002.png",
+        "VFX/Boss_Clips_12/05_gourd/frames/frame_003.png",
+        "VFX/Boss_Clips_12/05_gourd/frames/frame_004.png",
+        "VFX/Boss_Clips_12/05_gourd/frames/frame_005.png",
+        "VFX/Boss_Clips_12/05_gourd/frames/frame_006.png",
+        "VFX/Boss_Clips_12/05_gourd/frames/frame_007.png"
+      ],
+      "atlas": "VFX/Boss_Clips_12/05_gourd/atlas.png"
+    },
+    {
+      "id": "06_field",
+      "boss": "万毒老祖",
+      "name": "万毒封域",
+      "canvas": [
+        320,
+        320
+      ],
+      "anchor": [
+        160,
+        224
+      ],
+      "placement": "target_ground",
+      "durations_ms": [
+        100,
+        90,
+        80,
+        80,
+        100,
+        100,
+        110,
+        140
+      ],
+      "loop": false,
+      "end_mode": "hide",
+      "base_direction": "east",
+      "native_scale": 1,
+      "optional_hold_loop_0based": [
+        4,
+        5
+      ],
+      "frames": [
+        "VFX/Boss_Clips_12/06_field/frames/frame_000.png",
+        "VFX/Boss_Clips_12/06_field/frames/frame_001.png",
+        "VFX/Boss_Clips_12/06_field/frames/frame_002.png",
+        "VFX/Boss_Clips_12/06_field/frames/frame_003.png",
+        "VFX/Boss_Clips_12/06_field/frames/frame_004.png",
+        "VFX/Boss_Clips_12/06_field/frames/frame_005.png",
+        "VFX/Boss_Clips_12/06_field/frames/frame_006.png",
+        "VFX/Boss_Clips_12/06_field/frames/frame_007.png"
+      ],
+      "atlas": "VFX/Boss_Clips_12/06_field/atlas.png"
+    },
+    {
+      "id": "07_chain",
+      "boss": "白骨妖后",
+      "name": "锁魂骨链",
+      "canvas": [
+        320,
+        320
+      ],
+      "anchor": [
+        28,
+        166
+      ],
+      "placement": "caster_hand",
+      "durations_ms": [
+        100,
+        90,
+        80,
+        80,
+        100,
+        100,
+        110,
+        140
+      ],
+      "loop": false,
+      "end_mode": "hide",
+      "base_direction": "east",
+      "native_scale": 1,
+      "optional_hold_loop_0based": null,
+      "frames": [
+        "VFX/Boss_Clips_12/07_chain/frames/frame_000.png",
+        "VFX/Boss_Clips_12/07_chain/frames/frame_001.png",
+        "VFX/Boss_Clips_12/07_chain/frames/frame_002.png",
+        "VFX/Boss_Clips_12/07_chain/frames/frame_003.png",
+        "VFX/Boss_Clips_12/07_chain/frames/frame_004.png",
+        "VFX/Boss_Clips_12/07_chain/frames/frame_005.png",
+        "VFX/Boss_Clips_12/07_chain/frames/frame_006.png",
+        "VFX/Boss_Clips_12/07_chain/frames/frame_007.png"
+      ],
+      "atlas": "VFX/Boss_Clips_12/07_chain/atlas.png"
+    },
+    {
+      "id": "08_prison",
+      "boss": "白骨妖后",
+      "name": "森罗骨狱",
+      "canvas": [
+        320,
+        320
+      ],
+      "anchor": [
+        160,
+        238
+      ],
+      "placement": "target_ground",
+      "durations_ms": [
+        100,
+        90,
+        80,
+        80,
+        100,
+        100,
+        110,
+        140
+      ],
+      "loop": false,
+      "end_mode": "hide",
+      "base_direction": "east",
+      "native_scale": 1,
+      "optional_hold_loop_0based": [
+        4,
+        5
+      ],
+      "frames": [
+        "VFX/Boss_Clips_12/08_prison/frames/frame_000.png",
+        "VFX/Boss_Clips_12/08_prison/frames/frame_001.png",
+        "VFX/Boss_Clips_12/08_prison/frames/frame_002.png",
+        "VFX/Boss_Clips_12/08_prison/frames/frame_003.png",
+        "VFX/Boss_Clips_12/08_prison/frames/frame_004.png",
+        "VFX/Boss_Clips_12/08_prison/frames/frame_005.png",
+        "VFX/Boss_Clips_12/08_prison/frames/frame_006.png",
+        "VFX/Boss_Clips_12/08_prison/frames/frame_007.png"
+      ],
+      "atlas": "VFX/Boss_Clips_12/08_prison/atlas.png"
+    },
+    {
+      "id": "09_summon",
+      "boss": "白骨妖后",
+      "name": "白骨唤灵",
+      "canvas": [
+        320,
+        320
+      ],
+      "anchor": [
+        160,
+        242
+      ],
+      "placement": "target_ground",
+      "durations_ms": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        180,
+        250
+      ],
+      "loop": false,
+      "end_mode": "hide",
+      "base_direction": "east",
+      "native_scale": 1,
+      "optional_hold_loop_0based": null,
+      "frames": [
+        "VFX/Boss_Clips_12/09_summon/frames/frame_000.png",
+        "VFX/Boss_Clips_12/09_summon/frames/frame_001.png",
+        "VFX/Boss_Clips_12/09_summon/frames/frame_002.png",
+        "VFX/Boss_Clips_12/09_summon/frames/frame_003.png",
+        "VFX/Boss_Clips_12/09_summon/frames/frame_004.png",
+        "VFX/Boss_Clips_12/09_summon/frames/frame_005.png",
+        "VFX/Boss_Clips_12/09_summon/frames/frame_006.png",
+        "VFX/Boss_Clips_12/09_summon/frames/frame_007.png"
+      ],
+      "atlas": "VFX/Boss_Clips_12/09_summon/atlas.png"
+    },
+    {
+      "id": "10_claws",
+      "boss": "赤目虎君",
+      "name": "裂空三爪",
+      "canvas": [
+        320,
+        320
+      ],
+      "anchor": [
+        228,
+        190
+      ],
+      "placement": "target_chest",
+      "durations_ms": [
+        100,
+        90,
+        80,
+        80,
+        100,
+        100,
+        110,
+        140
+      ],
+      "loop": false,
+      "end_mode": "hide",
+      "base_direction": "east",
+      "native_scale": 1,
+      "optional_hold_loop_0based": null,
+      "frames": [
+        "VFX/Boss_Clips_12/10_claws/frames/frame_000.png",
+        "VFX/Boss_Clips_12/10_claws/frames/frame_001.png",
+        "VFX/Boss_Clips_12/10_claws/frames/frame_002.png",
+        "VFX/Boss_Clips_12/10_claws/frames/frame_003.png",
+        "VFX/Boss_Clips_12/10_claws/frames/frame_004.png",
+        "VFX/Boss_Clips_12/10_claws/frames/frame_005.png",
+        "VFX/Boss_Clips_12/10_claws/frames/frame_006.png",
+        "VFX/Boss_Clips_12/10_claws/frames/frame_007.png"
+      ],
+      "atlas": "VFX/Boss_Clips_12/10_claws/atlas.png"
+    },
+    {
+      "id": "11_roar",
+      "boss": "赤目虎君",
+      "name": "赤瞳震啸",
+      "canvas": [
+        320,
+        320
+      ],
+      "anchor": [
+        30,
+        206
+      ],
+      "placement": "caster_mouth",
+      "durations_ms": [
+        100,
+        90,
+        80,
+        80,
+        100,
+        100,
+        110,
+        140
+      ],
+      "loop": false,
+      "end_mode": "hide",
+      "base_direction": "east",
+      "native_scale": 1,
+      "optional_hold_loop_0based": null,
+      "frames": [
+        "VFX/Boss_Clips_12/11_roar/frames/frame_000.png",
+        "VFX/Boss_Clips_12/11_roar/frames/frame_001.png",
+        "VFX/Boss_Clips_12/11_roar/frames/frame_002.png",
+        "VFX/Boss_Clips_12/11_roar/frames/frame_003.png",
+        "VFX/Boss_Clips_12/11_roar/frames/frame_004.png",
+        "VFX/Boss_Clips_12/11_roar/frames/frame_005.png",
+        "VFX/Boss_Clips_12/11_roar/frames/frame_006.png",
+        "VFX/Boss_Clips_12/11_roar/frames/frame_007.png"
+      ],
+      "atlas": "VFX/Boss_Clips_12/11_roar/atlas.png"
+    },
+    {
+      "id": "12_slam",
+      "boss": "赤目虎君",
+      "name": "虎煞扑杀",
+      "canvas": [
+        320,
+        320
+      ],
+      "anchor": [
+        160,
+        232
+      ],
+      "placement": "target_ground",
+      "durations_ms": [
+        100,
+        90,
+        80,
+        80,
+        100,
+        100,
+        110,
+        140
+      ],
+      "loop": false,
+      "end_mode": "hide",
+      "base_direction": "east",
+      "native_scale": 1,
+      "optional_hold_loop_0based": null,
+      "frames": [
+        "VFX/Boss_Clips_12/12_slam/frames/frame_000.png",
+        "VFX/Boss_Clips_12/12_slam/frames/frame_001.png",
+        "VFX/Boss_Clips_12/12_slam/frames/frame_002.png",
+        "VFX/Boss_Clips_12/12_slam/frames/frame_003.png",
+        "VFX/Boss_Clips_12/12_slam/frames/frame_004.png",
+        "VFX/Boss_Clips_12/12_slam/frames/frame_005.png",
+        "VFX/Boss_Clips_12/12_slam/frames/frame_006.png",
+        "VFX/Boss_Clips_12/12_slam/frames/frame_007.png"
+      ],
+      "atlas": "VFX/Boss_Clips_12/12_slam/atlas.png"
+    }
+  ],
+  "not_33_full_skills": true,
+  "summoned_character_pngs_not_included": true
+}

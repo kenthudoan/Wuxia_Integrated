@@ -1,0 +1,6949 @@
+{
+  "items": [
+    {
+      "category": "npc_static",
+      "id": "CHR-npc-left",
+      "file": "Characters/NPC_Static/npc_left.png",
+      "canvas": [
+        61,
+        90
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        4,
+        57,
+        86
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(53, 82):5d54141599daf830384663e8fd2e1d69d93ad72ebabff80aa68d2d78c20f0c79"
+    },
+    {
+      "category": "npc_static",
+      "id": "CHR-npc-right",
+      "file": "Characters/NPC_Static/npc_right.png",
+      "canvas": [
+        54,
+        97
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        4,
+        50,
+        93
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(46, 89):812ec6e94903520134bbafef51b7d798176703d400777a2a703310041862c7e9"
+    },
+    {
+      "category": "building",
+      "id": "City_apothecary_0",
+      "file": "Buildings/City/City_apothecary_0.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        86,
+        1225,
+        1192
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(1212, 1106):b14dd21f38b26c40edfcf3bada10bd506ee240f6754475dffcc1832a1184698e"
+    },
+    {
+      "category": "building",
+      "id": "City_escort_agency_0",
+      "file": "Buildings/City/City_escort_agency_0.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        28,
+        92,
+        1222,
+        1186
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(1194, 1094):2482bf62ecccfdc90a0b6e12eea16bda01c1b6a726d06b19e3db36236003d4d9"
+    },
+    {
+      "category": "building",
+      "id": "City_gate_ew_0",
+      "file": "Buildings/City/City_gate_ew_0.png",
+      "canvas": [
+        160,
+        384
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        32,
+        0,
+        128,
+        384
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(96, 384):e7510cf3a9628f092ee678c37bf32cb93bfd9a91e5455e0bcf266861a4d95a9f"
+    },
+    {
+      "category": "building",
+      "id": "City_inn_0",
+      "file": "Buildings/City/City_inn_0.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        24,
+        72,
+        1232,
+        1194
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(1208, 1122):fa2730d7c36dcf78221624a8c0d794a204f8b1c6f5ac1728c3ead28be65f99d1"
+    },
+    {
+      "category": "building",
+      "id": "City_martial_hall_0",
+      "file": "Buildings/City/City_martial_hall_0.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        10,
+        78,
+        1244,
+        1200
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(1234, 1122):eeebf0f3bf3747ce997e5b63c59610300b6f4ba04f85f4dd19070893515f1bb8"
+    },
+    {
+      "category": "building",
+      "id": "City_street_gate_0",
+      "file": "Buildings/City/City_street_gate_0.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        8,
+        99,
+        1244,
+        1170
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(1236, 1071):c763b27fbb48b449f0f382a65d95f458bdf5eafa5d399c4c1b7cea10e7a6e36c"
+    },
+    {
+      "category": "building",
+      "id": "City_tea_house_0",
+      "file": "Buildings/City/City_tea_house_0.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        38,
+        77,
+        1203,
+        1184
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(1165, 1107):07460c327d509970d7255f1d0d8ff11222b12c3bb10e6ea02c7aedb6d4646cf2"
+    },
+    {
+      "category": "building",
+      "id": "City_warehouse_0",
+      "file": "Buildings/City/City_warehouse_0.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        17,
+        93,
+        1239,
+        1193
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(1222, 1100):acc2f4da8550f91464ec775335d02bd54dc651ed917d0df6c708a14c8a516bdb"
+    },
+    {
+      "category": "building",
+      "id": "City_weapon_shop_0",
+      "file": "Buildings/City/City_weapon_shop_0.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        22,
+        92,
+        1233,
+        1186
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(1211, 1094):fdf9616518b4d20fa3193ea80ee24e6dee5f825dc8297b40c43819be55734b7d"
+    },
+    {
+      "category": "building",
+      "id": "Desert_inn_0",
+      "file": "Buildings/Desert/Desert_inn_0.png",
+      "canvas": [
+        596,
+        450
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        5,
+        30,
+        578,
+        408
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(573, 378):ce6b3ffab16cafaaabd7a202b51f04efacabdae705c493ac6e4e39e597510d12"
+    },
+    {
+      "category": "building",
+      "id": "Forest_pavilion_0",
+      "file": "Buildings/Forest/Forest_pavilion_0.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        28,
+        108,
+        495,
+        474
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(467, 366):705a5a29b359d24ee234be9b6bb28246faad0d87de0e7a56d6836014a9a5b7e5"
+    },
+    {
+      "category": "building",
+      "id": "Forest_stone_shrine_0",
+      "file": "Buildings/Forest/Forest_stone_shrine_0.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        12,
+        60,
+        62
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(56, 50):57cb2937224ef55c85b7f7a85d92af870682c079d0e106169600e9f5f1c35c32"
+    },
+    {
+      "category": "building",
+      "id": "B01_512px",
+      "file": "Buildings/P1_20261028/B01_512px.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        25,
+        136,
+        487,
+        487
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(462, 351):2948d8c322d336d817a092960dc4c499a51659396bf44ef1d7a67b5396501bb2"
+    },
+    {
+      "category": "building",
+      "id": "B02_512px",
+      "file": "Buildings/P1_20261028/B02_512px.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        25,
+        223,
+        487,
+        487
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(462, 264):b20bd6690c2439d92f97a622f537b466ebccb6b4cd0652e469d04d9db806e085"
+    },
+    {
+      "category": "building",
+      "id": "B03_512px",
+      "file": "Buildings/P1_20261028/B03_512px.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        25,
+        57,
+        487,
+        487
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(462, 430):0d767e846300a5921fc5b0539ec2cac4cde55cc8a10e07aab66df625ac2117f8"
+    },
+    {
+      "category": "building",
+      "id": "B04_512px",
+      "file": "Buildings/P1_20261028/B04_512px.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        25,
+        99,
+        487,
+        487
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(462, 388):0b116d35c0f7715562650b986f027c3477a375d6d2fa1b7198d28a955f1e8924"
+    },
+    {
+      "category": "building",
+      "id": "B05_512px",
+      "file": "Buildings/P1_20261028/B05_512px.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        25,
+        102,
+        487,
+        487
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(462, 385):e0117c4c8d1d3915290d8d7b655a025855bef829838870bafb4d1bacefffba11"
+    },
+    {
+      "category": "building",
+      "id": "B06_512px",
+      "file": "Buildings/P1_20261028/B06_512px.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        25,
+        154,
+        487,
+        487
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(462, 333):98e615d5bed605a61e74a57d5d7b5e359063a2cd572024773f23e0636397626b"
+    },
+    {
+      "category": "building",
+      "id": "B07_512px",
+      "file": "Buildings/P2_20261028/B07_512px.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        56,
+        25,
+        456,
+        487
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(400, 462):0bc3a0f2eda4c0644015a43d10453954102a4aaf72a26968f0d7fcf319359eef"
+    },
+    {
+      "category": "building",
+      "id": "B08_512px",
+      "file": "Buildings/P2_20261028/B08_512px.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        25,
+        320,
+        487,
+        487
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(462, 167):cef7b83c57bc8bc35dec0df033ce3bd7f60314bf412a3551745d94d1f8b3df0c"
+    },
+    {
+      "category": "building",
+      "id": "B09_384px",
+      "file": "Buildings/P2_20261028/B09_384px.png",
+      "canvas": [
+        384,
+        384
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        19,
+        78,
+        365,
+        365
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(346, 287):1d0456a0ced605d66387d24ed0e6142914a1bbf3cdfa26ee9c284a024c2a3548"
+    },
+    {
+      "category": "building",
+      "id": "B10_384px",
+      "file": "Buildings/P2_20261028/B10_384px.png",
+      "canvas": [
+        384,
+        384
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        19,
+        41,
+        365,
+        365
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(346, 324):3c70fcb6c2744d0904baf33896ce6679b97c6f6be75759a058b864d02df9daab"
+    },
+    {
+      "category": "building",
+      "id": "Snow_pavilion_0",
+      "file": "Buildings/Snow/Snow_pavilion_0.png",
+      "canvas": [
+        456,
+        438
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        65,
+        21,
+        421,
+        406
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(356, 385):8d2b0e4bac2a28f404e5f5f7e55d32dbe9a0eac287a1b2b5e6fb119990e1ab8d"
+    },
+    {
+      "category": "building",
+      "id": "Swamp_shrine_0",
+      "file": "Buildings/Swamp/Swamp_shrine_0.png",
+      "canvas": [
+        456,
+        450
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        18,
+        34,
+        382,
+        409
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(364, 375):749c7a2e9d7f6ec261157a8a409f8dd397adb1b5f967abbcc41fe4f4056d85f4"
+    },
+    {
+      "category": "environment",
+      "id": "City_banner_0",
+      "file": "Environment/City/City_banner_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        44,
+        20,
+        83,
+        124
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(39, 104):fec2ed039e10ff4c48bf9bb206a03928b15f6b807cd31a225b5020f9a978789a"
+    },
+    {
+      "category": "environment",
+      "id": "City_barrel_crate_stack_0",
+      "file": "Environment/City/City_barrel_crate_stack_0.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        13,
+        57,
+        61
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 48):d6d1190a4eba1f569da3b45fd07846cdd2e07a8127c7ddab2ef21edbe9105f74"
+    },
+    {
+      "category": "environment",
+      "id": "City_barrels_on_rack_0",
+      "file": "Environment/City/City_barrels_on_rack_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        27,
+        54,
+        100,
+        126
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(73, 72):bfd4a5edd6b018f9b035a645d6ed0ad4021ee9361addc58f5d4b422a748e1129"
+    },
+    {
+      "category": "environment",
+      "id": "City_broadleaf_tree_0",
+      "file": "Environment/City/City_broadleaf_tree_0.png",
+      "canvas": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        81,
+        124,
+        174,
+        252
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(93, 128):e055f929f35301cf455ba180b1ac89996c989dac368eb4f77bbf900b9341822e"
+    },
+    {
+      "category": "environment",
+      "id": "City_building_herbal_shrub_0",
+      "file": "Environment/City/City_building_herbal_shrub_0.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        22,
+        36,
+        73,
+        81
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(51, 45):b5f5b73e04ab7b3133d7c771a93b9b54d211bb0730d431fd6ca312f7493bb8b3"
+    },
+    {
+      "category": "environment",
+      "id": "City_building_tea_shrub_0",
+      "file": "Environment/City/City_building_tea_shrub_0.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        20,
+        32,
+        75,
+        81
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(55, 49):2b972addacc1dd688a63e8a3f200575004beeca77a8b30d28d9db34d921c0dc8"
+    },
+    {
+      "category": "environment",
+      "id": "City_clay_jar_0",
+      "file": "Environment/City/City_clay_jar_0.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        18,
+        25,
+        45,
+        61
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(27, 36):83b89fb3b6bb5cac63f3ed4f64ab88a4921a5fbba325e5f7b9a60d644d42750f"
+    },
+    {
+      "category": "environment",
+      "id": "City_crate_stack_0",
+      "file": "Environment/City/City_crate_stack_0.png",
+      "canvas": [
+        101,
+        118
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        8,
+        97,
+        108
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(93, 100):d406e8b9836c4c01c4b8ecf0404cb8133dcd02d4403a666d2e6ac250837c4b13"
+    },
+    {
+      "category": "environment",
+      "id": "City_gray_jar_0",
+      "file": "Environment/City/City_gray_jar_0.png",
+      "canvas": [
+        32,
+        32
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        3,
+        28,
+        30
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(24, 27):b384f8b7670ceaa33630bab769ac123bf5c8d01fc23226597b7050c8d244ea76"
+    },
+    {
+      "category": "environment",
+      "id": "City_hanging_lantern_0",
+      "file": "Environment/City/City_hanging_lantern_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        43,
+        37,
+        84,
+        126
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(41, 89):2a9827f15926abb3fc55f4ff7fe1d47987724256a838cc691bb344adba008a08"
+    },
+    {
+      "category": "environment",
+      "id": "City_loaded_wagon_0",
+      "file": "Environment/City/City_loaded_wagon_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        43,
+        121,
+        126
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(114, 83):2af8218913be5b1474b8a7638c6b2db9e19ba83ed5c741239cc796d6cfd83503"
+    },
+    {
+      "category": "environment",
+      "id": "City_lotus_pond_0",
+      "file": "Environment/City/City_lotus_pond_0.png",
+      "canvas": [
+        1738,
+        503
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        0,
+        0,
+        1738,
+        503
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 711658,
+      "visible_signature": "(1738, 503):de3a04abbf4f3be7d350ba281c111e5d34e8a07ff31a8b9d89763c7faeb69c34"
+    },
+    {
+      "category": "environment",
+      "id": "City_market_food_0",
+      "file": "Environment/City/City_market_food_0.png",
+      "canvas": [
+        267,
+        242
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        0,
+        0,
+        267,
+        242
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 42765,
+      "visible_signature": "(267, 242):ac9dc216e3849746798ddcfed1265df6a8577c9b6c1da2c2e5c25232b73143d3"
+    },
+    {
+      "category": "environment",
+      "id": "City_market_jars_0",
+      "file": "Environment/City/City_market_jars_0.png",
+      "canvas": [
+        284,
+        271
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        1,
+        1,
+        283,
+        270
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 50329,
+      "visible_signature": "(282, 269):004cb1bc30064ad9f75b01802f50540ba0504b33712272ec376321d871b149a2"
+    },
+    {
+      "category": "environment",
+      "id": "City_market_notice_wood_0",
+      "file": "Environment/City/City_market_notice_wood_0.png",
+      "canvas": [
+        76,
+        98
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        5,
+        3,
+        72,
+        96
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(67, 93):3fee7190b8182003f4c81c81008e081d4602d31b328324043d009d4ba6dc63c7"
+    },
+    {
+      "category": "environment",
+      "id": "City_market_produce_0",
+      "file": "Environment/City/City_market_produce_0.png",
+      "canvas": [
+        334,
+        236
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        1,
+        1,
+        333,
+        235
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 50722,
+      "visible_signature": "(332, 234):73285c89e3f5683df2fe218201ceaef635aa64a400a27075e9ec6e10d8f0698a"
+    },
+    {
+      "category": "environment",
+      "id": "City_market_stall_0",
+      "file": "Environment/City/City_market_stall_0.png",
+      "canvas": [
+        156,
+        164
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        4,
+        152,
+        151
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(148, 147):ab702b3e81ea661436c404c3976ccd52e88b9155e13483aa6c2671ee7cd51485"
+    },
+    {
+      "category": "environment",
+      "id": "City_market_stall_small_0",
+      "file": "Environment/City/City_market_stall_small_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        25,
+        40,
+        103,
+        126
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(78, 86):e3e2f043dcae565f03b8345a9cb73364753fcf7aaa353a1f442d647ad4ac631d"
+    },
+    {
+      "category": "environment",
+      "id": "City_market_textiles_0",
+      "file": "Environment/City/City_market_textiles_0.png",
+      "canvas": [
+        354,
+        252
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        1,
+        1,
+        353,
+        251
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 54962,
+      "visible_signature": "(352, 250):223ad6dd0daf3e92cffcf013fa6cbb94a5bbe3b4e1f421575449797a4882ec83"
+    },
+    {
+      "category": "environment",
+      "id": "City_market_tools_0",
+      "file": "Environment/City/City_market_tools_0.png",
+      "canvas": [
+        299,
+        200
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        0,
+        0,
+        299,
+        200
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 36910,
+      "visible_signature": "(299, 200):e3441562d2e6a2a7bbb692d4d6fc194b763035025f2112af8085491dcbb58220"
+    },
+    {
+      "category": "environment",
+      "id": "City_market_basket_goods_0",
+      "file": "Environment/City/City_market_basket_goods_0.png",
+      "canvas": [
+        96,
+        96
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        11,
+        11,
+        86,
+        84
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(75, 73):a6ac591c4d4709efea9e278bb51dacc1faf34ede82ab306ba5679ce7355bbbad"
+    },
+    {
+      "category": "environment",
+      "id": "City_market_horse_cargo_cart_0",
+      "file": "Environment/City/City_market_horse_cargo_cart_0.png",
+      "canvas": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        18,
+        52,
+        243,
+        220
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(225, 168):ca3bae7fdc77c180ea1cf6e286b53ac76e1d2c3cb7fd8a1df82a1a3130633bd7"
+    },
+    {
+      "category": "environment",
+      "id": "City_market_notice_board_0",
+      "file": "Environment/City/City_market_notice_board_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        12,
+        18,
+        117,
+        113
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(105, 95):b37f1e5f9a62a9ed549f6bc8965b09ea746ef5b075cf799a4b0d6b2be90bfc6d"
+    },
+    {
+      "category": "environment",
+      "id": "City_market_vendor_counter_0",
+      "file": "Environment/City/City_market_vendor_counter_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        18,
+        24,
+        113,
+        105
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(95, 81):0e9d44b52cc7f0d87f613ccd212c4833d7edfdc4a03096ea7e3fb21db819331d"
+    },
+    {
+      "category": "environment",
+      "id": "City_potted_herb_0",
+      "file": "Environment/City/City_potted_herb_0.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        15,
+        4,
+        49,
+        61
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(34, 57):d237c7064bf9236c15a27728cb7393ad6fd3780728032d64772754b073bb7475"
+    },
+    {
+      "category": "environment",
+      "id": "City_reference_banner_0",
+      "file": "Environment/City/City_reference_banner_0.png",
+      "canvas": [
+        76,
+        140
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        4,
+        72,
+        136
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(68, 132):acb704ff2a96caf89a69d12f1a69c2f433d1233489d0df72e878af4ec5ae1a92"
+    },
+    {
+      "category": "environment",
+      "id": "City_road_tree_small_0",
+      "file": "Environment/City/City_road_tree_small_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        28,
+        29,
+        100,
+        126
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(72, 97):8e5a5be3c2b69edad2d7ca5df2853a33d5ae697734df1490ea33ae45609a21f3"
+    },
+    {
+      "category": "environment",
+      "id": "City_standing_lantern_0",
+      "file": "Environment/City/City_standing_lantern_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        53,
+        62,
+        75,
+        126
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(22, 64):1acf4c2effc12f81cc497536ba371ecc1ce6023e5b25d7024a59c84c3fe2f896"
+    },
+    {
+      "category": "environment",
+      "id": "City_stone_cluster_0",
+      "file": "Environment/City/City_stone_cluster_0.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        17,
+        37,
+        46,
+        62
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(29, 25):ea7f055ce122fdd11c699cef0f120c85c25cc6f3d0cab1082751b0552e8638fd"
+    },
+    {
+      "category": "environment",
+      "id": "City_stone_lion_0",
+      "file": "Environment/City/City_stone_lion_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        33,
+        41,
+        94,
+        126
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(61, 85):7ef2506c8e14130c563e81f74e95a6d22678a995c623991bb437792695855a76"
+    },
+    {
+      "category": "environment",
+      "id": "City_stone_stele_0",
+      "file": "Environment/City/City_stone_stele_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        30,
+        25,
+        97,
+        126
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(67, 101):b59cf5f6fb4b9128547f36713381d8ba80579ed9f342aae8ede8d8aa581c96ad"
+    },
+    {
+      "category": "environment",
+      "id": "City_stone_well_0",
+      "file": "Environment/City/City_stone_well_0.png",
+      "canvas": [
+        79,
+        81
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        4,
+        75,
+        77
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(71, 73):8fcec79a2ae5fcdd95e7c4d53ce3ec9cf22aef67321acd89bb5195a230a09512"
+    },
+    {
+      "category": "environment",
+      "id": "City_training_wood_dummy_0",
+      "file": "Environment/City/City_training_wood_dummy_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        38,
+        23,
+        89,
+        126
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(51, 103):b558735f09b3c7ae643b7ab5e8cc4fa979650ef277d2b54f258b45c14b822d52"
+    },
+    {
+      "category": "environment",
+      "id": "City_willow_tree_0",
+      "file": "Environment/City/City_willow_tree_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        28,
+        43,
+        99,
+        125
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(71, 82):acbe41aa33111904a4acd1ae4bc438ad7a8542d779a2d00beb446a475af254eb"
+    },
+    {
+      "category": "environment",
+      "id": "City_wood_barrel_0",
+      "file": "Environment/City/City_wood_barrel_0.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        18,
+        31,
+        45,
+        61
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(27, 30):2cbede035b64cc23e5cbedafc6dd05e79a01ad548ac918a2c12fb9b87bb9cca1"
+    },
+    {
+      "category": "environment",
+      "id": "City_wood_cart_0",
+      "file": "Environment/City/City_wood_cart_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        21,
+        65,
+        107,
+        126
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(86, 61):25316dc58d78c2d54d97f5bb8dd0a23b2baeb1befb6936646085a2fbd7d9b0f5"
+    },
+    {
+      "category": "environment",
+      "id": "City_wood_fence_0",
+      "file": "Environment/City/City_wood_fence_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        20,
+        82,
+        107,
+        126
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(87, 44):b966ca64d6b7179d7f078cbcc79929067f218735a3e3bbe3abe85c2441b94404"
+    },
+    {
+      "category": "environment",
+      "id": "City_wood_sign_0",
+      "file": "Environment/City/City_wood_sign_0.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        18,
+        7,
+        44,
+        61
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(26, 54):b1c4eb50eca354fccb836017bbe63210e8e741e817c45367a06d716d53a59fc4"
+    },
+    {
+      "category": "environment",
+      "id": "City_wood_table_0",
+      "file": "Environment/City/City_wood_table_0.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        3,
+        15,
+        60,
+        62
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(57, 47):2dfff36d5c66ea7bb550a25e5ba572e8c05663b2288f911903944545584a4b22"
+    },
+    {
+      "category": "environment",
+      "id": "Desert_boulder_0",
+      "file": "Environment/Desert/Desert_boulder_0.png",
+      "canvas": [
+        420,
+        270
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        15,
+        28,
+        411,
+        255
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(396, 227):86f10539ab4f61cfc7e7efdb17b30d75e1b3b60b51c3f5814c9bc643129147a0"
+    },
+    {
+      "category": "environment",
+      "id": "Desert_cliff_0",
+      "file": "Environment/Desert/Desert_cliff_0.png",
+      "canvas": [
+        672,
+        400
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        20,
+        37,
+        662,
+        374
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(642, 337):27d39d9a000660898d6a30dae5e0f9a6873b1882cd721f0421fc44d0ddb559e2"
+    },
+    {
+      "category": "environment",
+      "id": "Desert_dead_0",
+      "file": "Environment/Desert/Desert_dead_0.png",
+      "canvas": [
+        530,
+        470
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        68,
+        16,
+        523,
+        431
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(455, 415):72c42a1ffb7b73df57630102ea1be6ba16b5665eb5c53f30371e2f7fa412522e"
+    },
+    {
+      "category": "environment",
+      "id": "Desert_poplar_0",
+      "file": "Environment/Desert/Desert_poplar_0.png",
+      "canvas": [
+        426,
+        550
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        21,
+        37,
+        336,
+        538
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(315, 501):bba4e015a8b3a49a9c8e35d4662841850d6231e01a2fd955bf70ba8fd6feb43b"
+    },
+    {
+      "category": "environment",
+      "id": "Desert_shrub_0",
+      "file": "Environment/Desert/Desert_shrub_0.png",
+      "canvas": [
+        390,
+        290
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        17,
+        55,
+        349,
+        248
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(332, 193):c90ae902fdb5ec5e549d98f9f15558a87597e8ce8a6dd3c66f7fecf4849e3c71"
+    },
+    {
+      "category": "environment",
+      "id": "Forest_bamboo_0",
+      "file": "Environment/Forest/Forest_bamboo_0.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        31,
+        58,
+        472,
+        487
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(441, 429):9ea201915236c8aab43c696435be1d219ce8aa9209fa702b9859c854b260638a"
+    },
+    {
+      "category": "environment",
+      "id": "Forest_boulder_0",
+      "file": "Environment/Forest/Forest_boulder_0.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        40,
+        117,
+        487,
+        451
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(447, 334):08b3245a2735a9daa1feefcd91d4c316e02b258831a60b42299a5ba29e27f318"
+    },
+    {
+      "category": "environment",
+      "id": "Forest_cliff_0",
+      "file": "Environment/Forest/Forest_cliff_0.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        3,
+        150,
+        487,
+        490
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(484, 340):61edcfeaeeb5474e4be2cc3f45ae1703b05fded4e05cef85cd636f3c6fa931ca"
+    },
+    {
+      "category": "environment",
+      "id": "Forest_oak_0_0",
+      "file": "Environment/Forest/Forest_oak_0_0.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        17,
+        9,
+        512,
+        498
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(495, 489):93de059644adbffd996c3003338955ce0ce90f30b7c7d59e045892041216b83a"
+    },
+    {
+      "category": "environment",
+      "id": "Forest_oak_1_0",
+      "file": "Environment/Forest/Forest_oak_1_0.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        0,
+        8,
+        498,
+        497
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(498, 489):01b9e3049106eadc6e5862b5616b0e93dea7520eae66ed9d0f7170ddef9ff9de"
+    },
+    {
+      "category": "environment",
+      "id": "Forest_oak_2_0",
+      "file": "Environment/Forest/Forest_oak_2_0.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        16,
+        12,
+        496,
+        503
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(480, 491):8d04801268685407e388f7d8328e7e63988f436faae96e739605a751cb468650"
+    },
+    {
+      "category": "environment",
+      "id": "Forest_oak_3_0",
+      "file": "Environment/Forest/Forest_oak_3_0.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        21,
+        4,
+        512,
+        492
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(491, 488):166855e2d0284f435cd7ec6bb8ce8e8fe7d2c6a46d6c81129e140365b26b02c7"
+    },
+    {
+      "category": "environment",
+      "id": "Forest_oak_4_0",
+      "file": "Environment/Forest/Forest_oak_4_0.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        0,
+        4,
+        512,
+        487
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 483):041638e5f6f7e7432871dd9f5cdabd08d55641c366f86c0df812b3b9c7457822"
+    },
+    {
+      "category": "environment",
+      "id": "Forest_oak_5_0",
+      "file": "Environment/Forest/Forest_oak_5_0.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        0,
+        26,
+        486,
+        491
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(486, 465):28584fe822fcf233db2c506a948740b3953f6e7ac76c684ad5b9feb7db33ab52"
+    },
+    {
+      "category": "environment",
+      "id": "Forest_reeds_0",
+      "file": "Environment/Forest/Forest_reeds_0.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        29,
+        122,
+        468,
+        457
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(439, 335):c57a2a24228d3320394fd0fb6f2c810c6dc46462592fb6996c6f74b7d8bdb4ee"
+    },
+    {
+      "category": "environment",
+      "id": "Forest_stone_lantern_0",
+      "file": "Environment/Forest/Forest_stone_lantern_0.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        50,
+        51,
+        80,
+        116
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(30, 65):5e7dfdff2a56625e3f3d00c1c904d0a872c92c3cd7d7bb9861e2667ef953fa76"
+    },
+    {
+      "category": "environment",
+      "id": "Forest_willow_0",
+      "file": "Environment/Forest/Forest_willow_0.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        42,
+        30,
+        478,
+        462
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(436, 432):781c81e627e3133b8cd2ac5d6c240f9768eef2a82500d3eab834c0f7a862cea1"
+    },
+    {
+      "category": "environment",
+      "id": "E01_128px",
+      "file": "Environment/P0_Replacements_20261029/E01_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        42,
+        13,
+        86,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(44, 102):13caa2fa8a8744ef183213d3eb77b1e47ed94d4fe18c12106123d48261ae2fd2"
+    },
+    {
+      "category": "environment",
+      "id": "E04_128px",
+      "file": "Environment/P0_Replacements_20261029/E04_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        14,
+        13,
+        114,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(100, 102):fd87ace65a5c8ec0e7cbcc8bccd13c1b8ad33631209c7c82c30bd741f70808e2"
+    },
+    {
+      "category": "environment",
+      "id": "E05_64px",
+      "file": "Environment/P0_Replacements_20261029/E05_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        28,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 29):a6098260d235a303f125adbb29e793dc5eca14ee8bb91a586c57f55eba46b942"
+    },
+    {
+      "category": "environment",
+      "id": "E08_128px",
+      "file": "Environment/P0_Replacements_20261029/E08_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        69,
+        115,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(102, 46):68e954e5228e32f76f88e38dababe0f7fc4e53630d96ecde21be33217e290ed7"
+    },
+    {
+      "category": "environment",
+      "id": "E11_64px",
+      "file": "Environment/P1_20261028/E11_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        18,
+        7,
+        45,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(27, 50):275320e60c0e30bb10e4d08308b142b4a241282af079474515002de08b3e5e7f"
+    },
+    {
+      "category": "environment",
+      "id": "E12_128px",
+      "file": "Environment/P1_20261028/E12_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        84,
+        115,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(102, 31):1acf331272e85f457e2512eba82a1ac83edbf89994af66ac2d9fdbd6d8b2c654"
+    },
+    {
+      "category": "environment",
+      "id": "E13_64px",
+      "file": "Environment/P1_20261028/E13_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        9,
+        7,
+        54,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(45, 50):e5aca245ef97506f61b7d87c97f49f404b4ea2017ec95b099752151fa4bf9800"
+    },
+    {
+      "category": "environment",
+      "id": "E14_128px",
+      "file": "Environment/P1_20261028/E14_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        27,
+        13,
+        100,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(73, 102):07d71dc2c274193e28dd2881282cc647d113a7ca13cd5bf805469a47d92f938f"
+    },
+    {
+      "category": "environment",
+      "id": "E15_128px",
+      "file": "Environment/P1_20261028/E15_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        31,
+        13,
+        96,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(65, 102):df045661eeb5f938b9f600c3b15ff0984929bb2248516b66ea512bb4b17beb4f"
+    },
+    {
+      "category": "environment",
+      "id": "E16_128px",
+      "file": "Environment/P1_20261028/E16_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        35,
+        13,
+        93,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(58, 102):54230a9e7b7b0a34287d3d70294ea650a163cf78c7a76c6be401aea139360f11"
+    },
+    {
+      "category": "environment",
+      "id": "E17_128px",
+      "file": "Environment/P1_20261028/E17_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        27,
+        13,
+        100,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(73, 102):dd894313985a104d960330539665ca607ca0711a96bc0f8c8692fc1ef2188ae8"
+    },
+    {
+      "category": "environment",
+      "id": "E18_128px",
+      "file": "Environment/P1_20261028/E18_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        24,
+        13,
+        103,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(79, 102):eb7a759c680318373e8b2d79c78d849a7565ff35c68376f6c57290b32bfdc78f"
+    },
+    {
+      "category": "environment",
+      "id": "E19_128px",
+      "file": "Environment/P1_20261028/E19_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        48,
+        115,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(102, 67):ec4d7229331ba4dbd986ba6c8793b25aa28a70f7cbaf54823aef96a4d2836a61"
+    },
+    {
+      "category": "environment",
+      "id": "E20_64px",
+      "file": "Environment/P1_20261028/E20_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        20,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 37):9d9a79424e27754328bc288728843b15b98d49b299c1fed7c6ee56949c442cd1"
+    },
+    {
+      "category": "environment",
+      "id": "E21_64px",
+      "file": "Environment/P1_20261028/E21_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        17,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 40):0811503fbe0da4ecc1e2796717c9dc228da7f527c385b15f530862ef719232a6"
+    },
+    {
+      "category": "environment",
+      "id": "E22_128px",
+      "file": "Environment/P1_20261028/E22_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        49,
+        13,
+        79,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(30, 102):e56011baedc25df70c0d7c8c872834ef35fcb756fd36d2b32cd50f64ee1e6193"
+    },
+    {
+      "category": "environment",
+      "id": "E23_64px",
+      "file": "Environment/P1_20261028/E23_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        12,
+        7,
+        52,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(40, 50):79be53d830ca7cd95c746c297f78b1ede82e9b390bbb057028066ae2bb6f33b3"
+    },
+    {
+      "category": "environment",
+      "id": "E24_64px",
+      "file": "Environment/P1_20261028/E24_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        7,
+        51,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(38, 50):20ccca442dfd2d598477d3a4e7f2121e76c1713e465e1015a1a2f1b164ceae12"
+    },
+    {
+      "category": "environment",
+      "id": "E25_64px",
+      "file": "Environment/P1_20261028/E25_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        16,
+        7,
+        48,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(32, 50):bb7ed18eb288cdce52c7339cd18dbbf9506a219e2fa0c60f2b73dcdd862a1aee"
+    },
+    {
+      "category": "environment",
+      "id": "E26_128px",
+      "file": "Environment/P1_20261028/E26_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        19,
+        13,
+        108,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(89, 102):834470b9af07318b596e0303ac9acbd2cf1e7fa7c8e62d867962895594996691"
+    },
+    {
+      "category": "environment",
+      "id": "E27_128px",
+      "file": "Environment/P1_20261028/E27_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        21,
+        13,
+        106,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(85, 102):22e954d581501fb9e5f49ff6eb192211f3678a47ab93794e4cd56a6e7864bb2f"
+    },
+    {
+      "category": "environment",
+      "id": "E28_32px",
+      "file": "Environment/P1_20261028/E28_32px.png",
+      "canvas": [
+        32,
+        32
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        11,
+        28,
+        28
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(24, 17):b5e3a8750968ff698eaf1ec0f94fb7e590a39798533ac43176d82af96e83f3e4"
+    },
+    {
+      "category": "environment",
+      "id": "E29_32px",
+      "file": "Environment/P1_20261028/E29_32px.png",
+      "canvas": [
+        32,
+        32
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        9,
+        28,
+        28
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(24, 19):6e8b7b7b1c7abfff44421e81402674e1ba1566daa9467e7699d55ff94efaa8fc"
+    },
+    {
+      "category": "environment",
+      "id": "E30_64px",
+      "file": "Environment/P1_20261028/E30_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        9,
+        7,
+        55,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(46, 50):009a1f62a36c16e11fea0c9ac9e7d0f4090d6880d867e0c2843dc170878eca56"
+    },
+    {
+      "category": "environment",
+      "id": "E31_128px",
+      "file": "Environment/P1_20261028/E31_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        18,
+        13,
+        109,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(91, 102):49369b34a23d4c1a6e57853a48615567d6f4925a797913979c4579987f4daa42"
+    },
+    {
+      "category": "environment",
+      "id": "E32_64px",
+      "file": "Environment/P1_20261028/E32_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        14,
+        7,
+        49,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(35, 50):a15984b0876a6e1516bbbbb05bcf24e5470a40bdb5ce522582521e24f59dc93e"
+    },
+    {
+      "category": "environment",
+      "id": "E33_128px",
+      "file": "Environment/P1_20261028/E33_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        17,
+        115,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(102, 98):d24f822d7c550162ca63bc0424a281c8f405f02a0e704a9f3a13df088f51eb8d"
+    },
+    {
+      "category": "environment",
+      "id": "E34_128px",
+      "file": "Environment/P1_20261028/E34_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        15,
+        13,
+        113,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(98, 102):efe494084de30cd53b78b17bfebc066179af8795f9585fe3b6c2918f02bebc3f"
+    },
+    {
+      "category": "environment",
+      "id": "E35_128px",
+      "file": "Environment/P1_20261028/E35_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        44,
+        115,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(102, 71):0b69b0d54224d0f1042210a1ff21a0db681731f889ef060ebea1db449a5aee8e"
+    },
+    {
+      "category": "environment",
+      "id": "E36_128px",
+      "file": "Environment/P1_20261028/E36_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        40,
+        115,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(102, 75):6e58544b67d6edc64d03b567c24746ddc924aec1639515073e8618c9b1a59b5d"
+    },
+    {
+      "category": "environment",
+      "id": "E37_64px",
+      "file": "Environment/P1_20261028/E37_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        25,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 32):97fda26c5836d99ee78648596822cb243513848122d5dfede607f4330fbf5823"
+    },
+    {
+      "category": "environment",
+      "id": "E38_128px",
+      "file": "Environment/P1_20261028/E38_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        48,
+        115,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(102, 67):aaf93f922dcc1f8077734f7cff81838fc4766ea0c4162760b93f36e41810f3d7"
+    },
+    {
+      "category": "environment",
+      "id": "E39_128px",
+      "file": "Environment/P2_20261028/E39_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        30,
+        13,
+        98,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(68, 102):21cf4ffbdeb0508ec43ff5f19550cd916fe313c024ed7d000537874f1e7d093f"
+    },
+    {
+      "category": "environment",
+      "id": "E40_64px",
+      "file": "Environment/P2_20261028/E40_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        35,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 22):12cee43499cb6b4252e8d1839a20ee6418564802dd8be4db022d37e23cc0094f"
+    },
+    {
+      "category": "environment",
+      "id": "E41_64px",
+      "file": "Environment/P2_20261028/E41_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        15,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 42):a1ea6b71b735dc97fa3b1ef5c049f711e08752e13dd4354bc4482459ece064c6"
+    },
+    {
+      "category": "environment",
+      "id": "E42_64px",
+      "file": "Environment/P2_20261028/E42_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        18,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 39):e0989a0743419fb0603fbda504b9b9ec8636fb97bd267be46b9f6f5533dfe47d"
+    },
+    {
+      "category": "environment",
+      "id": "E43_64px",
+      "file": "Environment/P2_20261028/E43_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        10,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 47):17c4768ef5b0695801ac7510fb2ca4f079640ced78426f629f49a455afbf0a3a"
+    },
+    {
+      "category": "environment",
+      "id": "E44_128px",
+      "file": "Environment/P2_20261028/E44_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        45,
+        115,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(102, 70):74b11f4b894ade024ae33a36117087fcfc15490be42420fd5ddea09ccc4977dd"
+    },
+    {
+      "category": "environment",
+      "id": "E45_64px",
+      "file": "Environment/P2_20261028/E45_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        7,
+        50,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(37, 50):39067d445361379073b4a64aae6dcd302c37f3556c52d430fc0ffbe573e84800"
+    },
+    {
+      "category": "environment",
+      "id": "E46_64px",
+      "file": "Environment/P3_20261029/E46_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        14,
+        7,
+        49,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(35, 50):c113711dc1712badf7d1d9323fad580c1c0717a38eca76f5cd901e9f7216ced8"
+    },
+    {
+      "category": "environment",
+      "id": "E47_128px",
+      "file": "Environment/P3_20261029/E47_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        22,
+        115,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(102, 93):60021e4caeaf5c9342a4aa71151d9f975c639b604f1926f97bb0691229f57448"
+    },
+    {
+      "category": "environment",
+      "id": "E48_128px",
+      "file": "Environment/P3_20261029/E48_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        30,
+        115,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(102, 85):1817ef3a67c3e7174e33f5e61c02642d410cc0a58e41af6c4fe8aeba5c6d2368"
+    },
+    {
+      "category": "environment",
+      "id": "E49_64px",
+      "file": "Environment/P3_20261029/E49_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        14,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 43):0dac9c0d9316d0ab2a110d7dfbf091e59f7dcf939292a124736998b767afc2fd"
+    },
+    {
+      "category": "environment",
+      "id": "E50_64px",
+      "file": "Environment/P3_20261029/E50_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        11,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 46):12f712bc613d1610562b629008cadf521d9140822b5c28a9129e8fbb674c25c7"
+    },
+    {
+      "category": "environment",
+      "id": "E51_128px",
+      "file": "Environment/P3_20261029/E51_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        50,
+        115,
+        115
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(102, 65):ca586a6e9094f08382cae65ddd005b714f21c37da9656cbd0564bde028109901"
+    },
+    {
+      "category": "environment",
+      "id": "E52_64px",
+      "file": "Environment/P3_20261029/E52_64px.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        23,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 34):e6d65b744b530e7190e634d3d370986631c41173e7afd7213f6b53155a03c2c0"
+    },
+    {
+      "category": "environment",
+      "id": "E53_128px",
+      "file": "Environment/P3_20261029/E53_128px.png",
+      "canvas": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        38,
+        115,
+        89
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(102, 51):075a5737294e7900b9d10bb539f343a91b9fb25e5803892a6fb799af87d87e6e"
+    },
+    {
+      "category": "environment",
+      "id": "Snow_bare_0",
+      "file": "Environment/Snow/Snow_bare_0.png",
+      "canvas": [
+        472,
+        576
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        8,
+        73,
+        459,
+        573
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(451, 500):e0fd98f6e271e0717eeda5dcf8491f33c731cedecd08b51edb8ee4752a866820"
+    },
+    {
+      "category": "environment",
+      "id": "Snow_boulder_0",
+      "file": "Environment/Snow/Snow_boulder_0.png",
+      "canvas": [
+        380,
+        374
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        8,
+        50,
+        353,
+        346
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(345, 296):17ca0545d6e724d5354781af12e3e9125af08bb906340a531b13ca6e525ed937"
+    },
+    {
+      "category": "environment",
+      "id": "Snow_cliff_0",
+      "file": "Environment/Snow/Snow_cliff_0.png",
+      "canvas": [
+        686,
+        438
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        13,
+        25,
+        674,
+        418
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(661, 393):230f9ecf2338987204035325b11f6388d58a9a6760a413b38035974d7f55e7ab"
+    },
+    {
+      "category": "environment",
+      "id": "Snow_pine_a_0",
+      "file": "Environment/Snow/Snow_pine_a_0.png",
+      "canvas": [
+        512,
+        576
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        40,
+        15,
+        512,
+        572
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(472, 557):6743bb8c62b6e082b2c0fe242939810b1d794e21dc142268a886c3bf0b03c0cb"
+    },
+    {
+      "category": "environment",
+      "id": "Snow_pine_b_0",
+      "file": "Environment/Snow/Snow_pine_b_0.png",
+      "canvas": [
+        512,
+        576
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        0,
+        28,
+        512,
+        569
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 541):a9d30ee7ddabc711a5a2ce6841be527eec48b34ba4bf0f2701e007e82ed09b33"
+    },
+    {
+      "category": "environment",
+      "id": "Swamp_broadleaf_0",
+      "file": "Environment/Swamp/Swamp_broadleaf_0.png",
+      "canvas": [
+        544,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        28,
+        3,
+        514,
+        472
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(486, 469):12853bb699c45f6030f119615d742600bb65b29d5d110b0078e6e9b1ec5d03c7"
+    },
+    {
+      "category": "environment",
+      "id": "Swamp_dead_0",
+      "file": "Environment/Swamp/Swamp_dead_0.png",
+      "canvas": [
+        472,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        36,
+        44,
+        425,
+        505
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(389, 461):3eee9aec3ddd3d6c75585b25da2c1670ea8398b0d4b308e280b773a56cc49f2a"
+    },
+    {
+      "category": "environment",
+      "id": "Swamp_log_0",
+      "file": "Environment/Swamp/Swamp_log_0.png",
+      "canvas": [
+        472,
+        280
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        14,
+        41,
+        447,
+        256
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(433, 215):4dac0669588f3b965c4e4b66149b23fdf1fc11501f3e4b6fa1a358fdc0de6a52"
+    },
+    {
+      "category": "environment",
+      "id": "Swamp_reeds_0",
+      "file": "Environment/Swamp/Swamp_reeds_0.png",
+      "canvas": [
+        476,
+        332
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        19,
+        47,
+        423,
+        322
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(404, 275):e77f8542a7e1e2969717c7819fcda87554ee865cd278632b3208976ab126a0bf"
+    },
+    {
+      "category": "environment",
+      "id": "Swamp_willow_0",
+      "file": "Environment/Swamp/Swamp_willow_0.png",
+      "canvas": [
+        544,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        32,
+        36,
+        536,
+        496
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(504, 460):73e00470fb2d66fbe964945013546d3286b3a2138eb7dc72e7a57eb1728216d0"
+    },
+    {
+      "category": "environment",
+      "id": "Swamp_wood_fence_0",
+      "file": "Environment/Swamp/Swamp_wood_fence_0.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):d4a49a3bacef8a84a99694a42deb8d19ab6604e6911ce40ebbda2410f92bd1a8"
+    },
+    {
+      "category": "terrain_base",
+      "id": "City_detail_ground",
+      "file": "Terrain/Base_Textures/City_detail_ground.png",
+      "canvas": [
+        4096,
+        3072
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        0,
+        0,
+        4096,
+        3072
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(4096, 3072):84fe04fe76cc2ea864df5f6451a157c554be397f2a9c8dda1d0889b4d9b1dd33"
+    },
+    {
+      "category": "terrain_base",
+      "id": "City_file",
+      "file": "Terrain/Base_Textures/City_file.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):c6aff908e57df87023152e44e8f8b077106aab69b232f252d068483a6df08960"
+    },
+    {
+      "category": "terrain_base",
+      "id": "City_grass",
+      "file": "Terrain/Base_Textures/City_grass.png",
+      "canvas": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(256, 256):cc9d572e35399440eab8a78ed724273d02ad82f3731e450f6d8996fcdd58329e"
+    },
+    {
+      "category": "terrain_base",
+      "id": "City_shore_overlay",
+      "file": "Terrain/Base_Textures/City_shore_overlay.png",
+      "canvas": [
+        4096,
+        3072
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        2280,
+        438,
+        2520,
+        2698
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(240, 2260):b29bcf0eb54cb43a4d1de53de2fa77747cd3f913e8dc4ca1bdd3ecd9ba037e2c"
+    },
+    {
+      "category": "terrain_base",
+      "id": "City_water",
+      "file": "Terrain/Base_Textures/City_water.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):fd3ef6a633149f823b48920bd0f5da27178ba0a4b36db37fb0833cd05b68336d"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Desert_dirt",
+      "file": "Terrain/Base_Textures/Desert_dirt.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):69a83146c16548bf10bf58fa374996b80986b55add9d8cff5e548652c3764d5b"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Desert_dry",
+      "file": "Terrain/Base_Textures/Desert_dry.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):c64d74fb12a3ff9a86eb333da9e4ffb4c807dfe3579fe716542cea57595fd368"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Desert_dune",
+      "file": "Terrain/Base_Textures/Desert_dune.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):c361d605ad6a2bb8141300201c8e7146413fb426f668c9d1886e9c7643b35b87"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Desert_earth",
+      "file": "Terrain/Base_Textures/Desert_earth.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):e189f5bd53e1326e2c474585500df6e7a1d05192bbbe89e1e5ce9f9d4373264f"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Desert_grass",
+      "file": "Terrain/Base_Textures/Desert_grass.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(1254, 1254):b7488153f6b5e28a6125e85c4dc4bf026a53c975dab765c039830b4d61ff1284"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Desert_gravel",
+      "file": "Terrain/Base_Textures/Desert_gravel.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):2610070935920ee1d8ef1a2c6a8567ae2d540c10a2405e56be14db804d181f02"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Desert_rock",
+      "file": "Terrain/Base_Textures/Desert_rock.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):29a8cacb10768c82be7e3db7a675c54d5da11d89d659619b00c9b8e0e29abcfd"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Desert_sand",
+      "file": "Terrain/Base_Textures/Desert_sand.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):dba0e065c461d09e7ed1f3eaacfe179f05a5668265f35449c8748bc7502f933c"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Desert_water",
+      "file": "Terrain/Base_Textures/Desert_water.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):d562975b1c816268dab272cb2049fa183e3ad7ec487cab19746abbbfdccefadc"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Forest_rock",
+      "file": "Terrain/Base_Textures/Forest_rock.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):99ccaca198398175909de3cfefbcdd5c02598f65ccf22d0d3a9d253036ec6d28"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Forest_soil",
+      "file": "Terrain/Base_Textures/Forest_soil.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):dfb096dafb28b6427ac1bb26c689df28d83fa9f725bbbf782459d4a5dd2c907c"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Forest_stone",
+      "file": "Terrain/Base_Textures/Forest_stone.png",
+      "canvas": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(256, 256):ae48f36c6d89e4f7ddc2c055a645259cf969ccb3539c75285be60d2b3a3d3e57"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Snow_dirt",
+      "file": "Terrain/Base_Textures/Snow_dirt.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):4c95a7c0911e5d229f91d85de9fcd2c6bd77a1769bf6ec7042d735e5c8d08de5"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Snow_rock",
+      "file": "Terrain/Base_Textures/Snow_rock.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):6ea342fd41040d3acb1bb1b900b84a79971e2ca1626e0e1580a919ba939dc7b4"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Snow_snow",
+      "file": "Terrain/Base_Textures/Snow_snow.png",
+      "canvas": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(1254, 1254):8fc31032f9ce26d33bce96aa051f9c5910bcc46122e48ec5ee44893aa34d8d8b"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Snow_stone",
+      "file": "Terrain/Base_Textures/Snow_stone.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):8a81c10788886308d6fa886528f38f804ec7997556ef8999029b2a81e34dbee4"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Snow_thaw",
+      "file": "Terrain/Base_Textures/Snow_thaw.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):c422cc77a37d9f7dadb5a3c5e50d54917e33324e43cadde27d9a4d3084fa27ca"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Snow_water",
+      "file": "Terrain/Base_Textures/Snow_water.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):bf5caa438abdce84ef66da966a727a343e67f04835a00f6c79449ddf5a84fa90"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Swamp_grass",
+      "file": "Terrain/Base_Textures/Swamp_grass.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):9d91c962683d68011ed78baa9e23fcf2e68031e9f037c5fdd7ec0beb90e7ae2c"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Swamp_gravel",
+      "file": "Terrain/Base_Textures/Swamp_gravel.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):b64519c2677f67825be1dbf8f3f95e2ecb4f3119b568c566cd2cfdffa84a800f"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Swamp_mud",
+      "file": "Terrain/Base_Textures/Swamp_mud.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):bc5c1586f4b703c22b1905225fda78cb3929e26bb41494139708cccac0fb883c"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Swamp_plank",
+      "file": "Terrain/Base_Textures/Swamp_plank.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):d4a49a3bacef8a84a99694a42deb8d19ab6604e6911ce40ebbda2410f92bd1a8"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Swamp_stone",
+      "file": "Terrain/Base_Textures/Swamp_stone.png",
+      "canvas": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(256, 256):2b01fced0603ca24a2424b070e818321cb66c63351c39fa73793751aa64f94dd"
+    },
+    {
+      "category": "terrain_base",
+      "id": "Swamp_water",
+      "file": "Terrain/Base_Textures/Swamp_water.png",
+      "canvas": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "visible_bbox": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(512, 512):6b748ba90ee87a0a00d70457f2996d50a8cb2747a2d1bf2f09d3d141edd298a4"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_iron_sword",
+      "file": "UI/Items_64/I01_iron_sword.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(49, 50):f3177f64ac13080f234b64d3fdb4e119a587e88c9a862b71bae6b2e4cd912620"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_wood_sword",
+      "file": "UI/Items_64/I01_wood_sword.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(49, 50):12a43292f320d32669030148a08bb34e9110dc1479954e0fec6b32e7374d5df6"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_short_sword",
+      "file": "UI/Items_64/I01_short_sword.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 50):fa031a50fe2abc15332c1386f4271e73fed678a2ce4445882c6fc2c945b42c6a"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_long_sabre",
+      "file": "UI/Items_64/I01_long_sabre.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        8,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(48, 50):779528d16e978e921b9d0a8b67382461f5a9a82fabb5cbb3afd66da39e9b8c81"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_pudao",
+      "file": "UI/Items_64/I01_pudao.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        8,
+        8,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(48, 49):40ae07d76f0171c9f437ff9bfecec4b0de1c824b06e262b0d074eef0157c5eb9"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_dual_sabres",
+      "file": "UI/Items_64/I01_dual_sabres.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 50):edad7c63c8c17455d51e93246bc4d379980d3012798d56166059f2cf9e1a1324"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_dagger",
+      "file": "UI/Items_64/I01_dagger.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        8,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(48, 50):14169a61030566ac0567af9616fa1ea53bd818e5e72b73c2968fe7605ef14413"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_spear",
+      "file": "UI/Items_64/I01_spear.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        8,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(48, 50):893bddddc51df94380a858a491c673ea99aa53a28157ae42e55bb31f9ec20bda"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_iron_staff",
+      "file": "UI/Items_64/I01_iron_staff.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 50):acc15a8a7cb735ad215b2360c52df29bb86d340b5e55e5be39cfe50983d3e548"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_monk_staff",
+      "file": "UI/Items_64/I01_monk_staff.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(49, 50):3b5bb969946b1e096fbb71d7f264c3227535de48a154022284c57ef34e2ab69a"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_dual_hammers",
+      "file": "UI/Items_64/I01_dual_hammers.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        13,
+        57,
+        51
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 38):fddff4fb26e644a2715638de6b470691990f7c305605f6b5299c205ecb21b858"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_bow",
+      "file": "UI/Items_64/I01_bow.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        57,
+        56
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 49):a2af784a2161ccf89dddf06cbf19ead87c02550f557d2ca5bdfda31df83a026d"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_quiver",
+      "file": "UI/Items_64/I01_quiver.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        15,
+        7,
+        49,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(34, 50):20df76ef547ea3d1b0bcd7ae17bca9c4a0a9b0d19b76481f8710e83ac4020293"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_dart",
+      "file": "UI/Items_64/I01_dart.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(49, 50):998aa3edff8f199e4c943ee67623925ac9d708a2ebc070a977578d80888292fc"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_throwing_knife",
+      "file": "UI/Items_64/I01_throwing_knife.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        8,
+        7,
+        55,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(47, 50):3bef78e8c45667c171fb7d3d0feb4d9f0dc16eedbcded45e00a98e63c079127e"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_fan",
+      "file": "UI/Items_64/I01_fan.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        12,
+        57,
+        51
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 39):9235d54eb5190a87a5379a275476efafca5b6189d7e44f93b3dde2eee401ab94"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_fly_whisk",
+      "file": "UI/Items_64/I01_fly_whisk.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        11,
+        57,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 42):5996ee7b4b568245a7fda733bd3368ea5dee75718963999ecd6b88587873df38"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_soft_whip",
+      "file": "UI/Items_64/I01_soft_whip.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        11,
+        57,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 42):5563810fee83bebfdcee41de07e194f5b782f4c3200e8eafdc919aa7d53405a1"
+    },
+    {
+      "category": "item_icon",
+      "id": "I01_gauntlets",
+      "file": "UI/Items_64/I01_gauntlets.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        8,
+        57,
+        55
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 47):8585bde6e3a24d8b2b3ed148693f8423c57a1f7d5872371fe12e36ff8fdeae13"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_cloth_tunic",
+      "file": "UI/Items_64/I02_cloth_tunic.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        9,
+        57,
+        55
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 46):0c3380a32b49840b848cd8bcc91e1efaef6686544555a85ffaabdfb904d5e6b6"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_leather_armor",
+      "file": "UI/Items_64/I02_leather_armor.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        11,
+        7,
+        53,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(42, 50):eb818f9b5f6a9f774b72f70cb049cea99772697fb68dddc785fe3028be8ff40b"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_iron_armor",
+      "file": "UI/Items_64/I02_iron_armor.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(49, 50):d6b90bcb8fd54b10a1e81b708d3fce1a99c7e400183f05313b404f0c4f2cd34a"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_taoist_robe",
+      "file": "UI/Items_64/I02_taoist_robe.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        11,
+        7,
+        53,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(42, 50):11e7f23d8558bd4c18817ea20cce0faeefed339f8842b6a6d5841fb954746e76"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_kasaya",
+      "file": "UI/Items_64/I02_kasaya.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        8,
+        57,
+        55
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 47):7894abb9f93fd9659f3870065f62faf648223e0dbd62c82ed5433e037fe767d9"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_swordswoman_outfit",
+      "file": "UI/Items_64/I02_swordswoman_outfit.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 50):5e072ddf9a0ad6fc8fac26a6971e990af2711d7a01f0af21a849e25513afcb98"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_straw_hat",
+      "file": "UI/Items_64/I02_straw_hat.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        19,
+        57,
+        45
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 26):2e01c2732748db5cdd7979cd77195e01b8ec61a2c1503913833855a3e15b72a0"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_cloth_headwrap",
+      "file": "UI/Items_64/I02_cloth_headwrap.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        10,
+        57,
+        54
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 44):157c616e271fa8078c10c308ef3c5e14f9d9549a1fd05d2bb66117afdb61e67c"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_iron_helmet",
+      "file": "UI/Items_64/I02_iron_helmet.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        12,
+        7,
+        51,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(39, 50):1f59af0c795678f5b73c7371cb2f2ca4ff578075eba3036867859ec0b20aea78"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_cloth_shoes",
+      "file": "UI/Items_64/I02_cloth_shoes.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        12,
+        57,
+        52
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 40):11dc5250c3d11d2f58d0404d7522de961c33f1948ee856c427b1bd89c9f28604"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_leather_boots",
+      "file": "UI/Items_64/I02_leather_boots.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        57,
+        56
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 49):fcd03ca709fce4d1a67c82596b6539e209c76842578e43d0b2ac8d5e6ea2cb78"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_wrist_guards",
+      "file": "UI/Items_64/I02_wrist_guards.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        8,
+        57,
+        56
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 48):2c77de6c7ccc3dd98ecbd5bf7d608cdb46de6fa99d5a5774bc991227dcf038b2"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_shin_guards",
+      "file": "UI/Items_64/I02_shin_guards.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        12,
+        7,
+        51,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(39, 50):a00909705cae16606c08ced2ab8f9184e76599ddab0a8d14e776c76eb84e86e0"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_belt",
+      "file": "UI/Items_64/I02_belt.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        11,
+        57,
+        52
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 41):677b7a4b20a72e6c81451ea12ece7b70990396d80ca3b18493f06ccd39940ea1"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_cloak",
+      "file": "UI/Items_64/I02_cloak.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        10,
+        57,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 43):ef77de82437e8e6328d63ae25a812a6e6bd99da3ab2a54f2ae94b4380b0602a6"
+    },
+    {
+      "category": "item_icon",
+      "id": "I02_sachet",
+      "file": "UI/Items_64/I02_sachet.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        57,
+        56
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 49):b6e53d5e038c0e770f54f39eed8e16bb598f35534c1761be99801e59ac4f7903"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_qi_pills",
+      "file": "UI/Items_64/I03_qi_pills.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        13,
+        57,
+        51
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 38):28157434ce28246ba94432ef5ffbb70e342e38fa9cd76cdef8e380247cac4ad0"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_antidote",
+      "file": "UI/Items_64/I03_antidote.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        12,
+        7,
+        51,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(39, 50):151a2c23f53115a7976e825ff0a9fa3a9eeca66b2999b229cf13153dce45e1bc"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_styptic_powder",
+      "file": "UI/Items_64/I03_styptic_powder.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        9,
+        57,
+        55
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 46):3528b1df9ad1702a9068f7ab10daa9d589bf84a7168a7b02d5f1373b260afded"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_healing_balm",
+      "file": "UI/Items_64/I03_healing_balm.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        15,
+        57,
+        48
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 33):636931ae253cd06eb20540cd82a082ee73285e4debe2d3af3c843424d8282e40"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_clarity_pill",
+      "file": "UI/Items_64/I03_clarity_pill.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        12,
+        7,
+        51,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(39, 50):a9afec879d14806c38a0c999fe6475f3866efae1c666923e837a23c19ed23148"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_warming_pill",
+      "file": "UI/Items_64/I03_warming_pill.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        12,
+        7,
+        52,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(40, 50):c699f39d937e38fa1674af6d11805cb5cfdf159aab8d83742f74c327c3edddd9"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_miasma_pill",
+      "file": "UI/Items_64/I03_miasma_pill.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 50):84f4331b8882f62333435824a5d29e2ce8f97329f1defdccb846f8369a0608df"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_great_return_pill",
+      "file": "UI/Items_64/I03_great_return_pill.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(49, 50):a6b58a0e542578cac3581aea73a4a87a451e39ee062c0906ff485e80e226638d"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_lesser_return_pills",
+      "file": "UI/Items_64/I03_lesser_return_pills.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(49, 50):bfb71cfcd40b1b31a46c9ccbe8e1bcbfe25f7d8bc829277c40c077a8c478b594"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_revival_pill",
+      "file": "UI/Items_64/I03_revival_pill.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        11,
+        7,
+        52,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(41, 50):f10b76e798e4ff92671125cab51dabdabc1b0213395299b9f52643a85c203b46"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_sleeping_powder",
+      "file": "UI/Items_64/I03_sleeping_powder.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        9,
+        7,
+        54,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(45, 50):22dd1d80a6158cdfb034160038ad0a0c3093e119eb53b9b487a84414577a1577"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_poison_powder",
+      "file": "UI/Items_64/I03_poison_powder.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        10,
+        57,
+        54
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 44):5984dec5227acfbbb2f4d8c90a995c663d7ed4c65b7b8e7fa27afab97da060dc"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_fire_oil",
+      "file": "UI/Items_64/I03_fire_oil.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        15,
+        7,
+        49,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(34, 50):dd3f116d92834480c43b43b49cbdf1a73c7a12345168ed2c53b376f4484115aa"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_bandage",
+      "file": "UI/Items_64/I03_bandage.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 50):fa08f4bd597aa4961eb5381750f038792ef16444f5175b833b39296f213954d5"
+    },
+    {
+      "category": "item_icon",
+      "id": "I03_medicine_gourd",
+      "file": "UI/Items_64/I03_medicine_gourd.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        8,
+        57,
+        56
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 48):0a9eecfc9e4bd2a66dbd16c23a77d4e03e6b893c51db4efb047a74b5443ade98"
+    },
+    {
+      "category": "item_icon",
+      "id": "I06a_silver_ingot",
+      "file": "UI/Items_64/I06a_silver_ingot.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        18,
+        57,
+        46
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 28):d7ec701979bd7378cb6aeb47f41ea65fc498d781822354b200379ae8c1e4ba4b"
+    },
+    {
+      "category": "item_icon",
+      "id": "I06a_gold_ingot",
+      "file": "UI/Items_64/I06a_gold_ingot.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        15,
+        57,
+        48
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 33):21c1f57a5640bb8ba2f291b5d142e2bb306318c9724df5a8c7bd618769357610"
+    },
+    {
+      "category": "item_icon",
+      "id": "I06a_bronze_key",
+      "file": "UI/Items_64/I06a_bronze_key.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(49, 50):5fb5fa31930cd34acdd8943821452a235184ec47e7f2974106411333e4759af6"
+    },
+    {
+      "category": "item_icon",
+      "id": "I06a_iron_key",
+      "file": "UI/Items_64/I06a_iron_key.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(49, 50):34406683cb946b02bad5347bdce0fa743eb8bec48c5963c9d0bee74136323140"
+    },
+    {
+      "category": "item_icon",
+      "id": "I06a_sect_token",
+      "file": "UI/Items_64/I06a_sect_token.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(49, 50):b27eb2471e9b2bffaf7266df91553d9ccdaf89655c8dc3a0bdfd51942e02d6af"
+    },
+    {
+      "category": "item_icon",
+      "id": "I06a_escort_writ",
+      "file": "UI/Items_64/I06a_escort_writ.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 50):329dfafc8ace6f83f1fa47aefaf3efa11ee7c3900b54725acad3cd780f4357f4"
+    },
+    {
+      "category": "item_icon",
+      "id": "I06a_wanted_notice",
+      "file": "UI/Items_64/I06a_wanted_notice.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(49, 50):24bf32714ec2f84ac9214a048b0db8055c69dfed54f43c552680e545982c2d60"
+    },
+    {
+      "category": "item_icon",
+      "id": "I06a_secret_letter",
+      "file": "UI/Items_64/I06a_secret_letter.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        12,
+        57,
+        52
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 40):ac6e961061efa278e5e6f33bffcafaf8728fb60d177dbecea63149da2c368ecb"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_iron_ore",
+      "file": "UI/Items_64/I04_iron_ore.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        11,
+        57,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 42):3983b6100ed38cf6277abe5eaaf772bcde761357259aa67f6f4dc7034ec42e1d"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_copper_ore",
+      "file": "UI/Items_64/I04_copper_ore.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        10,
+        57,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 43):9a72bda258c5c5d7decd4001bfe16fcca969d06dbd3857f99f33d3b8cad9dd26"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_silver_ore",
+      "file": "UI/Items_64/I04_silver_ore.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        9,
+        57,
+        54
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 45):f4e1529dbe4aa1f0878b5e88a9e09969c7879c45669adf4405dd45d76dcc460f"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_refined_iron",
+      "file": "UI/Items_64/I04_refined_iron.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        12,
+        57,
+        52
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 40):d00aadbc226200f9696be91bd4778187023e3321f68cb1588284f92611289c41"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_copper_ingot",
+      "file": "UI/Items_64/I04_copper_ingot.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        11,
+        57,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 42):8b22408ae006553d993be57dc6f373bc24d71c57f2d15b1affe8d67009042b41"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_timber",
+      "file": "UI/Items_64/I04_timber.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        11,
+        57,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 42):43e2a5e2e42786f049765f93791f860fb39ce54760892fc2ef1aa35b359dd686"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_bamboo",
+      "file": "UI/Items_64/I04_bamboo.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        10,
+        57,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 43):dce8c11fde4b93dd0149594bcb6012105d76729e980ebd4b319d2fe7cf4664db"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_beast_hide",
+      "file": "UI/Items_64/I04_beast_hide.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        13,
+        57,
+        51
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 38):cf8fb137e1c3f858a273bacbba0b2a8e44763476479ecf4e796301940fe9665c"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_silk_thread",
+      "file": "UI/Items_64/I04_silk_thread.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        9,
+        57,
+        55
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 46):7f7ed6c34393bf9c7a62bd2627e4020efecf6f1fc111466cd4bda51a9b03cc2d"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_cotton_cloth",
+      "file": "UI/Items_64/I04_cotton_cloth.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        12,
+        57,
+        52
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 40):19b29c53c00ab00dffa13e6360cd7a553100a3ed40681cbeb83a22dda5cd7f33"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_antler",
+      "file": "UI/Items_64/I04_antler.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        8,
+        57,
+        56
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 48):faab192b142b3bd2e8a3232555cb243fe7f57bc5b57b19df7c4fd48cb9d87384"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_tiger_bone",
+      "file": "UI/Items_64/I04_tiger_bone.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        10,
+        57,
+        54
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 44):c8c2150feee7649adae82f8b186b9eacb3b8100e6361a9049978c436dbc5b9c7"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_snake_gall",
+      "file": "UI/Items_64/I04_snake_gall.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        9,
+        57,
+        54
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 45):faa575dad20266f4c98290f1106e1fb15ef00e6675c2754efbb8b191fda34533"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_venom_sac",
+      "file": "UI/Items_64/I04_venom_sac.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        10,
+        57,
+        54
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 44):413864607a186a1ee7b595d4764454e3fe51b3f16728cfa8dbd717deaa34ad97"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_lingzhi",
+      "file": "UI/Items_64/I04_lingzhi.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        9,
+        57,
+        55
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 46):25c85a5f4ff2168089be541fe73479187034586784664dc54234b0efe47d1ab7"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_ginseng",
+      "file": "UI/Items_64/I04_ginseng.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        8,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(48, 50):67c8c3b417057b02aae2f73ee8dd73f152cac86bcd146a93acbdd138a5b976df"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_cinnabar",
+      "file": "UI/Items_64/I04_cinnabar.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        13,
+        57,
+        51
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 38):3985370721a3e090d87b8373f22600cfee81cdf66f0d52f6ec439422c355816f"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_sulfur",
+      "file": "UI/Items_64/I04_sulfur.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        9,
+        57,
+        55
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 46):c9d2cb45d01f13f81e1df707ee27bf20f49999930fa89441a2d9461143e4eda7"
+    },
+    {
+      "category": "item_icon",
+      "id": "I04_whetstone",
+      "file": "UI/Items_64/I04_whetstone.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        11,
+        57,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 42):97e093a2d50c9ad58ea9f9ac797b934ef4fbf054c557973a956435ec2097d369"
+    },
+    {
+      "category": "item_icon",
+      "id": "I05_steamed_bun",
+      "file": "UI/Items_64/I05_steamed_bun.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        11,
+        57,
+        52
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 41):aed9b21f5a2f173566ae49fd19867bff801f682cf45578dd40620c107060fe16"
+    },
+    {
+      "category": "item_icon",
+      "id": "I05_stuffed_bun",
+      "file": "UI/Items_64/I05_stuffed_bun.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        10,
+        57,
+        54
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 44):3a2d72f0769b894a4f9b7d0d95ee9b2047934d576629e9f706384d1499d6d9b7"
+    },
+    {
+      "category": "item_icon",
+      "id": "I05_noodles",
+      "file": "UI/Items_64/I05_noodles.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        10,
+        57,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 43):019886ad3df65f3377c3a870a0b8cb0626fae954bda3e4abfb8bc22116840b8b"
+    },
+    {
+      "category": "item_icon",
+      "id": "I05_rice",
+      "file": "UI/Items_64/I05_rice.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        9,
+        57,
+        54
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 45):1326370fdcdb1edf4c9d38a4b9ac4f2f1b54d4dfe376c72a8309772a5a96db52"
+    },
+    {
+      "category": "item_icon",
+      "id": "I05_grilled_fish",
+      "file": "UI/Items_64/I05_grilled_fish.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        12,
+        57,
+        52
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 40):6806564a232b3c4bafbca1541d295ab93f9bc35cb12c4a4897aeb25f4d09c1fb"
+    },
+    {
+      "category": "item_icon",
+      "id": "I05_roast_meat",
+      "file": "UI/Items_64/I05_roast_meat.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        12,
+        57,
+        51
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 39):db2aab1b2759914b89974b0909c7a0c66fa8f02d2e0840213d3ec50d117b6533"
+    },
+    {
+      "category": "item_icon",
+      "id": "I05_chicken_leg",
+      "file": "UI/Items_64/I05_chicken_leg.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        9,
+        57,
+        54
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 45):2553b11dcce8863e97cef7366f1ca0816b0d8af4f0bb6bc01e1de8550ffee9cf"
+    },
+    {
+      "category": "item_icon",
+      "id": "I05_flatbread",
+      "file": "UI/Items_64/I05_flatbread.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        12,
+        57,
+        52
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 40):187b0c775bcdefeefd12182b3436615ca6f4883d19f194a910c23899dba161c7"
+    },
+    {
+      "category": "item_icon",
+      "id": "I05_tea",
+      "file": "UI/Items_64/I05_tea.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        8,
+        57,
+        55
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 47):3494615fdf0353fd017707f0b3bbbe9f12d9aa1bca932f5884fceaf1edcfe805"
+    },
+    {
+      "category": "item_icon",
+      "id": "I05_rice_wine",
+      "file": "UI/Items_64/I05_rice_wine.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        9,
+        7,
+        55,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(46, 50):b6a562384a1d067ae65470f5904294e689028f2778fbcfce865838ff7e9572c8"
+    },
+    {
+      "category": "item_icon",
+      "id": "I05_wild_fruit",
+      "file": "UI/Items_64/I05_wild_fruit.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        11,
+        57,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 42):cf18da4200532768579480c8a3e760dc13d79dff053c4a03fa89b92accc8736c"
+    },
+    {
+      "category": "item_icon",
+      "id": "I06b_treasure_map",
+      "file": "UI/Items_64/I06b_treasure_map.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        13,
+        57,
+        50
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 37):94b15c3ca64d0e1f5be02b82aed01429c902137f0245fbe08bfbf0461389d65b"
+    },
+    {
+      "category": "item_icon",
+      "id": "I06b_jade_pendant",
+      "file": "UI/Items_64/I06b_jade_pendant.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        8,
+        57,
+        56
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 48):b9a890559bf62ded0a9c4e9d4fbfdfc294e3a9ac6753a3dc5254451e26f17e47"
+    },
+    {
+      "category": "item_icon",
+      "id": "I06b_broken_jade",
+      "file": "UI/Items_64/I06b_broken_jade.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 50):fcf73e186daadf3927f891da7ada12891554b4e25591c245dcade442614b118e"
+    },
+    {
+      "category": "item_icon",
+      "id": "I06b_ledger",
+      "file": "UI/Items_64/I06b_ledger.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        56,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(49, 50):f88fc80387dfde5983b318c6868fb3d72b8d997a5cd274a818d46e41c4d57e93"
+    },
+    {
+      "category": "item_icon",
+      "id": "I06b_prescription",
+      "file": "UI/Items_64/I06b_prescription.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        10,
+        57,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 43):d23f6d48bb3521aa813d5a7d7e1d1a4c68995d1f283b10e07eaa64da0e55449b"
+    },
+    {
+      "category": "item_icon",
+      "id": "I06b_manual",
+      "file": "UI/Items_64/I06b_manual.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        7,
+        57,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(50, 50):5377f651500f4907f5b6a8f8834a29200f412fe1837991066065a535cfce9edd"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_array",
+      "file": "UI/Skill_Icons/master_array.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        25,
+        4,
+        39,
+        60
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(14, 56):e671b986150a04f7e9e66372ecf7432595ca92f11cd3d5ece74213da293aed3a"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_beam",
+      "file": "UI/Skill_Icons/master_beam.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        15,
+        21,
+        48,
+        42
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(33, 21):935a4e98de79ed37291e46cc53ac15abf97adb6f8464dae09e005c660edf45a1"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_orbit",
+      "file": "UI/Skill_Icons/master_orbit.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        23,
+        60,
+        40
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(56, 17):d62fb4e01c2a65945e611f00083fcde79937bd35a2f01a513b36c2bef5793f42"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_moons",
+      "file": "UI/Skill_Icons/master_moons.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        22,
+        5,
+        41,
+        59
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(19, 54):06fa8cfe5e10f4069681ca61dfcc2788e0ce63c689b216616505d355c029b6c6"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_frost",
+      "file": "UI/Skill_Icons/master_frost.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        9,
+        59,
+        54
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(55, 45):401dd38dbf774366ba5a88ff250dbe819dce6cf4e0445bd4b7de4a7fe1ce16ee"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_dash",
+      "file": "UI/Skill_Icons/master_dash.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        19,
+        8,
+        44,
+        55
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(25, 47):7bd01a9961bd1f7274269ee4ecdef10dc096fc557fd9c1ce8f6d7651d96e933e"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_cleave",
+      "file": "UI/Skill_Icons/master_cleave.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        5,
+        55,
+        60
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(48, 55):48cdf174aa2d0f2f41d664afa63976c1eb9a9c78de0997709c4e243646632846"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_triple",
+      "file": "UI/Skill_Icons/master_triple.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        9,
+        60,
+        55
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(56, 46):31cd5d8ac268b48cc7775ec2ee657e4a24fec9822b34cf5816e0d81b7c0a405e"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_ring",
+      "file": "UI/Skill_Icons/master_ring.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        13,
+        60,
+        50
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(56, 37):4ce28cd46cef43366553f57b01d7e9b3453b9478755fe60066a563b863b02139"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_leaves",
+      "file": "UI/Skill_Icons/master_leaves.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        5,
+        60,
+        59
+      ],
+      "alpha_minmax": [
+        0,
+        253
+      ],
+      "semitransparent_pixels": 729,
+      "visible_signature": "(56, 54):2ce2adcdc4961b36970046a14be642a3e71c9d1cef9752e2dd6cb32d522c534b"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_joints",
+      "file": "UI/Skill_Icons/master_joints.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        11,
+        4,
+        52,
+        60
+      ],
+      "alpha_minmax": [
+        0,
+        254
+      ],
+      "semitransparent_pixels": 1271,
+      "visible_signature": "(41, 56):dc2dcd4c4c6bf6f6e7a752d530b1dda374af38dcf3e29d6d2a65868e2c3895bf"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_rebound",
+      "file": "UI/Skill_Icons/master_rebound.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        19,
+        4,
+        45,
+        60
+      ],
+      "alpha_minmax": [
+        0,
+        253
+      ],
+      "semitransparent_pixels": 381,
+      "visible_signature": "(26, 56):526046bbedeebd07a2193742051e1c458293ade4160cc86bd6bed92665bf3b2d"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_petals",
+      "file": "UI/Skill_Icons/master_petals.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        19,
+        60,
+        44
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 458,
+      "visible_signature": "(56, 25):b4172da5832f88a9e2063cc14a2990864f126c005c2216675470cbac6779f491"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_decoy",
+      "file": "UI/Skill_Icons/master_decoy.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        7,
+        60,
+        57
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 1461,
+      "visible_signature": "(56, 50):548a2e853c847246e3ab53e108639af1b1390596fcdf7e53b7f71ae7b547e99d"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_heal",
+      "file": "UI/Skill_Icons/master_heal.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        15,
+        60,
+        48
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 646,
+      "visible_signature": "(56, 33):ed1db546087941af354c0ae46577eae9204ad342e8eef8aa7cadaf1fa3bc62cb"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_bind",
+      "file": "UI/Skill_Icons/master_bind.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        8,
+        60,
+        56
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 1326,
+      "visible_signature": "(56, 48):90782e943d7f6affa7cd8a2b9d476181336aff63910f373f794bfb685391af76"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_shadow_dash",
+      "file": "UI/Skill_Icons/master_shadow_dash.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        22,
+        60,
+        41
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 664,
+      "visible_signature": "(56, 19):d5fa80ee95db0ad7cb5a1a3012a44e5a691c292b580ccab51a68821ffc128f88"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_eclipse",
+      "file": "UI/Skill_Icons/master_eclipse.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        21,
+        60,
+        42
+      ],
+      "alpha_minmax": [
+        0,
+        253
+      ],
+      "semitransparent_pixels": 576,
+      "visible_signature": "(56, 21):79790fb505f1300fcaa7c5c674886e0640d777841911d4095dded04cb6456874"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_bell",
+      "file": "UI/Skill_Icons/master_bell.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        4,
+        57,
+        60
+      ],
+      "alpha_minmax": [
+        0,
+        253
+      ],
+      "semitransparent_pixels": 1648,
+      "visible_signature": "(50, 56):99e83e9b08ac7a83be8d0211b8fad920e697d70f1a882102b79f1f15cbb76606"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_palm",
+      "file": "UI/Skill_Icons/master_palm.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        11,
+        60,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        254
+      ],
+      "semitransparent_pixels": 1386,
+      "visible_signature": "(56, 42):c83fffd4a72aeafc5e239cfbdb30debcf2a1a3538187f1ec3966ee42af3d55b2"
+    },
+    {
+      "category": "skill_icon",
+      "id": "master_guardian",
+      "file": "UI/Skill_Icons/master_guardian.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        7,
+        4,
+        56,
+        60
+      ],
+      "alpha_minmax": [
+        0,
+        254
+      ],
+      "semitransparent_pixels": 1406,
+      "visible_signature": "(49, 56):cf169f6e0c3ed85b191a3158dcfa6daf494442902708e187641ad5ad19dc1a9b"
+    },
+    {
+      "category": "skill_icon",
+      "id": "boss_01_cleave",
+      "file": "UI/Skill_Icons/boss_01_cleave.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        5,
+        60,
+        59
+      ],
+      "alpha_minmax": [
+        0,
+        253
+      ],
+      "semitransparent_pixels": 2116,
+      "visible_signature": "(56, 54):c512512cc49ae127a3cb076d25aa2f80f80e5dff4828e733483068f6c4037b85"
+    },
+    {
+      "category": "skill_icon",
+      "id": "boss_02_whirl",
+      "file": "UI/Skill_Icons/boss_02_whirl.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        12,
+        60,
+        51
+      ],
+      "alpha_minmax": [
+        0,
+        252
+      ],
+      "semitransparent_pixels": 1902,
+      "visible_signature": "(56, 39):265b46e76a499c8795803985b0d7605f9bd26c82e62160956726825882c55de6"
+    },
+    {
+      "category": "skill_icon",
+      "id": "boss_03_charge",
+      "file": "UI/Skill_Icons/boss_03_charge.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        19,
+        60,
+        45
+      ],
+      "alpha_minmax": [
+        0,
+        253
+      ],
+      "semitransparent_pixels": 1235,
+      "visible_signature": "(56, 26):c6ef31909abf4c8ba0340ae8e5a6a0a05a4937fed8b651a943392014fe7d57a5"
+    },
+    {
+      "category": "skill_icon",
+      "id": "boss_04_needles",
+      "file": "UI/Skill_Icons/boss_04_needles.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        20,
+        4,
+        44,
+        60
+      ],
+      "alpha_minmax": [
+        0,
+        244
+      ],
+      "semitransparent_pixels": 1057,
+      "visible_signature": "(24, 56):e83b3a5f5f0e89d40e6a9abaa7af0809eff58b2b4075a8a8c2c97b4855f04ba0"
+    },
+    {
+      "category": "skill_icon",
+      "id": "boss_05_gourd",
+      "file": "UI/Skill_Icons/boss_05_gourd.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        4,
+        60,
+        60
+      ],
+      "alpha_minmax": [
+        0,
+        253
+      ],
+      "semitransparent_pixels": 2277,
+      "visible_signature": "(56, 56):2043aef487532b348de8b0cceeb7496ab8510f16b25f61d3f2c30243e57550a4"
+    },
+    {
+      "category": "skill_icon",
+      "id": "boss_06_field",
+      "file": "UI/Skill_Icons/boss_06_field.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        10,
+        60,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        253
+      ],
+      "semitransparent_pixels": 1780,
+      "visible_signature": "(56, 43):2527956ed73d311be9dae401f348fa9e96bbf233aee0dc59b3bf0bced9f8e6f5"
+    },
+    {
+      "category": "skill_icon",
+      "id": "boss_07_chain",
+      "file": "UI/Skill_Icons/boss_07_chain.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        13,
+        60,
+        50
+      ],
+      "alpha_minmax": [
+        0,
+        252
+      ],
+      "semitransparent_pixels": 1152,
+      "visible_signature": "(56, 37):b454251a10a8e411a04c1d8aaba58f2e61b6e91b8e45cb3ab0ecf30cce573fd2"
+    },
+    {
+      "category": "skill_icon",
+      "id": "boss_08_prison",
+      "file": "UI/Skill_Icons/boss_08_prison.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        5,
+        4,
+        59,
+        60
+      ],
+      "alpha_minmax": [
+        0,
+        253
+      ],
+      "semitransparent_pixels": 2273,
+      "visible_signature": "(54, 56):6bb145990d77994eb09e182f16b66b8d1124d6a35c764251412e752e476b4726"
+    },
+    {
+      "category": "skill_icon",
+      "id": "boss_09_summon",
+      "file": "UI/Skill_Icons/boss_09_summon.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        8,
+        60,
+        56
+      ],
+      "alpha_minmax": [
+        0,
+        254
+      ],
+      "semitransparent_pixels": 1344,
+      "visible_signature": "(56, 48):14af41ba86fcd6cf9fda5e1d6587d506b29a9cded80abb5e5d70e9698fb3f9b6"
+    },
+    {
+      "category": "skill_icon",
+      "id": "boss_10_claws",
+      "file": "UI/Skill_Icons/boss_10_claws.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        8,
+        60,
+        55
+      ],
+      "alpha_minmax": [
+        0,
+        253
+      ],
+      "semitransparent_pixels": 1651,
+      "visible_signature": "(56, 47):4525962ea1050e20218aad7deaa88aa5df1432f61c45154803a6083699c5e58b"
+    },
+    {
+      "category": "skill_icon",
+      "id": "boss_11_roar",
+      "file": "UI/Skill_Icons/boss_11_roar.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        11,
+        60,
+        53
+      ],
+      "alpha_minmax": [
+        0,
+        253
+      ],
+      "semitransparent_pixels": 1837,
+      "visible_signature": "(56, 42):7c47bd50f7a32ce86b149ed1b219d076a74e2e75ff2b0e4ca096fe759874c3bd"
+    },
+    {
+      "category": "skill_icon",
+      "id": "boss_12_slam",
+      "file": "UI/Skill_Icons/boss_12_slam.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        4,
+        8,
+        60,
+        55
+      ],
+      "alpha_minmax": [
+        0,
+        253
+      ],
+      "semitransparent_pixels": 2099,
+      "visible_signature": "(56, 47):afb5af323aac90118c312182a9164326a26ae0b6f6498b3caee493b5e58a2468"
+    },
+    {
+      "category": "ui_panel",
+      "id": "mp",
+      "file": "UI/Panels/mp.png",
+      "canvas": [
+        338,
+        44
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        1,
+        1,
+        335,
+        44
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(334, 43):070d7ffa48b1ee894879277d91ad3d30dbd506417ac0b1022b6d98dce5a10524"
+    },
+    {
+      "category": "ui_panel",
+      "id": "settings",
+      "file": "UI/Panels/settings.png",
+      "canvas": [
+        94,
+        113
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        2,
+        1,
+        93,
+        107
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(91, 106):40ea8c43261baf5885ac1849165832ec1ce4c0fd8a26f5ea1e7f4e2aae87cb2c"
+    },
+    {
+      "category": "ui_panel",
+      "id": "inventory",
+      "file": "UI/Panels/inventory.png",
+      "canvas": [
+        506,
+        625
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        1,
+        1,
+        503,
+        622
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(502, 621):192e96a635c378d559726516b08c866ac4577e020eff0a9ef7c98061990a2e6a"
+    },
+    {
+      "category": "ui_panel",
+      "id": "minimap",
+      "file": "UI/Panels/minimap.png",
+      "canvas": [
+        272,
+        260
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        2,
+        2,
+        271,
+        258
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(269, 256):cfb2b4e847b59a4b1b15975c3a9d93a189f3ffd80b7456c3c3d8f2395f0f8722"
+    },
+    {
+      "category": "ui_panel",
+      "id": "portrait",
+      "file": "UI/Panels/portrait.png",
+      "canvas": [
+        169,
+        191
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        1,
+        1,
+        166,
+        189
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(165, 188):195134f246c2c0c0756eefd122e72b76fe56c0885f10d65e3c321fb3fea488e6"
+    },
+    {
+      "category": "ui_panel",
+      "id": "parchment",
+      "file": "UI/Panels/parchment.png",
+      "canvas": [
+        13,
+        20
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        0,
+        0,
+        13,
+        20
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(13, 20):d8a77c992c2fb65f9ac42dbaf1b9045b6438718a2ea2c5440f0a7ed64845a262"
+    },
+    {
+      "category": "ui_panel",
+      "id": "map",
+      "file": "UI/Panels/map.png",
+      "canvas": [
+        94,
+        113
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        2,
+        1,
+        93,
+        107
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(91, 106):23951d1caf437f597dd8b21c3eaa3aab4ea122246eb8b5215757865b1a6d04fc"
+    },
+    {
+      "category": "ui_panel",
+      "id": "bottom",
+      "file": "UI/Panels/bottom.png",
+      "canvas": [
+        1526,
+        123
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        2,
+        2,
+        1525,
+        121
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(1523, 119):d4e1c2357ff9ab24f6969f7f75c46f3843815742e81622455636d8c350eef393"
+    },
+    {
+      "category": "ui_panel",
+      "id": "slot",
+      "file": "UI/Panels/slot.png",
+      "canvas": [
+        75,
+        80
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        0,
+        0,
+        75,
+        80
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(75, 80):12d9a9f5739b9d4e217ba17ca324d9b956803410f24eec1741c27df3d505b3b6"
+    },
+    {
+      "category": "ui_panel",
+      "id": "task",
+      "file": "UI/Panels/task.png",
+      "canvas": [
+        282,
+        208
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        2,
+        1,
+        282,
+        207
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(280, 206):52ff009a6c9db09696d954e372abfc6f5630705eb5601f860aa2fdff5ecd436d"
+    },
+    {
+      "category": "ui_panel",
+      "id": "menu",
+      "file": "UI/Panels/menu.png",
+      "canvas": [
+        94,
+        113
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        2,
+        1,
+        93,
+        107
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(91, 106):3887955f3f082c4df7a42aac82fe12ec91014500bc825226b34fa6ac9a1a920b"
+    },
+    {
+      "category": "ui_panel",
+      "id": "level",
+      "file": "UI/Panels/level.png",
+      "canvas": [
+        102,
+        42
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        0,
+        0,
+        102,
+        42
+      ],
+      "alpha_minmax": [
+        255,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(102, 42):a8269cd97c6352a64fa653ec0ed6d7fd85b99017f5127a61da6db97c0419acb5"
+    },
+    {
+      "category": "ui_panel",
+      "id": "hp",
+      "file": "UI/Panels/hp.png",
+      "canvas": [
+        339,
+        52
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        1,
+        1,
+        336,
+        52
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(335, 51):0712d260433ceda84c920e6edf3cb8ebe10f3f85da34c686f08be41bbf9844d5"
+    },
+    {
+      "category": "ui_panel",
+      "id": "controls",
+      "file": "UI/Panels/controls.png",
+      "canvas": [
+        173,
+        259
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        2,
+        1,
+        171,
+        258
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(169, 257):154ecf924aa9f1fc3f2220e97cd43ca776b11055815d28f54a106df59b3d3e1b"
+    },
+    {
+      "category": "ui_panel",
+      "id": "skills",
+      "file": "UI/Panels/skills.png",
+      "canvas": [
+        697,
+        124
+      ],
+      "mode": "RGBA",
+      "visible_bbox": [
+        3,
+        2,
+        696,
+        122
+      ],
+      "alpha_minmax": [
+        0,
+        255
+      ],
+      "semitransparent_pixels": 0,
+      "visible_signature": "(693, 120):daaff3566853b43263ebf70394893e1930e854028688c0ed14662096423cab35"
+    }
+  ],
+  "aliases": [
+    {
+      "category": "building",
+      "alias_unit": "City_warehouse_frontage_0",
+      "canonical": "Buildings/City/City_warehouse_0.png"
+    },
+    {
+      "category": "building",
+      "alias_unit": "Swamp_pavilion_0",
+      "canonical": "Buildings/Forest/Forest_pavilion_0.png"
+    },
+    {
+      "category": "environment",
+      "alias_unit": "City_road_shrub_herbal_0",
+      "canonical": "Environment/City/City_building_herbal_shrub_0.png"
+    },
+    {
+      "category": "environment",
+      "alias_unit": "City_road_shrub_tea_0",
+      "canonical": "Environment/City/City_building_tea_shrub_0.png"
+    },
+    {
+      "category": "environment",
+      "alias_unit": "City_road_tree_0",
+      "canonical": "Environment/City/City_broadleaf_tree_0.png"
+    },
+    {
+      "category": "environment",
+      "alias_unit": "Desert_barrel_crate_stack_0",
+      "canonical": "Environment/City/City_barrel_crate_stack_0.png"
+    },
+    {
+      "category": "environment",
+      "alias_unit": "Desert_stone_well_0",
+      "canonical": "Environment/City/City_stone_well_0.png"
+    },
+    {
+      "category": "environment",
+      "alias_unit": "Desert_wood_barrel_0",
+      "canonical": "Environment/City/City_wood_barrel_0.png"
+    },
+    {
+      "category": "environment",
+      "alias_unit": "Desert_wood_cart_0",
+      "canonical": "Environment/City/City_wood_cart_0.png"
+    },
+    {
+      "category": "environment",
+      "alias_unit": "Desert_wood_sign_0",
+      "canonical": "Environment/City/City_wood_sign_0.png"
+    },
+    {
+      "category": "environment",
+      "alias_unit": "Forest_wood_barrel_0",
+      "canonical": "Environment/City/City_wood_barrel_0.png"
+    },
+    {
+      "category": "environment",
+      "alias_unit": "Forest_wood_cart_0",
+      "canonical": "Environment/City/City_wood_cart_0.png"
+    },
+    {
+      "category": "environment",
+      "alias_unit": "Forest_wood_fence_0",
+      "canonical": "Environment/City/City_wood_fence_0.png"
+    },
+    {
+      "category": "environment",
+      "alias_unit": "Forest_wood_sign_0",
+      "canonical": "Environment/City/City_wood_sign_0.png"
+    },
+    {
+      "category": "terrain_base",
+      "alias_unit": "Forest_dirt",
+      "canonical": "Terrain/Base_Textures/Desert_dirt.png"
+    },
+    {
+      "category": "terrain_base",
+      "alias_unit": "Forest_grass",
+      "canonical": "Terrain/Base_Textures/Desert_grass.png"
+    },
+    {
+      "category": "terrain_base",
+      "alias_unit": "Forest_paving",
+      "canonical": "Terrain/Base_Textures/City_file.png"
+    },
+    {
+      "category": "terrain_base",
+      "alias_unit": "Forest_water",
+      "canonical": "Terrain/Base_Textures/Desert_water.png"
+    },
+    {
+      "category": "terrain_base",
+      "alias_unit": "Snow_paving",
+      "canonical": "Terrain/Base_Textures/City_file.png"
+    },
+    {
+      "category": "terrain_base",
+      "alias_unit": "Swamp_paving",
+      "canonical": "Terrain/Base_Textures/City_file.png"
+    }
+  ],
+  "counts_are_image_signatures_not_additive_designs": true
+}

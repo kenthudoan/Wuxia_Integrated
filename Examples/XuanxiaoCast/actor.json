@@ -1,0 +1,326 @@
+{
+  "idle": {
+    "south": {
+      "canvas": [
+        192,
+        176
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "durations_ms": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "loop": true,
+      "files": [
+        "PNG/idle/south/frame_000.png",
+        "PNG/idle/south/frame_001.png",
+        "PNG/idle/south/frame_002.png",
+        "PNG/idle/south/frame_003.png"
+      ],
+      "sha256": [
+        "6d47b43ca3c4bf7e296e8a73a0dc53fd8e5389699ec22fb2fb1c44f71781e134",
+        "71b104f577e100a1611d1947ce7b2496ab844fd9e80fce15e836446660d743cf",
+        "d3e2cf7dd14801192810e2d909f32c9cb86c41fcd604b6f56c77c6939c0adb22",
+        "ef8c28e2db6077384ea87af52c70241884b2291e6043cfdd27d018ac873dfb9a"
+      ]
+    },
+    "north": {
+      "canvas": [
+        192,
+        176
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "durations_ms": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "loop": true,
+      "files": [
+        "PNG/idle/north/frame_000.png",
+        "PNG/idle/north/frame_001.png",
+        "PNG/idle/north/frame_002.png",
+        "PNG/idle/north/frame_003.png"
+      ],
+      "sha256": [
+        "ea8f426c739e5a026f20b4b5b4ab927ba061347f5e9bc565643f8a6f65e76746",
+        "50fba608d43563a69a6038a34788b7c344cac4abbd8066e5398bf2580857540d",
+        "05f9a482b05d0a57234ca8ddbe842c2aa9a10b2815b498c762b82783ffc7da32",
+        "50d0a5161ace65b1a3cf4a661e95670fa11d7a25d661793c076cffbe131dc265"
+      ]
+    },
+    "east": {
+      "canvas": [
+        192,
+        176
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "durations_ms": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "loop": true,
+      "files": [
+        "PNG/idle/east/frame_000.png",
+        "PNG/idle/east/frame_001.png",
+        "PNG/idle/east/frame_002.png",
+        "PNG/idle/east/frame_003.png"
+      ],
+      "sha256": [
+        "87b23aae40ee797eb774a8fd06a737c644a3df3013e037104fdab14d6c8e5f07",
+        "d3f6005fe76cf08418bdf9bd4f83ef030a8c7dc17863bd26ccd55674aa82bdf5",
+        "0e8559898a53effbad4953606c873b03566261ac50f84e481383a70943fc60c3",
+        "0b886fe16cb9d3bd6648c17bcca7cbc8482d6564420aaa78ea0e1bec8043cd80"
+      ]
+    },
+    "west": {
+      "canvas": [
+        192,
+        176
+      ],
+      "anchor": [
+        96,
+        144
+      ],
+      "durations_ms": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "loop": true,
+      "files": [
+        "PNG/idle/west/frame_000.png",
+        "PNG/idle/west/frame_001.png",
+        "PNG/idle/west/frame_002.png",
+        "PNG/idle/west/frame_003.png"
+      ],
+      "sha256": [
+        "85ded6a4de2b267563421d7c2bc5983b1fc456e928112fcb65bf020622757e76",
+        "008bc78c60f8e524c8117ef9b05506daa7bb70fdcb6f4e28649f181ff783c061",
+        "60924222c5b2eae2b23f274d408c00d641b071b80fcad9a22443314f1e6387b9",
+        "52847b036a4d794afc7e4f507c566998f51c8c067bb937617d46bc705a1c5e41"
+      ]
+    }
+  },
+  "cast": {
+    "south": {
+      "name": "玄霄剑宗-掌门",
+      "action": "cast",
+      "direction": "south",
+      "canvas": [
+        128,
+        144
+      ],
+      "anchor": [
+        64,
+        126
+      ],
+      "durations_ms": [
+        120,
+        140,
+        180,
+        180,
+        100,
+        160,
+        140,
+        180
+      ],
+      "loop": false,
+      "end_behavior": "return_to_idle",
+      "files": [
+        "PNG/cast/south/frame_000.png",
+        "PNG/cast/south/frame_001.png",
+        "PNG/cast/south/frame_002.png",
+        "PNG/cast/south/frame_003.png",
+        "PNG/cast/south/frame_004.png",
+        "PNG/cast/south/frame_005.png",
+        "PNG/cast/south/frame_006.png",
+        "PNG/cast/south/frame_007.png"
+      ],
+      "sha256": [
+        "7d1105c7bbddf22faf3243f5cc12273fd517cb2b5408d31c0423b0e8cf1ff171",
+        "329f343b1322005ddf1056dd12fb622db827c50d79ce886fc0ac99747b33db06",
+        "5069297ed1e450d8b5274c66a1df0c7aed73d879943b88b4bb02365ae26c1ca9",
+        "608c8e17481dc3cb5303567f0d0f766293f2917422ee02070e9cacb88a9630ce",
+        "63044167f8256536479d3476166d28631b112dbfbd2c8683f4044e515ca28388",
+        "e47720d5b5c2a8ddaa0166687013f475e998d5e76cac859b78033b3f5a5aad6c",
+        "b7d67c5fb504148c490662fd968bb75cd50f72ad9836d312d6c406085e55a43a",
+        "3e75fc30711a770500ee9d035f1a2b53c099ea9bce5a67892967243de3ea8014"
+      ],
+      "shared_general_cast": true,
+      "suggested_release": {
+        "frame_zero_based": 5,
+        "time_ms": 720,
+        "basis": "2026-11-04 visual integration suggestion; not API-authored damage timing"
+      }
+    },
+    "north": {
+      "name": "玄霄剑宗-掌门",
+      "action": "cast",
+      "direction": "north",
+      "canvas": [
+        128,
+        144
+      ],
+      "anchor": [
+        64,
+        129
+      ],
+      "durations_ms": [
+        120,
+        140,
+        180,
+        180,
+        100,
+        160,
+        140,
+        180
+      ],
+      "loop": false,
+      "end_behavior": "return_to_idle",
+      "files": [
+        "PNG/cast/north/frame_000.png",
+        "PNG/cast/north/frame_001.png",
+        "PNG/cast/north/frame_002.png",
+        "PNG/cast/north/frame_003.png",
+        "PNG/cast/north/frame_004.png",
+        "PNG/cast/north/frame_005.png",
+        "PNG/cast/north/frame_006.png",
+        "PNG/cast/north/frame_007.png"
+      ],
+      "sha256": [
+        "f82fe3d57d75a9cfb305cc2d4af7faa0f866d8adf90e0b95ddb3fe4871c2ee09",
+        "94f028630d36e35eaf0ae9956c1b3cdfbc9dd28c91e770f11b2a2a2554150340",
+        "29c925e4b68bf49564ae034602949a5d0df990c2c321350ddc31504334f4217f",
+        "b6de12aaa39f07efc68c865e206992b38630fe34a4715d7e82fdf880ec53b317",
+        "798cff858398b5382f390e713dca878443927c456039299957cf1d3d29a925ed",
+        "0b0c298e9b06471fd0f18e6d50c8f6cc427f8cfa111d4da0945f488857c56dc7",
+        "b9a134ed965770a34ebfbf396653002cbcebbebf685ea27b76f65493525cb4a7",
+        "aecc729758670de60bb0c044107ef9f20b64755bd1f3ff55d77763bdca919e85"
+      ],
+      "shared_general_cast": true,
+      "suggested_release": {
+        "frame_zero_based": 2,
+        "time_ms": 260,
+        "basis": "2026-11-04 visual integration suggestion; not API-authored damage timing"
+      }
+    },
+    "east": {
+      "name": "玄霄剑宗-掌门",
+      "action": "cast",
+      "direction": "east",
+      "canvas": [
+        128,
+        144
+      ],
+      "anchor": [
+        64,
+        133
+      ],
+      "durations_ms": [
+        120,
+        140,
+        180,
+        180,
+        100,
+        160,
+        140,
+        180
+      ],
+      "loop": false,
+      "end_behavior": "return_to_idle",
+      "files": [
+        "PNG/cast/east/frame_000.png",
+        "PNG/cast/east/frame_001.png",
+        "PNG/cast/east/frame_002.png",
+        "PNG/cast/east/frame_003.png",
+        "PNG/cast/east/frame_004.png",
+        "PNG/cast/east/frame_005.png",
+        "PNG/cast/east/frame_006.png",
+        "PNG/cast/east/frame_007.png"
+      ],
+      "sha256": [
+        "90f4c007e8e23ea093db669cb3afd19b488560602cdc0e91a8fccf73d39eb7c6",
+        "b1559887dfad39022e8151628d805e3cc7576db6e205c189dcfff46b8588843b",
+        "380345410988aa9e7a75061146aacbcdd77a8b6a8574f82ebed8ef495420895f",
+        "a5e552f15a8a3ccbffb8a7c33d031065f8d9586de7913257eec85d16c0345fe7",
+        "b604565d040ead91888d3177ea8bbfaeca82e14063780e0fa0a656a860416210",
+        "4683367fd1ff3256b19ea97dbcf8a5d0083b5289ea021ebbbede7f59e151cea5",
+        "191e651f5e6f4726cfe547173074f5acac1160249b58d27a01ac61f93c2c7a88",
+        "338f3317cc1322ca833af8ce8860e09db2acc50a03365c762c31cefb124141d6"
+      ],
+      "shared_general_cast": true,
+      "suggested_release": {
+        "frame_zero_based": 5,
+        "time_ms": 720,
+        "basis": "2026-11-04 visual integration suggestion; not API-authored damage timing"
+      }
+    },
+    "west": {
+      "name": "玄霄剑宗-掌门",
+      "action": "cast",
+      "direction": "west",
+      "canvas": [
+        128,
+        144
+      ],
+      "anchor": [
+        64,
+        133
+      ],
+      "durations_ms": [
+        120,
+        140,
+        180,
+        180,
+        100,
+        160,
+        140,
+        180
+      ],
+      "loop": false,
+      "end_behavior": "return_to_idle",
+      "files": [
+        "PNG/cast/west/frame_000.png",
+        "PNG/cast/west/frame_001.png",
+        "PNG/cast/west/frame_002.png",
+        "PNG/cast/west/frame_003.png",
+        "PNG/cast/west/frame_004.png",
+        "PNG/cast/west/frame_005.png",
+        "PNG/cast/west/frame_006.png",
+        "PNG/cast/west/frame_007.png"
+      ],
+      "sha256": [
+        "f4caf89075f965ab3df7e8193ab539f14837fc3a61673c4b044c098addb19f65",
+        "6de650cd4f66061ddfb7d108a4fa60bd1f23573d355d535b7b63aebd2a88156c",
+        "bef69f7bd0886001e92ff703342220c07b03cfc269ca310612b6073c5e854466",
+        "b7bff73e49e4be2640474e6f8232ba65a69076b7b8d56a98decdf4738c184a45",
+        "516168cd4d8bae8f46864f37dba47a49cd5d6b800241192624668726d9fa937f",
+        "b765384f5e84916a07f24f3362bd0a3447c023a84bcc062e0bf85aeaab92a2ef",
+        "70588b5117fd73ca745a1475e7885fecb3cf6a509025a8b731472fa705869920",
+        "cccae88c3781e9f5692cbe5b7a6a5bfce9eb05955ca60d5a0d6f83e6a13f8a8e"
+      ],
+      "shared_general_cast": true,
+      "suggested_release": {
+        "frame_zero_based": 5,
+        "time_ms": 720,
+        "basis": "2026-11-04 visual integration suggestion; not API-authored damage timing"
+      }
+    }
+  }
+}

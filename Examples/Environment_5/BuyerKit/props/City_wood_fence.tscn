@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_wood_fence_0.png" id="1_8ttuu"]
+
+[node name="wood_fence" type="StaticBody2D"]
+metadata/asset_id = "wood_fence"
+
+[node name="_CollisionPolygon2D_246" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-42, -9, 42, -9, 42, 0, -42, 0)
+
+[node name="_Sprite2D_247" type="Sprite2D" parent="."]
+position = Vector2(-63, -125)
+texture = ExtResource("1_8ttuu")
+centered = false

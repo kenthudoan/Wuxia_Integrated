@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_escort_agency_0.png" id="1_kqhe3"]
+
+[node name="escort_agency" type="StaticBody2D"]
+metadata/asset_id = "escort_agency"
+
+[node name="_CollisionPolygon2D_5" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-256, -100, 256, -100, 256, -8, -256, -8)
+
+[node name="_Sprite2D_6" type="Sprite2D" parent="."]
+position = Vector2(-313, -443)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_kqhe3")
+centered = false

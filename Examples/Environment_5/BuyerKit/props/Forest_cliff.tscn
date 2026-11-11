@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Forest_cliff_0.png" id="1_opp27"]
+
+[node name="cliff" type="StaticBody2D"]
+metadata/asset_id = "broadleaf_tree"
+
+[node name="_CollisionPolygon2D_1295" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-195, -105, 195, -105, 195, 0, -195, 0)
+
+[node name="_Sprite2D_1296" type="Sprite2D" parent="."]
+position = Vector2(-256, -480)
+texture = ExtResource("1_opp27")
+centered = false

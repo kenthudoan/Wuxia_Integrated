@@ -1,0 +1,28 @@
+WUXIA PIXEL ASSET PACK — COMMERCIAL ASSET LICENSE
+Version 1.0 — 2026-10-29
+
+Licensor: the original seller identified on the authorized distribution page or purchase receipt for this pack.
+Licensee: the purchaser or recipient expressly authorized by the Licensor.
+
+1. Scope
+To the extent the Licensor holds the relevant rights, this license covers the pack's art, original code, layouts and documentation, except third-party material identified in THIRD_PARTY_NOTICES.md. It is a non-exclusive, worldwide, perpetual permission to use these assets in unlimited commercial or non-commercial games and other creative projects. No additional per-project royalty is required by the Licensor.
+
+2. Permitted use
+You may modify the licensed assets and distribute them as part of completed projects, including games, applications, videos and promotional images. You may share source assets privately with members and contractors of your project team only as needed for that project. Those recipients must follow this license and must not use the source assets for unrelated projects without their own authorization. Backups are permitted. Your original project remains yours.
+
+3. Restrictions
+Do not resell, sublicense, give away or publicly upload the source assets or modified versions as an asset pack, stock library, template, source repository or other extractable collection. Do not distribute the pack as a substitute for obtaining it from the Licensor. Do not claim exclusive ownership or authorship of the unmodified assets. Do not use the Licensor-controlled or PixelLab-generated assets to train or fine-tune machine-learning models without the necessary written permission. These restrictions do not remove rights independently granted by the licenses of third-party material.
+
+4. Third-party material and AI disclosure
+Fonts, identified source recordings and other separately licensed components remain governed by their own licenses. Preserve required notices; if those terms conflict with this license, the applicable third-party terms control that component. This license neither transfers rights belonging to others nor overrides upstream provider terms. The pack uses AI-assisted generation, including PixelLab and ChatGPT/image generation, together with deterministic editing and code. Outputs are not promised to be unique or exclusively protectable by copyright.
+
+5. Credit and delivery scope
+Credit to the pack seller is appreciated but is not required by this license. Separate third-party attribution requirements still apply. Included files and supported features are those listed in the current CONTENTS_CURRENT.json and KNOWN_LIMITATIONS.md. Static references, incomplete animation sets, example logic and engine-specific effects are not a promise of a complete playable game or universal engine compatibility.
+
+6. Warranty, mandatory rights and breach
+Except where mandatory law requires otherwise, the pack is supplied as is without a promise of fitness for a particular project. Nothing here waives non-excludable consumer rights. A material breach of the restrictions ends the permissions granted by this license for that Licensee; third-party rights and licenses remain unaffected. No ownership of third-party material, provider services, trademarks or the buyer's original work is transferred.
+
+中文说明（与英文共同表述同一授权；有疑义应向发行人确认）
+本授权由购买凭证或授权发布页所列的原发行人授予合法买家。就发行人有权许可的内容，允许永久、非独占地用于不限数量的商业或非商业游戏及创作项目，可修改，发行人不另收项目版税；可向同一项目团队与外包人员按需私下提供，但不得让其独立用于其他项目。可发行包含素材的成品，买家自己的作品仍归买家。
+不得把原素材或修改版作为素材包、图库、模板、公开源码仓库等可提取集合再次转售、转授权、赠送或公开上传；不得声称原素材是自己的独家原创。未经必要书面许可，不得用发行人控制的素材或PixelLab生成图训练/微调模型。第三方许可独立授予的权利不受这些限制剥夺。
+字体、标明来源的录音等第三方内容按各自许可，保留必要声明；本授权不能替代第三方权利或服务商条款。素材含PixelLab、ChatGPT/imagegen等AI辅助生成及技术处理，不承诺唯一性或所有输出都具有排他版权。署名发行人非强制，第三方要求除外。实际交付范围、动作缺项与兼容性以当前清单和已知限制为准，不承诺完整游戏或全引擎即插即用。依法不得排除的消费者权利不受影响。

@@ -1,0 +1,521 @@
+{
+  "id": "12_rebound",
+  "sect": "碧竹山庄",
+  "name": "虚竹卸劲",
+  "mode": "rebound",
+  "phases": {
+    "cast": {
+      "sheet": "SectVFX/Textures/213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1774,
+            887
+          ],
+          "duration": 1.0,
+          "png": "SectVFX/Frames/24f7e25a6fdf6dcfdfff2ef1a6d191831ef19d51c3b0e68a6c0847518827194b.png",
+          "sha256": "edbdf1049f8570e83ba730a0cbca57992864e30b1f57701c8388c3da78193dc4"
+        }
+      ],
+      "canvas": [
+        1774,
+        887
+      ],
+      "logical_canvas": [
+        66,
+        33
+      ],
+      "anchor": [
+        1030,
+        477
+      ],
+      "sha256": "213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351",
+      "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/leaf/sheet.png"
+    },
+    "projectile": {
+      "sheet": "SectVFX/Textures/b3ec73bdea2629bee949c2266f95fa87a1094fabd4e2626bbafff10161d0d55d.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1092,
+            1440
+          ],
+          "duration": 1.0,
+          "png": "SectVFX/Frames/4225dde9c72057b04278e982b28cdff710cbe033dfc92bfc3b5abfaeada5d646.png",
+          "sha256": "41d76c313d4662b5b426a0004c297a1eb350a3d14444a153c478111570e912d7"
+        }
+      ],
+      "canvas": [
+        1092,
+        1440
+      ],
+      "logical_canvas": [
+        119,
+        157
+      ],
+      "anchor": [
+        615,
+        1370
+      ],
+      "sha256": "b3ec73bdea2629bee949c2266f95fa87a1094fabd4e2626bbafff10161d0d55d",
+      "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/guard/sheet.png"
+    },
+    "impact": {
+      "sheet": "SectVFX/Textures/8e0d3f38fc411ec57f213f7c09be05f8b0b5a7ccb41faebbd7115e9b15ddd40d.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1254,
+            1254
+          ],
+          "duration": 1.0,
+          "png": "SectVFX/Frames/a275653710eb11286e310bdc0a6f320f8d530d3ae831a0db5b4bde7aef186418.png",
+          "sha256": "c7fe50b523a46f7d897fd6b0521a18829e3bcc9a8e150f4ca215e01ddd34278e"
+        }
+      ],
+      "canvas": [
+        1254,
+        1254
+      ],
+      "logical_canvas": [
+        77,
+        77
+      ],
+      "anchor": [
+        751,
+        646
+      ],
+      "sha256": "8e0d3f38fc411ec57f213f7c09be05f8b0b5a7ccb41faebbd7115e9b15ddd40d",
+      "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/impact/sheet.png"
+    },
+    "leaf": {
+      "sheet": "SectVFX/Textures/213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1774,
+            887
+          ],
+          "duration": 1.0,
+          "png": "SectVFX/Frames/24f7e25a6fdf6dcfdfff2ef1a6d191831ef19d51c3b0e68a6c0847518827194b.png",
+          "sha256": "edbdf1049f8570e83ba730a0cbca57992864e30b1f57701c8388c3da78193dc4"
+        }
+      ],
+      "canvas": [
+        1774,
+        887
+      ],
+      "logical_canvas": [
+        66,
+        33
+      ],
+      "anchor": [
+        1030,
+        477
+      ],
+      "sha256": "213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351",
+      "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/leaf/sheet.png"
+    }
+  },
+  "direction_phases": {
+    "right": {
+      "cast": {
+        "sheet": "SectVFX/Textures/213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1774,
+              887
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/24f7e25a6fdf6dcfdfff2ef1a6d191831ef19d51c3b0e68a6c0847518827194b.png",
+            "sha256": "edbdf1049f8570e83ba730a0cbca57992864e30b1f57701c8388c3da78193dc4"
+          }
+        ],
+        "canvas": [
+          1774,
+          887
+        ],
+        "logical_canvas": [
+          66,
+          33
+        ],
+        "anchor": [
+          1030,
+          477
+        ],
+        "sha256": "213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351",
+        "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/leaf/sheet.png"
+      },
+      "projectile": {
+        "sheet": "SectVFX/Textures/b3ec73bdea2629bee949c2266f95fa87a1094fabd4e2626bbafff10161d0d55d.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1092,
+              1440
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/4225dde9c72057b04278e982b28cdff710cbe033dfc92bfc3b5abfaeada5d646.png",
+            "sha256": "41d76c313d4662b5b426a0004c297a1eb350a3d14444a153c478111570e912d7"
+          }
+        ],
+        "canvas": [
+          1092,
+          1440
+        ],
+        "logical_canvas": [
+          119,
+          157
+        ],
+        "anchor": [
+          615,
+          1370
+        ],
+        "sha256": "b3ec73bdea2629bee949c2266f95fa87a1094fabd4e2626bbafff10161d0d55d",
+        "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/guard/sheet.png"
+      },
+      "impact": {
+        "sheet": "SectVFX/Textures/8e0d3f38fc411ec57f213f7c09be05f8b0b5a7ccb41faebbd7115e9b15ddd40d.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1254,
+              1254
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/a275653710eb11286e310bdc0a6f320f8d530d3ae831a0db5b4bde7aef186418.png",
+            "sha256": "c7fe50b523a46f7d897fd6b0521a18829e3bcc9a8e150f4ca215e01ddd34278e"
+          }
+        ],
+        "canvas": [
+          1254,
+          1254
+        ],
+        "logical_canvas": [
+          77,
+          77
+        ],
+        "anchor": [
+          751,
+          646
+        ],
+        "sha256": "8e0d3f38fc411ec57f213f7c09be05f8b0b5a7ccb41faebbd7115e9b15ddd40d",
+        "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/impact/sheet.png"
+      },
+      "leaf": {
+        "sheet": "SectVFX/Textures/213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1774,
+              887
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/24f7e25a6fdf6dcfdfff2ef1a6d191831ef19d51c3b0e68a6c0847518827194b.png",
+            "sha256": "edbdf1049f8570e83ba730a0cbca57992864e30b1f57701c8388c3da78193dc4"
+          }
+        ],
+        "canvas": [
+          1774,
+          887
+        ],
+        "logical_canvas": [
+          66,
+          33
+        ],
+        "anchor": [
+          1030,
+          477
+        ],
+        "sha256": "213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351",
+        "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/leaf/sheet.png"
+      }
+    },
+    "up": {
+      "cast": {
+        "sheet": "SectVFX/Textures/213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1774,
+              887
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/24f7e25a6fdf6dcfdfff2ef1a6d191831ef19d51c3b0e68a6c0847518827194b.png",
+            "sha256": "edbdf1049f8570e83ba730a0cbca57992864e30b1f57701c8388c3da78193dc4"
+          }
+        ],
+        "canvas": [
+          1774,
+          887
+        ],
+        "logical_canvas": [
+          66,
+          33
+        ],
+        "anchor": [
+          1030,
+          477
+        ],
+        "sha256": "213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351",
+        "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/leaf/sheet.png"
+      },
+      "projectile": {
+        "sheet": "SectVFX/Textures/b3ec73bdea2629bee949c2266f95fa87a1094fabd4e2626bbafff10161d0d55d.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1092,
+              1440
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/4225dde9c72057b04278e982b28cdff710cbe033dfc92bfc3b5abfaeada5d646.png",
+            "sha256": "41d76c313d4662b5b426a0004c297a1eb350a3d14444a153c478111570e912d7"
+          }
+        ],
+        "canvas": [
+          1092,
+          1440
+        ],
+        "logical_canvas": [
+          119,
+          157
+        ],
+        "anchor": [
+          615,
+          1370
+        ],
+        "sha256": "b3ec73bdea2629bee949c2266f95fa87a1094fabd4e2626bbafff10161d0d55d",
+        "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/guard/sheet.png"
+      },
+      "impact": {
+        "sheet": "SectVFX/Textures/8e0d3f38fc411ec57f213f7c09be05f8b0b5a7ccb41faebbd7115e9b15ddd40d.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1254,
+              1254
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/a275653710eb11286e310bdc0a6f320f8d530d3ae831a0db5b4bde7aef186418.png",
+            "sha256": "c7fe50b523a46f7d897fd6b0521a18829e3bcc9a8e150f4ca215e01ddd34278e"
+          }
+        ],
+        "canvas": [
+          1254,
+          1254
+        ],
+        "logical_canvas": [
+          77,
+          77
+        ],
+        "anchor": [
+          751,
+          646
+        ],
+        "sha256": "8e0d3f38fc411ec57f213f7c09be05f8b0b5a7ccb41faebbd7115e9b15ddd40d",
+        "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/impact/sheet.png"
+      },
+      "leaf": {
+        "sheet": "SectVFX/Textures/213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1774,
+              887
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/24f7e25a6fdf6dcfdfff2ef1a6d191831ef19d51c3b0e68a6c0847518827194b.png",
+            "sha256": "edbdf1049f8570e83ba730a0cbca57992864e30b1f57701c8388c3da78193dc4"
+          }
+        ],
+        "canvas": [
+          1774,
+          887
+        ],
+        "logical_canvas": [
+          66,
+          33
+        ],
+        "anchor": [
+          1030,
+          477
+        ],
+        "sha256": "213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351",
+        "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/leaf/sheet.png"
+      }
+    },
+    "down": {
+      "cast": {
+        "sheet": "SectVFX/Textures/213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1774,
+              887
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/24f7e25a6fdf6dcfdfff2ef1a6d191831ef19d51c3b0e68a6c0847518827194b.png",
+            "sha256": "edbdf1049f8570e83ba730a0cbca57992864e30b1f57701c8388c3da78193dc4"
+          }
+        ],
+        "canvas": [
+          1774,
+          887
+        ],
+        "logical_canvas": [
+          66,
+          33
+        ],
+        "anchor": [
+          1030,
+          477
+        ],
+        "sha256": "213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351",
+        "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/leaf/sheet.png"
+      },
+      "projectile": {
+        "sheet": "SectVFX/Textures/b3ec73bdea2629bee949c2266f95fa87a1094fabd4e2626bbafff10161d0d55d.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1092,
+              1440
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/4225dde9c72057b04278e982b28cdff710cbe033dfc92bfc3b5abfaeada5d646.png",
+            "sha256": "41d76c313d4662b5b426a0004c297a1eb350a3d14444a153c478111570e912d7"
+          }
+        ],
+        "canvas": [
+          1092,
+          1440
+        ],
+        "logical_canvas": [
+          119,
+          157
+        ],
+        "anchor": [
+          615,
+          1370
+        ],
+        "sha256": "b3ec73bdea2629bee949c2266f95fa87a1094fabd4e2626bbafff10161d0d55d",
+        "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/guard/sheet.png"
+      },
+      "impact": {
+        "sheet": "SectVFX/Textures/8e0d3f38fc411ec57f213f7c09be05f8b0b5a7ccb41faebbd7115e9b15ddd40d.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1254,
+              1254
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/a275653710eb11286e310bdc0a6f320f8d530d3ae831a0db5b4bde7aef186418.png",
+            "sha256": "c7fe50b523a46f7d897fd6b0521a18829e3bcc9a8e150f4ca215e01ddd34278e"
+          }
+        ],
+        "canvas": [
+          1254,
+          1254
+        ],
+        "logical_canvas": [
+          77,
+          77
+        ],
+        "anchor": [
+          751,
+          646
+        ],
+        "sha256": "8e0d3f38fc411ec57f213f7c09be05f8b0b5a7ccb41faebbd7115e9b15ddd40d",
+        "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/impact/sheet.png"
+      },
+      "leaf": {
+        "sheet": "SectVFX/Textures/213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1774,
+              887
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/24f7e25a6fdf6dcfdfff2ef1a6d191831ef19d51c3b0e68a6c0847518827194b.png",
+            "sha256": "edbdf1049f8570e83ba730a0cbca57992864e30b1f57701c8388c3da78193dc4"
+          }
+        ],
+        "canvas": [
+          1774,
+          887
+        ],
+        "logical_canvas": [
+          66,
+          33
+        ],
+        "anchor": [
+          1030,
+          477
+        ],
+        "sha256": "213fe8f3315fdb7d288060d734b478cb4d3f85eb033ab28d565f2bfd3df62351",
+        "demo_sheet": "assets/sect_vfx_v1/bizhu_shared_v1/leaf/sheet.png"
+      }
+    }
+  },
+  "frame_type": "Existing independent keyframe PNGs; Godot drives effect motion and shader changes",
+  "runtime_script": "SectVFX/Runtime/SectBizhuEffects.gd",
+  "standalone_contract": {
+    "coordinate_space": "local ground positions in the VFX node; no game objects mutated",
+    "visual_contact_only": true,
+    "native_sampling": "nearest core, local shader glow",
+    "actor_optional": true
+  },
+  "motion_flags_by_facing": {},
+  "has_spin_action": false,
+  "playback_contract": {
+    "clock_hz": 60,
+    "nominal_end_seconds": 3.65,
+    "preview_peak_seconds": 2.15,
+    "timing_summary": "Incoming -> bend.26, release+.38, flight.34, then leaf impact. No incoming = no counter.",
+    "incoming_acceptance_window_seconds": [
+      0.45,
+      2.3
+    ],
+    "automatic_demo_incoming_default": false,
+    "core_sampling": "nearest",
+    "local_soft_light": "shaders; not a full-screen blur",
+    "coordinate_space": "world ground pixels through private identity context; component placed at foot",
+    "array_frame_clock": "paused atlas clock"
+  }
+}

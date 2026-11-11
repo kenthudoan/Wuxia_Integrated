@@ -1,0 +1,285 @@
+{
+  "id": "07_cleave",
+  "sect": "赤焰刀门",
+  "name": "赤龙断岳",
+  "mode": "cleave",
+  "number": 1,
+  "phases": {
+    "cast": {
+      "sheet": "SectVFX/Textures/d685001e1294e04cc2c1e1c59832655ec14f9cda0cffe7a7b3d2c5bd5941a7c8.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            41,
+            41
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/94521d601d9da4784b27b81554b01c9a203a1959e3154a967bcb99649661a768.png",
+          "sha256": "135a977948962130b4aa9ef0be47f3b1efcf308eda1125498634e947b09fc9b1"
+        },
+        {
+          "rect": [
+            41,
+            0,
+            41,
+            41
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/6ce7b589586f096aff936ff1a4cb9125f154e68dbc47eb4c1ff9c66f7b635cd4.png",
+          "sha256": "24c19683b6f7bf549a73255c0ed11f0d7d3b443a106f87ed2441c994dbf66a89"
+        },
+        {
+          "rect": [
+            82,
+            0,
+            41,
+            41
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/d9df5a88b693dfef0b4b3a9cd7d0fc52b07a6659dd000d122ac6a8337df32678.png",
+          "sha256": "2207068e1ede69b00fa2e44cd87395ecd39e5c949e11de5dafa804b5cde0971d"
+        },
+        {
+          "rect": [
+            123,
+            0,
+            41,
+            41
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/cd2335707cf3a34195ab55f2a60025dc803e664a7deee40fcd5afdb9a467cffc.png",
+          "sha256": "fc60e24248396a5b018bde608078614afc2443b6670d287c59e76d89fefd3fd8"
+        },
+        {
+          "rect": [
+            0,
+            41,
+            41,
+            41
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/96ff5a6c85b5e6bf6fe6ce0dc6ba29fd08b0a376e9802f296e90cf28a2122df0.png",
+          "sha256": "9b2f1746e84d71e45b78744f1a4b9df02fde0cd56d38c6fe120defa48753a9e6"
+        },
+        {
+          "rect": [
+            41,
+            41,
+            41,
+            41
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/49f6fbd4e5e5d853166400088e2568e48da7efa26a806bf2b283d5fd504d7fa3.png",
+          "sha256": "7bf175f82bbe9a674b98387f32fac5eb4b1111513c02e8d4167fc86d48c12368"
+        },
+        {
+          "rect": [
+            82,
+            41,
+            41,
+            41
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/4cd90430586702de6ec725839f88e6bf2fc9daeac296b9d3bdcca5e83d769dce.png",
+          "sha256": "242346c714b7bfb3e4c244f7cbc2d5986ca4cde7a3f251c3cbea3917eee5809c"
+        },
+        {
+          "rect": [
+            123,
+            41,
+            41,
+            41
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/869cccc53deb0dcc9a091a6645ec36d127b966aedcf8dc486443e36d60493c13.png",
+          "sha256": "9521c4ad4506c254d8a29086ef158632de779c919a77a7bb0759baae667e79c9"
+        },
+        {
+          "rect": [
+            0,
+            82,
+            41,
+            41
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/fb7cf936101e936075eb9abd4a6e6f34a0dcbbf9d4dc146af502110389b88a6d.png",
+          "sha256": "a95ac4c97e213320c780e977efc20b2e3aea5d4061c5c0d7e580ed26c5be09ab"
+        },
+        {
+          "rect": [
+            41,
+            82,
+            41,
+            41
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/16fedd86ac430a567387e23b714bc0f0c6ec8111f210ce32f07b5617e789a3e5.png",
+          "sha256": "2b4fdac429e615fd1057ec986c84a43029ed99cc06fda78a3be3fa8b75eef2aa"
+        },
+        {
+          "rect": [
+            82,
+            82,
+            41,
+            41
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/4c6c22ffc888252d63f428af0908f40119091344d0effacb275144449ce28e14.png",
+          "sha256": "ef8cfcb866df757c6d32e406f16a19b1702b5f0fe8b109663e9001b0d100bd43"
+        },
+        {
+          "rect": [
+            123,
+            82,
+            41,
+            41
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/c94facee9f58d254a0a308584a67aa6470d67f924dc3002df17c46723e37dcfd.png",
+          "sha256": "8e9a3e9bb3180148a7e04d244a19e1b1975f83f6d636dfeca34e44cd4ef4f7c3"
+        }
+      ],
+      "anchor": [
+        21,
+        20
+      ],
+      "canvas": [
+        41,
+        41
+      ],
+      "sha256": "d685001e1294e04cc2c1e1c59832655ec14f9cda0cffe7a7b3d2c5bd5941a7c8"
+    },
+    "projectile": {
+      "sheet": "SectVFX/Textures/2f587f08072f0e677f5aaddf221ae43493a84941651d8d79e1e00fb8c917bf27.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            256,
+            256
+          ],
+          "duration": 1.0,
+          "png": "SectVFX/Frames/2ffd707e6b17bea4a24a7e655b5598a0680faa2b56ef9d88046acbf3860f3e2e.png",
+          "sha256": "d2e9f7eaefa505d7b9bdc572c51f388344b99fb8b83231f8bcdd18fd7a991052"
+        }
+      ],
+      "anchor": [
+        215,
+        230
+      ],
+      "canvas": [
+        256,
+        256
+      ],
+      "sha256": "2f587f08072f0e677f5aaddf221ae43493a84941651d8d79e1e00fb8c917bf27",
+      "motion": "chiyan_reveal"
+    },
+    "impact": {
+      "sheet": "SectVFX/Textures/e4b6838e0ce9555d7a0599e082e21834d8499742918738fedfa3a71d10a5fca2.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/14386455bc30d1f2baf506c8609836d8e540bb668c2c045569742849bd81ed42.png",
+          "sha256": "c699684b419e9717a1d940b44c37dd1ccfd8e4c1797f1d2fe6e6807ae0036d11"
+        },
+        {
+          "rect": [
+            48,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/f1afbc5c75a031b25fea6dd24b82026346740a2993c3777d61e8b92eeae38243.png",
+          "sha256": "c0b775085ea7392d273c8ffb63118a1dc08bde8e3e8528478f8e86f7763458a4"
+        },
+        {
+          "rect": [
+            96,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/0d82bc744d4be422d80dad541487e2a3ae75291e85e32942b3019463c3cd7027.png",
+          "sha256": "551927a4d22b379ee0ecaf8f303e7ac153dc5b8259baa190c7c791717e96896c"
+        },
+        {
+          "rect": [
+            0,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/ba2f3485c1836a28c8f64301a1dc87063e467e16b691e45fd707eb455fcfb43a.png",
+          "sha256": "2ac047a32789cf908774d0771fb2af0d835376dc5c564aade301134857094e93"
+        },
+        {
+          "rect": [
+            48,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/08e3e2837acbb2a4374d14c959993b76b8cf778d7844e0b9090644901d678c19.png",
+          "sha256": "b0a78e5095d79f7cb384f8e12a88ff3aed39844b52d0f217d5104db496475f4b"
+        }
+      ],
+      "anchor": [
+        24,
+        24
+      ],
+      "canvas": [
+        48,
+        48
+      ],
+      "sha256": "e4b6838e0ce9555d7a0599e082e21834d8499742918738fedfa3a71d10a5fca2"
+    }
+  },
+  "caster": {
+    "file": "SectVFX/Textures/67e090646f44aa31ddbe96c28b27a68a2256a1b34785a2ce8c9878e7f5d835d4.png",
+    "anchor": [
+      64,
+      114
+    ]
+  },
+  "runtime_script": "SectVFX/Runtime/SectChiyanEffects.gd",
+  "standalone_contract": {
+    "coordinate_space": "local ground positions in the VFX node; no game objects mutated",
+    "visual_contact_only": true,
+    "native_sampling": "nearest core, local shader glow",
+    "actor_optional": true
+  },
+  "motion_flags_by_facing": {
+    "north": {},
+    "south": {},
+    "east": {
+      "airborne_heights": true
+    },
+    "west": {}
+  },
+  "has_spin_action": false,
+  "playback_contract": {
+    "clock_hz": 60,
+    "nominal_end_seconds": 1.57,
+    "preview_peak_seconds": 0.85,
+    "timing_summary": "Strike starts .62, contact+.16; east metadata enables 160px forward jump timing. No actor animation included.",
+    "incoming_acceptance_window_seconds": null,
+    "automatic_demo_incoming_default": false,
+    "core_sampling": "nearest",
+    "local_soft_light": "shaders; not a full-screen blur",
+    "coordinate_space": "world ground pixels through private identity context; component placed at foot",
+    "array_frame_clock": "paused atlas clock"
+  }
+}

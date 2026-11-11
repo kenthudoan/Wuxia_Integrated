@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3]
+[ext_resource type="Texture2D" path="res://BuyerKit/expansion/textures/E44_128px.png" id="1"]
+[node name="E44" type="Node2D"]
+texture_filter = 1
+scale = Vector2(1, 1)
+z_index = -5
+metadata/asset_id = "E44"
+[node name="Sprite" type="Sprite2D" parent="."]
+texture = ExtResource("1")
+centered = false
+position = Vector2(-64, -114)

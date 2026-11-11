@@ -1,0 +1,1052 @@
+{
+  "name": "斗笠侠客 / Straw-hat Hero",
+  "identity": "斗笠蓝衣侠客 / Straw-hat swordsman",
+  "paths_relative_to": "this folder",
+  "native_scale": 1,
+  "texture_filter": "nearest",
+  "canvas_is_clip_specific": true,
+  "complete_five_action_character": false,
+  "missing_actions": [
+    "hurt"
+  ],
+  "clips": {
+    "walk": {
+      "east": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          132
+        ],
+        "fps": 10,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "walk_east/frame_000.png",
+          "walk_east/frame_001.png",
+          "walk_east/frame_002.png",
+          "walk_east/frame_003.png",
+          "walk_east/frame_004.png",
+          "walk_east/frame_005.png",
+          "walk_east/frame_006.png",
+          "walk_east/frame_007.png",
+          "walk_east/frame_008.png"
+        ],
+        "sha256": [
+          "d86d67c4c0a3e5bb69e4a28713c862af9b3bd2a1a00ae42735a57f8bdaf8ceb3",
+          "b03b62c7f8d8791c293856455af54523430c7d889b8b296d4d9d3c1742a89c5d",
+          "40516a78b8e5e53d45755cc9d096dc038e954259e7ddd08f16d13e2e16c52e9f",
+          "ea9df415fd93500bfaa8da249d93e9b654507e9b3530ea5f58918cbcfbfb9543",
+          "e8cafa12f1268f1113a01e6737def8cc0112cfec4468ea93e7d2d960a2f36978",
+          "5207d1f2c10b1fd7eabcd30775e73562aa72d5db2d6723f270bfed3dcc99d577",
+          "7d50bad7490d570225ce7c6d4536aa7735ed7354339f5c9f832f03cf00f01bce",
+          "3833b97766578be21d2d52f4dd06152acde6b456135189d716c4571131fff79a",
+          "30b980dea21ff17b3dc07496613e7e52a3e1c205372bf7b51b0f9b64f15dec9b"
+        ]
+      },
+      "south-east": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          134
+        ],
+        "fps": 10,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "walk_south-east/frame_000.png",
+          "walk_south-east/frame_001.png",
+          "walk_south-east/frame_002.png",
+          "walk_south-east/frame_003.png",
+          "walk_south-east/frame_004.png",
+          "walk_south-east/frame_005.png",
+          "walk_south-east/frame_006.png",
+          "walk_south-east/frame_007.png",
+          "walk_south-east/frame_008.png"
+        ],
+        "sha256": [
+          "29bda254ab072d6d67a9b18f57537215021194b2bea239d1e9e757502811947d",
+          "782ea81b2eaf97d0268f09ccf3f626b540f9641f7a4534f208776181589098e6",
+          "b5b52624b12e2a2bda29c4a560a1b538862b28f8234ad998f934bd5a37046f6a",
+          "7c7eec11b692bcf3b1695ac43330892bad4cdc3838fac9fc23bad8b7f1ec000a",
+          "e67ecd7185855ae4bab75e4920f3c05a7a6922d0090aaef3746048a6886f485e",
+          "46a70a0a12125c40e0f3aab9bbc80d3cbc491490db960a403e9f5e125a108748",
+          "bca5176ff1399f833902f543e70aa8db753decb1dfcaa98f34e450f3cec43717",
+          "74f08e0ea5257e630bf33076976c253d020cbe7a196491af742c508bbb9a601d",
+          "adbbe2b73b2ab2b0c771261d12723cd842a903dbedebf7c72a86e005062d3cf9"
+        ]
+      },
+      "south": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          134
+        ],
+        "fps": 10,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "walk_south/frame_000.png",
+          "walk_south/frame_001.png",
+          "walk_south/frame_002.png",
+          "walk_south/frame_003.png",
+          "walk_south/frame_004.png",
+          "walk_south/frame_005.png",
+          "walk_south/frame_006.png",
+          "walk_south/frame_007.png",
+          "walk_south/frame_008.png"
+        ],
+        "sha256": [
+          "ef3435eba8ac391372957e77bfe11910c28b76d7e06ade56526756b38b6a61d3",
+          "2e7317660e0fdcbda563e07bdae597960658e17a1d7ecb606683dbe10ab18ec3",
+          "b2cc5c0becee8709f76f3a9f6b6fc380b717c92706c69cba76a7d896da164d3f",
+          "2e52293a53c376c22b6f47e1d7c98ed0e8cfce1cb2d510662b444eab53154829",
+          "da4f0bfd6cf9240ed79bd01beeeca3c8dfffaccdc639b6a8242171ae8e125965",
+          "476d1fee898790ee288142067477bf61646bf7974bc0532702f25b2b1cc9bac5",
+          "8076994063c438b72b9b2cbb118352924c77161afc9eacbb26121df1f4be985b",
+          "cd7655c67e802f160e6abf29b5013cb0896a3e90d3ca454001cacee0b69ebddd",
+          "dc91a224d0aebe9a9d39b3fd01d61af108b431d71bf4819db669bc801280559f"
+        ]
+      },
+      "south-west": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          135
+        ],
+        "fps": 10,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "walk_south-west/frame_000.png",
+          "walk_south-west/frame_001.png",
+          "walk_south-west/frame_002.png",
+          "walk_south-west/frame_003.png",
+          "walk_south-west/frame_004.png",
+          "walk_south-west/frame_005.png",
+          "walk_south-west/frame_006.png",
+          "walk_south-west/frame_007.png",
+          "walk_south-west/frame_008.png"
+        ],
+        "sha256": [
+          "2527e18ac1040184d97724802dacd3621a2aebe127e4e9d08d1397fc5033af46",
+          "a373366c92e3255fff52f54465efdef9b74e8f9684cfcef5acde5377abca2ad9",
+          "bb9ff3f5ae9464296f90eb7ededbc4d21515944573d867ddf926f9ffb84b518a",
+          "a8b53db371c3da944b6538b218dca73c84f3b52fa2312848d3799f234c418df2",
+          "78c0cc5b3f8cbd246f18b9cd20a2a5727632d8d197e6be6a2a8643a9e600277d",
+          "bd35a5b2b7ed28061e75fe51a50ad4092d3396708a821a247011300a65cf7901",
+          "96ab328d3e7b55e771110f3e045723509ff2eb38c29cd3a83bbe10a9d0c13c8b",
+          "299ade4936063c95acc42a75213a8c77ec9ab456714811f874395470cf1663b2",
+          "85ee11415799666da72fb6b56b2c9cc0a4102a313c357688f6615a960e9bb079"
+        ]
+      },
+      "west": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          133
+        ],
+        "fps": 10,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "walk_west/frame_000.png",
+          "walk_west/frame_001.png",
+          "walk_west/frame_002.png",
+          "walk_west/frame_003.png",
+          "walk_west/frame_004.png",
+          "walk_west/frame_005.png",
+          "walk_west/frame_006.png",
+          "walk_west/frame_007.png",
+          "walk_west/frame_008.png"
+        ],
+        "sha256": [
+          "07d56206e32b4729ff34a9e8a23bb16e1db231c548364ec1214d365acd59ef79",
+          "2165161a8b674d199509c4dce97a91e2046abb3886f3bdcd6f8d1bccf1e3b7fe",
+          "82398d77660668ff97dda5c2a633c7b6bfbfc787df6c58cd4ce34d75498c064c",
+          "c7269684341e53a25b5147145ede012847815002b4162ad9461d1ceebdcd9c07",
+          "234a93b3dd2ec0874a5cfe9f06d48cd3b3d5a0635500bff85e4c5c0a1a5f7236",
+          "197d41805dab0b92fbebbcf0351d78d211beb018cc5a2ff471793acaa6205a05",
+          "750c8b04cbcab4dccd5d92d9611e3d3a7cbcc7f466e15ebc03e25ed768eec740",
+          "47c16157ad5a33de5dfaf50c6aee2a165c473875ef258e3514ca2df8f92603d5",
+          "93e7200259601d7f682ad929a9ae93ce73ae3fb9dcef1def696e0b9620f4c159"
+        ]
+      },
+      "north-west": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          134
+        ],
+        "fps": 10,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "walk_north-west/frame_000.png",
+          "walk_north-west/frame_001.png",
+          "walk_north-west/frame_002.png",
+          "walk_north-west/frame_003.png",
+          "walk_north-west/frame_004.png",
+          "walk_north-west/frame_005.png",
+          "walk_north-west/frame_006.png",
+          "walk_north-west/frame_007.png",
+          "walk_north-west/frame_008.png"
+        ],
+        "sha256": [
+          "064fe9cbff3c6193b54d36654c9d01759912bcdb5fc5df6cbcc42293a92e115f",
+          "20894f229cde1cc85baa2a353e694e31be28701c25f03b04b75f91e5ed5cd567",
+          "94f0d6e57260fbc1531c40e3ea45502428e3a8799ef8fa06639b4f18f0753c2b",
+          "8f5042d35e51438ed95189bcc665f40b835a1ea743918ae115eee86d143a3c05",
+          "7a50be12b7daa069415099c23d59896f59cdc07a2903afe38b20e78c12ecd3bf",
+          "fc853ed3a78e97fb3df31cb6dec9a13898f69e4053d34dc37999afa4f1c510eb",
+          "69ee22491e79f721b04b80aa19c268b0bb852828e416ea102dbfdd4293919332",
+          "671d3fa75aa85ea5b6945ab37447c281502a49300aaefd3a85c414c2fa5a1362",
+          "3a7518c46fbd4de1d4ffb0e824651f90e37c88a60b70a378ebfc5f8ba29d0f71"
+        ]
+      },
+      "north": {
+        "canvas": [
+          152,
+          152
+        ],
+        "anchor": [
+          76,
+          128
+        ],
+        "fps": 10,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "walk_north/frame_000.png",
+          "walk_north/frame_001.png",
+          "walk_north/frame_002.png",
+          "walk_north/frame_003.png",
+          "walk_north/frame_004.png",
+          "walk_north/frame_005.png",
+          "walk_north/frame_006.png",
+          "walk_north/frame_007.png",
+          "walk_north/frame_008.png"
+        ],
+        "sha256": [
+          "e7179f3a0e97d0c29c2240239bb0796b5926a6e871588532c93bb41e44d8123e",
+          "3e6f9abb94a7041ea620fcd50121504a0e5e617c4eae9dd77321151cadb354c7",
+          "57f666c27d8f4d8ff8cd85634c4c092ba56a3a64433df34119c4ca64bbc9c0cd",
+          "971d58273717e8e58d71d9329ae410612979e7af501b9991ea723b3ba5766a01",
+          "b65502d00f2bd40bf1b549cef750c6a34bdf32440ac00d66699ddba0315b0f23",
+          "b42f8490ff93747d01098868e03b8cf779d1c37597410b91cb4f01fe2ef933d8",
+          "7db2516c82688e5c7a4a5de6189354619bbb6660497a6adb82a04b1bc47eeef7",
+          "26ce0e9d782e5a2d2784573ce0abf46fcabfa0f286ced8130bbc783e68ad0e97",
+          "c98009eadf99a93f3fb93a873681a90e74322a5852623bc29d385f34e3c7daea"
+        ]
+      },
+      "north-east": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          134
+        ],
+        "fps": 10,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "walk_north-east/frame_000.png",
+          "walk_north-east/frame_001.png",
+          "walk_north-east/frame_002.png",
+          "walk_north-east/frame_003.png",
+          "walk_north-east/frame_004.png",
+          "walk_north-east/frame_005.png",
+          "walk_north-east/frame_006.png",
+          "walk_north-east/frame_007.png",
+          "walk_north-east/frame_008.png"
+        ],
+        "sha256": [
+          "833381e6aa5e966d5033579a65829e3de5b3edeff151f501a440cf4ace65554b",
+          "50b5b2bf1b82a568ec64197df31cb046b88fe1d7375308c1e4b030d9d91dc12f",
+          "21e896ee09cacff6875cc4efb9f1ac5b3e66259794938d09b4c626437db17c40",
+          "f801d671060579f321b774c972ad2c2b617316f141c06b465ee54fc32318716e",
+          "600f0503cc3199ed25bf0f582f70cba3b9b3ca8b551bec246d23153035880151",
+          "1f517b9a7c6b07efb1a999a6bcf3d2afb7aa0ec1218b5d6be8d5dcdebd4ae0e5",
+          "73824b6b4ed2bcb02ef796e2fc6f89a0d4ad46f5fbfdda8152ace4db8680800b",
+          "58553bcc9bc1c80c087182a081252eb21e7e80e586b3d28547cb62955f87b7f2",
+          "25fd276679368184d92e19ad32158c8f2da8d26370eac12d8807ae648e163ebe"
+        ]
+      }
+    },
+    "idle": {
+      "east": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          132
+        ],
+        "fps": 6,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "idle_east/frame_000.png",
+          "idle_east/frame_001.png",
+          "idle_east/frame_002.png",
+          "idle_east/frame_003.png",
+          "idle_east/frame_004.png"
+        ],
+        "sha256": [
+          "d86d67c4c0a3e5bb69e4a28713c862af9b3bd2a1a00ae42735a57f8bdaf8ceb3",
+          "4107b4db32b18569399c47353f590efe20a4e1b62bdc159e42f9691ea96601f3",
+          "b6d400d4d702b1582ecdc98afd157ea15988c598732421f9339bc4b2aedfc89a",
+          "f03be7fcca8e94865abc1f9e5b4af80634a59d224d602c7d6942ef5ec4bda7ac",
+          "34aaa14c741a039b7bda0c0d951b88c28b02b8f02f1ed67b704357c537fd2e2c"
+        ]
+      },
+      "south-east": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          134
+        ],
+        "fps": 6,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "idle_south-east/frame_000.png",
+          "idle_south-east/frame_001.png",
+          "idle_south-east/frame_002.png",
+          "idle_south-east/frame_003.png",
+          "idle_south-east/frame_004.png"
+        ],
+        "sha256": [
+          "29bda254ab072d6d67a9b18f57537215021194b2bea239d1e9e757502811947d",
+          "bceb54b798b76af20823af8d11bade0cf0bfc2ac3d0c8daf2d5327b15b83094e",
+          "0c35a8fc52918a278c463bdf947ff0d60ba95ba65238165221e778d8a31237b6",
+          "39e1502421a8969c57ec6c1f3535a4f338711a3be664922e7a15049ef3c78987",
+          "d35b49bd64a9679dcdf21401fc76c8008c1cceb77fe3a11bc669fcf65cb55ee7"
+        ]
+      },
+      "south": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          134
+        ],
+        "fps": 6,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "idle_south/frame_000.png",
+          "idle_south/frame_001.png",
+          "idle_south/frame_002.png",
+          "idle_south/frame_003.png",
+          "idle_south/frame_004.png"
+        ],
+        "sha256": [
+          "ef3435eba8ac391372957e77bfe11910c28b76d7e06ade56526756b38b6a61d3",
+          "f82dbeaa9c8000b0f64bd22a6c33df95f74f876142d95d1b5b9ee1f1abe9d562",
+          "0e4d2e006f236ee27dfe120a82de4d19988b22db23e5484948309190ec73d2c3",
+          "c7f0c67cdb4c402860ab02472f95dc6bbf9679c859420bd94c4fe383018c168a",
+          "ca19182b40fc9a19c6248f1eae1b748d2b095ae24ad8deeb32b79dec49a7e426"
+        ]
+      },
+      "south-west": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          135
+        ],
+        "fps": 6,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "idle_south-west/frame_000.png",
+          "idle_south-west/frame_001.png",
+          "idle_south-west/frame_002.png",
+          "idle_south-west/frame_003.png",
+          "idle_south-west/frame_004.png"
+        ],
+        "sha256": [
+          "e45aa02c00669b436a96ba59087ca82f83437acac6ba8ce59ae45cea739172f4",
+          "af817f00f34f20913d65ab84ff4f6da23d37dc7eff0d03e97ca3c249c5a31cc4",
+          "5a8e4314006e2cff2fc3523fd2c140676f8e0f5b4d4068eef265d3fccdc8d100",
+          "364e262ca904dc298a1c4c7b21da466095d6db23ae3525563065a9b2050b046c",
+          "ef42091ac97b50162195791312769f0172e800ab16af6083f0aa545eb6456538"
+        ]
+      },
+      "west": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          133
+        ],
+        "fps": 6,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "idle_west/frame_000.png",
+          "idle_west/frame_001.png",
+          "idle_west/frame_002.png",
+          "idle_west/frame_003.png",
+          "idle_west/frame_004.png"
+        ],
+        "sha256": [
+          "07d56206e32b4729ff34a9e8a23bb16e1db231c548364ec1214d365acd59ef79",
+          "2dfe16b3462394490b67b3871686c0bdab899472d49a72e533a6585550dd1770",
+          "de047f7fd44fa93083e7de33f3b879574e8875c0a04406d5303b371859412873",
+          "a008c385025ac1f1484d33930ed8b60ee6edfe03fefcbe5a56cd5da8abc7c6ed",
+          "c77ebb6147b25749edbdef5789dd3234ffee42c52358e302263e340a22c87a7e"
+        ]
+      },
+      "north-west": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          134
+        ],
+        "fps": 6,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "idle_north-west/frame_000.png",
+          "idle_north-west/frame_001.png",
+          "idle_north-west/frame_002.png",
+          "idle_north-west/frame_003.png",
+          "idle_north-west/frame_004.png"
+        ],
+        "sha256": [
+          "f5a551c9190cbb41d424988f56bd84ae43f2f3d2c5837bd66551abade71361fb",
+          "d3c9a81077d721a824c7ef1706bdc3ade6c916a76cded797260853d2069710f4",
+          "46f14545d19e5926c8be31aa194d1e65379a84f5a9fe75025d8663085b856b00",
+          "1168ec418d31f59724ee8003aa310ee33dda4a7e4949bee3ce890afece9da0ed",
+          "ceea162d58ec7c9587e94523d2b8c7c1b537df89f9ed68643e460b1112e4d171"
+        ]
+      },
+      "north": {
+        "canvas": [
+          152,
+          152
+        ],
+        "anchor": [
+          76,
+          128
+        ],
+        "fps": 6,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "idle_north/frame_000.png",
+          "idle_north/frame_001.png",
+          "idle_north/frame_002.png",
+          "idle_north/frame_003.png",
+          "idle_north/frame_004.png"
+        ],
+        "sha256": [
+          "e7179f3a0e97d0c29c2240239bb0796b5926a6e871588532c93bb41e44d8123e",
+          "967be7fd7b49b24af8564db41a7d6f49e556b87e87221c27c80b6cef311ce6c0",
+          "39ca16a7ff1bcd36627c6a6914a57be3a9963873c904f5a02e012a98e11ebe6d",
+          "bd2fd78c3f85f32ffd24b265fe26dfcbc174e00e1cacaaaced9505e456dc284d",
+          "0cc79f63193e1cacc86a11ce7e1cc3ea06d77ad05b1827a5148010079072905f"
+        ]
+      },
+      "north-east": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          134
+        ],
+        "fps": 6,
+        "loop": true,
+        "end_behavior": "loop",
+        "files": [
+          "idle_north-east/frame_000.png",
+          "idle_north-east/frame_001.png",
+          "idle_north-east/frame_002.png",
+          "idle_north-east/frame_003.png",
+          "idle_north-east/frame_004.png"
+        ],
+        "sha256": [
+          "833381e6aa5e966d5033579a65829e3de5b3edeff151f501a440cf4ace65554b",
+          "b9b5ced1cd40de57ae9a7c3517093c0913786005d7b40ab8cec487c0c6cc7891",
+          "15c47ae6cce7a95ab746bb41aa94ae6c226b9495644bae372d97f01ec87dd430",
+          "60b0186cf74c28049c063ee0836529d7f11f1d0f6700b12dc2ae809441d6837c",
+          "cb62d7ae11723d63ce08b38e4eaf6554b7bdd8ce44813c18ab949b25fb3e0330"
+        ]
+      }
+    },
+    "attack3": {
+      "north": {
+        "canvas": [
+          196,
+          156
+        ],
+        "anchor": [
+          98,
+          132
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "return_to_idle",
+        "files": [
+          "attack3/north/frame_000.png",
+          "attack3/north/frame_001.png",
+          "attack3/north/frame_002.png",
+          "attack3/north/frame_003.png",
+          "attack3/north/frame_004.png",
+          "attack3/north/frame_005.png",
+          "attack3/north/frame_006.png",
+          "attack3/north/frame_007.png"
+        ],
+        "sha256": [
+          "177553bd1ca26ece06d9a678b7f5b44d5715f43c5aa45ae9ead7404be12ad00e",
+          "3865a9f642b950253c1da67be4394b85a93a69f26d5c7392fa377f89480bad1d",
+          "05dbb4b2657343622e6744cd6d15c629f14b39d929fe1e0e65644e696f59e7e6",
+          "9baa5695a8c4cd07c1eb704a5f3000b5401feb24ffcba8bcfa1af3adb4afb604",
+          "363e1b2c41fea59e496807e27949a59b11830c303f986692436ae8886c579c4b",
+          "8a361aad9b8f669055412f2388853c61dc0fcf2db419b1503d5514fc26b474d0",
+          "e515f9aa3b666c6dc91ba238c0b929c3d44b8686a02145f1fd7948e986be6569",
+          "760defdea34d549d6e6dd57697ff8d568d6f639b356f14b425b7757c3976f35e"
+        ]
+      },
+      "south": {
+        "canvas": [
+          192,
+          172
+        ],
+        "anchor": [
+          96,
+          140
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "return_to_idle",
+        "files": [
+          "attack3/south/frame_000.png",
+          "attack3/south/frame_001.png",
+          "attack3/south/frame_002.png",
+          "attack3/south/frame_003.png",
+          "attack3/south/frame_004.png",
+          "attack3/south/frame_005.png",
+          "attack3/south/frame_006.png",
+          "attack3/south/frame_007.png"
+        ],
+        "sha256": [
+          "d523d1c726efe6ce417a997cdc3a2aa96392522bbc68c7b08460a167d5a3e65f",
+          "ad62059721d07c42fa3e22415cbdf00d016aadcd7a9eadcc6fc91d30a5bd20fe",
+          "d72de21a1285de75364ba397246c355dc237d1c88046ca5a45d0ea72e447a749",
+          "e72b6229bee4d81eb2562b8a9faf83410cac6a2e64d59bdb64d4bb987e1bccc5",
+          "e675f9ba795c2e8052da1271e9fce52ec2f3eac389939a8a47c043f9b3635fb0",
+          "b153b8d21f5e99ba0456cd2d3ef0a121d90d95ec879ba0c4c5709c6aa9e88aa0",
+          "d1ef15e7ae9dc341d3d28fc4e4ef9b071dac3a2a6addb95435ea1590aa9a1656",
+          "478619836dc269ef0f40634e7d86cbb89045eb8aa49ff7cfe4705ac935169d54"
+        ]
+      },
+      "east": {
+        "canvas": [
+          192,
+          168
+        ],
+        "anchor": [
+          96,
+          138
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "return_to_idle",
+        "files": [
+          "attack3/east/frame_000.png",
+          "attack3/east/frame_001.png",
+          "attack3/east/frame_002.png",
+          "attack3/east/frame_003.png",
+          "attack3/east/frame_004.png",
+          "attack3/east/frame_005.png",
+          "attack3/east/frame_006.png",
+          "attack3/east/frame_007.png"
+        ],
+        "sha256": [
+          "0a1d1e5a45760b2a67ff25259659d683f3a02d41e6d478ae06ae1183e76b987b",
+          "7382ca654370353e9af0fbd1cd2d7979c5943a54607ed2630c796211f176945d",
+          "63a6e22ed66e0aa44fdcd3492ac3e965e5eba5c2e5a26ac4dd14130376c97476",
+          "48662b7248b98bf2081cca72d490f35152202d431834c30c0d6c2fc8963dea0a",
+          "a4c275594c554c8b61b0b3a0f702339d976d3ca3f3e2256ae887ee9872d1c7a2",
+          "b6fbe0789ad0b534d3b64dcab9d90cc7bf45573eaa4e45d243e184749afff5c6",
+          "ad6b0cb07acb3a2b607834b4d79b647c1ffb73a5a423530d94f25da7d7f7ac00",
+          "08b0f762c0be23b2d400eefe718c9ef204c0be737ea06711c1f089fd5b588f1a"
+        ]
+      },
+      "west": {
+        "canvas": [
+          196,
+          168
+        ],
+        "anchor": [
+          98,
+          138
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "return_to_idle",
+        "files": [
+          "attack3/west/frame_000.png",
+          "attack3/west/frame_001.png",
+          "attack3/west/frame_002.png",
+          "attack3/west/frame_003.png",
+          "attack3/west/frame_004.png",
+          "attack3/west/frame_005.png",
+          "attack3/west/frame_006.png",
+          "attack3/west/frame_007.png"
+        ],
+        "sha256": [
+          "50d1aac0d29753188f8528c59e71d747368d9ee5e81f9a37031f4dcedcc3db52",
+          "9eda56fcd3c4040be8a0a2805dc6f3d33adeaee04df234dae9fdfcaac8e8ed31",
+          "7a59287e396337025b852982b549b4abb0767bc8d2c105ea28b56bfa0b1bbc0a",
+          "316c3f879c03b70427627f685af52faa9793f697021d1e970f40d6f1763c421a",
+          "c860891d3c6b4ff39d44686c036e40cc59b0fe07523ab0e7e49900d291ed446c",
+          "b28dfeaab3b9a453d2e8e40f61cdd7e1be97aec54cbe9fe8125d332bba15a8a2",
+          "3a8c9ee76289c77aac1399d7a4c65c1733c3849b55f148556939497b80b9be95",
+          "b3d1f0b6025bb5f6b0a9dbb09e3acfa0c0b32b7e85e2499c55c297b6ce816aa2"
+        ]
+      }
+    },
+    "death": {
+      "north": {
+        "canvas": [
+          152,
+          152
+        ],
+        "anchor": [
+          76,
+          128
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "hold_last_frame",
+        "files": [
+          "death/north/frame_000.png",
+          "death/north/frame_001.png",
+          "death/north/frame_002.png",
+          "death/north/frame_003.png",
+          "death/north/frame_004.png",
+          "death/north/frame_005.png",
+          "death/north/frame_006.png",
+          "death/north/frame_007.png"
+        ],
+        "sha256": [
+          "eb278bf70e65e20899ce16fb4db648a25a33b5148c76d2a620c3e306c1525406",
+          "dfef4ce331eed3681b99baa65cb38285dca54e89d9353991f75fceef5cec1f76",
+          "7f24f8b3580aefacf26c6689720518673be8d0220cc5e53b3311c1fd9fc0e6b1",
+          "b64db23d3bf9b85d2d1777e9182b7e32ad7ee74a70723dd4b2afbcfa99a28d9b",
+          "7dbba1623391eca8cfa2e0c292d28b1201fbb0e38433cfebdbad5ee552bed700",
+          "dd1d0ca19f0449733119221de980b868815bc1476d442299e574bda9b222ba64",
+          "75c2cfbf6b8f76f32292ef98916daab108b504ef2905c02a7262e0372b8ae52c",
+          "c113116f99d3b70b7fa30439f116057cd73ca82d0244895444b2d8fb16aadcee"
+        ]
+      },
+      "south": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          68,
+          132
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "hold_last_frame",
+        "files": [
+          "death/south/frame_000.png",
+          "death/south/frame_001.png",
+          "death/south/frame_002.png",
+          "death/south/frame_003.png",
+          "death/south/frame_004.png",
+          "death/south/frame_005.png",
+          "death/south/frame_006.png",
+          "death/south/frame_007.png"
+        ],
+        "sha256": [
+          "1de95172114f88d47b109df69c24d53872ca3aaee532ab7f0d7228aa605a2eb3",
+          "16d9e162d44573963cd4e87796e37b8f10fca6a9b1f93e68660398edb24812b2",
+          "f2049d6fa387965386d49e42d10bc2ece9bb71d52f0c92d54b489f371d90b5eb",
+          "a6de4d76a0fa00ff492e903c421f3e6e4992e52f00bbbbc808621d8d25656a3f",
+          "d899f592e9ac6df66c4548d1aa65eca573296f89f0d088b26a866e04d95b226b",
+          "6ba969299c52ff3ed8acee3197b26c3f1403c9aa4f58dfd08963a1c9eac36f86",
+          "93b9ddc5d0c2469969189d9da6d48a975d2f7849c466aa68c789db861632f108",
+          "b82517311e0ebeed6e705edaf349d4556646908335f958c363694711a58f416a"
+        ]
+      },
+      "east": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          132
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "hold_last_frame",
+        "files": [
+          "death/east/frame_000.png",
+          "death/east/frame_001.png",
+          "death/east/frame_002.png",
+          "death/east/frame_003.png",
+          "death/east/frame_004.png",
+          "death/east/frame_005.png",
+          "death/east/frame_006.png",
+          "death/east/frame_007.png"
+        ],
+        "sha256": [
+          "fa1b0d18af1935af8ac44cc7a901a9570795f2ba7c31df6fc14e2c0d07596387",
+          "821ad4cb48db285d5d3647506a16aae7a3c705339b70352b5ea15ea65631debd",
+          "7e90bbce8fc0a58d8e58b49f2f5a635c7d5b9cfac8c51694683166d697beb59c",
+          "9f161e7db5d6b57a8acf50593e492f34b089fd22e002de51b82d0fcb5a295854",
+          "db858ea59b3abec26fc9dd3f5fd062c1036cdcfa5a9ecd3b80cb2e5d05f5da63",
+          "bc5e35c80f5fc3dcbd1b0ddfcea9f804f0afa7bd24f6407723bc18d8ddc4e992",
+          "05a1a75b637612dc8f54cf5cbf242c7aad2fef4285ba1ef7905f5cafebe085bd",
+          "43c2efdb8082a48987ee740003f631ff5b79d234345981443431335c41bc5682"
+        ]
+      },
+      "west": {
+        "canvas": [
+          156,
+          156
+        ],
+        "anchor": [
+          78,
+          132
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "hold_last_frame",
+        "files": [
+          "death/west/frame_000.png",
+          "death/west/frame_001.png",
+          "death/west/frame_002.png",
+          "death/west/frame_003.png",
+          "death/west/frame_004.png",
+          "death/west/frame_005.png",
+          "death/west/frame_006.png",
+          "death/west/frame_007.png"
+        ],
+        "sha256": [
+          "a943a52e16b54d5cf0dc51224937031c2e1ea9bf364acbaf697f93be9d983b8e",
+          "c62ac53440227e74d3635cecfff6e570fa571216b9b5b06a5afc00d53090fc66",
+          "b6cff1e8f284f007db8a25cd94f93c94a72eac01bbce7ec776028e7ed18c9e6f",
+          "b630ed920b9ccde70293ffbcc5d05cbd630f220c97888eafc1bf169b9708e1b4",
+          "223cb4e2eeb95b3e0b0ace8f596f4c2c08276b46c4aae27e507ad2fc9705f0bb",
+          "c643f8d2f674c5175dce09179a9772049625a71f186546fbc009c927952f7c65",
+          "d1524ff06855ed8b0d25d9038c0d18701c6874378af63aec0797f9bc206d19f9",
+          "b5b08601b64668ff45d6216b64409e24fb914c16ae96b24f1d0b9924bc789aab"
+        ]
+      }
+    },
+    "cast_swift_step": {
+      "north": {
+        "canvas": [
+          128,
+          152
+        ],
+        "anchor": [
+          64,
+          128
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "return_to_idle",
+        "files": [
+          "cast_swift_step/north/frame_000.png",
+          "cast_swift_step/north/frame_001.png",
+          "cast_swift_step/north/frame_002.png",
+          "cast_swift_step/north/frame_003.png",
+          "cast_swift_step/north/frame_004.png",
+          "cast_swift_step/north/frame_005.png",
+          "cast_swift_step/north/frame_006.png",
+          "cast_swift_step/north/frame_007.png"
+        ],
+        "sha256": [
+          "f585791baea49c783a4c7f3d5015e911f9d48c2221ba7ca3fc619f30b8daa958",
+          "493138f3c213c23dbd3e630c14c8d1a23524d331d1647cc780edb4bb95c1425b",
+          "7ab19a52595925d9e367e8149335a5cc5386054ea480c6f7509a382bf2844b76",
+          "b469201d05a5f3ff479b4dff5608fe7e5a76fd52601620440fff049c83b271de",
+          "e8454f36ce33f037d1355334a0f450efa66fa06d6ad1a20f32c04a07d2fbd74b",
+          "86bba843a783efc709dac6fdfe14c6ce5d54c29605f88a82319fb728d7d0e346",
+          "e7a6f6d313e49e8a979ab8cc3bb6c069a3330b23c935dbfc0a9dfd8dfb0af429",
+          "1fbb96f1a262516b80c2b0f3e54b616b12e8806ef9ed529addb50efc6d543be4"
+        ]
+      },
+      "south": {
+        "canvas": [
+          128,
+          160
+        ],
+        "anchor": [
+          64,
+          134
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "return_to_idle",
+        "files": [
+          "cast_swift_step/south/frame_000.png",
+          "cast_swift_step/south/frame_001.png",
+          "cast_swift_step/south/frame_002.png",
+          "cast_swift_step/south/frame_003.png",
+          "cast_swift_step/south/frame_004.png",
+          "cast_swift_step/south/frame_005.png",
+          "cast_swift_step/south/frame_006.png",
+          "cast_swift_step/south/frame_007.png"
+        ],
+        "sha256": [
+          "59d152152df9ba6a3817117da6ed62176f661fbe0efdd89c21d62c0a8c73c94d",
+          "9c161f8e6cbf91141db0bd5d5e907cdd2949912734ca8dbc6926dbe348c88ad1",
+          "12419f82fc417c2329d072ce30417852918da99d5a6d21ce05f1a80e533c49c0",
+          "067e1cb8c234e2950498ca66450a8b22db5f9853d517964dcb8fcbac58d25445",
+          "0162dd10e8aba46cbe4f7e5e1a5e0d991a3c392b3d3952f99013cea0e7428835",
+          "ecf6736cd87d296119ac3fdcf5ec5fd4b4842521126a7234c614e310bf23e5ba",
+          "ae9fbdda5309656d4d455c7f0aa9bf2f5156d3a8b104e0d2c1457ffdbbcd1e5b",
+          "2f1cfe4d9ca846a541df0ecb61576b90a3a7fdcba7b0a44012245c97b142b89c"
+        ]
+      },
+      "east": {
+        "canvas": [
+          128,
+          156
+        ],
+        "anchor": [
+          64,
+          132
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "return_to_idle",
+        "files": [
+          "cast_swift_step/east/frame_000.png",
+          "cast_swift_step/east/frame_001.png",
+          "cast_swift_step/east/frame_002.png",
+          "cast_swift_step/east/frame_003.png",
+          "cast_swift_step/east/frame_004.png",
+          "cast_swift_step/east/frame_005.png",
+          "cast_swift_step/east/frame_006.png",
+          "cast_swift_step/east/frame_007.png"
+        ],
+        "sha256": [
+          "2f7312bc5ea172baf03ef8734f8e816d76709bf076be4e7752f21a07204e7609",
+          "a5623bdf3d3e036d67e6b1fb0ccd7df467aff6d51186c95c6b4fc4cb2f0c429d",
+          "3441013f40e65d932a0f4d2d46c2e760b3ad8a2f3adb7ad42941d610174eae53",
+          "2eccd79c0f411d57f593f0655dacb672231aac9e5395b6fab1d9d141b65a7cf9",
+          "66996f0e07cc8deea41f02039d13898c06ae02a4e3da2f94783182b6b31a587f",
+          "823871edc2d7030fa0755f8e4418230a72ad027ac6bbe0aa150f166e23ca9b87",
+          "52acd95209ac18873bd104946ace1f2131b795e5a280e755a050d1b81bfde8f3",
+          "0ca2f982059f3656903bc5e4e15d66d4f691eec92bbc728313500acce12c7f34"
+        ]
+      },
+      "west": {
+        "canvas": [
+          128,
+          156
+        ],
+        "anchor": [
+          64,
+          132
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "return_to_idle",
+        "files": [
+          "cast_swift_step/west/frame_000.png",
+          "cast_swift_step/west/frame_001.png",
+          "cast_swift_step/west/frame_002.png",
+          "cast_swift_step/west/frame_003.png",
+          "cast_swift_step/west/frame_004.png",
+          "cast_swift_step/west/frame_005.png",
+          "cast_swift_step/west/frame_006.png",
+          "cast_swift_step/west/frame_007.png"
+        ],
+        "sha256": [
+          "efb7d87173f18a546ad35cd9dd8e37c4a10823f6e10a46932fcff2be0d91da2d",
+          "6e7a88f6360700f61c404b02f2042eb1447dc675eac5dbcf87a4f9786b308069",
+          "cf22658497905ca3858a00b41db57dd5426dbb93f63772ab642eb6b027ab160f",
+          "bdb3ce9d28619af17f6ad755a72830d3d89d3e2c77aa1ac88294f78b22b79333",
+          "0a9740727534e93db54275ea1c3316344e071944839efedcf46809ac38bdc6b8",
+          "43566b468873ba9e939df673d4732c8662589ee65c52dc63c1cc18e4321f2d94",
+          "53200c1a2bbb1370dfcc7bbafb42763f3d6b05e128542213155729bc57a3b8f3",
+          "e6ae0305b0a52b49b788650a2af541a6e63521d440135f22cac4ddf1d554181e"
+        ]
+      }
+    },
+    "cast_buddha_palm": {
+      "north": {
+        "canvas": [
+          128,
+          152
+        ],
+        "anchor": [
+          64,
+          128
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "return_to_idle",
+        "files": [
+          "cast_buddha_palm/north/frame_000.png",
+          "cast_buddha_palm/north/frame_001.png",
+          "cast_buddha_palm/north/frame_002.png",
+          "cast_buddha_palm/north/frame_003.png",
+          "cast_buddha_palm/north/frame_004.png",
+          "cast_buddha_palm/north/frame_005.png",
+          "cast_buddha_palm/north/frame_006.png",
+          "cast_buddha_palm/north/frame_007.png"
+        ],
+        "sha256": [
+          "7d1ab753d567aeeb4234ca672d06b6193c5c7bb8fa13bdd426b7b971f8a01fd7",
+          "e5bdb62a52ed37d749f638eefb14f8d3adc83645a39229d96690a2b5747fd222",
+          "bd6fc87edcabb7ca6dbcd38c602b0595f56fa4e2a43c9bf69aee223f2f606c2d",
+          "eb4bbf2ab04f5c36837e5c334cc98ed73ce5bbabab36e3a5e8eb88f03a64ff91",
+          "bb0b5438924d5bdc915f844490f59ab675a157142fdec158fcc4e35eeb980a7a",
+          "ad88fce51685f453baa90646ea2923d1d14fbc9390b972742710383b4b4409a4",
+          "4b57a48a033b232e50faf30427b48b4b5a307b514161472480a58eadaab4b086",
+          "d47038782fc7617e49d55cd577ee8f517c6b001e08298d26f6e1690802a437c1"
+        ]
+      },
+      "south": {
+        "canvas": [
+          128,
+          156
+        ],
+        "anchor": [
+          64,
+          132
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "return_to_idle",
+        "files": [
+          "cast_buddha_palm/south/frame_000.png",
+          "cast_buddha_palm/south/frame_001.png",
+          "cast_buddha_palm/south/frame_002.png",
+          "cast_buddha_palm/south/frame_003.png",
+          "cast_buddha_palm/south/frame_004.png",
+          "cast_buddha_palm/south/frame_005.png",
+          "cast_buddha_palm/south/frame_006.png",
+          "cast_buddha_palm/south/frame_007.png"
+        ],
+        "sha256": [
+          "41fc4c2a339ea7b1c5fc145c1475316573e43b0d3e232558f4fc20e373fb7efd",
+          "f0ab205ec78145c18e1bde9f835c442e797f6dd4d4f4208a47f1a1a25205538b",
+          "7dcd43e0106acc8d413bdf952e78419288755c7e9fff58bb837ecc940a08f259",
+          "7c6f0bbed488672c79a1e85bde71fa8a39011e99d5051e853d5fbf602eba1b1f",
+          "6906142d05608f82b8488cb9bcc16684dd208c402bb94e984e9fe16fef8165a1",
+          "1da66c2dd1601444ed0a93bee8a66ada7671f10f6618fa9ca629176eb96abd71",
+          "4958383472914b99e62da15402274e88278c9dffa99b688da973e2961963fead",
+          "15ed7745fdca92c8d01e11374b19704f3a2521047842010c9bb7a44bcad952c1"
+        ]
+      },
+      "east": {
+        "canvas": [
+          132,
+          156
+        ],
+        "anchor": [
+          68,
+          132
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "return_to_idle",
+        "files": [
+          "cast_buddha_palm/east/frame_000.png",
+          "cast_buddha_palm/east/frame_001.png",
+          "cast_buddha_palm/east/frame_002.png",
+          "cast_buddha_palm/east/frame_003.png",
+          "cast_buddha_palm/east/frame_004.png",
+          "cast_buddha_palm/east/frame_005.png",
+          "cast_buddha_palm/east/frame_006.png",
+          "cast_buddha_palm/east/frame_007.png"
+        ],
+        "sha256": [
+          "b57ba1884d80abe4287ff11a5fb3414d313b4d50f3a5d3a093c538c33c4bf79c",
+          "868655cd3d56e0bf496886fbab19cb02eafbbc30c1c35ceab94a10df5bb4d195",
+          "f2934643e98516eaa66838b945fd592486a45aa12774c26da0ad736c2089d087",
+          "c38e76d1adf976c8a1af94d52522daa28039652413b95f2183d9a1c17e90d511",
+          "475865f15b56b215227c8e21f8d5e87f9a9c8ae2e1c6233c9d0ee8a971f1695b",
+          "aed9a39af773e5a0d3a88a64b005179a1b00b542a29dd1fa04f9a0f84cf608c4",
+          "200580c12540ef0fa131072c241d08b41b602e3da5781a28ad547cca23a5ecb1",
+          "e3121092b9b7370c645e49d8fe53b01d4608ef9ff0519d0f5c7f681c2acf9318"
+        ]
+      },
+      "west": {
+        "canvas": [
+          128,
+          156
+        ],
+        "anchor": [
+          64,
+          132
+        ],
+        "fps": 8,
+        "loop": false,
+        "end_behavior": "return_to_idle",
+        "files": [
+          "cast_buddha_palm/west/frame_000.png",
+          "cast_buddha_palm/west/frame_001.png",
+          "cast_buddha_palm/west/frame_002.png",
+          "cast_buddha_palm/west/frame_003.png",
+          "cast_buddha_palm/west/frame_004.png",
+          "cast_buddha_palm/west/frame_005.png",
+          "cast_buddha_palm/west/frame_006.png",
+          "cast_buddha_palm/west/frame_007.png"
+        ],
+        "sha256": [
+          "070d209b6401f921205e23c060a91b3ef7214e0351ec64e830e9d0c887fcf124",
+          "1788b9929c282b5a1bcabc121fba2bdde273616eeaec10917fa4344da0fe2119",
+          "4f843d4c7bbeceecf39fcffbf7060e6612a2ed4a854b175184668499b89df2e1",
+          "6cb8abe8101650a027acf312ba68a26e41264ba0bcfa74ce52f79b6d576f08f6",
+          "0f95a6d3e2a9088b7d98a8c702b79ac3a6965537c3cce02c5144456b13fe0a5e",
+          "6d14ce8925ac161cebb819e0676a7f9e39734719408c560b93fa9587d0f60e9f",
+          "40cce90e676ee26c2a7be0f191af6d06f04aef60b6836fe8a414bcf44a825bea",
+          "c98e986e6a5461d2b34986c008a2198fd29e6b5ef76ae2efade8a14e07f8faee"
+        ]
+      }
+    }
+  },
+  "timing": "Use fps exactly; do not infer timing from alphabetic directory order.",
+  "scene_tint_is_not_baked_into_png": true
+}

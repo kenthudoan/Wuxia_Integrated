@@ -1,0 +1,2112 @@
+{
+  "bounds": [
+    0,
+    2944,
+    4096,
+    3072
+  ],
+  "spawn": [
+    2048,
+    3168
+  ],
+  "bridge": [
+    2890,
+    4500
+  ],
+  "paths": [
+    {
+      "name": "gate_road",
+      "kind": "paving",
+      "width": 208,
+      "points": [
+        [
+          2048,
+          2896
+        ],
+        [
+          2048,
+          3168
+        ],
+        [
+          2048,
+          3328
+        ]
+      ]
+    },
+    {
+      "name": "south_road",
+      "kind": "dirt",
+      "width": 168,
+      "points": [
+        [
+          2048,
+          3248
+        ],
+        [
+          2010,
+          3560
+        ],
+        [
+          2060,
+          3820
+        ],
+        [
+          2120,
+          4096
+        ],
+        [
+          2100,
+          4330
+        ],
+        [
+          1990,
+          4590
+        ],
+        [
+          1750,
+          4810
+        ],
+        [
+          1520,
+          5110
+        ],
+        [
+          1660,
+          5400
+        ],
+        [
+          1950,
+          5660
+        ],
+        [
+          2000,
+          5940
+        ]
+      ]
+    },
+    {
+      "name": "bamboo_trail",
+      "kind": "dirt",
+      "width": 112,
+      "points": [
+        [
+          2060,
+          3820
+        ],
+        [
+          1730,
+          3910
+        ],
+        [
+          1540,
+          3970
+        ],
+        [
+          1350,
+          4220
+        ],
+        [
+          1130,
+          4460
+        ],
+        [
+          950,
+          4650
+        ],
+        [
+          680,
+          4740
+        ],
+        [
+          440,
+          5000
+        ],
+        [
+          220,
+          5400
+        ]
+      ]
+    },
+    {
+      "name": "hill_trail",
+      "kind": "dirt",
+      "width": 104,
+      "points": [
+        [
+          1350,
+          4220
+        ],
+        [
+          1100,
+          4030
+        ],
+        [
+          950,
+          3750
+        ],
+        [
+          1020,
+          3450
+        ],
+        [
+          760,
+          3280
+        ],
+        [
+          450,
+          3350
+        ]
+      ]
+    },
+    {
+      "name": "bridge_road",
+      "kind": "dirt",
+      "width": 120,
+      "points": [
+        [
+          2100,
+          4330
+        ],
+        [
+          2440,
+          4410
+        ],
+        [
+          2700,
+          4500
+        ],
+        [
+          2890,
+          4500
+        ],
+        [
+          3080,
+          4500
+        ],
+        [
+          3250,
+          4350
+        ],
+        [
+          3570,
+          4180
+        ],
+        [
+          3830,
+          4030
+        ]
+      ]
+    },
+    {
+      "name": "farm_trail",
+      "kind": "dirt",
+      "width": 104,
+      "points": [
+        [
+          3250,
+          4350
+        ],
+        [
+          3420,
+          4510
+        ],
+        [
+          3500,
+          4740
+        ],
+        [
+          3650,
+          4960
+        ],
+        [
+          3840,
+          5200
+        ]
+      ]
+    },
+    {
+      "name": "pavilion_approach",
+      "kind": "stone",
+      "width": 104,
+      "points": [
+        [
+          1540,
+          3970
+        ],
+        [
+          1450,
+          3910
+        ],
+        [
+          1450,
+          3820
+        ]
+      ]
+    }
+  ],
+  "river": [
+    [
+      2944,
+      3450,
+      260
+    ],
+    [
+      3328,
+      3380,
+      280
+    ],
+    [
+      3712,
+      3230,
+      300
+    ],
+    [
+      4096,
+      3090,
+      280
+    ],
+    [
+      4352,
+      2950,
+      250
+    ],
+    [
+      4460,
+      2890,
+      220
+    ],
+    [
+      4544,
+      2890,
+      220
+    ],
+    [
+      4768,
+      3000,
+      260
+    ],
+    [
+      5120,
+      3250,
+      290
+    ],
+    [
+      5504,
+      3180,
+      300
+    ],
+    [
+      6016,
+      3400,
+      330
+    ]
+  ],
+  "fields": [
+    [
+      3550,
+      4600,
+      360,
+      200
+    ],
+    [
+      3630,
+      4850,
+      280,
+      180
+    ]
+  ],
+  "props": [
+    {
+      "kind": "pavilion",
+      "position": [
+        1450,
+        3820
+      ],
+      "scale": 0.8
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        600,
+        3670
+      ],
+      "scale": 0.82
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        380,
+        4090
+      ],
+      "scale": 0.82
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        600,
+        4220
+      ],
+      "scale": 0.82
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        280,
+        4550
+      ],
+      "scale": 0.82
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        850,
+        5350
+      ],
+      "scale": 0.82
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        1150,
+        5660
+      ],
+      "scale": 0.82
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        300,
+        5770
+      ],
+      "scale": 0.82
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        3830,
+        3400
+      ],
+      "scale": 0.82
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        3710,
+        3650
+      ],
+      "scale": 0.82
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        3900,
+        5700
+      ],
+      "scale": 0.82
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        217,
+        3386
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        1125,
+        3329
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        1218,
+        3363
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        1437,
+        3378
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        1592,
+        3331
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        1836,
+        3383
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        2354,
+        3373
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        2573,
+        3396
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_1",
+      "position": [
+        2710,
+        3325
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        2866,
+        3403
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_1",
+      "position": [
+        3016,
+        3334
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        3655,
+        3325
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        3814,
+        3364
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        396,
+        3560
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        586,
+        3602
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        750,
+        3585
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        2325,
+        3542
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        2503,
+        3528
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        2742,
+        3601
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        2879,
+        3567
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        3594,
+        3592
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        3788,
+        3548
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        414,
+        3747
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        521,
+        3772
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        703,
+        3773
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        2481,
+        3733
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        2703,
+        3778
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        2902,
+        3729
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        3653,
+        3726
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        136,
+        3935
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        387,
+        3958
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        509,
+        3953
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        2319,
+        3950
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_1",
+      "position": [
+        2716,
+        3884
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        2886,
+        3906
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        3752,
+        3881
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        222,
+        4145
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        325,
+        4099
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_1",
+      "position": [
+        520,
+        4142
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        671,
+        4101
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        1821,
+        4118
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        2306,
+        4053
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        2725,
+        4090
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_1",
+      "position": [
+        2832,
+        4064
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        3450,
+        4045
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        402,
+        4227
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "bamboo",
+      "position": [
+        711,
+        4269
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "bamboo",
+      "position": [
+        915,
+        4273
+      ],
+      "scale": 0.65
+    },
+    {
+      "kind": "bamboo",
+      "position": [
+        1096,
+        4224
+      ],
+      "scale": 0.65
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        2471,
+        4238
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        2653,
+        4285
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        3779,
+        4282
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        203,
+        4466
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        403,
+        4494
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "bamboo",
+      "position": [
+        722,
+        4424
+      ],
+      "scale": 0.65
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        1652,
+        4433
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        3754,
+        4473
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_1",
+      "position": [
+        225,
+        4651
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        395,
+        4666
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "bamboo",
+      "position": [
+        1228,
+        4609
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "oak_1",
+      "position": [
+        1485,
+        4679
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_1",
+      "position": [
+        1582,
+        4583
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        2388,
+        4675
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        3264,
+        4615
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        128,
+        4787
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        315,
+        4850
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "bamboo",
+      "position": [
+        1107,
+        4790
+      ],
+      "scale": 0.65
+    },
+    {
+      "kind": "bamboo",
+      "position": [
+        1296,
+        4767
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        2170,
+        4833
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_1",
+      "position": [
+        2298,
+        4862
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        2473,
+        4772
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        3246,
+        4790
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "bamboo",
+      "position": [
+        694,
+        5037
+      ],
+      "scale": 0.65
+    },
+    {
+      "kind": "bamboo",
+      "position": [
+        910,
+        4978
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        1934,
+        5016
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        2169,
+        4993
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        2346,
+        4950
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        2558,
+        4940
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        3460,
+        5010
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "bamboo",
+      "position": [
+        767,
+        5169
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "bamboo",
+      "position": [
+        948,
+        5139
+      ],
+      "scale": 0.65
+    },
+    {
+      "kind": "bamboo",
+      "position": [
+        1038,
+        5117
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "bamboo",
+      "position": [
+        1219,
+        5179
+      ],
+      "scale": 0.65
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        1785,
+        5170
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        1925,
+        5154
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        2465,
+        5131
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        2848,
+        5170
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        696,
+        5387
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        915,
+        5382
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        1056,
+        5372
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        1304,
+        5365
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        2345,
+        5331
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        2553,
+        5336
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_1",
+      "position": [
+        2898,
+        5379
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        3449,
+        5372
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        351,
+        5585
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        591,
+        5556
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        693,
+        5529
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        888,
+        5525
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        1252,
+        5486
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        1396,
+        5481
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        2105,
+        5560
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        2372,
+        5542
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        2520,
+        5511
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        2748,
+        5503
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        2927,
+        5563
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        3572,
+        5550
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        3818,
+        5499
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_1",
+      "position": [
+        144,
+        5762
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        325,
+        5763
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        535,
+        5656
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        731,
+        5758
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        916,
+        5706
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        1098,
+        5730
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        1215,
+        5670
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_1",
+      "position": [
+        1442,
+        5749
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        2318,
+        5723
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        2666,
+        5703
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        3809,
+        5687
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        225,
+        5929
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        343,
+        5934
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        730,
+        5908
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_0",
+      "position": [
+        907,
+        5917
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        1212,
+        5846
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_2",
+      "position": [
+        1464,
+        5883
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_1",
+      "position": [
+        1610,
+        5853
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_3",
+      "position": [
+        2568,
+        5931
+      ],
+      "scale": 0.62
+    },
+    {
+      "kind": "oak_5",
+      "position": [
+        2873,
+        5924
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        3024,
+        5900
+      ],
+      "scale": 0.76
+    },
+    {
+      "kind": "oak_4",
+      "position": [
+        3804,
+        5881
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3235,
+        3180
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3586,
+        3180
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3205,
+        3325
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3629,
+        3305
+      ],
+      "scale": 0.4771615273790174
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3564,
+        3325
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3149,
+        3470
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3574,
+        3450
+      ],
+      "scale": 0.4302737682726933
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3516,
+        3470
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3023,
+        3595
+      ],
+      "scale": 0.4693749181272157
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3089,
+        3615
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3520,
+        3595
+      ],
+      "scale": 0.36465126847706625
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3463,
+        3615
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        2970,
+        3740
+      ],
+      "scale": 0.47166157195044944
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3031,
+        3760
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3467,
+        3740
+      ],
+      "scale": 0.4009339837362904
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3409,
+        3760
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        2925,
+        3885
+      ],
+      "scale": 0.38800184484723
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        2981,
+        3905
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3412,
+        3885
+      ],
+      "scale": 0.4668519312089603
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3352,
+        3905
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        2932,
+        4050
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3363,
+        4030
+      ],
+      "scale": 0.45649318331358824
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3296,
+        4050
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        2809,
+        4175
+      ],
+      "scale": 0.41233463758595845
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        2871,
+        4195
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3222,
+        4195
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        2801,
+        4340
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        2767,
+        4630
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3078,
+        4630
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        2825,
+        4775
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3232,
+        4755
+      ],
+      "scale": 0.5185360932512529
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3162,
+        4775
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        2918,
+        4920
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3333,
+        4900
+      ],
+      "scale": 0.45516144067882147
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3269,
+        4920
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        2960,
+        5045
+      ],
+      "scale": 0.5216325143753268
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3015,
+        5065
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3443,
+        5045
+      ],
+      "scale": 0.5059135449233174
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3379,
+        5065
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        2983,
+        5190
+      ],
+      "scale": 0.47758017721409096
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3051,
+        5210
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3503,
+        5190
+      ],
+      "scale": 0.45155025819662814
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3423,
+        5210
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        2951,
+        5335
+      ],
+      "scale": 0.3675824233550666
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3023,
+        5355
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3477,
+        5335
+      ],
+      "scale": 0.4624777040977884
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3399,
+        5355
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        2995,
+        5500
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3374,
+        5500
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        2958,
+        5625
+      ],
+      "scale": 0.4457909382300823
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3038,
+        5645
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3486,
+        5625
+      ],
+      "scale": 0.3903327999852186
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3426,
+        5645
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3024,
+        5770
+      ],
+      "scale": 0.4140499007842551
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3097,
+        5790
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3492,
+        5790
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3155,
+        5935
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3638,
+        5915
+      ],
+      "scale": 0.5169070879627391
+    },
+    {
+      "kind": "reeds",
+      "position": [
+        3559,
+        5935
+      ],
+      "scale": 0.24
+    },
+    {
+      "kind": "willow",
+      "position": [
+        2500,
+        3620
+      ],
+      "scale": 0.67
+    },
+    {
+      "kind": "willow",
+      "position": [
+        2720,
+        3960
+      ],
+      "scale": 0.67
+    },
+    {
+      "kind": "willow",
+      "position": [
+        2410,
+        4720
+      ],
+      "scale": 0.67
+    },
+    {
+      "kind": "willow",
+      "position": [
+        2800,
+        5250
+      ],
+      "scale": 0.67
+    },
+    {
+      "kind": "willow",
+      "position": [
+        3710,
+        5390
+      ],
+      "scale": 0.67
+    },
+    {
+      "kind": "wood_fence",
+      "position": [
+        3590,
+        4570
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "wood_fence",
+      "position": [
+        3590,
+        5080
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "wood_fence",
+      "position": [
+        3686,
+        4570
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "wood_fence",
+      "position": [
+        3686,
+        5080
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "wood_fence",
+      "position": [
+        3782,
+        4570
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "wood_fence",
+      "position": [
+        3782,
+        5080
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "wood_fence",
+      "position": [
+        3878,
+        4570
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "wood_fence",
+      "position": [
+        3878,
+        5080
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "wood_fence",
+      "position": [
+        3970,
+        4630
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "wood_fence",
+      "position": [
+        3970,
+        4726
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "wood_fence",
+      "position": [
+        3970,
+        4822
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "wood_fence",
+      "position": [
+        3970,
+        4918
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "wood_fence",
+      "position": [
+        3970,
+        5014
+      ],
+      "scale": 0.75
+    },
+    {
+      "kind": "wood_cart",
+      "position": [
+        3720,
+        4440
+      ],
+      "scale": 1
+    },
+    {
+      "kind": "wood_barrel",
+      "position": [
+        1520,
+        3830
+      ],
+      "scale": 1
+    },
+    {
+      "kind": "wood_sign",
+      "position": [
+        2160,
+        3380
+      ],
+      "scale": 1
+    },
+    {
+      "kind": "stone_lantern",
+      "position": [
+        1270,
+        4050
+      ],
+      "scale": 0.8
+    },
+    {
+      "kind": "stone_shrine",
+      "position": [
+        690,
+        4920
+      ],
+      "scale": 1
+    },
+    {
+      "kind": "wood_sign",
+      "position": [
+        3190,
+        4460
+      ],
+      "scale": 1
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[gd_scene load_steps=4 format=3]
+
+[ext_resource type="Shader" path="res://DesertTerrain.gdshader" id="1_2yioh"]
+[ext_resource type="Texture2D" path="res://BuyerKit/terrain/Desert_dune.png" id="2_nyagu"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_ftmcs"]
+shader = ExtResource("1_2yioh")
+
+[node name="Desert_dune" type="Polygon2D"]
+z_index = -10
+texture_repeat = 2
+material = SubResource("ShaderMaterial_ftmcs")
+texture = ExtResource("2_nyagu")
+polygon = PackedVector2Array(0, 0, 512, 0, 512, 512, 0, 512)
+uv = PackedVector2Array(0, 0, 512, 0, 512, 512, 0, 512)

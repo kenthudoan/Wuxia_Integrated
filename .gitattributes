@@ -1,0 +1,78 @@
+# ===== Git LFS tracking =====
+# Only the largest binary assets use Git LFS. No file in this collection
+# exceeds GitHub's 100 MiB hard limit (max file = 11.09 MB), so LFS is
+# applied selectively to keep the repository responsive and LFS quota usage low.
+
+# --- Fonts (8-12 MB each) ---
+Audio/Skill_Kit/fonts/SourceHanSansCN-Bold.otf filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/fonts/SourceHanSerifCN-Regular.otf filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/BuyerKit/expansion/fonts/font.otf filter=lfs diff=lfs merge=lfs -text
+Examples/Starter/assets/fonts/SourceHanSerifCN-Regular.otf filter=lfs diff=lfs merge=lfs -text
+Examples/UI_8_Pages/assets/fonts/SourceHanSerifCN-Regular.otf filter=lfs diff=lfs merge=lfs -text
+UI/Fonts/SourceHanSansCN-Bold.otf filter=lfs diff=lfs merge=lfs -text
+UI/Fonts/SourceHanSerifCN-Regular.otf filter=lfs diff=lfs merge=lfs -text
+
+# --- Large textures (>= 2 MB) ---
+Buildings/City/City_apothecary_0.png filter=lfs diff=lfs merge=lfs -text
+Buildings/City/City_escort_agency_0.png filter=lfs diff=lfs merge=lfs -text
+Buildings/City/City_inn_0.png filter=lfs diff=lfs merge=lfs -text
+Buildings/City/City_martial_hall_0.png filter=lfs diff=lfs merge=lfs -text
+Buildings/City/City_street_gate_0.png filter=lfs diff=lfs merge=lfs -text
+Buildings/City/City_tea_house_0.png filter=lfs diff=lfs merge=lfs -text
+Buildings/City/City_warehouse_0.png filter=lfs diff=lfs merge=lfs -text
+Buildings/City/City_weapon_shop_0.png filter=lfs diff=lfs merge=lfs -text
+Buildings/DoorStates_Open/City_apothecary_0.png filter=lfs diff=lfs merge=lfs -text
+Buildings/DoorStates_Open/City_escort_agency_0.png filter=lfs diff=lfs merge=lfs -text
+Buildings/DoorStates_Open/City_warehouse_0.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/countryside_v1/meadow.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/countryside_v1/props_atlas.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/countryside_v1/woodland_atlas.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/curb_openings/Ground_4096x3072.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/desert_v1/props_atlas.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/original_buildings/apothecary.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/original_buildings/escort_agency.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/original_buildings/inn.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/original_buildings/martial_hall.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/original_buildings/street_gate.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/original_buildings/tea_house.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/original_buildings/warehouse.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/original_buildings/weapon_shop.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/river_bridge/source.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/snow_mountain_v1/props_atlas.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/assets/swamp_v1/props_atlas.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/BuyerKit/props/City_apothecary_0.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/BuyerKit/props/City_escort_agency_0.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/BuyerKit/props/City_inn_0.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/BuyerKit/props/City_martial_hall_0.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/BuyerKit/props/City_street_gate_0.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/BuyerKit/props/City_tea_house_0.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/BuyerKit/props/City_warehouse_0.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/BuyerKit/props/City_warehouse_frontage_0.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/BuyerKit/props/City_weapon_shop_0.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/BuyerKit/terrain/City_detail_ground.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/BuyerKit/terrain/Desert_grass.png filter=lfs diff=lfs merge=lfs -text
+Examples/Environment_5/BuyerKit/terrain/Forest_grass.png filter=lfs diff=lfs merge=lfs -text
+Terrain/Base_Textures/City_detail_ground.png filter=lfs diff=lfs merge=lfs -text
+Terrain/Base_Textures/Desert_grass.png filter=lfs diff=lfs merge=lfs -text
+
+# ===== Binary handling (non-LFS) =====
+*.png binary
+*.wav binary
+
+# ===== Text files: normalize line endings =====
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.gd text eol=lf
+*.gdshader text eol=lf
+*.gdshaderinc text eol=lf
+*.tscn text eol=lf
+*.tres text eol=lf
+*.cfg text eol=lf
+*.godot text eol=lf
+*.import text eol=lf
+*.csv text eol=lf
+*.uid text eol=lf
+*.command text eol=lf
+*.bat text eol=lf
+*.py text eol=lf

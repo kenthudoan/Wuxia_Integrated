@@ -1,0 +1,131 @@
+{
+  "id": "13_petals",
+  "sect": "百花谷",
+  "name": "千瓣归心",
+  "mode": "petals",
+  "number": 1,
+  "phases": {
+    "cast": {
+      "sheet": "SectVFX/Textures/d7926029157ecadae868dc4ce88f87f07f8d07eae45f0a9c17ce89e1a24b53bf.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1254,
+            1254
+          ],
+          "duration": 1,
+          "png": "SectVFX/Frames/673fb990c227c31d302935fb845653158d2bdbb26235cc370f4cdbc330c14d04.png",
+          "sha256": "b9a7f851816dbc321183bbde1b23be4ebfe9eecbe2fd6b2540b9b5840036a546"
+        }
+      ],
+      "canvas": [
+        1254,
+        1254
+      ],
+      "logical_canvas": [
+        64,
+        64
+      ],
+      "anchor": [
+        627,
+        627
+      ],
+      "sha256": "d7926029157ecadae868dc4ce88f87f07f8d07eae45f0a9c17ce89e1a24b53bf"
+    },
+    "projectile": {
+      "sheet": "SectVFX/Textures/c7cf62723d911d20246263381836111d86d7e03e3b389b1bed9f39fe4f93e751.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1254,
+            1254
+          ],
+          "duration": 1,
+          "png": "SectVFX/Frames/bd8ffb7f91bc45aa8956ad4b9e23e2672848660ec6f599953f4ecfd99a38c325.png",
+          "sha256": "aa6e5ec6bf5a03e487b2f13800b67b61d2673f40c1ea58212934126e2af0513e"
+        }
+      ],
+      "canvas": [
+        1254,
+        1254
+      ],
+      "logical_canvas": [
+        64,
+        64
+      ],
+      "anchor": [
+        627,
+        627
+      ],
+      "sha256": "c7cf62723d911d20246263381836111d86d7e03e3b389b1bed9f39fe4f93e751"
+    },
+    "impact": {
+      "sheet": "SectVFX/Textures/059e5ac622d39bda93597f4bc3cfaaa609ab26a51bb88228186d21885cf41803.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1254,
+            1254
+          ],
+          "duration": 1,
+          "png": "SectVFX/Frames/7900ab821772c87043646d3143f0dbc3e26b5ae999e8880b43a7e5de2965c4e4.png",
+          "sha256": "85fe7998a5d5a6163425d04475bea537ddbf51c1ab89bf10570238d311537901"
+        }
+      ],
+      "canvas": [
+        1254,
+        1254
+      ],
+      "logical_canvas": [
+        128,
+        128
+      ],
+      "anchor": [
+        627,
+        627
+      ],
+      "sha256": "059e5ac622d39bda93597f4bc3cfaaa609ab26a51bb88228186d21885cf41803"
+    }
+  },
+  "caster": {
+    "file": "SectVFX/Textures/00715e055fe6728af03c0716ff303b3b75658cfa492d598b68f94e3ad2926239.png",
+    "anchor": [
+      64,
+      114
+    ]
+  },
+  "ally": {
+    "file": "SectVFX/Textures/65bac5b50d6a4c512ff962690550f883b786d05bfe02e747569a47aead38cf7c.png",
+    "anchor": [
+      27,
+      93
+    ]
+  },
+  "runtime_script": "SectVFX/Runtime/SectBaihuaEffects.gd",
+  "standalone_contract": {
+    "coordinate_space": "local ground positions in the VFX node; no game objects mutated",
+    "visual_contact_only": true,
+    "native_sampling": "nearest core, local shader glow",
+    "actor_optional": true
+  },
+  "motion_flags_by_facing": {},
+  "has_spin_action": false,
+  "playback_contract": {
+    "clock_hz": 60,
+    "nominal_end_seconds": 3.4,
+    "preview_peak_seconds": 2.15,
+    "timing_summary": "27 petals on three spiral lanes; central bloom1.95, cleanup3.4.",
+    "incoming_acceptance_window_seconds": null,
+    "automatic_demo_incoming_default": false,
+    "core_sampling": "nearest",
+    "local_soft_light": "shaders; not a full-screen blur",
+    "coordinate_space": "world ground pixels through private identity context; component placed at foot",
+    "array_frame_clock": "paused atlas clock"
+  }
+}

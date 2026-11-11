@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Snow_bare_0.png" id="1_cxxu5"]
+
+[node name="bare" type="StaticBody2D"]
+metadata/asset_id = "broadleaf_tree"
+
+[node name="_Sprite2D_2242" type="Sprite2D" parent="."]
+position = Vector2(-216, -557)
+texture = ExtResource("1_cxxu5")
+centered = false
+
+[node name="_CollisionPolygon2D_2243" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-38, -24, 38, -24, 38, 0, -38, 0)

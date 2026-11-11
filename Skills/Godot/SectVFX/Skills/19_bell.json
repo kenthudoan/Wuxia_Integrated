@@ -1,0 +1,449 @@
+{
+  "id": "19_bell",
+  "sect": "金刚寺",
+  "name": "金钟震岳",
+  "mode": "bell",
+  "phases": {
+    "cast": {
+      "sheet": "SectVFX/Textures/2b76d853dcf24ec1c1c24df27dfe11725fccba5f29f320afb42a3d0fcaaac308.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1254,
+            1254
+          ],
+          "duration": 1.0,
+          "png": "SectVFX/Frames/2d1f9d3f8447a993a58523aa9e4ee6da435229586e95862915ebf5ba9cd0b169.png",
+          "sha256": "1c23328fcebbdd470d8fe42858704eff9bfc4a646012edf3a893ad11d1e27298"
+        }
+      ],
+      "canvas": [
+        1254,
+        1254
+      ],
+      "logical_canvas": [
+        96,
+        96
+      ],
+      "anchor": [
+        627.0,
+        627.0
+      ],
+      "visible_radius": [
+        23.502392344497608,
+        12.78468899521531
+      ],
+      "sha256": "2b76d853dcf24ec1c1c24df27dfe11725fccba5f29f320afb42a3d0fcaaac308",
+      "demo_sheet": "assets/sect_vfx_v1/19_bell/cast/sheet.png"
+    },
+    "projectile": {
+      "sheet": "SectVFX/Textures/6c34c06013eb281aaa29a415a9c48fe0bc8cc766bbbe58b6ddd8bc21534ac1e0.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1254,
+            1254
+          ],
+          "duration": 1.0,
+          "png": "SectVFX/Frames/659d221ef3c4afebf2b32d5b4753003c9d8d2719f70da396d209977c7f453c70.png",
+          "sha256": "a8848406fdf7c42802359ffb868dc4535590b7976250081c13ad216570d333af"
+        }
+      ],
+      "canvas": [
+        1254,
+        1254
+      ],
+      "logical_canvas": [
+        235,
+        235
+      ],
+      "anchor": [
+        627.5,
+        1132
+      ],
+      "visible_radius": [
+        101.47727272727273,
+        112.72129186602871
+      ],
+      "sha256": "6c34c06013eb281aaa29a415a9c48fe0bc8cc766bbbe58b6ddd8bc21534ac1e0",
+      "demo_sheet": "assets/sect_vfx_v1/19_bell/bell_v4/projectile/sheet.png"
+    },
+    "impact": {
+      "sheet": "SectVFX/Textures/521768377b9869df55f43711f2b7c260d8f368d8159e30f0e63af1028299353b.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1254,
+            1254
+          ],
+          "duration": 1.0,
+          "png": "SectVFX/Frames/d59f4b3b13890bbb9bf0f5bc3bd62499121efd87e9fe1e8222edf66762d6cf98.png",
+          "sha256": "38d67e30d8237e28aa0dadd1607ad06b8e73632a44354a0863f70ee1e6c80d13"
+        }
+      ],
+      "canvas": [
+        1254,
+        1254
+      ],
+      "logical_canvas": [
+        192,
+        192
+      ],
+      "anchor": [
+        632.0,
+        684.6840000000001
+      ],
+      "visible_radius": [
+        89.8755980861244,
+        26.564593301435405
+      ],
+      "sha256": "521768377b9869df55f43711f2b7c260d8f368d8159e30f0e63af1028299353b",
+      "demo_sheet": "assets/sect_vfx_v1/19_bell/gold_v2/impact/sheet.png"
+    }
+  },
+  "direction_phases": {
+    "right": {
+      "cast": {
+        "sheet": "SectVFX/Textures/2b76d853dcf24ec1c1c24df27dfe11725fccba5f29f320afb42a3d0fcaaac308.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1254,
+              1254
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/2d1f9d3f8447a993a58523aa9e4ee6da435229586e95862915ebf5ba9cd0b169.png",
+            "sha256": "1c23328fcebbdd470d8fe42858704eff9bfc4a646012edf3a893ad11d1e27298"
+          }
+        ],
+        "canvas": [
+          1254,
+          1254
+        ],
+        "logical_canvas": [
+          96,
+          96
+        ],
+        "anchor": [
+          627.0,
+          627.0
+        ],
+        "visible_radius": [
+          23.502392344497608,
+          12.78468899521531
+        ],
+        "sha256": "2b76d853dcf24ec1c1c24df27dfe11725fccba5f29f320afb42a3d0fcaaac308",
+        "demo_sheet": "assets/sect_vfx_v1/19_bell/cast/sheet.png"
+      },
+      "projectile": {
+        "sheet": "SectVFX/Textures/6c34c06013eb281aaa29a415a9c48fe0bc8cc766bbbe58b6ddd8bc21534ac1e0.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1254,
+              1254
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/659d221ef3c4afebf2b32d5b4753003c9d8d2719f70da396d209977c7f453c70.png",
+            "sha256": "a8848406fdf7c42802359ffb868dc4535590b7976250081c13ad216570d333af"
+          }
+        ],
+        "canvas": [
+          1254,
+          1254
+        ],
+        "logical_canvas": [
+          235,
+          235
+        ],
+        "anchor": [
+          627.5,
+          1132
+        ],
+        "visible_radius": [
+          101.47727272727273,
+          112.72129186602871
+        ],
+        "sha256": "6c34c06013eb281aaa29a415a9c48fe0bc8cc766bbbe58b6ddd8bc21534ac1e0",
+        "demo_sheet": "assets/sect_vfx_v1/19_bell/bell_v4/projectile/sheet.png"
+      },
+      "impact": {
+        "sheet": "SectVFX/Textures/521768377b9869df55f43711f2b7c260d8f368d8159e30f0e63af1028299353b.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1254,
+              1254
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/d59f4b3b13890bbb9bf0f5bc3bd62499121efd87e9fe1e8222edf66762d6cf98.png",
+            "sha256": "38d67e30d8237e28aa0dadd1607ad06b8e73632a44354a0863f70ee1e6c80d13"
+          }
+        ],
+        "canvas": [
+          1254,
+          1254
+        ],
+        "logical_canvas": [
+          192,
+          192
+        ],
+        "anchor": [
+          632.0,
+          684.6840000000001
+        ],
+        "visible_radius": [
+          89.8755980861244,
+          26.564593301435405
+        ],
+        "sha256": "521768377b9869df55f43711f2b7c260d8f368d8159e30f0e63af1028299353b",
+        "demo_sheet": "assets/sect_vfx_v1/19_bell/gold_v2/impact/sheet.png"
+      }
+    },
+    "up": {
+      "cast": {
+        "sheet": "SectVFX/Textures/2b76d853dcf24ec1c1c24df27dfe11725fccba5f29f320afb42a3d0fcaaac308.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1254,
+              1254
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/2d1f9d3f8447a993a58523aa9e4ee6da435229586e95862915ebf5ba9cd0b169.png",
+            "sha256": "1c23328fcebbdd470d8fe42858704eff9bfc4a646012edf3a893ad11d1e27298"
+          }
+        ],
+        "canvas": [
+          1254,
+          1254
+        ],
+        "logical_canvas": [
+          96,
+          96
+        ],
+        "anchor": [
+          627.0,
+          627.0
+        ],
+        "visible_radius": [
+          23.502392344497608,
+          12.78468899521531
+        ],
+        "sha256": "2b76d853dcf24ec1c1c24df27dfe11725fccba5f29f320afb42a3d0fcaaac308",
+        "demo_sheet": "assets/sect_vfx_v1/19_bell/cast/sheet.png"
+      },
+      "projectile": {
+        "sheet": "SectVFX/Textures/6c34c06013eb281aaa29a415a9c48fe0bc8cc766bbbe58b6ddd8bc21534ac1e0.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1254,
+              1254
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/659d221ef3c4afebf2b32d5b4753003c9d8d2719f70da396d209977c7f453c70.png",
+            "sha256": "a8848406fdf7c42802359ffb868dc4535590b7976250081c13ad216570d333af"
+          }
+        ],
+        "canvas": [
+          1254,
+          1254
+        ],
+        "logical_canvas": [
+          235,
+          235
+        ],
+        "anchor": [
+          627.5,
+          1132
+        ],
+        "visible_radius": [
+          101.47727272727273,
+          112.72129186602871
+        ],
+        "sha256": "6c34c06013eb281aaa29a415a9c48fe0bc8cc766bbbe58b6ddd8bc21534ac1e0",
+        "demo_sheet": "assets/sect_vfx_v1/19_bell/bell_v4/projectile/sheet.png"
+      },
+      "impact": {
+        "sheet": "SectVFX/Textures/521768377b9869df55f43711f2b7c260d8f368d8159e30f0e63af1028299353b.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1254,
+              1254
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/d59f4b3b13890bbb9bf0f5bc3bd62499121efd87e9fe1e8222edf66762d6cf98.png",
+            "sha256": "38d67e30d8237e28aa0dadd1607ad06b8e73632a44354a0863f70ee1e6c80d13"
+          }
+        ],
+        "canvas": [
+          1254,
+          1254
+        ],
+        "logical_canvas": [
+          192,
+          192
+        ],
+        "anchor": [
+          632.0,
+          684.6840000000001
+        ],
+        "visible_radius": [
+          89.8755980861244,
+          26.564593301435405
+        ],
+        "sha256": "521768377b9869df55f43711f2b7c260d8f368d8159e30f0e63af1028299353b",
+        "demo_sheet": "assets/sect_vfx_v1/19_bell/gold_v2/impact/sheet.png"
+      }
+    },
+    "down": {
+      "cast": {
+        "sheet": "SectVFX/Textures/2b76d853dcf24ec1c1c24df27dfe11725fccba5f29f320afb42a3d0fcaaac308.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1254,
+              1254
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/2d1f9d3f8447a993a58523aa9e4ee6da435229586e95862915ebf5ba9cd0b169.png",
+            "sha256": "1c23328fcebbdd470d8fe42858704eff9bfc4a646012edf3a893ad11d1e27298"
+          }
+        ],
+        "canvas": [
+          1254,
+          1254
+        ],
+        "logical_canvas": [
+          96,
+          96
+        ],
+        "anchor": [
+          627.0,
+          627.0
+        ],
+        "visible_radius": [
+          23.502392344497608,
+          12.78468899521531
+        ],
+        "sha256": "2b76d853dcf24ec1c1c24df27dfe11725fccba5f29f320afb42a3d0fcaaac308",
+        "demo_sheet": "assets/sect_vfx_v1/19_bell/cast/sheet.png"
+      },
+      "projectile": {
+        "sheet": "SectVFX/Textures/6c34c06013eb281aaa29a415a9c48fe0bc8cc766bbbe58b6ddd8bc21534ac1e0.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1254,
+              1254
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/659d221ef3c4afebf2b32d5b4753003c9d8d2719f70da396d209977c7f453c70.png",
+            "sha256": "a8848406fdf7c42802359ffb868dc4535590b7976250081c13ad216570d333af"
+          }
+        ],
+        "canvas": [
+          1254,
+          1254
+        ],
+        "logical_canvas": [
+          235,
+          235
+        ],
+        "anchor": [
+          627.5,
+          1132
+        ],
+        "visible_radius": [
+          101.47727272727273,
+          112.72129186602871
+        ],
+        "sha256": "6c34c06013eb281aaa29a415a9c48fe0bc8cc766bbbe58b6ddd8bc21534ac1e0",
+        "demo_sheet": "assets/sect_vfx_v1/19_bell/bell_v4/projectile/sheet.png"
+      },
+      "impact": {
+        "sheet": "SectVFX/Textures/521768377b9869df55f43711f2b7c260d8f368d8159e30f0e63af1028299353b.png",
+        "frames": [
+          {
+            "rect": [
+              0,
+              0,
+              1254,
+              1254
+            ],
+            "duration": 1.0,
+            "png": "SectVFX/Frames/d59f4b3b13890bbb9bf0f5bc3bd62499121efd87e9fe1e8222edf66762d6cf98.png",
+            "sha256": "38d67e30d8237e28aa0dadd1607ad06b8e73632a44354a0863f70ee1e6c80d13"
+          }
+        ],
+        "canvas": [
+          1254,
+          1254
+        ],
+        "logical_canvas": [
+          192,
+          192
+        ],
+        "anchor": [
+          632.0,
+          684.6840000000001
+        ],
+        "visible_radius": [
+          89.8755980861244,
+          26.564593301435405
+        ],
+        "sha256": "521768377b9869df55f43711f2b7c260d8f368d8159e30f0e63af1028299353b",
+        "demo_sheet": "assets/sect_vfx_v1/19_bell/gold_v2/impact/sheet.png"
+      }
+    }
+  },
+  "frame_type": "Existing independent keyframe PNGs; Godot drives effect motion and shader changes",
+  "runtime_script": "SectVFX/Runtime/SectJingangEffects.gd",
+  "standalone_contract": {
+    "coordinate_space": "local ground positions in the VFX node; no game objects mutated",
+    "visual_contact_only": true,
+    "native_sampling": "nearest core, local shader glow",
+    "actor_optional": true
+  },
+  "motion_flags_by_facing": {},
+  "has_spin_action": false,
+  "playback_contract": {
+    "clock_hz": 60,
+    "nominal_end_seconds": 3.7,
+    "preview_peak_seconds": 1.65,
+    "timing_summary": "Reveal .12->.77; incoming event emits one ground shock wave over1s.",
+    "incoming_acceptance_window_seconds": [
+      0.78,
+      2.6
+    ],
+    "automatic_demo_incoming_default": false,
+    "core_sampling": "nearest",
+    "local_soft_light": "shaders; not a full-screen blur",
+    "coordinate_space": "world ground pixels through private identity context; component placed at foot",
+    "array_frame_clock": "paused atlas clock"
+  }
+}

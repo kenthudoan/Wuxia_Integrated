@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Desert_wood_barrel_0.png" id="1_pjfoy"]
+
+[node name="wood_barrel" type="StaticBody2D"]
+metadata/desert_kind = "wood_barrel"
+metadata/asset_id = "wood_barrel"
+
+[node name="_CollisionPolygon2D_4461" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-12, -15, 12, -15, 12, -1, -12, -1)
+
+[node name="_Sprite2D_4462" type="Sprite2D" parent="."]
+position = Vector2(-31, -60)
+texture = ExtResource("1_pjfoy")
+centered = false

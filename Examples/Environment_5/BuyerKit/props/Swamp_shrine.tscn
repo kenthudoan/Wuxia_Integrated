@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Swamp_shrine_0.png" id="1_bqal4"]
+
+[node name="shrine" type="StaticBody2D"]
+metadata/asset_id = "broadleaf_tree"
+metadata/swamp_kind = "shrine"
+
+[node name="_Sprite2D_4265" type="Sprite2D" parent="."]
+position = Vector2(-228, -400)
+texture = ExtResource("1_bqal4")
+centered = false
+
+[node name="_CollisionPolygon2D_4266" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-120, -125, 120, -125, 120, -60, -120, -60)

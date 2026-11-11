@@ -1,0 +1,13 @@
+config_version=5
+[application]
+config/name="武林 · UI组件图鉴"
+run/main_scene="res://UIShowcase.tscn"
+config/features=PackedStringArray("4.5", "GL Compatibility")
+[display]
+window/size/viewport_width=1536
+window/size/viewport_height=1024
+window/stretch/mode="canvas_items"
+[rendering]
+renderer/rendering_method="gl_compatibility"
+textures/default_filters/use_nearest_mipmap_filter=false
+environment/defaults/default_clear_color=Color(0.06,0.08,0.09,1)

@@ -1,0 +1,761 @@
+{
+  "tile_size": 64,
+  "modules": [
+    {
+      "id": "01",
+      "key": "G",
+      "path": "tiles/grass_base_64.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGB",
+      "alpha_min_max": [
+        255,
+        255
+      ],
+      "sha256": "3f5322d9bc81dad07f7e3ea36d5c604145c3a5a2ebbc437c7bb8ea05335eb10a",
+      "corners_tl_tr_bl_br": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "02",
+      "key": "S",
+      "path": "tiles/flagstone_base_64.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGB",
+      "alpha_min_max": [
+        255,
+        255
+      ],
+      "sha256": "1d89363d0ce4151b90080a7f86294da9a54e2129fb6598f836d8baeff9b237ca",
+      "corners_tl_tr_bl_br": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "03",
+      "key": "top",
+      "path": "tiles/grass_to_flagstone_top.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "alpha_min_max": [
+        255,
+        255
+      ],
+      "sha256": "461cf9d782322c124fb0a531b331fb4c659660d108dd4b334ceb4fddac866da8",
+      "corners_tl_tr_bl_br": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "04",
+      "key": "bottom",
+      "path": "tiles/grass_to_flagstone_bottom.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "alpha_min_max": [
+        255,
+        255
+      ],
+      "sha256": "f933ddb496145b39b9c92a6dafb4b7a9fdaf3cc8b763b921253219f45a596d6e",
+      "corners_tl_tr_bl_br": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "05",
+      "key": "left",
+      "path": "tiles/grass_to_flagstone_left.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "alpha_min_max": [
+        255,
+        255
+      ],
+      "sha256": "2902d944fab94920064b542cfc9ba57e60f2c90f0354c1f3772531a0e04c6d1b",
+      "corners_tl_tr_bl_br": [
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "06",
+      "key": "right",
+      "path": "tiles/grass_to_flagstone_right.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "alpha_min_max": [
+        255,
+        255
+      ],
+      "sha256": "44752a5a05d6b315daaae3d7a553ffe04977cad584e2f405f6dd8ecc29930e3d",
+      "corners_tl_tr_bl_br": [
+        1,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "id": "07",
+      "key": "inner_tl",
+      "path": "tiles/grass_to_flagstone_inner_tl.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "alpha_min_max": [
+        255,
+        255
+      ],
+      "sha256": "ac0811ce00e30340ed9f870de2566b4477e11d3bc51379da701644973e26e9b5",
+      "corners_tl_tr_bl_br": [
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "08",
+      "key": "inner_tr",
+      "path": "tiles/grass_to_flagstone_inner_tr.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "alpha_min_max": [
+        255,
+        255
+      ],
+      "sha256": "12e5eccba52c307663f44c4dac00c198a194ecde6f732c1623bc7a3a1707493d",
+      "corners_tl_tr_bl_br": [
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "09",
+      "key": "inner_bl",
+      "path": "tiles/grass_to_flagstone_inner_bl.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "alpha_min_max": [
+        255,
+        255
+      ],
+      "sha256": "a43194bb13c9f2311ccec0395cdbc0f947a9aa7bf3f46f623e125eacbb7bb51f",
+      "corners_tl_tr_bl_br": [
+        1,
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "10",
+      "key": "inner_br",
+      "path": "tiles/grass_to_flagstone_inner_br.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "alpha_min_max": [
+        255,
+        255
+      ],
+      "sha256": "91b29eda219fb790791bb46012a68c33f8adfb3d1e33a49af9a321bb15552f84",
+      "corners_tl_tr_bl_br": [
+        1,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "id": "11",
+      "key": "outer_tl",
+      "path": "tiles/grass_to_flagstone_outer_tl.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "alpha_min_max": [
+        255,
+        255
+      ],
+      "sha256": "d70f06911ce6eabf8c1d64cb635c9238c9d9e6e3faf3e0c8c0e602b1ad00b526",
+      "corners_tl_tr_bl_br": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "id": "12",
+      "key": "outer_tr",
+      "path": "tiles/grass_to_flagstone_outer_tr.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "alpha_min_max": [
+        255,
+        255
+      ],
+      "sha256": "47a5ab83a9673341c7474597840d96dcf3778dd531d9fb727a8b0de4198a3b06",
+      "corners_tl_tr_bl_br": [
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "id": "13",
+      "key": "outer_bl",
+      "path": "tiles/grass_to_flagstone_outer_bl.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "alpha_min_max": [
+        255,
+        255
+      ],
+      "sha256": "bf996f44a7b00a3bd0a43ed4a39f0e2fab5da5deef31e476adf3d65a6d0b2807",
+      "corners_tl_tr_bl_br": [
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "14",
+      "key": "outer_br",
+      "path": "tiles/grass_to_flagstone_outer_br.png",
+      "size": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "alpha_min_max": [
+        255,
+        255
+      ],
+      "sha256": "b8df57d84e32f8626cef393d5200a0bf808c3ff6d1d37b3216d7c83d91972e2b",
+      "corners_tl_tr_bl_br": [
+        1,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "layouts": [
+    {
+      "name": "Courtyard_4x4",
+      "tile_size": 64,
+      "grid": [
+        [
+          "outer_tl",
+          "top",
+          "top",
+          "outer_tr"
+        ],
+        [
+          "left",
+          "S",
+          "S",
+          "right"
+        ],
+        [
+          "left",
+          "S",
+          "S",
+          "right"
+        ],
+        [
+          "outer_bl",
+          "bottom",
+          "bottom",
+          "outer_br"
+        ]
+      ],
+      "module_ids": [
+        [
+          "11",
+          "03",
+          "03",
+          "12"
+        ],
+        [
+          "05",
+          "02",
+          "02",
+          "06"
+        ],
+        [
+          "05",
+          "02",
+          "02",
+          "06"
+        ],
+        [
+          "13",
+          "04",
+          "04",
+          "14"
+        ]
+      ],
+      "preview": "examples/Courtyard_4x4_NATIVE_1x.png",
+      "sha256": "0ac796d9f12dc7f005fb399ca4c79289c929f60673def313001f813cab4179c7",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "name": "Concave_0_3x3",
+      "tile_size": 64,
+      "grid": [
+        [
+          "G",
+          "outer_tl",
+          "outer_tr"
+        ],
+        [
+          "outer_tl",
+          "inner_tl",
+          "right"
+        ],
+        [
+          "outer_bl",
+          "bottom",
+          "outer_br"
+        ]
+      ],
+      "module_ids": [
+        [
+          "01",
+          "11",
+          "12"
+        ],
+        [
+          "11",
+          "07",
+          "06"
+        ],
+        [
+          "13",
+          "04",
+          "14"
+        ]
+      ],
+      "preview": "examples/Concave_0_3x3_NATIVE_1x.png",
+      "sha256": "63336a6d2852ae17f81121f3eb74319edfdb6e77170e63bec6b0063921d3cae4",
+      "size": [
+        192,
+        192
+      ]
+    },
+    {
+      "name": "Concave_1_3x3",
+      "tile_size": 64,
+      "grid": [
+        [
+          "outer_tl",
+          "outer_tr",
+          "G"
+        ],
+        [
+          "left",
+          "inner_tr",
+          "outer_tr"
+        ],
+        [
+          "outer_bl",
+          "bottom",
+          "outer_br"
+        ]
+      ],
+      "module_ids": [
+        [
+          "11",
+          "12",
+          "01"
+        ],
+        [
+          "05",
+          "08",
+          "12"
+        ],
+        [
+          "13",
+          "04",
+          "14"
+        ]
+      ],
+      "preview": "examples/Concave_1_3x3_NATIVE_1x.png",
+      "sha256": "022ac1b43def04258b8c934efbb881fa18377fb9b38976a48adcb9f09e663a6c",
+      "size": [
+        192,
+        192
+      ]
+    },
+    {
+      "name": "Concave_2_3x3",
+      "tile_size": 64,
+      "grid": [
+        [
+          "outer_tl",
+          "top",
+          "outer_tr"
+        ],
+        [
+          "left",
+          "inner_br",
+          "outer_br"
+        ],
+        [
+          "outer_bl",
+          "outer_br",
+          "G"
+        ]
+      ],
+      "module_ids": [
+        [
+          "11",
+          "03",
+          "12"
+        ],
+        [
+          "05",
+          "10",
+          "14"
+        ],
+        [
+          "13",
+          "14",
+          "01"
+        ]
+      ],
+      "preview": "examples/Concave_2_3x3_NATIVE_1x.png",
+      "sha256": "6329f6aaa45957bdd786197e2a25bac5a83ee8ba70981158f7e20d5c25390ff9",
+      "size": [
+        192,
+        192
+      ]
+    },
+    {
+      "name": "Concave_3_3x3",
+      "tile_size": 64,
+      "grid": [
+        [
+          "outer_tl",
+          "top",
+          "outer_tr"
+        ],
+        [
+          "outer_bl",
+          "inner_bl",
+          "right"
+        ],
+        [
+          "G",
+          "outer_bl",
+          "outer_br"
+        ]
+      ],
+      "module_ids": [
+        [
+          "11",
+          "03",
+          "12"
+        ],
+        [
+          "13",
+          "09",
+          "06"
+        ],
+        [
+          "01",
+          "13",
+          "14"
+        ]
+      ],
+      "preview": "examples/Concave_3_3x3_NATIVE_1x.png",
+      "sha256": "a73050dfaa679fc8e0fce9baae5951234eeb07cab36b6f4515a17367ae056bd8",
+      "size": [
+        192,
+        192
+      ]
+    },
+    {
+      "name": "Courtyard_Road_11x8",
+      "tile_size": 64,
+      "grid": [
+        [
+          "G",
+          "G",
+          "outer_tl",
+          "top",
+          "top",
+          "top",
+          "top",
+          "outer_tr",
+          "G",
+          "G",
+          "G"
+        ],
+        [
+          "G",
+          "G",
+          "left",
+          "S",
+          "S",
+          "S",
+          "S",
+          "right",
+          "G",
+          "G",
+          "G"
+        ],
+        [
+          "G",
+          "G",
+          "left",
+          "S",
+          "S",
+          "S",
+          "S",
+          "right",
+          "G",
+          "G",
+          "G"
+        ],
+        [
+          "G",
+          "G",
+          "left",
+          "S",
+          "S",
+          "S",
+          "S",
+          "right",
+          "G",
+          "G",
+          "G"
+        ],
+        [
+          "G",
+          "G",
+          "left",
+          "S",
+          "S",
+          "S",
+          "S",
+          "right",
+          "G",
+          "G",
+          "G"
+        ],
+        [
+          "outer_tl",
+          "top",
+          "inner_tl",
+          "S",
+          "S",
+          "S",
+          "S",
+          "inner_tr",
+          "top",
+          "top",
+          "outer_tr"
+        ],
+        [
+          "left",
+          "S",
+          "S",
+          "S",
+          "S",
+          "S",
+          "S",
+          "S",
+          "S",
+          "S",
+          "right"
+        ],
+        [
+          "outer_bl",
+          "bottom",
+          "bottom",
+          "bottom",
+          "bottom",
+          "bottom",
+          "bottom",
+          "bottom",
+          "bottom",
+          "bottom",
+          "outer_br"
+        ]
+      ],
+      "module_ids": [
+        [
+          "01",
+          "01",
+          "11",
+          "03",
+          "03",
+          "03",
+          "03",
+          "12",
+          "01",
+          "01",
+          "01"
+        ],
+        [
+          "01",
+          "01",
+          "05",
+          "02",
+          "02",
+          "02",
+          "02",
+          "06",
+          "01",
+          "01",
+          "01"
+        ],
+        [
+          "01",
+          "01",
+          "05",
+          "02",
+          "02",
+          "02",
+          "02",
+          "06",
+          "01",
+          "01",
+          "01"
+        ],
+        [
+          "01",
+          "01",
+          "05",
+          "02",
+          "02",
+          "02",
+          "02",
+          "06",
+          "01",
+          "01",
+          "01"
+        ],
+        [
+          "01",
+          "01",
+          "05",
+          "02",
+          "02",
+          "02",
+          "02",
+          "06",
+          "01",
+          "01",
+          "01"
+        ],
+        [
+          "11",
+          "03",
+          "07",
+          "02",
+          "02",
+          "02",
+          "02",
+          "08",
+          "03",
+          "03",
+          "12"
+        ],
+        [
+          "05",
+          "02",
+          "02",
+          "02",
+          "02",
+          "02",
+          "02",
+          "02",
+          "02",
+          "02",
+          "06"
+        ],
+        [
+          "13",
+          "04",
+          "04",
+          "04",
+          "04",
+          "04",
+          "04",
+          "04",
+          "04",
+          "04",
+          "14"
+        ]
+      ],
+      "preview": "examples/Courtyard_Road_11x8_NATIVE_1x.png",
+      "sha256": "6d2d7ebf70a8eef737d02e8281a7902317f55c20833f40c9ffb6d4767613884b",
+      "size": [
+        704,
+        512
+      ]
+    }
+  ]
+}

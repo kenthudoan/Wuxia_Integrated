@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://BuyerKit/scripts/EnvironmentMotion/EnvironmentMotion.gd" id="environment_motion"]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Forest_stone_lantern_0.png" id="1_p1jfg"]
+
+[node name="stone_lantern" type="StaticBody2D"]
+metadata/asset_id = "stone_lantern"
+
+metadata/environment_kind = "stone_lantern"
+[node name="_Sprite2D_1902" type="Sprite2D" parent="."]
+position = Vector2(-65, -115)
+texture = ExtResource("1_p1jfg")
+centered = false
+
+[node name="EnvironmentMotion" type="Node" parent="."]
+script = ExtResource("environment_motion")

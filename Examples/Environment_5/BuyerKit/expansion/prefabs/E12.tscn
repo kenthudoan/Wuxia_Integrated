@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=3]
+[ext_resource type="Texture2D" path="res://BuyerKit/expansion/textures/E12_128px.png" id="1"]
+[sub_resource type="RectangleShape2D" id="Shape"]
+size = Vector2(66, 7)
+[node name="E12" type="Node2D"]
+texture_filter = 1
+scale = Vector2(1, 1)
+z_index = 0
+metadata/asset_id = "E12"
+[node name="Sprite" type="Sprite2D" parent="."]
+texture = ExtResource("1")
+centered = false
+position = Vector2(-64, -114)
+[node name="Body" type="StaticBody2D" parent="."]
+collision_layer = 1
+collision_mask = 0
+[node name="Shape" type="CollisionShape2D" parent="Body"]
+shape = SubResource("Shape")
+position = Vector2(0.0, -3.5)

@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://BuyerKit/scripts/EnvironmentMotion/EnvironmentMotion.gd" id="environment_motion"]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Forest_oak_2_0.png" id="1_rlxe6"]
+
+[node name="oak_2" type="StaticBody2D"]
+metadata/asset_id = "broadleaf_tree"
+
+metadata/environment_kind = "oak_2"
+[node name="_CollisionPolygon2D_1326" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-45, -24, 45, -24, 45, 0, -45, 0)
+
+[node name="_Sprite2D_1327" type="Sprite2D" parent="."]
+position = Vector2(-256, -500)
+texture = ExtResource("1_rlxe6")
+centered = false
+
+[node name="EnvironmentMotion" type="Node" parent="."]
+script = ExtResource("environment_motion")

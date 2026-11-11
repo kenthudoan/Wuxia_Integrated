@@ -1,0 +1,21 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://BuyerKit/scripts/EnvironmentMotion/EnvironmentMotion.gd" id="environment_motion"]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Swamp_broadleaf_0.png" id="1_46nkt"]
+
+[node name="broadleaf" type="StaticBody2D"]
+metadata/asset_id = "broadleaf_tree"
+metadata/swamp_kind = "broadleaf"
+
+metadata/environment_kind = "broadleaf"
+[node name="_Sprite2D_3510" type="Sprite2D" parent="."]
+position = Vector2(-270, -470)
+texture = ExtResource("1_46nkt")
+centered = false
+
+[node name="_CollisionPolygon2D_3511" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-42, -25, 42, -25, 42, 0, -42, 0)
+
+[node name="EnvironmentMotion" type="Node" parent="."]
+script = ExtResource("environment_motion")

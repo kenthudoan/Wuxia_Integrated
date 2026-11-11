@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://BuyerKit/scripts/EnvironmentMotion/EnvironmentMotion.gd" id="environment_motion"]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Swamp_reeds_0.png" id="1_dhhht"]
+
+[node name="reeds" type="StaticBody2D"]
+metadata/asset_id = "broadleaf_tree"
+metadata/swamp_kind = "reeds"
+
+metadata/environment_kind = "reeds"
+[node name="_Sprite2D_3693" type="Sprite2D" parent="."]
+position = Vector2(-238, -318)
+texture = ExtResource("1_dhhht")
+centered = false
+
+[node name="EnvironmentMotion" type="Node" parent="."]
+script = ExtResource("environment_motion")

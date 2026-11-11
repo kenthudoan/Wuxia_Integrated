@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_wood_sign_0.png" id="1_lmp6a"]
+
+[node name="wood_sign" type="Node2D"]
+metadata/asset_id = "wood_sign"
+
+[node name="_Sprite2D_123" type="Sprite2D" parent="."]
+position = Vector2(-31, -60)
+texture = ExtResource("1_lmp6a")
+centered = false

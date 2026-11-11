@@ -1,0 +1,149 @@
+[
+  {
+    "id": "01_array",
+    "sect": "玄霄剑宗",
+    "name": "天枢剑阵",
+    "mode": "array",
+    "file": "SectVFX/Skills/01_array.json"
+  },
+  {
+    "id": "02_beam",
+    "sect": "玄霄剑宗",
+    "name": "一线开天",
+    "mode": "beam",
+    "file": "SectVFX/Skills/02_beam.json"
+  },
+  {
+    "id": "03_orbit",
+    "sect": "玄霄剑宗",
+    "name": "回风归鞘",
+    "mode": "orbit",
+    "file": "SectVFX/Skills/03_orbit.json"
+  },
+  {
+    "id": "04_moons",
+    "sect": "寒月宫",
+    "name": "镜月回澜",
+    "mode": "moons",
+    "file": "SectVFX/Skills/04_moons.json"
+  },
+  {
+    "id": "05_frost",
+    "sect": "寒月宫",
+    "name": "霜华定影",
+    "mode": "frost",
+    "file": "SectVFX/Skills/05_frost.json"
+  },
+  {
+    "id": "06_dash",
+    "sect": "寒月宫",
+    "name": "踏月无痕",
+    "mode": "dash",
+    "file": "SectVFX/Skills/06_dash.json"
+  },
+  {
+    "id": "07_cleave",
+    "sect": "赤焰刀门",
+    "name": "赤龙断岳",
+    "mode": "cleave",
+    "file": "SectVFX/Skills/07_cleave.json"
+  },
+  {
+    "id": "08_triple",
+    "sect": "赤焰刀门",
+    "name": "燎原三叠",
+    "mode": "triple",
+    "file": "SectVFX/Skills/08_triple.json"
+  },
+  {
+    "id": "09_ring",
+    "sect": "赤焰刀门",
+    "name": "烬火回身",
+    "mode": "ring",
+    "file": "SectVFX/Skills/09_ring.json"
+  },
+  {
+    "id": "10_leaves",
+    "sect": "碧竹山庄",
+    "name": "听竹回风",
+    "mode": "leaves",
+    "file": "SectVFX/Skills/10_leaves.json"
+  },
+  {
+    "id": "11_joints",
+    "sect": "碧竹山庄",
+    "name": "节节生锋",
+    "mode": "joints",
+    "file": "SectVFX/Skills/11_joints.json"
+  },
+  {
+    "id": "12_rebound",
+    "sect": "碧竹山庄",
+    "name": "虚竹卸劲",
+    "mode": "rebound",
+    "file": "SectVFX/Skills/12_rebound.json"
+  },
+  {
+    "id": "13_petals",
+    "sect": "百花谷",
+    "name": "千瓣归心",
+    "mode": "petals",
+    "file": "SectVFX/Skills/13_petals.json"
+  },
+  {
+    "id": "14_decoy",
+    "sect": "百花谷",
+    "name": "花影移香",
+    "mode": "decoy",
+    "file": "SectVFX/Skills/14_decoy.json"
+  },
+  {
+    "id": "15_heal",
+    "sect": "百花谷",
+    "name": "回春花阵",
+    "mode": "heal",
+    "file": "SectVFX/Skills/15_heal.json"
+  },
+  {
+    "id": "16_bind",
+    "sect": "幽冥教",
+    "name": "冥影锁魂",
+    "mode": "bind",
+    "file": "SectVFX/Skills/16_bind.json"
+  },
+  {
+    "id": "17_shadow_dash",
+    "sect": "幽冥教",
+    "name": "夜渡无声",
+    "mode": "shadow_dash",
+    "file": "SectVFX/Skills/17_shadow_dash.json"
+  },
+  {
+    "id": "18_eclipse",
+    "sect": "幽冥教",
+    "name": "蚀月归墟",
+    "mode": "eclipse",
+    "file": "SectVFX/Skills/18_eclipse.json"
+  },
+  {
+    "id": "19_bell",
+    "sect": "金刚寺",
+    "name": "金钟震岳",
+    "mode": "bell",
+    "file": "SectVFX/Skills/19_bell.json"
+  },
+  {
+    "id": "20_palm",
+    "sect": "金刚寺",
+    "name": "伏魔镇山掌",
+    "mode": "palm",
+    "file": "SectVFX/Skills/20_palm.json"
+  },
+  {
+    "id": "21_guardian",
+    "sect": "金刚寺",
+    "name": "不动明王身",
+    "mode": "guardian",
+    "file": "SectVFX/Skills/21_guardian.json"
+  }
+]

@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://BuyerKit/scripts/EnvironmentMotion/EnvironmentMotion.gd" id="environment_motion"]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_willow_tree_0.png" id="1_12oc5"]
+
+[node name="willow_tree" type="Node2D"]
+metadata/asset_id = "willow_tree"
+
+metadata/environment_kind = "willow_tree"
+[node name="_Sprite2D_244" type="Sprite2D" parent="."]
+position = Vector2(-63, -124)
+texture = ExtResource("1_12oc5")
+centered = false
+
+[node name="EnvironmentMotion" type="Node" parent="."]
+script = ExtResource("environment_motion")

@@ -1,0 +1,1028 @@
+{
+  "items": [
+    {
+      "id": "sword",
+      "name": "青锋剑",
+      "icon": "res://UI/icons/items/sword.png"
+    },
+    {
+      "id": "potion",
+      "name": "金创药",
+      "icon": "res://UI/icons/items/potion.png"
+    },
+    {
+      "id": "herb",
+      "name": "碧竹草",
+      "icon": "res://UI/icons/items/herb.png"
+    },
+    {
+      "id": "food",
+      "name": "干粮",
+      "icon": "res://UI/icons/items/food.png"
+    },
+    {
+      "id": "scroll",
+      "name": "武学残卷",
+      "icon": "res://UI/icons/items/scroll.png"
+    },
+    {
+      "id": "coin",
+      "name": "铜钱",
+      "icon": "res://UI/icons/items/coin.png"
+    },
+    {
+      "id": "I01_iron_sword",
+      "name": "铁剑",
+      "icon": "res://UI/icons/items/p1_I01_iron_sword_64px.png"
+    },
+    {
+      "id": "I01_wood_sword",
+      "name": "木剑",
+      "icon": "res://UI/icons/items/p1_I01_wood_sword_64px.png"
+    },
+    {
+      "id": "I01_short_sword",
+      "name": "短剑",
+      "icon": "res://UI/icons/items/p1_I01_short_sword_64px.png"
+    },
+    {
+      "id": "I01_long_sabre",
+      "name": "长刀",
+      "icon": "res://UI/icons/items/p1_I01_long_sabre_64px.png"
+    },
+    {
+      "id": "I01_pudao",
+      "name": "朴刀",
+      "icon": "res://UI/icons/items/p1_I01_pudao_64px.png"
+    },
+    {
+      "id": "I01_dual_sabres",
+      "name": "双刀",
+      "icon": "res://UI/icons/items/p1_I01_dual_sabres_64px.png"
+    },
+    {
+      "id": "I01_dagger",
+      "name": "匕首",
+      "icon": "res://UI/icons/items/p1_I01_dagger_64px.png"
+    },
+    {
+      "id": "I01_spear",
+      "name": "长枪",
+      "icon": "res://UI/icons/items/p1_I01_spear_64px.png"
+    },
+    {
+      "id": "I01_iron_staff",
+      "name": "铁棍",
+      "icon": "res://UI/icons/items/p1_I01_iron_staff_64px.png"
+    },
+    {
+      "id": "I01_monk_staff",
+      "name": "禅杖",
+      "icon": "res://UI/icons/items/p1_I01_monk_staff_64px.png"
+    },
+    {
+      "id": "I01_dual_hammers",
+      "name": "双锤",
+      "icon": "res://UI/icons/items/p1_I01_dual_hammers_64px.png"
+    },
+    {
+      "id": "I01_bow",
+      "name": "弓",
+      "icon": "res://UI/icons/items/p1_I01_bow_64px.png"
+    },
+    {
+      "id": "I01_quiver",
+      "name": "箭袋",
+      "icon": "res://UI/icons/items/p1_I01_quiver_64px.png"
+    },
+    {
+      "id": "I01_dart",
+      "name": "飞镖",
+      "icon": "res://UI/icons/items/p1_I01_dart_64px.png"
+    },
+    {
+      "id": "I01_throwing_knife",
+      "name": "飞刀",
+      "icon": "res://UI/icons/items/p1_I01_throwing_knife_64px.png"
+    },
+    {
+      "id": "I01_fan",
+      "name": "扇",
+      "icon": "res://UI/icons/items/p1_I01_fan_64px.png"
+    },
+    {
+      "id": "I01_fly_whisk",
+      "name": "拂尘",
+      "icon": "res://UI/icons/items/p1_I01_fly_whisk_64px.png"
+    },
+    {
+      "id": "I01_soft_whip",
+      "name": "软鞭",
+      "icon": "res://UI/icons/items/p1_I01_soft_whip_64px.png"
+    },
+    {
+      "id": "I01_gauntlets",
+      "name": "拳套",
+      "icon": "res://UI/icons/items/p1_I01_gauntlets_64px.png"
+    },
+    {
+      "id": "I02_cloth_tunic",
+      "name": "布衣",
+      "icon": "res://UI/icons/items/p1_I02_cloth_tunic_64px.png"
+    },
+    {
+      "id": "I02_leather_armor",
+      "name": "皮甲",
+      "icon": "res://UI/icons/items/p1_I02_leather_armor_64px.png"
+    },
+    {
+      "id": "I02_iron_armor",
+      "name": "铁甲",
+      "icon": "res://UI/icons/items/p1_I02_iron_armor_64px.png"
+    },
+    {
+      "id": "I02_taoist_robe",
+      "name": "道袍",
+      "icon": "res://UI/icons/items/p1_I02_taoist_robe_64px.png"
+    },
+    {
+      "id": "I02_kasaya",
+      "name": "袈裟",
+      "icon": "res://UI/icons/items/p1_I02_kasaya_64px.png"
+    },
+    {
+      "id": "I02_swordswoman_outfit",
+      "name": "女侠劲装",
+      "icon": "res://UI/icons/items/p1_I02_swordswoman_outfit_64px.png"
+    },
+    {
+      "id": "I02_straw_hat",
+      "name": "斗笠",
+      "icon": "res://UI/icons/items/p1_I02_straw_hat_64px.png"
+    },
+    {
+      "id": "I02_cloth_headwrap",
+      "name": "布巾",
+      "icon": "res://UI/icons/items/p1_I02_cloth_headwrap_64px.png"
+    },
+    {
+      "id": "I02_iron_helmet",
+      "name": "铁盔",
+      "icon": "res://UI/icons/items/p1_I02_iron_helmet_64px.png"
+    },
+    {
+      "id": "I02_cloth_shoes",
+      "name": "布鞋",
+      "icon": "res://UI/icons/items/p1_I02_cloth_shoes_64px.png"
+    },
+    {
+      "id": "I02_leather_boots",
+      "name": "皮靴",
+      "icon": "res://UI/icons/items/p1_I02_leather_boots_64px.png"
+    },
+    {
+      "id": "I02_wrist_guards",
+      "name": "护腕",
+      "icon": "res://UI/icons/items/p1_I02_wrist_guards_64px.png"
+    },
+    {
+      "id": "I02_shin_guards",
+      "name": "护腿",
+      "icon": "res://UI/icons/items/p1_I02_shin_guards_64px.png"
+    },
+    {
+      "id": "I02_belt",
+      "name": "腰带",
+      "icon": "res://UI/icons/items/p1_I02_belt_64px.png"
+    },
+    {
+      "id": "I02_cloak",
+      "name": "披风",
+      "icon": "res://UI/icons/items/p1_I02_cloak_64px.png"
+    },
+    {
+      "id": "I02_sachet",
+      "name": "香囊",
+      "icon": "res://UI/icons/items/p1_I02_sachet_64px.png"
+    },
+    {
+      "id": "I03_qi_pills",
+      "name": "回气丹",
+      "icon": "res://UI/icons/items/p1_I03_qi_pills_64px.png"
+    },
+    {
+      "id": "I03_antidote",
+      "name": "解毒丹",
+      "icon": "res://UI/icons/items/p1_I03_antidote_64px.png"
+    },
+    {
+      "id": "I03_styptic_powder",
+      "name": "止血散",
+      "icon": "res://UI/icons/items/p1_I03_styptic_powder_64px.png"
+    },
+    {
+      "id": "I03_healing_balm",
+      "name": "疗伤膏",
+      "icon": "res://UI/icons/items/p1_I03_healing_balm_64px.png"
+    },
+    {
+      "id": "I03_clarity_pill",
+      "name": "清心丸",
+      "icon": "res://UI/icons/items/p1_I03_clarity_pill_64px.png"
+    },
+    {
+      "id": "I03_warming_pill",
+      "name": "驱寒丹",
+      "icon": "res://UI/icons/items/p1_I03_warming_pill_64px.png"
+    },
+    {
+      "id": "I03_miasma_pill",
+      "name": "辟瘴丹",
+      "icon": "res://UI/icons/items/p1_I03_miasma_pill_64px.png"
+    },
+    {
+      "id": "I03_great_return_pill",
+      "name": "大还丹",
+      "icon": "res://UI/icons/items/p1_I03_great_return_pill_64px.png"
+    },
+    {
+      "id": "I03_lesser_return_pills",
+      "name": "小还丹",
+      "icon": "res://UI/icons/items/p1_I03_lesser_return_pills_64px.png"
+    },
+    {
+      "id": "I03_revival_pill",
+      "name": "续命丹",
+      "icon": "res://UI/icons/items/p1_I03_revival_pill_64px.png"
+    },
+    {
+      "id": "I03_sleeping_powder",
+      "name": "迷药",
+      "icon": "res://UI/icons/items/p1_I03_sleeping_powder_64px.png"
+    },
+    {
+      "id": "I03_poison_powder",
+      "name": "毒粉",
+      "icon": "res://UI/icons/items/p1_I03_poison_powder_64px.png"
+    },
+    {
+      "id": "I03_fire_oil",
+      "name": "火油瓶",
+      "icon": "res://UI/icons/items/p1_I03_fire_oil_64px.png"
+    },
+    {
+      "id": "I03_bandage",
+      "name": "绷带",
+      "icon": "res://UI/icons/items/p1_I03_bandage_64px.png"
+    },
+    {
+      "id": "I03_medicine_gourd",
+      "name": "伤药葫芦",
+      "icon": "res://UI/icons/items/p1_I03_medicine_gourd_64px.png"
+    },
+    {
+      "id": "I06a_silver_ingot",
+      "name": "银锭",
+      "icon": "res://UI/icons/items/p1_I06a_silver_ingot_64px.png"
+    },
+    {
+      "id": "I06a_gold_ingot",
+      "name": "金锭",
+      "icon": "res://UI/icons/items/p1_I06a_gold_ingot_64px.png"
+    },
+    {
+      "id": "I06a_bronze_key",
+      "name": "铜钥匙",
+      "icon": "res://UI/icons/items/p1_I06a_bronze_key_64px.png"
+    },
+    {
+      "id": "I06a_iron_key",
+      "name": "铁钥匙",
+      "icon": "res://UI/icons/items/p1_I06a_iron_key_64px.png"
+    },
+    {
+      "id": "I06a_sect_token",
+      "name": "门派令牌",
+      "icon": "res://UI/icons/items/p1_I06a_sect_token_64px.png"
+    },
+    {
+      "id": "I06a_escort_writ",
+      "name": "镖局押镖令",
+      "icon": "res://UI/icons/items/p1_I06a_escort_writ_64px.png"
+    },
+    {
+      "id": "I06a_wanted_notice",
+      "name": "官府通缉令",
+      "icon": "res://UI/icons/items/p1_I06a_wanted_notice_64px.png"
+    },
+    {
+      "id": "I06a_secret_letter",
+      "name": "密信",
+      "icon": "res://UI/icons/items/p1_I06a_secret_letter_64px.png"
+    },
+    {
+      "id": "I04_iron_ore",
+      "name": "铁矿",
+      "icon": "res://UI/icons/items/p2_I04_iron_ore_64px.png"
+    },
+    {
+      "id": "I04_copper_ore",
+      "name": "铜矿",
+      "icon": "res://UI/icons/items/p2_I04_copper_ore_64px.png"
+    },
+    {
+      "id": "I04_silver_ore",
+      "name": "银矿",
+      "icon": "res://UI/icons/items/p2_I04_silver_ore_64px.png"
+    },
+    {
+      "id": "I04_refined_iron",
+      "name": "精铁",
+      "icon": "res://UI/icons/items/p2_I04_refined_iron_64px.png"
+    },
+    {
+      "id": "I04_copper_ingot",
+      "name": "铜锭",
+      "icon": "res://UI/icons/items/p2_I04_copper_ingot_64px.png"
+    },
+    {
+      "id": "I04_timber",
+      "name": "木材",
+      "icon": "res://UI/icons/items/p2_I04_timber_64px.png"
+    },
+    {
+      "id": "I04_bamboo",
+      "name": "竹材",
+      "icon": "res://UI/icons/items/p2_I04_bamboo_64px.png"
+    },
+    {
+      "id": "I04_beast_hide",
+      "name": "兽皮",
+      "icon": "res://UI/icons/items/p2_I04_beast_hide_64px.png"
+    },
+    {
+      "id": "I04_silk_thread",
+      "name": "丝线",
+      "icon": "res://UI/icons/items/p2_I04_silk_thread_64px.png"
+    },
+    {
+      "id": "I04_cotton_cloth",
+      "name": "棉布",
+      "icon": "res://UI/icons/items/p2_I04_cotton_cloth_64px.png"
+    },
+    {
+      "id": "I04_antler",
+      "name": "鹿角",
+      "icon": "res://UI/icons/items/p2_I04_antler_64px.png"
+    },
+    {
+      "id": "I04_tiger_bone",
+      "name": "虎骨",
+      "icon": "res://UI/icons/items/p2_I04_tiger_bone_64px.png"
+    },
+    {
+      "id": "I04_snake_gall",
+      "name": "蛇胆",
+      "icon": "res://UI/icons/items/p2_I04_snake_gall_64px.png"
+    },
+    {
+      "id": "I04_venom_sac",
+      "name": "毒囊",
+      "icon": "res://UI/icons/items/p2_I04_venom_sac_64px.png"
+    },
+    {
+      "id": "I04_lingzhi",
+      "name": "灵芝",
+      "icon": "res://UI/icons/items/p2_I04_lingzhi_64px.png"
+    },
+    {
+      "id": "I04_ginseng",
+      "name": "人参",
+      "icon": "res://UI/icons/items/p2_I04_ginseng_64px.png"
+    },
+    {
+      "id": "I04_cinnabar",
+      "name": "朱砂",
+      "icon": "res://UI/icons/items/p2_I04_cinnabar_64px.png"
+    },
+    {
+      "id": "I04_sulfur",
+      "name": "硫磺",
+      "icon": "res://UI/icons/items/p2_I04_sulfur_64px.png"
+    },
+    {
+      "id": "I04_whetstone",
+      "name": "磨刀石",
+      "icon": "res://UI/icons/items/p2_I04_whetstone_64px.png"
+    },
+    {
+      "id": "I05_steamed_bun",
+      "name": "馒头",
+      "icon": "res://UI/icons/items/p2_I05_steamed_bun_64px.png"
+    },
+    {
+      "id": "I05_stuffed_bun",
+      "name": "包子",
+      "icon": "res://UI/icons/items/p2_I05_stuffed_bun_64px.png"
+    },
+    {
+      "id": "I05_noodles",
+      "name": "面条",
+      "icon": "res://UI/icons/items/p2_I05_noodles_64px.png"
+    },
+    {
+      "id": "I05_rice",
+      "name": "米饭",
+      "icon": "res://UI/icons/items/p2_I05_rice_64px.png"
+    },
+    {
+      "id": "I05_grilled_fish",
+      "name": "烤鱼",
+      "icon": "res://UI/icons/items/p2_I05_grilled_fish_64px.png"
+    },
+    {
+      "id": "I05_roast_meat",
+      "name": "烤肉",
+      "icon": "res://UI/icons/items/p2_I05_roast_meat_64px.png"
+    },
+    {
+      "id": "I05_chicken_leg",
+      "name": "鸡腿",
+      "icon": "res://UI/icons/items/p2_I05_chicken_leg_64px.png"
+    },
+    {
+      "id": "I05_flatbread",
+      "name": "烧饼",
+      "icon": "res://UI/icons/items/p2_I05_flatbread_64px.png"
+    },
+    {
+      "id": "I05_tea",
+      "name": "清茶",
+      "icon": "res://UI/icons/items/p2_I05_tea_64px.png"
+    },
+    {
+      "id": "I05_rice_wine",
+      "name": "米酒",
+      "icon": "res://UI/icons/items/p2_I05_rice_wine_64px.png"
+    },
+    {
+      "id": "I05_wild_fruit",
+      "name": "野果",
+      "icon": "res://UI/icons/items/p2_I05_wild_fruit_64px.png"
+    },
+    {
+      "id": "I06b_treasure_map",
+      "name": "藏宝图",
+      "icon": "res://UI/icons/items/p2_I06b_treasure_map_64px.png"
+    },
+    {
+      "id": "I06b_jade_pendant",
+      "name": "玉佩",
+      "icon": "res://UI/icons/items/p2_I06b_jade_pendant_64px.png"
+    },
+    {
+      "id": "I06b_broken_jade",
+      "name": "残缺玉珏",
+      "icon": "res://UI/icons/items/p2_I06b_broken_jade_64px.png"
+    },
+    {
+      "id": "I06b_ledger",
+      "name": "账本",
+      "icon": "res://UI/icons/items/p2_I06b_ledger_64px.png"
+    },
+    {
+      "id": "I06b_prescription",
+      "name": "药方",
+      "icon": "res://UI/icons/items/p2_I06b_prescription_64px.png"
+    },
+    {
+      "id": "I06b_manual",
+      "name": "秘籍书册",
+      "icon": "res://UI/icons/items/p2_I06b_manual_64px.png"
+    }
+  ],
+  "skills": [
+    {
+      "id": "master_array",
+      "name": "天枢剑阵",
+      "owner": "玄霄剑宗",
+      "icon": "res://UI/icons/skills/master_array.png",
+      "sha256": "67252b352661db1e73fbcf9873d3058621f9b94f7118c086f75882497efe60d6",
+      "phase": "projectile",
+      "rect": [
+        0,
+        0,
+        128,
+        128
+      ],
+      "runtime_enabled": true,
+      "kind": "master"
+    },
+    {
+      "id": "master_beam",
+      "name": "一线开天",
+      "owner": "玄霄剑宗",
+      "icon": "res://UI/icons/skills/master_beam.png",
+      "sha256": "2113d8dacaf5b54ff4e9ac4d0fa412ec7d19674a006aa2a003bab975a1890899",
+      "phase": "impact",
+      "rect": [
+        96,
+        0,
+        48,
+        48
+      ],
+      "runtime_enabled": true,
+      "kind": "master"
+    },
+    {
+      "id": "master_orbit",
+      "name": "回风归鞘",
+      "owner": "玄霄剑宗",
+      "icon": "res://UI/icons/skills/master_orbit.png",
+      "sha256": "6638a07ee898135591571ebc254f8b81c769b3017791893872db4d30ede7f09d",
+      "phase": "projectile",
+      "rect": [
+        96,
+        96,
+        96,
+        96
+      ],
+      "runtime_enabled": true,
+      "kind": "master"
+    },
+    {
+      "id": "master_moons",
+      "name": "镜月回澜",
+      "owner": "寒月宫",
+      "icon": "res://UI/icons/skills/master_moons.png",
+      "sha256": "efeeb04b4ada25f149cc53b4bb03b7e79f022b8f43420f1579b203606177679f",
+      "phase": "projectile",
+      "rect": [
+        96,
+        96,
+        96,
+        96
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "master_frost",
+      "name": "霜华定影",
+      "owner": "寒月宫",
+      "icon": "res://UI/icons/skills/master_frost.png",
+      "sha256": "0463154a9e833ecb78f7398da0cf783bff3b13a777a802b9f6bb570862dff5f1",
+      "phase": "projectile",
+      "rect": [
+        0,
+        0,
+        320,
+        320
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "master_dash",
+      "name": "踏月无痕",
+      "owner": "寒月宫",
+      "icon": "res://UI/icons/skills/master_dash.png",
+      "sha256": "cc40c68863cb0b0d8b2c5fb7690ff04d6fd5aecb76ad3904d723378df80d3c1b",
+      "phase": "projectile",
+      "rect": [
+        0,
+        96,
+        96,
+        96
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "master_cleave",
+      "name": "赤龙断岳",
+      "owner": "赤焰刀门",
+      "icon": "res://UI/icons/skills/master_cleave.png",
+      "sha256": "3d018180bff77557a9b457a46641b766d6b53d1ac308d1c916452b7ff4cd6179",
+      "phase": "projectile",
+      "rect": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "runtime_enabled": true,
+      "kind": "master"
+    },
+    {
+      "id": "master_triple",
+      "name": "燎原三叠",
+      "owner": "赤焰刀门",
+      "icon": "res://UI/icons/skills/master_triple.png",
+      "sha256": "4e67dbaacc4dfc711942dcee65c6130ab988ae8cd7172b15ff9dfbca753efbda",
+      "phase": "projectile",
+      "rect": [
+        0,
+        0,
+        128,
+        128
+      ],
+      "runtime_enabled": true,
+      "kind": "master"
+    },
+    {
+      "id": "master_ring",
+      "name": "烬火回身",
+      "owner": "赤焰刀门",
+      "icon": "res://UI/icons/skills/master_ring.png",
+      "sha256": "c0ab26d4b99e4a84dff4f3b2e04be714929c7c2621e4a5d31199d2033fb72613",
+      "phase": "projectile",
+      "rect": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "runtime_enabled": true,
+      "kind": "master"
+    },
+    {
+      "id": "master_leaves",
+      "name": "听竹回风",
+      "owner": "碧竹山庄",
+      "icon": "res://UI/icons/skills/master_leaves.png",
+      "sha256": "a14d229b88dd125a1beff6674e71c9c2d0af0ccddfd4c7b21ea6d8f5ff2102ce",
+      "phase": "impact",
+      "rect": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "master_joints",
+      "name": "节节生锋",
+      "owner": "碧竹山庄",
+      "icon": "res://UI/icons/skills/master_joints.png",
+      "sha256": "e4ab815712531769ffa29d5ebc7efc3d81651e36db50cfbbe16fbd4b1469321d",
+      "phase": "projectile",
+      "rect": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "master_rebound",
+      "name": "虚竹卸劲",
+      "owner": "碧竹山庄",
+      "icon": "res://UI/icons/skills/master_rebound.png",
+      "sha256": "0b1f7c6a8fde4328aa3c98d058197f14b0275da5956732b2927574e9ec00108a",
+      "phase": "projectile",
+      "rect": [
+        0,
+        0,
+        1092,
+        1440
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "master_petals",
+      "name": "千瓣归心",
+      "owner": "百花谷",
+      "icon": "res://UI/icons/skills/master_petals.png",
+      "sha256": "d25b6341f19a58094089b363acf9960bfcc6fe0e182e69d17785b8e56148a051",
+      "phase": "projectile",
+      "rect": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "master_decoy",
+      "name": "花影移香",
+      "owner": "百花谷",
+      "icon": "res://UI/icons/skills/master_decoy.png",
+      "sha256": "89ecc44a76c9dc9560dd08e75228772b8d38c612ee26552d5e0adea4d0265a28",
+      "phase": "projectile",
+      "rect": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "master_heal",
+      "name": "回春花阵",
+      "owner": "百花谷",
+      "icon": "res://UI/icons/skills/master_heal.png",
+      "sha256": "97c377c9b95db476967e26be80e6ef8e205c517416c33b0e7aa6afd827eec71c",
+      "phase": "projectile",
+      "rect": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "master_bind",
+      "name": "冥影锁魂",
+      "owner": "幽冥教",
+      "icon": "res://UI/icons/skills/master_bind.png",
+      "sha256": "48af2f7bcc07fb3c59d898f25ac6207cab22b3ecfa59b054e312c1ddfb927275",
+      "phase": "coil",
+      "rect": [
+        0,
+        0,
+        1374,
+        1145
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "master_shadow_dash",
+      "name": "夜渡无声",
+      "owner": "幽冥教",
+      "icon": "res://UI/icons/skills/master_shadow_dash.png",
+      "sha256": "934c2f50fdfa9df9eec5d7c9ce70dac70ada5e57b05ef5d148649991167a333a",
+      "phase": "ribbon",
+      "rect": [
+        0,
+        0,
+        1983,
+        793
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "master_eclipse",
+      "name": "蚀月归墟",
+      "owner": "幽冥教",
+      "icon": "res://UI/icons/skills/master_eclipse.png",
+      "sha256": "9614817806006b910b52a58fe2d2b384884817f2919e5511eec10e219166fc45",
+      "phase": "moon",
+      "rect": [
+        0,
+        0,
+        1983,
+        793
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "master_bell",
+      "name": "金钟震岳",
+      "owner": "金刚寺",
+      "icon": "res://UI/icons/skills/master_bell.png",
+      "sha256": "027a6736432a5b85ef5c764556c6940659d23692e80930099e1fa27c0655f40f",
+      "phase": "projectile",
+      "rect": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "master_palm",
+      "name": "伏魔镇山掌",
+      "owner": "金刚寺",
+      "icon": "res://UI/icons/skills/master_palm.png",
+      "sha256": "ab8db54a41f931f8d608fabdf849fe25cbbba16039e521a24dd8edc145be046e",
+      "phase": "projectile",
+      "rect": [
+        0,
+        0,
+        1659,
+        948
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "master_guardian",
+      "name": "不动明王身",
+      "owner": "金刚寺",
+      "icon": "res://UI/icons/skills/master_guardian.png",
+      "sha256": "3ed5015d077ec64fcf160cd4cea1289a810db1e41172192097d60663539a0a72",
+      "phase": "projectile",
+      "rect": [
+        0,
+        0,
+        1199,
+        1312
+      ],
+      "runtime_enabled": false,
+      "kind": "master"
+    },
+    {
+      "id": "boss_01_cleave",
+      "name": "裂地霸斩",
+      "owner": "黑风大王",
+      "icon": "res://UI/icons/skills/boss_01_cleave.png",
+      "sha256": "3428519979b1927c275de390ca26f47aed5a66a9c6ed1a076db507511c38e03e",
+      "frame": 4,
+      "runtime_enabled": false,
+      "kind": "boss"
+    },
+    {
+      "id": "boss_02_whirl",
+      "name": "黑风绞杀",
+      "owner": "黑风大王",
+      "icon": "res://UI/icons/skills/boss_02_whirl.png",
+      "sha256": "e2eb130024ca401ccd995939894ada0820dc83d864221dbe4b67aeaaae80294e",
+      "frame": 4,
+      "runtime_enabled": false,
+      "kind": "boss"
+    },
+    {
+      "id": "boss_03_charge",
+      "name": "破阵狂袭",
+      "owner": "黑风大王",
+      "icon": "res://UI/icons/skills/boss_03_charge.png",
+      "sha256": "fc9f01be0ad977050312ca15e2810c418f8bbaf7261f80b711f185cf6b5c8bb7",
+      "frame": 4,
+      "runtime_enabled": false,
+      "kind": "boss"
+    },
+    {
+      "id": "boss_04_needles",
+      "name": "蚀脉毒针",
+      "owner": "万毒老祖",
+      "icon": "res://UI/icons/skills/boss_04_needles.png",
+      "sha256": "acf084aff5c6a4ac1bcd5f026c4167ab6f02413ea5e3e72874e850e19ca98dfa",
+      "frame": 4,
+      "runtime_enabled": false,
+      "kind": "boss"
+    },
+    {
+      "id": "boss_05_gourd",
+      "name": "毒葫裂瘴",
+      "owner": "万毒老祖",
+      "icon": "res://UI/icons/skills/boss_05_gourd.png",
+      "sha256": "46b77d4b75cbdb71b6dcc216cce5c6b93d4dd39e12676eb66f202803a97045d2",
+      "frame": 4,
+      "runtime_enabled": false,
+      "kind": "boss"
+    },
+    {
+      "id": "boss_06_field",
+      "name": "万毒封域",
+      "owner": "万毒老祖",
+      "icon": "res://UI/icons/skills/boss_06_field.png",
+      "sha256": "fcf0a10bdf2d75c513471f5c47c6bfe6dc8b047bfa70c1905deff5c6d86159de",
+      "frame": 4,
+      "runtime_enabled": false,
+      "kind": "boss"
+    },
+    {
+      "id": "boss_07_chain",
+      "name": "锁魂骨链",
+      "owner": "白骨妖后",
+      "icon": "res://UI/icons/skills/boss_07_chain.png",
+      "sha256": "1508a964a4e4f31a07ef2977015421edbbdec735d68dbc965770613db14798d3",
+      "frame": 4,
+      "runtime_enabled": false,
+      "kind": "boss"
+    },
+    {
+      "id": "boss_08_prison",
+      "name": "森罗骨狱",
+      "owner": "白骨妖后",
+      "icon": "res://UI/icons/skills/boss_08_prison.png",
+      "sha256": "4fb7fffd84186141a34f0ec7a8e0e6fe500e33e8f50a4dcfd091d74d1b56d43b",
+      "frame": 4,
+      "runtime_enabled": false,
+      "kind": "boss"
+    },
+    {
+      "id": "boss_09_summon",
+      "name": "白骨唤灵",
+      "owner": "白骨妖后",
+      "icon": "res://UI/icons/skills/boss_09_summon.png",
+      "sha256": "637d6e77ad96f49cf2332670c7f18755245305ee6ca1f4dfd449c5219ac2fbb3",
+      "frame": 4,
+      "runtime_enabled": false,
+      "kind": "boss"
+    },
+    {
+      "id": "boss_10_claws",
+      "name": "裂空三爪",
+      "owner": "赤目虎君",
+      "icon": "res://UI/icons/skills/boss_10_claws.png",
+      "sha256": "290a7ff189f8f1c56b24f5b0d58550a1e8a4844bfc4e7ba0c4043782b1fada16",
+      "frame": 4,
+      "runtime_enabled": false,
+      "kind": "boss"
+    },
+    {
+      "id": "boss_11_roar",
+      "name": "赤瞳震啸",
+      "owner": "赤目虎君",
+      "icon": "res://UI/icons/skills/boss_11_roar.png",
+      "sha256": "5c3dd66e922fca0a57eedf52f6e3e6db209f16eda4528fa232012eec3b4de3f7",
+      "frame": 4,
+      "runtime_enabled": false,
+      "kind": "boss"
+    },
+    {
+      "id": "boss_12_slam",
+      "name": "虎煞扑杀",
+      "owner": "赤目虎君",
+      "icon": "res://UI/icons/skills/boss_12_slam.png",
+      "sha256": "bc35c0ae679f3290ddb14609ffdb56f5abfcdb5b1a19f02d8fcbcef7d537d9f7",
+      "frame": 4,
+      "runtime_enabled": false,
+      "kind": "boss"
+    }
+  ],
+  "native_geometry": [
+    {
+      "file": "textures/arrow.png",
+      "sha256": "910c159c18c005491ebe903870c9918dd222c9e48bdeea103c1dd3ad0491ef35",
+      "operation": "Native UI geometry in the existing charcoal/brass/parchment palette"
+    },
+    {
+      "file": "textures/check_0_0.png",
+      "sha256": "b1062c0b837d4bc34dbe4bbc1af768dbf2cd97b5743b10434ac3aa22504abcd7",
+      "operation": "Native UI geometry in the existing charcoal/brass/parchment palette"
+    },
+    {
+      "file": "textures/check_0_1.png",
+      "sha256": "91c9ddd9bdee93b5f2dbc671ba7674dd5e82400c6e5e0afdef957971c08aa280",
+      "operation": "Native UI geometry in the existing charcoal/brass/parchment palette"
+    },
+    {
+      "file": "textures/check_1_0.png",
+      "sha256": "3178ee79ef8da40c0bca50f88ccf8e0e2895d2e2e2f580d61c2fbceb49b25fcf",
+      "operation": "Native UI geometry in the existing charcoal/brass/parchment palette"
+    },
+    {
+      "file": "textures/check_1_1.png",
+      "sha256": "6170952a203058feb83ff69515354d414eda9c1a30c28a3815a1cafd33b2710d",
+      "operation": "Native UI geometry in the existing charcoal/brass/parchment palette"
+    },
+    {
+      "file": "textures/slider.png",
+      "sha256": "bca864e3e260ca5d22262fb26c874ffd2ffdd36b15bac1af99c2f5daa2208c82",
+      "operation": "Native UI geometry in the existing charcoal/brass/parchment palette"
+    },
+    {
+      "file": "textures/slider_hover.png",
+      "sha256": "0a0e0ad4ebf0b07f597e18f6486a6a1955e02bad29245bcd080651171801bf33",
+      "operation": "Native UI geometry in the existing charcoal/brass/parchment palette"
+    }
+  ],
+  "component_prefabs": 27,
+  "component_types": 25,
+  "example_pages": 8,
+  "button_states": [
+    "normal",
+    "hover",
+    "pressed",
+    "disabled"
+  ],
+  "nineslice": {
+    "panel_dark": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "panel_paper": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "button": [
+      12,
+      12,
+      12,
+      12
+    ]
+  }
+}

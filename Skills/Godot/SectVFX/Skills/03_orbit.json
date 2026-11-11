@@ -1,0 +1,588 @@
+{
+  "id": "03_orbit",
+  "sect": "玄霄剑宗",
+  "name": "回风归鞘",
+  "mode": "orbit",
+  "number": 3,
+  "phases": {
+    "cast": {
+      "sheet": "SectVFX/Textures/08299b6d8bfd3caa339031026186c96b2f77eec081a8612f32f89b09e778793e.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/03a43d003ccfe1c65c63ee11a66fd12681fd0a567c5f5a886a9cfadfffbd3094.png",
+          "sha256": "653ae4b6c0258c1f1763866058e67cb4d64e1de235b064710f43f77e22518b2e"
+        },
+        {
+          "rect": [
+            48,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/37f35d4158ddea4e6b942cab86d83e35ca24378ec55b4239c9014a3380fa84a7.png",
+          "sha256": "dec145282652ea7901f91c0df57eced1e2cdeb091a17a1f4b3ae542338349b48"
+        },
+        {
+          "rect": [
+            96,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/c3d10bf6d8f49e3464b1c916a99f4ffd5f4b299e5d25b57c479be90183566edd.png",
+          "sha256": "62ca57259d5a2b09185cfb58d3991443598e7131dbd89356edce2f8042a096b2"
+        },
+        {
+          "rect": [
+            144,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/f88ef1687e3dd73917846c33a7cc51c5136c52e59d4634dde552ee2247307cf8.png",
+          "sha256": "a67913e296e0087130cfa584b9958c45b11d652c9224a80785f3f867f551a313"
+        },
+        {
+          "rect": [
+            0,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/d1a42439a573f3bb3744d1768fccc19822c6341c2664c6638648b55196c46216.png",
+          "sha256": "08765ff6d4329acb8e9bd3043b08a59519d5f9b3def6a45e89dfb6a2d73890ac"
+        },
+        {
+          "rect": [
+            48,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/50f557bfb9a1efb826e22d4ee9c544ae68812f9db133209fa9a7de73aac3c7c8.png",
+          "sha256": "000fcc3e10c8dfc60f9ec022a0f68deed044c8e0fbf496ab8f34857ab66d7ee7"
+        },
+        {
+          "rect": [
+            96,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/3b461fda2950658258efe89356358f5851862c5b34d0aae7f1d71992fcda949c.png",
+          "sha256": "7e37e6497d792d928c02b0c16bb2c25ea7bc3442d153ae2c5b35a38fabcf9af5"
+        },
+        {
+          "rect": [
+            144,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/6acd4cc83f24935e824d8e554080fea51678c584119a3ad335a6bb0518eb220e.png",
+          "sha256": "d2d8ad6e21232d26ef993680e278eab479734733d68165749701628822113843"
+        },
+        {
+          "rect": [
+            0,
+            96,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/6b86ef0a6cb08f6c82d7b2e7891ed3753c8746fd85b0262da48af7404e1bc378.png",
+          "sha256": "a869b7806d1dc80b5c08303bee75f4332a51ea1616e48e05e148f8b8a4884299"
+        },
+        {
+          "rect": [
+            48,
+            96,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/11436a52da72e91553bbc119afebecd180d4a8221cccf325ccc8d76bd2a7218c.png",
+          "sha256": "a657a391e3eb82fe1c5eb50dbc205978af28c63087f7f0b6361efe4a131b2b1b"
+        },
+        {
+          "rect": [
+            96,
+            96,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/1d05196283db1cca9e436717d0f352268c3a9069946b59926d191253a7319379.png",
+          "sha256": "24a03fbef58f7421cb748f2f4318f62269bb94b79eaeef104d387a9eb70946e5"
+        },
+        {
+          "rect": [
+            144,
+            96,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/08e3e2837acbb2a4374d14c959993b76b8cf778d7844e0b9090644901d678c19.png",
+          "sha256": "b0a78e5095d79f7cb384f8e12a88ff3aed39844b52d0f217d5104db496475f4b"
+        }
+      ],
+      "anchor": [
+        24,
+        24
+      ],
+      "canvas": [
+        48,
+        48
+      ],
+      "sha256": "08299b6d8bfd3caa339031026186c96b2f77eec081a8612f32f89b09e778793e"
+    },
+    "projectile": {
+      "sheet": "SectVFX/Textures/728c50568c2597fb75962974e5c6aafc9dfabaddd9e1f3b9e5ddfdc174665fe8.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/63f243dcbdc985ac3906c5832a8f6ded0c7f9526a76a119d59d83a6f41b167d2.png",
+          "sha256": "90ea19a625cfdf6dd2668d8121dc8a9e77ee721ee01ed869f39b81f06fb72515"
+        },
+        {
+          "rect": [
+            96,
+            0,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/cac6601a85b59fceea99ac9cb710626ed508ff6cd1961865e3b0d516232bdf0a.png",
+          "sha256": "06fed7da79389d7a4df3e5311a9c3a30a79783344e10744ec82db0d7108a46c1"
+        },
+        {
+          "rect": [
+            192,
+            0,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/7faa7d2df584877cb6818a893f64e3a7f904c8f0002f652e2dfa7b70d1287acb.png",
+          "sha256": "179c46b986efb2084fef774d2dffc1d593c4c81ff5a67668deb07916030f7cfe"
+        },
+        {
+          "rect": [
+            288,
+            0,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/5a8ffeed3d54f38cbe5711b9b2d3f5636744c8f60bcaaaa54edccae659092665.png",
+          "sha256": "36ac3218a8eb86f82f717c85fa5d49ac89d18244891a3ae7c3b629191baaea27"
+        },
+        {
+          "rect": [
+            0,
+            96,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/2f9becf32f7944e621cd6d29bcfa086a66e23aca8044cb31fdc9ac0900fa4e91.png",
+          "sha256": "f4b48913eecc9f437a5e04bfa161c4bf38536947d397d0bf7f421c71f94192d1"
+        },
+        {
+          "rect": [
+            96,
+            96,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/6fffd5f0d62c5b2064819cc8836c537b101f9257851cc55153a1294f933ad8a6.png",
+          "sha256": "053425300c2da92d35b579705bee01290f2d058f6673e8c1ff19480c6f510315"
+        },
+        {
+          "rect": [
+            192,
+            96,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/d2814b2e84166f5f14cfae6c3877879bf9498eb4472ee5382cd4f9e2a9f52be8.png",
+          "sha256": "fc0fbe0712292260d5a92f5ab847264b3d094c63b76855a0c8118d56b991c98a"
+        },
+        {
+          "rect": [
+            288,
+            96,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/72dcee509a8225b1a2ba4ca02b7b5b0e154381091febc9f951c276e28bf32f1d.png",
+          "sha256": "79427dcf9fb8e7d3549b09dc8b0c31cf21ad464881e1e401564d9ac1e857652f"
+        },
+        {
+          "rect": [
+            0,
+            192,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/86a758e41ffc672fba022e88f06ee5dd408ebbc5ecb0b68e0dac2e7be6786867.png",
+          "sha256": "05197fd3f963980c93c8ee98ae877d344a0051fba737c3aeb538e2e99ef0b421"
+        },
+        {
+          "rect": [
+            96,
+            192,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/36b72901e433d56bc3b92f075ec1784df52ea35ff09e16078f3d437ece34f6a1.png",
+          "sha256": "e998dcb7ce8302e7715369ea0c3fbd0a953d5b404dbc904ee52b4e532fee4873"
+        },
+        {
+          "rect": [
+            192,
+            192,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/aa99aebe8e99102e56eb2e024c5cc7e5fa57df90b3311744b6e0c618c25da8e7.png",
+          "sha256": "3a741aed2c9d8c9a1e848d392dfdb3b9077423f368d974833623a5d24f560d3f"
+        },
+        {
+          "rect": [
+            288,
+            192,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/aa99aebe8e99102e56eb2e024c5cc7e5fa57df90b3311744b6e0c618c25da8e7.png",
+          "sha256": "3a741aed2c9d8c9a1e848d392dfdb3b9077423f368d974833623a5d24f560d3f"
+        }
+      ],
+      "anchor": [
+        48,
+        48
+      ],
+      "canvas": [
+        96,
+        96
+      ],
+      "sha256": "728c50568c2597fb75962974e5c6aafc9dfabaddd9e1f3b9e5ddfdc174665fe8"
+    },
+    "impact": {
+      "sheet": "SectVFX/Textures/6c3d353ddfc6ff62c9c29552104751f21869e0a18a6b3182430bb5fec7d364a4.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/1c07bd62cae76e6eee826a20988e314cd6dce4bc0bf33d604cbed6af20442ac3.png",
+          "sha256": "6114c63cff63fa22d15d0e88c02ae49d519f78e45cfc29d77d07f53289f968c7"
+        },
+        {
+          "rect": [
+            48,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/cb6391f94a003200855369796adbe1ad050de924e5f482c21f89fae476637212.png",
+          "sha256": "605433aec1a6a68358372925285ed97c6b6a5c313982124c84123959f5476b5b"
+        },
+        {
+          "rect": [
+            96,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/ab34a1fc362c89dc98414204862159abf38506f62f24536c8a7c9ed5e43043d0.png",
+          "sha256": "20b677461d3519dbbc44af444cdfa603cc705f6580686458b1faf577d7ad43b9"
+        },
+        {
+          "rect": [
+            0,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/52fb6bf8096436248c1c5e3d38b850bca552fb07218c9cd2af0b15f1dc8b4b10.png",
+          "sha256": "b46d5a4243d037f89a7a7dfd8866948b4fff548885230f1e4aa1b07cc714b180"
+        },
+        {
+          "rect": [
+            48,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/e40d03af07fa8f1d47829d989e5460e5676a8e39c842132400ebe5313b8b8c03.png",
+          "sha256": "8d99600cbbf91fc6bf7dcf81109361ce8d8cc44ec21cf6405f62b2a0036b4066"
+        },
+        {
+          "rect": [
+            96,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/0014916e23faac31866e6098453f927a9c05b9f3affb038e0921197d061a4a74.png",
+          "sha256": "8f5ba66601ce99714eaa067e5c6018cbd80ed2aef0aee3c5d0cfc3323677037b"
+        },
+        {
+          "rect": [
+            0,
+            96,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/d0af02c8f38b75e1982c1f7574bfa12fa11f08a615259a48dbec6a2200fa377b.png",
+          "sha256": "7032c5eea4344d15e0c06521e5e4508c5f062ceb3e0d79ced46d2d313e48164c"
+        },
+        {
+          "rect": [
+            48,
+            96,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/08e3e2837acbb2a4374d14c959993b76b8cf778d7844e0b9090644901d678c19.png",
+          "sha256": "b0a78e5095d79f7cb384f8e12a88ff3aed39844b52d0f217d5104db496475f4b"
+        }
+      ],
+      "anchor": [
+        24,
+        24
+      ],
+      "canvas": [
+        48,
+        48
+      ],
+      "sha256": "6c3d353ddfc6ff62c9c29552104751f21869e0a18a6b3182430bb5fec7d364a4"
+    },
+    "guard_sword": {
+      "sheet": "SectVFX/Textures/e5104b9b196ef2f71940eb342fa85d5ccb219537d1390a791e57a60be5ceefc7.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            128,
+            128
+          ],
+          "duration": 0.1,
+          "png": "SectVFX/Frames/1a207705ba5c647ef3e044c236084ec344bc9621447a00f7c4a6ce3bb091a853.png",
+          "sha256": "1fa78a92d61f09401878e6aebf2a86efb222a0c2045c44788115334e3678d795"
+        }
+      ],
+      "anchor": [
+        64,
+        64
+      ],
+      "canvas": [
+        128,
+        128
+      ],
+      "sha256": "e5104b9b196ef2f71940eb342fa85d5ccb219537d1390a791e57a60be5ceefc7"
+    },
+    "hit_star": {
+      "sheet": "SectVFX/Textures/58d453e25d173b3b4942f3028a47b5f433426e163cc40d8086a817159ac38468.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/3095a7e0c8cf3c8517988558b7151335231c77d051d7a4bdb4d6648dff461a2b.png",
+          "sha256": "253366485036ffd90787329e1743ee9dff3497cc242d7a824677de3ff80d6909"
+        },
+        {
+          "rect": [
+            64,
+            0,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/5eb4479eb2ec42b4c03698376450c58c0d68a57eebbd4ae44e0d349af5324c20.png",
+          "sha256": "b948b924c7388a937f1792e1c53789b416d7bf77dd74c83ae16a00a739915f80"
+        },
+        {
+          "rect": [
+            128,
+            0,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/80ddf2cacfec258e9b792cde0cbb4c024b1ffeffc28e683c17d5dbea2ef86017.png",
+          "sha256": "7e6cf8573d54fdba1e8083387cc366ec40026144a1d134acaf7646652a935412"
+        },
+        {
+          "rect": [
+            192,
+            0,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/acdcb9364af7315a6ca83564da47fce4318576e6c784c9b73b913726210a02d0.png",
+          "sha256": "bf8ef09c038f62c838cb0dfd24a5df37a01f667b5b53b7141de052bda645780e"
+        },
+        {
+          "rect": [
+            0,
+            64,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/70fcaab70e138c04dec186b6cfe01c5695400d3aaa09045696b26cf1d9b1f64c.png",
+          "sha256": "95cbe4157c631a773a1c56e2220b3d8890ab019d308269705cf80168dd0acb23"
+        },
+        {
+          "rect": [
+            64,
+            64,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/afe66c469bbad59544a667e2b875f19c0148bacb71a36f8f639286197688445e.png",
+          "sha256": "72c518aab319b2f10b0ce31c651208b3e1181610b290dfbd0fe7007ee7372051"
+        },
+        {
+          "rect": [
+            128,
+            64,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/c16dbbec4fe120cdac82ddc97ef675f28720e17d832e53aaa880a199227448b9.png",
+          "sha256": "f428efe0851f777fb4eadd3f5722e4bbe4ee7a40746e83c75dca464e03a73959"
+        },
+        {
+          "rect": [
+            192,
+            64,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/9c5ef03dd3d15c4b82379afa3621bbe2e8cf013501ead0116581d1a2eb7a5a92.png",
+          "sha256": "70d0a67beb75c1ec8428720d537d42224adbb046d4411517f10042745f8e2158"
+        },
+        {
+          "rect": [
+            0,
+            128,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/9d0f1cbd9297cd090796891aa44e578a913d380877f76c78ae633ea828960562.png",
+          "sha256": "9582b5e6d874326f2c5c407e8ab8f6e4530521d2e96e94a3da0ebdf53c788b85"
+        },
+        {
+          "rect": [
+            64,
+            128,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/687d2fb0293acefd4a4b035f19170f9c1a6341a3a3c696df72cc4ee2650aa863.png",
+          "sha256": "052c48aa8b5e4f2c40bcd0d1bb7a4b93276276285dfa3e8a971b435dc88fdfee"
+        }
+      ],
+      "anchor": [
+        32,
+        32
+      ],
+      "canvas": [
+        64,
+        64
+      ],
+      "sha256": "58d453e25d173b3b4942f3028a47b5f433426e163cc40d8086a817159ac38468"
+    }
+  },
+  "caster": {
+    "file": "SectVFX/Textures/53847a07cf905d0130c3d8e39739fe5cecdc57fb4c785ec40e9c7f796ebe7ff3.png",
+    "anchor": [
+      64,
+      126
+    ]
+  },
+  "runtime_script": "SectVFX/Runtime/SectSwordVariants.gd",
+  "standalone_contract": {
+    "coordinate_space": "local ground positions in the VFX node; no game objects mutated",
+    "visual_contact_only": true,
+    "native_sampling": "nearest core, local shader glow",
+    "actor_optional": true
+  },
+  "motion_flags_by_facing": {
+    "south": {},
+    "north": {},
+    "west": {},
+    "east": {}
+  },
+  "has_spin_action": false,
+  "playback_contract": {
+    "clock_hz": 60,
+    "nominal_end_seconds": 6.2,
+    "preview_peak_seconds": 3.0,
+    "timing_summary": "One sword, [104,62] orbit,3.2s period. Incoming event -> .14s deflect, .68s counter, .85s return; ends at contact+1.95s or6.2s.",
+    "incoming_acceptance_window_seconds": [
+      0.25,
+      4.2
+    ],
+    "automatic_demo_incoming_default": false,
+    "core_sampling": "nearest",
+    "local_soft_light": "shaders; not a full-screen blur",
+    "coordinate_space": "world ground pixels through private identity context; component placed at foot",
+    "array_frame_clock": "paused atlas clock"
+  }
+}

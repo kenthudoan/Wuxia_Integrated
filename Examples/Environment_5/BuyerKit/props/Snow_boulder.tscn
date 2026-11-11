@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Snow_boulder_0.png" id="1_a5kcc"]
+
+[node name="boulder" type="StaticBody2D"]
+metadata/asset_id = "broadleaf_tree"
+
+[node name="_Sprite2D_2624" type="Sprite2D" parent="."]
+position = Vector2(-190, -350)
+texture = ExtResource("1_a5kcc")
+centered = false
+
+[node name="_CollisionPolygon2D_2625" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-145, -75, 145, -75, 145, 0, -145, 0)

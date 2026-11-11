@@ -1,0 +1,106 @@
+[gd_scene load_steps=13 format=3]
+
+[ext_resource type="PackedScene" path="res://BuyerKit/expansion/prefabs/B02.tscn" id="house"]
+[ext_resource type="PackedScene" path="res://BuyerKit/expansion/prefabs/E05.tscn" id="planter"]
+[ext_resource type="PackedScene" path="res://BuyerKit/expansion/prefabs/E21.tscn" id="chest"]
+[ext_resource type="PackedScene" path="res://BuyerKit/expansion/prefabs/E24.tscn" id="basket"]
+[ext_resource type="Texture2D" path="res://BuyerKit/terrain/City_file.png" id="floor"]
+[ext_resource type="Texture2D" path="res://BuyerKit/expansion/reference_actor.png" id="actor"]
+[ext_resource type="Script" path="res://BuyerKit/scripts/Walker.gd" id="walker"]
+[ext_resource type="Theme" path="res://UI/wuxia_theme.tres" id="theme"]
+[ext_resource type="PackedScene" path="res://UI/prefabs/HealthBar.tscn" id="health"]
+[ext_resource type="PackedScene" path="res://UI/prefabs/QuantitySelector.tscn" id="quantity"]
+[ext_resource type="PackedScene" path="res://UI/prefabs/Button.tscn" id="button"]
+
+[sub_resource type="CircleShape2D" id="feet"]
+radius = 7.0
+
+[node name="BuyerStart" type="Node2D"]
+texture_filter = 1
+
+[node name="Floor" type="Sprite2D" parent="."]
+z_index = -10
+texture = ExtResource("floor")
+centered = false
+region_enabled = true
+region_rect = Rect2(0,0,1536,1024)
+texture_repeat = 2
+
+[node name="World" type="Node2D" parent="."]
+y_sort_enabled = true
+
+[node name="House" parent="World" instance=ExtResource("house")]
+position = Vector2(620,650)
+
+[node name="Planter" parent="World" instance=ExtResource("planter")]
+position = Vector2(180,740)
+
+[node name="Chest" parent="World" instance=ExtResource("chest")]
+position = Vector2(980,800)
+
+[node name="Basket" parent="World" instance=ExtResource("basket")]
+position = Vector2(1040,700)
+
+[node name="Reference" type="CharacterBody2D" parent="World"]
+position = Vector2(620,800)
+collision_layer = 2
+collision_mask = 1
+script = ExtResource("walker")
+
+[node name="Feet" type="CollisionShape2D" parent="World/Reference"]
+position = Vector2(0,-7)
+shape = SubResource("feet")
+
+[node name="Sprite" type="Sprite2D" parent="World/Reference"]
+texture = ExtResource("actor")
+centered = false
+position = Vector2(-96,-143)
+
+[node name="HUD" type="CanvasLayer" parent="."]
+
+[node name="Help" type="PanelContainer" parent="HUD"]
+offset_left = 1120.0
+offset_top = 36.0
+offset_right = 1510.0
+offset_bottom = 910.0
+theme = ExtResource("theme")
+
+[node name="Content" type="VBoxContainer" parent="HUD/Help"]
+layout_mode = 2
+theme_override_constants/separation = 16
+
+[node name="Title" type="Label" parent="HUD/Help/Content"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 26
+text = "买家起步 · 现有素材"
+
+[node name="Instructions" type="Label" parent="HUD/Help/Content"]
+layout_mode = 2
+text = "WASD / 方向键移动参考测试体。\n角色仅复用一张待机图，不是新增行走动画。\n\n房屋、物件使用原预制件的缩放和基部碰撞；目前不能进屋。\n\n在编辑器打开 BuyerStart.tscn，所有摆放节点和下方UI实例可直接选中。"
+autowrap_mode = 3
+
+[node name="BarTitle" type="Label" parent="HUD/Help/Content"]
+layout_mode = 2
+text = "Inspector：HealthBar → Value"
+
+[node name="HealthBar" parent="HUD/Help/Content" instance=ExtResource("health")]
+layout_mode = 2
+value = 72.0
+
+[node name="QuantityTitle" type="Label" parent="HUD/Help/Content"]
+layout_mode = 2
+text = "Quantity → Data：min / max / value"
+autowrap_mode = 3
+
+[node name="Quantity" parent="HUD/Help/Content" instance=ExtResource("quantity")]
+layout_mode = 2
+data = {"min":1,"max":12,"value":3}
+
+[node name="Button" parent="HUD/Help/Content" instance=ExtResource("button")]
+layout_mode = 2
+text = "原按钮 · 未接业务逻辑"
+
+[node name="Boundary" type="Label" parent="HUD/Help/Content"]
+layout_mode = 2
+text = "只验证组装、碰撞与UI复用。\n开门副本在 DoorStates/B02_open.png：手动换纹理不会改碰撞，也不会生成室内。\n\n完整迁移、地形和音效说明见同目录README。"
+autowrap_mode = 3

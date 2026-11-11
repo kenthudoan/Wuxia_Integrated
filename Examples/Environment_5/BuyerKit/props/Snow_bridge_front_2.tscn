@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://assets/river_bridge/source.png" id="1_waheo"]
+
+[node name="bridge_front_2" type="Polygon2D"]
+texture_filter = 1
+texture = ExtResource("1_waheo")
+polygon = PackedVector2Array(-141, -15, -97, -26, -51, -35, -9, -38, 34, -34, 82, -24, 142, -10, 141, 39, 119, 39, 104, 30, 78, 24, 48, 13, 20, 6, -11, 5, -41, 9, -69, 20, -90, 30, -104, 39, -135, 39)
+uv = PackedVector2Array(855, 941, 899, 930, 945, 921, 987, 918, 1030, 922, 1078, 932, 1138, 946, 1137, 995, 1115, 995, 1100, 986, 1074, 980, 1044, 969, 1016, 962, 985, 961, 955, 965, 927, 976, 906, 986, 892, 995, 861, 995)
+metadata/asset_id = "bridge_front"

@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_stone_lion_0.png" id="1_inub7"]
+
+[node name="stone_lion" type="StaticBody2D"]
+metadata/asset_id = "stone_lion"
+
+[node name="_CollisionPolygon2D_207" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-36, -20, 36, -20, 36, 0, -36, 0)
+
+[node name="_Sprite2D_208" type="Sprite2D" parent="."]
+position = Vector2(-63, -125)
+texture = ExtResource("1_inub7")
+centered = false

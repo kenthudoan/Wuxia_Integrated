@@ -1,0 +1,279 @@
+{
+  "id": "05_frost",
+  "sect": "寒月宫",
+  "name": "霜华定影",
+  "mode": "frost",
+  "number": 2,
+  "phases": {
+    "cast": {
+      "sheet": "SectVFX/Textures/a5bb3bd5f73f448caf2eb943a1d2df45d0f9ee016a9ec241ccbb075958003d5b.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/b71b1bde1404827478be85664af27511ad04520955f00029600f373ba9daf69b.png",
+          "sha256": "9e15766d57eced26a73a627317bf46a8a6c2fc6936c63eca7ed5e803d970d8b2"
+        },
+        {
+          "rect": [
+            48,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/88ebe4775ad1b36ec27023df78b36195e2d8fd3a78feb45ad18f02cc53ad0488.png",
+          "sha256": "646af3c99fe0be3d3baed3061eec200aeda6675662ee3b7c8b74ef5c7aa31e4e"
+        },
+        {
+          "rect": [
+            96,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/471ec45a54ece74a3a256eda8bce332183c4196ec56f1af0d8b803831b7542ed.png",
+          "sha256": "075f24dd8f67141a3f88b9dc9c029c0a45babc2f7aabe3a5801937ea4c226f17"
+        },
+        {
+          "rect": [
+            0,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/fe5f4635f82330095a7cf21fae811af56132f065e4eec9eecb743585b90e9458.png",
+          "sha256": "480c8e6ecc5a39132e552e70aa58af3e8b022d5a8441d156903c91967643a875"
+        },
+        {
+          "rect": [
+            48,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/d84df9dbeba703c34b63543d7eb8a5bbc08da58cc2d0c836bf707f179f7a364e.png",
+          "sha256": "97ed569bb2f5c3661c3d8adf8187926d7b6756bc0ed37e328b00918e6d4dc6a7"
+        },
+        {
+          "rect": [
+            96,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/b9c752926d9b88d7d1dfce40ada7a7da222ca8db0f84190f630d20806dd80884.png",
+          "sha256": "9d9f63eb73766a1e4e312706559b02919a0cf5b72a141c695374ab78e86f1a16"
+        },
+        {
+          "rect": [
+            0,
+            96,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/87c19b7e32e094b279c89a980571f873b78de9faa100aada279ea5f5acab6b5e.png",
+          "sha256": "2cbec7f261a45b05f2366047f70cf0a6cd4ab683cfaa93c3921de27e9ef36c0b"
+        },
+        {
+          "rect": [
+            48,
+            96,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/08e3e2837acbb2a4374d14c959993b76b8cf778d7844e0b9090644901d678c19.png",
+          "sha256": "b0a78e5095d79f7cb384f8e12a88ff3aed39844b52d0f217d5104db496475f4b"
+        }
+      ],
+      "anchor": [
+        24,
+        24
+      ],
+      "canvas": [
+        48,
+        48
+      ],
+      "sha256": "a5bb3bd5f73f448caf2eb943a1d2df45d0f9ee016a9ec241ccbb075958003d5b"
+    },
+    "projectile": {
+      "sheet": "SectVFX/Textures/Frost_Ground_R3.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            320,
+            320
+          ],
+          "duration": 1.0,
+          "png": "SectVFX/Textures/Frost_Ground_R3.png",
+          "sha256": "944fdd89a4a71f06e1d797d3661ea3c6b779cf9e4197318c9b6628384670b73c"
+        }
+      ],
+      "anchor": [
+        36,
+        172
+      ],
+      "canvas": [
+        320,
+        320
+      ],
+      "sha256": "944fdd89a4a71f06e1d797d3661ea3c6b779cf9e4197318c9b6628384670b73c",
+      "motion": "ground_reveal"
+    },
+    "impact": {
+      "sheet": "SectVFX/Textures/Frost_Root_R1_Sheet.png",
+      "canvas": [
+        64,
+        64
+      ],
+      "anchor": [
+        32,
+        40
+      ],
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/Frost_Root_R1/frame_000.png",
+          "sha256": "04b24d50717ede9abdaada5c623a1093a3bd3ab95978969e88a019521dbcce10"
+        },
+        {
+          "rect": [
+            64,
+            0,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/Frost_Root_R1/frame_001.png",
+          "sha256": "06def5cf3e024aa8c74df488ff48f9239e34691a74a43c4c3a1eb9908cc52871"
+        },
+        {
+          "rect": [
+            128,
+            0,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/Frost_Root_R1/frame_002.png",
+          "sha256": "55b7bbfb8833bc78b1a25058ad0266b05c87f1ca6da5cb6f6ff599b5be4be557"
+        },
+        {
+          "rect": [
+            0,
+            64,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/Frost_Root_R1/frame_003.png",
+          "sha256": "6eab8c4a6a9a77ef6951d186930120479a5a1fb646c5889e04521bc43509987b"
+        },
+        {
+          "rect": [
+            64,
+            64,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/Frost_Root_R1/frame_004.png",
+          "sha256": "e550d7cd9b7d9b8584b654ccaf33214acf77a838744bdca22e201dde0816a6fe"
+        },
+        {
+          "rect": [
+            128,
+            64,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/Frost_Root_R1/frame_005.png",
+          "sha256": "a9fc2a256dd0ba69a793f7d455b1648ecf4761a088870b86983057037eae116e"
+        },
+        {
+          "rect": [
+            0,
+            128,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/Frost_Root_R1/frame_006.png",
+          "sha256": "dc834b64625cdb8037f97e16d0abd81fee62bd7303d4d7d0215d3dddf4217393"
+        },
+        {
+          "rect": [
+            64,
+            128,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/Frost_Root_R1/frame_007.png",
+          "sha256": "06187e99b785b379a98546bcfdaa9316b4a4faa9c79e9d3cc71874b13e6df610"
+        },
+        {
+          "rect": [
+            128,
+            128,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/Frost_Root_R1/frame_008.png",
+          "sha256": "1c044d225b66329ec488ed710d4d11ab3b6a8f9d311fe7b1ad4ba42022e16bf8"
+        }
+      ],
+      "before_sheet": "SectVFX/Textures/0e120f22d715050957be61c8c418c9895da6b65ea8959f7ac807bcbd16498113.png",
+      "before_sha256": "0e120f22d715050957be61c8c418c9895da6b65ea8959f7ac807bcbd16498113"
+    }
+  },
+  "caster": {
+    "file": "SectVFX/Textures/28080ca31bec3b008e8b4a7b2dc860479232a84d8a040deac42685d4dacd9b7c.png",
+    "anchor": [
+      64,
+      123
+    ]
+  },
+  "runtime_script": "SectVFX/Runtime/SectHanyueEffects.gd",
+  "standalone_contract": {
+    "coordinate_space": "local ground positions in the VFX node; no game objects mutated",
+    "visual_contact_only": true,
+    "native_sampling": "nearest core, local shader glow",
+    "actor_optional": true
+  },
+  "motion_flags_by_facing": {},
+  "has_spin_action": false,
+  "playback_contract": {
+    "clock_hz": 60,
+    "nominal_end_seconds": 3.5,
+    "preview_peak_seconds": 1.8,
+    "timing_summary": "Ground reveal; nine frost-core frames: growth, hold clip_time.21, release2.85plays breakup at.70rate; no duplicate release cluster.",
+    "incoming_acceptance_window_seconds": null,
+    "automatic_demo_incoming_default": false,
+    "core_sampling": "nearest",
+    "local_soft_light": "shaders; not a full-screen blur",
+    "coordinate_space": "world ground pixels through private identity context; component placed at foot",
+    "array_frame_clock": "paused atlas clock"
+  }
+}

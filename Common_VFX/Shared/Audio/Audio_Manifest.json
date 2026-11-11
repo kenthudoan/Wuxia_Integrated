@@ -1,0 +1,205 @@
+{
+  "format": "44100 Hz, stereo, 16-bit PCM WAV",
+  "clips": [
+    {
+      "name": "suodi_cast",
+      "seconds": 1.25,
+      "loop": false,
+      "peak_dbfs": -3.91,
+      "rms_dbfs": -21.57,
+      "seam_delta": 0.0,
+      "bytes": 220544,
+      "sha256": "b88ba064dc6c4eb8d006349b5627d98c7cdffc479885039cb6fe72f9760e6433"
+    },
+    {
+      "name": "suodi_wind",
+      "seconds": 1.6,
+      "loop": true,
+      "peak_dbfs": -3.59,
+      "rms_dbfs": -19.09,
+      "seam_delta": 0.0,
+      "bytes": 282284,
+      "sha256": "5cf3a76ce172659afc1ce13fedd661c1d7eba41721a0a77343532c02eaa6d18e"
+    },
+    {
+      "name": "suodi_end",
+      "seconds": 0.7,
+      "loop": false,
+      "peak_dbfs": -3.41,
+      "rms_dbfs": -22.04,
+      "seam_delta": 0.0,
+      "bytes": 123524,
+      "sha256": "67a4ab4e6e7fa43273049c457a03d3ec435d3686b1f9d4a236d992cb7988cc77"
+    },
+    {
+      "name": "wanjian_gather",
+      "seconds": 1.4,
+      "loop": false,
+      "peak_dbfs": -4.22,
+      "rms_dbfs": -19.58,
+      "seam_delta": 0.0,
+      "bytes": 247004,
+      "sha256": "cc07f6ca2e8740a7e7ab2cc435d01bf4244e64e8ed214df0549827092dfb8da8"
+    },
+    {
+      "name": "wanjian_launch",
+      "seconds": 0.3,
+      "loop": false,
+      "peak_dbfs": -3.74,
+      "rms_dbfs": -21.23,
+      "seam_delta": 0.0,
+      "bytes": 52964,
+      "sha256": "0130fb4a8de5663bafdbf0ac729bedef5fc1d4264208a1f2d7e254c8d2590034"
+    },
+    {
+      "name": "zanghua_rain",
+      "seconds": 1.8,
+      "loop": true,
+      "peak_dbfs": -4.2,
+      "rms_dbfs": -19.37,
+      "seam_delta": 0.0,
+      "bytes": 317564,
+      "sha256": "ec2d7c01dd68497ca59522c91f173aa2836d764a467a83e526172cb263267ebe"
+    },
+    {
+      "name": "zanghua_scatter",
+      "seconds": 1.05,
+      "loop": false,
+      "peak_dbfs": -3.81,
+      "rms_dbfs": -24.68,
+      "seam_delta": 0.0,
+      "bytes": 185264,
+      "sha256": "2f6741be3c4dfe09b9ea9842711c7a265a63ba7d9ea8a862f2a91af8ff32f3c8"
+    },
+    {
+      "name": "rulai_flash",
+      "seconds": 0.7,
+      "loop": false,
+      "peak_dbfs": -4.12,
+      "rms_dbfs": -17.54,
+      "seam_delta": 0.0,
+      "bytes": 123524,
+      "sha256": "dcdbe4155724450daf8f2d8af313aba70b341a1f58ccdd99eeab32eb1325e5ed"
+    },
+    {
+      "name": "rulai_fall",
+      "seconds": 0.62,
+      "loop": false,
+      "peak_dbfs": -3.82,
+      "rms_dbfs": -19.19,
+      "seam_delta": 0.0,
+      "bytes": 109412,
+      "sha256": "d5f8bcc7277cf808ba138608c0dc938703b1b857068d2d9ac13ae9b23aef867e"
+    },
+    {
+      "name": "rulai_impact",
+      "seconds": 2.6,
+      "loop": false,
+      "peak_dbfs": -3.15,
+      "rms_dbfs": -19.52,
+      "seam_delta": 0.0,
+      "bytes": 458684,
+      "sha256": "3e5a8736eda509a3fe8afbc77e16e3ab3d7d4f0b5870b6eecc01052e8fa522a7"
+    },
+    {
+      "name": "taiji_open",
+      "seconds": 1.2,
+      "loop": false,
+      "peak_dbfs": -4.03,
+      "rms_dbfs": -17.46,
+      "seam_delta": 0.0,
+      "bytes": 211724,
+      "sha256": "ef65e50d625e9aa9b109e2c3f000fea246175110d13c2adc84185f100821e2a5"
+    },
+    {
+      "name": "taiji_aura",
+      "seconds": 2.0,
+      "loop": true,
+      "peak_dbfs": -3.98,
+      "rms_dbfs": -17.75,
+      "seam_delta": 0.0,
+      "bytes": 352844,
+      "sha256": "4550835aabe6b92bde1c1f30113d737aaddee413ce0e2a7284fc44e0e748a848"
+    },
+    {
+      "name": "taiji_absorb",
+      "seconds": 0.48,
+      "loop": false,
+      "peak_dbfs": -3.98,
+      "rms_dbfs": -20.9,
+      "seam_delta": 0.0,
+      "bytes": 84716,
+      "sha256": "64c078998c2b5e1442284a774b586f7dc3b786c1f022dd68714090d9561724e9"
+    },
+    {
+      "name": "taiji_reflect",
+      "seconds": 0.72,
+      "loop": false,
+      "peak_dbfs": -4.14,
+      "rms_dbfs": -22.86,
+      "seam_delta": 0.0,
+      "bytes": 127052,
+      "sha256": "8a2aa0e5cbc9da0aa9cb27020afbff62eae1e680766ea44e59bb7780d684a51a"
+    },
+    {
+      "name": "moying_charge",
+      "seconds": 1.6,
+      "loop": true,
+      "peak_dbfs": -3.96,
+      "rms_dbfs": -17.65,
+      "seam_delta": 0.0,
+      "bytes": 282284,
+      "sha256": "9b5586c74f0e7da01bb22bcaf8efa09124f5e66ceea1e3ef69d18ea45ebf6b52"
+    },
+    {
+      "name": "moying_release",
+      "seconds": 1.3,
+      "loop": false,
+      "peak_dbfs": -3.87,
+      "rms_dbfs": -23.69,
+      "seam_delta": 0.0,
+      "bytes": 229364,
+      "sha256": "995cc18076b93f38cc4dc26f8f4248b90d8086a51b771476a5b33cde4da700d5"
+    },
+    {
+      "name": "moying_impact",
+      "seconds": 1.0,
+      "loop": false,
+      "peak_dbfs": -3.49,
+      "rms_dbfs": -24.23,
+      "seam_delta": 0.0,
+      "bytes": 176444,
+      "sha256": "857a0e50bf2bf0d6dc9067405cdea0da1e5a0adee1c3a249d0ed56de79b60b59"
+    },
+    {
+      "name": "sword_slash",
+      "seconds": 0.38,
+      "loop": false,
+      "peak_dbfs": -3.94,
+      "rms_dbfs": -21.98,
+      "seam_delta": 0.0,
+      "bytes": 67076,
+      "sha256": "e91649dc056e562a0441c3a2118709e2236e82af753add93902aad37d9b0a578"
+    },
+    {
+      "name": "sword_wave",
+      "seconds": 0.68,
+      "loop": false,
+      "peak_dbfs": -3.78,
+      "rms_dbfs": -22.48,
+      "seam_delta": 0.0,
+      "bytes": 119996,
+      "sha256": "d41fe3f22bcf073a2f4e11112b3ab25d5b9363e210727b3fcd43c88d5f1980de"
+    },
+    {
+      "name": "sword_hit",
+      "seconds": 0.3,
+      "loop": false,
+      "peak_dbfs": -3.83,
+      "rms_dbfs": -20.33,
+      "seam_delta": 0.0,
+      "bytes": 52964,
+      "sha256": "065ed6691dc3df28e6381c4ba76c210b558cac00e2419b6b212efe73e0f6c613"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_building_herbal_shrub_0.png" id="1_gh5lp"]
+
+[node name="building_herbal_shrub" type="StaticBody2D"]
+metadata/asset_id = "building_herbal_shrub"
+
+[node name="_CollisionPolygon2D_352" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-13, -7, 13, -7, 16, -1, -16, -1)
+
+[node name="_Sprite2D_353" type="Sprite2D" parent="."]
+position = Vector2(-48, -80)
+texture = ExtResource("1_gh5lp")
+centered = false

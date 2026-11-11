@@ -1,0 +1,246 @@
+{
+  "animations": {
+    "walk_east": {
+      "files": [
+        "Shared/Actor/walk/east/frame_000.png",
+        "Shared/Actor/walk/east/frame_001.png",
+        "Shared/Actor/walk/east/frame_002.png",
+        "Shared/Actor/walk/east/frame_003.png",
+        "Shared/Actor/walk/east/frame_004.png",
+        "Shared/Actor/walk/east/frame_005.png",
+        "Shared/Actor/walk/east/frame_006.png",
+        "Shared/Actor/walk/east/frame_007.png",
+        "Shared/Actor/walk/east/frame_008.png"
+      ],
+      "fps": 10,
+      "loop": true
+    },
+    "idle_east": {
+      "files": [
+        "Shared/Actor/idle/east/frame_000.png",
+        "Shared/Actor/idle/east/frame_001.png",
+        "Shared/Actor/idle/east/frame_002.png",
+        "Shared/Actor/idle/east/frame_003.png",
+        "Shared/Actor/idle/east/frame_004.png"
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "walk_south-east": {
+      "files": [
+        "Shared/Actor/walk/south-east/frame_000.png",
+        "Shared/Actor/walk/south-east/frame_001.png",
+        "Shared/Actor/walk/south-east/frame_002.png",
+        "Shared/Actor/walk/south-east/frame_003.png",
+        "Shared/Actor/walk/south-east/frame_004.png",
+        "Shared/Actor/walk/south-east/frame_005.png",
+        "Shared/Actor/walk/south-east/frame_006.png",
+        "Shared/Actor/walk/south-east/frame_007.png",
+        "Shared/Actor/walk/south-east/frame_008.png"
+      ],
+      "fps": 10,
+      "loop": true
+    },
+    "idle_south-east": {
+      "files": [
+        "Shared/Actor/idle/south-east/frame_000.png",
+        "Shared/Actor/idle/south-east/frame_001.png",
+        "Shared/Actor/idle/south-east/frame_002.png",
+        "Shared/Actor/idle/south-east/frame_003.png",
+        "Shared/Actor/idle/south-east/frame_004.png"
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "walk_south": {
+      "files": [
+        "Shared/Actor/walk/south/frame_000.png",
+        "Shared/Actor/walk/south/frame_001.png",
+        "Shared/Actor/walk/south/frame_002.png",
+        "Shared/Actor/walk/south/frame_003.png",
+        "Shared/Actor/walk/south/frame_004.png",
+        "Shared/Actor/walk/south/frame_005.png",
+        "Shared/Actor/walk/south/frame_006.png",
+        "Shared/Actor/walk/south/frame_007.png",
+        "Shared/Actor/walk/south/frame_008.png"
+      ],
+      "fps": 10,
+      "loop": true
+    },
+    "idle_south": {
+      "files": [
+        "Shared/Actor/idle/south/frame_000.png",
+        "Shared/Actor/idle/south/frame_001.png",
+        "Shared/Actor/idle/south/frame_002.png",
+        "Shared/Actor/idle/south/frame_003.png",
+        "Shared/Actor/idle/south/frame_004.png"
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "walk_south-west": {
+      "files": [
+        "Shared/Actor/walk/south-west/frame_000.png",
+        "Shared/Actor/walk/south-west/frame_001.png",
+        "Shared/Actor/walk/south-west/frame_002.png",
+        "Shared/Actor/walk/south-west/frame_003.png",
+        "Shared/Actor/walk/south-west/frame_004.png",
+        "Shared/Actor/walk/south-west/frame_005.png",
+        "Shared/Actor/walk/south-west/frame_006.png",
+        "Shared/Actor/walk/south-west/frame_007.png",
+        "Shared/Actor/walk/south-west/frame_008.png"
+      ],
+      "fps": 10,
+      "loop": true
+    },
+    "idle_south-west": {
+      "files": [
+        "Shared/Actor/idle/south-west/frame_000.png",
+        "Shared/Actor/idle/south-west/frame_001.png",
+        "Shared/Actor/idle/south-west/frame_002.png",
+        "Shared/Actor/idle/south-west/frame_003.png",
+        "Shared/Actor/idle/south-west/frame_004.png"
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "walk_west": {
+      "files": [
+        "Shared/Actor/walk/west/frame_000.png",
+        "Shared/Actor/walk/west/frame_001.png",
+        "Shared/Actor/walk/west/frame_002.png",
+        "Shared/Actor/walk/west/frame_003.png",
+        "Shared/Actor/walk/west/frame_004.png",
+        "Shared/Actor/walk/west/frame_005.png",
+        "Shared/Actor/walk/west/frame_006.png",
+        "Shared/Actor/walk/west/frame_007.png",
+        "Shared/Actor/walk/west/frame_008.png"
+      ],
+      "fps": 10,
+      "loop": true
+    },
+    "idle_west": {
+      "files": [
+        "Shared/Actor/idle/west/frame_000.png",
+        "Shared/Actor/idle/west/frame_001.png",
+        "Shared/Actor/idle/west/frame_002.png",
+        "Shared/Actor/idle/west/frame_003.png",
+        "Shared/Actor/idle/west/frame_004.png"
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "walk_north-west": {
+      "files": [
+        "Shared/Actor/walk/north-west/frame_000.png",
+        "Shared/Actor/walk/north-west/frame_001.png",
+        "Shared/Actor/walk/north-west/frame_002.png",
+        "Shared/Actor/walk/north-west/frame_003.png",
+        "Shared/Actor/walk/north-west/frame_004.png",
+        "Shared/Actor/walk/north-west/frame_005.png",
+        "Shared/Actor/walk/north-west/frame_006.png",
+        "Shared/Actor/walk/north-west/frame_007.png",
+        "Shared/Actor/walk/north-west/frame_008.png"
+      ],
+      "fps": 10,
+      "loop": true
+    },
+    "idle_north-west": {
+      "files": [
+        "Shared/Actor/idle/north-west/frame_000.png",
+        "Shared/Actor/idle/north-west/frame_001.png",
+        "Shared/Actor/idle/north-west/frame_002.png",
+        "Shared/Actor/idle/north-west/frame_003.png",
+        "Shared/Actor/idle/north-west/frame_004.png"
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "walk_north": {
+      "files": [
+        "Shared/Actor/walk/north/frame_000.png",
+        "Shared/Actor/walk/north/frame_001.png",
+        "Shared/Actor/walk/north/frame_002.png",
+        "Shared/Actor/walk/north/frame_003.png",
+        "Shared/Actor/walk/north/frame_004.png",
+        "Shared/Actor/walk/north/frame_005.png",
+        "Shared/Actor/walk/north/frame_006.png",
+        "Shared/Actor/walk/north/frame_007.png",
+        "Shared/Actor/walk/north/frame_008.png"
+      ],
+      "fps": 10,
+      "loop": true
+    },
+    "idle_north": {
+      "files": [
+        "Shared/Actor/idle/north/frame_000.png",
+        "Shared/Actor/idle/north/frame_001.png",
+        "Shared/Actor/idle/north/frame_002.png",
+        "Shared/Actor/idle/north/frame_003.png",
+        "Shared/Actor/idle/north/frame_004.png"
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "walk_north-east": {
+      "files": [
+        "Shared/Actor/walk/north-east/frame_000.png",
+        "Shared/Actor/walk/north-east/frame_001.png",
+        "Shared/Actor/walk/north-east/frame_002.png",
+        "Shared/Actor/walk/north-east/frame_003.png",
+        "Shared/Actor/walk/north-east/frame_004.png",
+        "Shared/Actor/walk/north-east/frame_005.png",
+        "Shared/Actor/walk/north-east/frame_006.png",
+        "Shared/Actor/walk/north-east/frame_007.png",
+        "Shared/Actor/walk/north-east/frame_008.png"
+      ],
+      "fps": 10,
+      "loop": true
+    },
+    "idle_north-east": {
+      "files": [
+        "Shared/Actor/idle/north-east/frame_000.png",
+        "Shared/Actor/idle/north-east/frame_001.png",
+        "Shared/Actor/idle/north-east/frame_002.png",
+        "Shared/Actor/idle/north-east/frame_003.png",
+        "Shared/Actor/idle/north-east/frame_004.png"
+      ],
+      "fps": 6,
+      "loop": true
+    }
+  },
+  "anchors_px": {
+    "east": [
+      78,
+      132
+    ],
+    "south-east": [
+      78,
+      134
+    ],
+    "south": [
+      78,
+      134
+    ],
+    "south-west": [
+      78,
+      135
+    ],
+    "west": [
+      78,
+      133
+    ],
+    "north-west": [
+      78,
+      134
+    ],
+    "north": [
+      76,
+      128
+    ],
+    "north-east": [
+      78,
+      134
+    ]
+  }
+}

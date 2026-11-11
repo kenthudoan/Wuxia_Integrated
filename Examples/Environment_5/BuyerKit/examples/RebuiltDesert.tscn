@@ -1,0 +1,75 @@
+[gd_scene load_steps=15 format=3]
+
+[ext_resource type="PackedScene" path="res://BuyerKit/terrain/Desert_sand.tscn" id="1_xgs5y"]
+[ext_resource type="Shader" path="res://DesertTerrain.gdshader" id="2_upcfk"]
+[ext_resource type="Texture2D" path="res://BuyerKit/terrain/Desert_sand.png" id="3_j5ifg"]
+[ext_resource type="PackedScene" path="res://BuyerKit/terrain/Desert_gravel.tscn" id="4_5on3f"]
+[ext_resource type="Texture2D" path="res://BuyerKit/terrain/Desert_gravel.png" id="5_ujlj6"]
+[ext_resource type="PackedScene" path="res://BuyerKit/terrain/Desert_water.tscn" id="6_5ar0p"]
+[ext_resource type="Texture2D" path="res://BuyerKit/terrain/Desert_water.png" id="7_wp2km"]
+[ext_resource type="PackedScene" path="res://BuyerKit/terrain/Desert_rock.tscn" id="8_p78hd"]
+[ext_resource type="Texture2D" path="res://BuyerKit/terrain/Desert_rock.png" id="9_csrki"]
+[ext_resource type="PackedScene" path="res://BuyerKit/props/Desert_poplar.tscn" id="10_j08o5"]
+[ext_resource type="PackedScene" path="res://BuyerKit/props/Desert_boulder.tscn" id="11_d07rg"]
+[ext_resource type="PackedScene" path="res://BuyerKit/props/Desert_inn.tscn" id="12_pp8b2"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_in6du"]
+shader = ExtResource("2_upcfk")
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_sonhj"]
+shader = ExtResource("2_upcfk")
+
+[node name="RebuiltDesert" type="Node2D"]
+y_sort_enabled = true
+
+[node name="sand" type="Polygon2D" parent="." instance=ExtResource("1_xgs5y")]
+z_index = -10
+texture_repeat = 2
+material = SubResource("ShaderMaterial_in6du")
+scale = Vector2(2, 1.5)
+texture = ExtResource("3_j5ifg")
+polygon = PackedVector2Array(0, 0, 512, 0, 512, 512, 0, 512)
+uv = PackedVector2Array(0, 0, 512, 0, 512, 512, 0, 512)
+
+[node name="gravel" type="Polygon2D" parent="." instance=ExtResource("4_5on3f")]
+z_index = -8
+texture_repeat = 2
+material = SubResource("ShaderMaterial_sonhj")
+texture = ExtResource("5_ujlj6")
+polygon = PackedVector2Array(80, 0, 210, 0, 210, 450, 700, 450, 700, 580, 80, 580)
+uv = PackedVector2Array(80, 0, 210, 0, 210, 450, 700, 450, 700, 580, 80, 580)
+
+[node name="water" type="Polygon2D" parent="." instance=ExtResource("6_5ar0p")]
+z_index = -7
+texture_repeat = 3
+position = Vector2(530, 30)
+scale = Vector2(0.6, 0.6)
+texture = ExtResource("7_wp2km")
+polygon = PackedVector2Array(0, 0, 512, 0, 512, 512, 0, 512)
+uv = PackedVector2Array(0, 0, 512, 0, 512, 512, 0, 512)
+
+[node name="rock" type="Polygon2D" parent="." instance=ExtResource("8_p78hd")]
+z_index = -8
+texture_repeat = 3
+position = Vector2(530, 30)
+scale = Vector2(0.68, 0.68)
+texture = ExtResource("9_csrki")
+polygon = PackedVector2Array(0, 0, 512, 0, 512, 512, 0, 512)
+uv = PackedVector2Array(0, 0, 512, 0, 512, 512, 0, 512)
+
+[node name="poplar" type="StaticBody2D" parent="." instance=ExtResource("10_j08o5")]
+position = Vector2(360, 330)
+scale = Vector2(0.72, 0.72)
+metadata/desert_kind = "poplar"
+metadata/asset_id = "broadleaf_tree"
+
+[node name="boulder" type="StaticBody2D" parent="." instance=ExtResource("11_d07rg")]
+position = Vector2(800, 650)
+scale = Vector2(0.6, 0.6)
+metadata/desert_kind = "boulder"
+metadata/asset_id = "broadleaf_tree"
+
+[node name="inn" type="StaticBody2D" parent="." instance=ExtResource("12_pp8b2")]
+position = Vector2(420, 720)
+metadata/desert_kind = "inn"
+metadata/asset_id = "broadleaf_tree"

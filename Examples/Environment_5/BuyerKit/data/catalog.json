@@ -1,0 +1,1817 @@
+[
+  {
+    "id": "City",
+    "instances": 376,
+    "origin": [
+      0.0,
+      0.0
+    ],
+    "props": {
+      "apothecary": {
+        "prefab": "res://BuyerKit/props/City_apothecary.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              313.0,
+              443.0
+            ],
+            "png": "res://BuyerKit/props/City_apothecary_0.png",
+            "size": [
+              1254,
+              1254
+            ]
+          }
+        ]
+      },
+      "banner": {
+        "prefab": "res://BuyerKit/props/City_banner.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              63.0,
+              123.0
+            ],
+            "png": "res://BuyerKit/props/City_banner_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "barrel_crate_stack": {
+        "prefab": "res://BuyerKit/props/City_barrel_crate_stack.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              32.0,
+              60.0
+            ],
+            "png": "res://BuyerKit/props/City_barrel_crate_stack_0.png",
+            "size": [
+              64,
+              64
+            ]
+          }
+        ]
+      },
+      "barrels_on_rack": {
+        "prefab": "res://BuyerKit/props/City_barrels_on_rack.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              63.0,
+              125.0
+            ],
+            "png": "res://BuyerKit/props/City_barrels_on_rack_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "bridge_front_265": {
+        "prefab": "res://BuyerKit/props/City_bridge_front_265.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "bridge_front_266": {
+        "prefab": "res://BuyerKit/props/City_bridge_front_266.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "bridge_front_268": {
+        "prefab": "res://BuyerKit/props/City_bridge_front_268.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "bridge_front_269": {
+        "prefab": "res://BuyerKit/props/City_bridge_front_269.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "broadleaf_tree": {
+        "prefab": "res://BuyerKit/props/City_broadleaf_tree.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              127.0,
+              251.0
+            ],
+            "png": "res://BuyerKit/props/City_broadleaf_tree_0.png",
+            "size": [
+              256,
+              256
+            ]
+          }
+        ]
+      },
+      "building_herbal_shrub": {
+        "prefab": "res://BuyerKit/props/City_building_herbal_shrub.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              48.0,
+              80.0
+            ],
+            "png": "res://BuyerKit/props/City_building_herbal_shrub_0.png",
+            "size": [
+              96,
+              96
+            ]
+          }
+        ]
+      },
+      "building_tea_shrub": {
+        "prefab": "res://BuyerKit/props/City_building_tea_shrub.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              48.0,
+              80.0
+            ],
+            "png": "res://BuyerKit/props/City_building_tea_shrub_0.png",
+            "size": [
+              96,
+              96
+            ]
+          }
+        ]
+      },
+      "clay_jar": {
+        "prefab": "res://BuyerKit/props/City_clay_jar.tscn",
+        "recommended_scale": 2.0,
+        "sprites": [
+          {
+            "anchor": [
+              31.0,
+              60.0
+            ],
+            "png": "res://BuyerKit/props/City_clay_jar_0.png",
+            "size": [
+              64,
+              64
+            ]
+          }
+        ]
+      },
+      "crate_stack": {
+        "prefab": "res://BuyerKit/props/City_crate_stack.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              50.0,
+              113.0
+            ],
+            "png": "res://BuyerKit/props/City_crate_stack_0.png",
+            "size": [
+              101,
+              118
+            ]
+          }
+        ]
+      },
+      "escort_agency": {
+        "prefab": "res://BuyerKit/props/City_escort_agency.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              313.0,
+              443.0
+            ],
+            "png": "res://BuyerKit/props/City_escort_agency_0.png",
+            "size": [
+              1254,
+              1254
+            ]
+          }
+        ]
+      },
+      "gate_ew": {
+        "prefab": "res://BuyerKit/props/City_gate_ew.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              80.0,
+              192.0
+            ],
+            "png": "res://BuyerKit/props/City_gate_ew_0.png",
+            "size": [
+              160,
+              384
+            ]
+          }
+        ]
+      },
+      "inn": {
+        "prefab": "res://BuyerKit/props/City_inn.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              313.0,
+              443.0
+            ],
+            "png": "res://BuyerKit/props/City_inn_0.png",
+            "size": [
+              1254,
+              1254
+            ]
+          }
+        ]
+      },
+      "inn_foot_moss": {
+        "prefab": "res://BuyerKit/props/City_inn_foot_moss.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              44.0,
+              19.0
+            ],
+            "png": "res://BuyerKit/props/City_inn_foot_moss_0.png",
+            "size": [
+              89,
+              24
+            ]
+          }
+        ]
+      },
+      "loaded_wagon": {
+        "prefab": "res://BuyerKit/props/City_loaded_wagon.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              64.0,
+              125.0
+            ],
+            "png": "res://BuyerKit/props/City_loaded_wagon_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "lotus_pond": {
+        "prefab": "res://BuyerKit/props/City_lotus_pond.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              286.0,
+              146.0
+            ],
+            "png": "res://BuyerKit/props/City_lotus_pond_0.png",
+            "size": [
+              1738,
+              503
+            ]
+          }
+        ]
+      },
+      "market_food": {
+        "prefab": "res://BuyerKit/props/City_market_food.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              133.0,
+              241.0
+            ],
+            "png": "res://BuyerKit/props/City_market_food_0.png",
+            "size": [
+              267,
+              242
+            ]
+          }
+        ]
+      },
+      "market_jars": {
+        "prefab": "res://BuyerKit/props/City_market_jars.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              142.0,
+              270.0
+            ],
+            "png": "res://BuyerKit/props/City_market_jars_0.png",
+            "size": [
+              284,
+              271
+            ]
+          }
+        ]
+      },
+      "market_notice_wood": {
+        "prefab": "res://BuyerKit/props/City_market_notice_wood.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              35.0,
+              93.0
+            ],
+            "png": "res://BuyerKit/props/City_market_notice_wood_0.png",
+            "size": [
+              76,
+              98
+            ]
+          }
+        ]
+      },
+      "market_produce": {
+        "prefab": "res://BuyerKit/props/City_market_produce.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              167.0,
+              235.0
+            ],
+            "png": "res://BuyerKit/props/City_market_produce_0.png",
+            "size": [
+              334,
+              236
+            ]
+          }
+        ]
+      },
+      "market_stall": {
+        "prefab": "res://BuyerKit/props/City_market_stall.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              78.0,
+              159.0
+            ],
+            "png": "res://BuyerKit/props/City_market_stall_0.png",
+            "size": [
+              156,
+              164
+            ]
+          }
+        ]
+      },
+      "market_stall_small": {
+        "prefab": "res://BuyerKit/props/City_market_stall_small.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              64.0,
+              125.0
+            ],
+            "png": "res://BuyerKit/props/City_market_stall_small_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "market_textiles": {
+        "prefab": "res://BuyerKit/props/City_market_textiles.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              177.0,
+              251.0
+            ],
+            "png": "res://BuyerKit/props/City_market_textiles_0.png",
+            "size": [
+              354,
+              252
+            ]
+          }
+        ]
+      },
+      "market_tools": {
+        "prefab": "res://BuyerKit/props/City_market_tools.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              149.0,
+              199.0
+            ],
+            "png": "res://BuyerKit/props/City_market_tools_0.png",
+            "size": [
+              299,
+              200
+            ]
+          }
+        ]
+      },
+      "martial_hall": {
+        "prefab": "res://BuyerKit/props/City_martial_hall.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              313.0,
+              443.0
+            ],
+            "png": "res://BuyerKit/props/City_martial_hall_0.png",
+            "size": [
+              1254,
+              1254
+            ]
+          }
+        ]
+      },
+      "market_basket_goods": {
+        "prefab": "res://BuyerKit/props/City_market_basket_goods.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              48.0,
+              83.0
+            ],
+            "png": "res://BuyerKit/props/City_market_basket_goods_0.png",
+            "size": [
+              96,
+              96
+            ]
+          }
+        ]
+      },
+      "market_horse_cargo_cart": {
+        "prefab": "res://BuyerKit/props/City_market_horse_cargo_cart.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              128.0,
+              219.0
+            ],
+            "png": "res://BuyerKit/props/City_market_horse_cargo_cart_0.png",
+            "size": [
+              256,
+              256
+            ]
+          }
+        ]
+      },
+      "market_notice_board": {
+        "prefab": "res://BuyerKit/props/City_market_notice_board.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              64.0,
+              112.0
+            ],
+            "png": "res://BuyerKit/props/City_market_notice_board_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "market_vendor_counter": {
+        "prefab": "res://BuyerKit/props/City_market_vendor_counter.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              64.0,
+              104.0
+            ],
+            "png": "res://BuyerKit/props/City_market_vendor_counter_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "potted_herb": {
+        "prefab": "res://BuyerKit/props/City_potted_herb.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              32.0,
+              60.0
+            ],
+            "png": "res://BuyerKit/props/City_potted_herb_0.png",
+            "size": [
+              64,
+              64
+            ]
+          }
+        ]
+      },
+      "potted_shrub": {
+        "prefab": "res://BuyerKit/props/City_potted_shrub.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              42.0,
+              111.0
+            ],
+            "png": "res://BuyerKit/props/City_potted_shrub_0.png",
+            "size": [
+              85,
+              116
+            ]
+          }
+        ]
+      },
+      "reference_banner": {
+        "prefab": "res://BuyerKit/props/City_reference_banner.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              38.0,
+              135.0
+            ],
+            "png": "res://BuyerKit/props/City_reference_banner_0.png",
+            "size": [
+              76,
+              140
+            ]
+          }
+        ]
+      },
+      "road_shrub_herbal": {
+        "prefab": "res://BuyerKit/props/City_road_shrub_herbal.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              48.0,
+              80.0
+            ],
+            "png": "res://BuyerKit/props/City_road_shrub_herbal_0.png",
+            "size": [
+              96,
+              96
+            ]
+          }
+        ]
+      },
+      "road_shrub_tea": {
+        "prefab": "res://BuyerKit/props/City_road_shrub_tea.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              48.0,
+              80.0
+            ],
+            "png": "res://BuyerKit/props/City_road_shrub_tea_0.png",
+            "size": [
+              96,
+              96
+            ]
+          }
+        ]
+      },
+      "road_tree": {
+        "prefab": "res://BuyerKit/props/City_road_tree.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              127.0,
+              251.0
+            ],
+            "png": "res://BuyerKit/props/City_road_tree_0.png",
+            "size": [
+              256,
+              256
+            ]
+          }
+        ]
+      },
+      "road_tree_small": {
+        "prefab": "res://BuyerKit/props/City_road_tree_small.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              64.0,
+              125.0
+            ],
+            "png": "res://BuyerKit/props/City_road_tree_small_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "standing_lantern": {
+        "prefab": "res://BuyerKit/props/City_standing_lantern.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              64.0,
+              125.0
+            ],
+            "png": "res://BuyerKit/props/City_standing_lantern_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "stone_bridge_264": {
+        "prefab": "res://BuyerKit/props/City_stone_bridge_264.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "stone_bridge_267": {
+        "prefab": "res://BuyerKit/props/City_stone_bridge_267.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "stone_cluster": {
+        "prefab": "res://BuyerKit/props/City_stone_cluster.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              31.0,
+              61.0
+            ],
+            "png": "res://BuyerKit/props/City_stone_cluster_0.png",
+            "size": [
+              64,
+              64
+            ]
+          }
+        ]
+      },
+      "stone_lion": {
+        "prefab": "res://BuyerKit/props/City_stone_lion.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              63.0,
+              125.0
+            ],
+            "png": "res://BuyerKit/props/City_stone_lion_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "stone_stele": {
+        "prefab": "res://BuyerKit/props/City_stone_stele.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              63.0,
+              125.0
+            ],
+            "png": "res://BuyerKit/props/City_stone_stele_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "stone_well": {
+        "prefab": "res://BuyerKit/props/City_stone_well.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              39.0,
+              76.0
+            ],
+            "png": "res://BuyerKit/props/City_stone_well_0.png",
+            "size": [
+              79,
+              81
+            ]
+          }
+        ]
+      },
+      "street_gate": {
+        "prefab": "res://BuyerKit/props/City_street_gate.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              313.0,
+              443.0
+            ],
+            "png": "res://BuyerKit/props/City_street_gate_0.png",
+            "size": [
+              1254,
+              1254
+            ]
+          }
+        ]
+      },
+      "tea_house": {
+        "prefab": "res://BuyerKit/props/City_tea_house.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              313.0,
+              443.0
+            ],
+            "png": "res://BuyerKit/props/City_tea_house_0.png",
+            "size": [
+              1254,
+              1254
+            ]
+          }
+        ]
+      },
+      "training_wood_dummy": {
+        "prefab": "res://BuyerKit/props/City_training_wood_dummy.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              63.0,
+              125.0
+            ],
+            "png": "res://BuyerKit/props/City_training_wood_dummy_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "wall_body": {
+        "prefab": "res://BuyerKit/props/City_wall_body.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "wall_floor": {
+        "prefab": "res://BuyerKit/props/City_wall_floor.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "wall_guard_h": {
+        "prefab": "res://BuyerKit/props/City_wall_guard_h.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "wall_guard_pier": {
+        "prefab": "res://BuyerKit/props/City_wall_guard_pier.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "wall_guard_v": {
+        "prefab": "res://BuyerKit/props/City_wall_guard_v.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "wall_shadow": {
+        "prefab": "res://BuyerKit/props/City_wall_shadow.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "wall_side": {
+        "prefab": "res://BuyerKit/props/City_wall_side.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "wall_stair": {
+        "prefab": "res://BuyerKit/props/City_wall_stair.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "warehouse": {
+        "prefab": "res://BuyerKit/props/City_warehouse.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              313.0,
+              443.0
+            ],
+            "png": "res://BuyerKit/props/City_warehouse_0.png",
+            "size": [
+              1254,
+              1254
+            ]
+          }
+        ]
+      },
+      "warehouse_frontage": {
+        "prefab": "res://BuyerKit/props/City_warehouse_frontage.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              313.0,
+              443.0
+            ],
+            "png": "res://BuyerKit/props/City_warehouse_frontage_0.png",
+            "size": [
+              1254,
+              1254
+            ]
+          }
+        ]
+      },
+      "weapon_shop": {
+        "prefab": "res://BuyerKit/props/City_weapon_shop.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              313.0,
+              443.0
+            ],
+            "png": "res://BuyerKit/props/City_weapon_shop_0.png",
+            "size": [
+              1254,
+              1254
+            ]
+          }
+        ]
+      },
+      "willow_tree": {
+        "prefab": "res://BuyerKit/props/City_willow_tree.tscn",
+        "recommended_scale": 2.0,
+        "sprites": [
+          {
+            "anchor": [
+              63.0,
+              124.0
+            ],
+            "png": "res://BuyerKit/props/City_willow_tree_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "wood_barrel": {
+        "prefab": "res://BuyerKit/props/City_wood_barrel.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              31.0,
+              60.0
+            ],
+            "png": "res://BuyerKit/props/City_wood_barrel_0.png",
+            "size": [
+              64,
+              64
+            ]
+          }
+        ]
+      },
+      "wood_cart": {
+        "prefab": "res://BuyerKit/props/City_wood_cart.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              64.0,
+              125.0
+            ],
+            "png": "res://BuyerKit/props/City_wood_cart_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "wood_fence": {
+        "prefab": "res://BuyerKit/props/City_wood_fence.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              63.0,
+              125.0
+            ],
+            "png": "res://BuyerKit/props/City_wood_fence_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "wood_sign": {
+        "prefab": "res://BuyerKit/props/City_wood_sign.tscn",
+        "recommended_scale": 2.0,
+        "sprites": [
+          {
+            "anchor": [
+              31.0,
+              60.0
+            ],
+            "png": "res://BuyerKit/props/City_wood_sign_0.png",
+            "size": [
+              64,
+              64
+            ]
+          }
+        ]
+      },
+      "wood_table": {
+        "prefab": "res://BuyerKit/props/City_wood_table.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              31.0,
+              61.0
+            ],
+            "png": "res://BuyerKit/props/City_wood_table_0.png",
+            "size": [
+              64,
+              64
+            ]
+          }
+        ]
+      }
+    },
+    "size": [
+      4096.0,
+      3072.0
+    ],
+    "spawn": [
+      2048,
+      2600
+    ]
+  },
+  {
+    "id": "Forest",
+    "instances": 227,
+    "origin": [
+      0.0,
+      2944.0
+    ],
+    "props": {
+      "bamboo": {
+        "prefab": "res://BuyerKit/props/Forest_bamboo.tscn",
+        "recommended_scale": 0.75,
+        "sprites": [
+          {
+            "anchor": [
+              256.0,
+              490.0
+            ],
+            "png": "res://BuyerKit/props/Forest_bamboo_0.png",
+            "size": [
+              512,
+              512
+            ]
+          }
+        ]
+      },
+      "boulder": {
+        "prefab": "res://BuyerKit/props/Forest_boulder.tscn",
+        "recommended_scale": 0.477161526679993,
+        "sprites": [
+          {
+            "anchor": [
+              256.0,
+              470.0
+            ],
+            "png": "res://BuyerKit/props/Forest_boulder_0.png",
+            "size": [
+              512,
+              512
+            ]
+          }
+        ]
+      },
+      "bridge_front_1": {
+        "prefab": "res://BuyerKit/props/Forest_bridge_front_1.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "bridge_front_2": {
+        "prefab": "res://BuyerKit/props/Forest_bridge_front_2.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "cliff": {
+        "prefab": "res://BuyerKit/props/Forest_cliff.tscn",
+        "recommended_scale": 0.819999992847443,
+        "sprites": [
+          {
+            "anchor": [
+              256.0,
+              480.0
+            ],
+            "png": "res://BuyerKit/props/Forest_cliff_0.png",
+            "size": [
+              512,
+              512
+            ]
+          }
+        ]
+      },
+      "oak_0": {
+        "prefab": "res://BuyerKit/props/Forest_oak_0.tscn",
+        "recommended_scale": 0.759999990463257,
+        "sprites": [
+          {
+            "anchor": [
+              256.0,
+              500.0
+            ],
+            "png": "res://BuyerKit/props/Forest_oak_0_0.png",
+            "size": [
+              512,
+              512
+            ]
+          }
+        ]
+      },
+      "oak_1": {
+        "prefab": "res://BuyerKit/props/Forest_oak_1.tscn",
+        "recommended_scale": 0.699999988079071,
+        "sprites": [
+          {
+            "anchor": [
+              256.0,
+              500.0
+            ],
+            "png": "res://BuyerKit/props/Forest_oak_1_0.png",
+            "size": [
+              512,
+              512
+            ]
+          }
+        ]
+      },
+      "oak_2": {
+        "prefab": "res://BuyerKit/props/Forest_oak_2.tscn",
+        "recommended_scale": 0.699999988079071,
+        "sprites": [
+          {
+            "anchor": [
+              256.0,
+              500.0
+            ],
+            "png": "res://BuyerKit/props/Forest_oak_2_0.png",
+            "size": [
+              512,
+              512
+            ]
+          }
+        ]
+      },
+      "oak_3": {
+        "prefab": "res://BuyerKit/props/Forest_oak_3.tscn",
+        "recommended_scale": 0.699999988079071,
+        "sprites": [
+          {
+            "anchor": [
+              256.0,
+              500.0
+            ],
+            "png": "res://BuyerKit/props/Forest_oak_3_0.png",
+            "size": [
+              512,
+              512
+            ]
+          }
+        ]
+      },
+      "oak_4": {
+        "prefab": "res://BuyerKit/props/Forest_oak_4.tscn",
+        "recommended_scale": 0.620000004768372,
+        "sprites": [
+          {
+            "anchor": [
+              256.0,
+              500.0
+            ],
+            "png": "res://BuyerKit/props/Forest_oak_4_0.png",
+            "size": [
+              512,
+              512
+            ]
+          }
+        ]
+      },
+      "oak_5": {
+        "prefab": "res://BuyerKit/props/Forest_oak_5.tscn",
+        "recommended_scale": 0.699999988079071,
+        "sprites": [
+          {
+            "anchor": [
+              256.0,
+              500.0
+            ],
+            "png": "res://BuyerKit/props/Forest_oak_5_0.png",
+            "size": [
+              512,
+              512
+            ]
+          }
+        ]
+      },
+      "pavilion": {
+        "prefab": "res://BuyerKit/props/Forest_pavilion.tscn",
+        "recommended_scale": 0.800000011920929,
+        "sprites": [
+          {
+            "anchor": [
+              255.0,
+              470.0
+            ],
+            "png": "res://BuyerKit/props/Forest_pavilion_0.png",
+            "size": [
+              512,
+              512
+            ]
+          }
+        ]
+      },
+      "reeds": {
+        "prefab": "res://BuyerKit/props/Forest_reeds.tscn",
+        "recommended_scale": 0.239999994635582,
+        "sprites": [
+          {
+            "anchor": [
+              256.0,
+              470.0
+            ],
+            "png": "res://BuyerKit/props/Forest_reeds_0.png",
+            "size": [
+              512,
+              512
+            ]
+          }
+        ]
+      },
+      "stone_bridge_0": {
+        "prefab": "res://BuyerKit/props/Forest_stone_bridge_0.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "stone_lantern": {
+        "prefab": "res://BuyerKit/props/Forest_stone_lantern.tscn",
+        "recommended_scale": 0.800000011920929,
+        "sprites": [
+          {
+            "anchor": [
+              65.0,
+              115.0
+            ],
+            "png": "res://BuyerKit/props/Forest_stone_lantern_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "stone_shrine": {
+        "prefab": "res://BuyerKit/props/Forest_stone_shrine.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              32.0,
+              61.0
+            ],
+            "png": "res://BuyerKit/props/Forest_stone_shrine_0.png",
+            "size": [
+              64,
+              64
+            ]
+          }
+        ]
+      },
+      "willow": {
+        "prefab": "res://BuyerKit/props/Forest_willow.tscn",
+        "recommended_scale": 0.670000016689301,
+        "sprites": [
+          {
+            "anchor": [
+              256.0,
+              480.0
+            ],
+            "png": "res://BuyerKit/props/Forest_willow_0.png",
+            "size": [
+              512,
+              512
+            ]
+          }
+        ]
+      },
+      "wood_barrel": {
+        "prefab": "res://BuyerKit/props/Forest_wood_barrel.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              31.0,
+              60.0
+            ],
+            "png": "res://BuyerKit/props/Forest_wood_barrel_0.png",
+            "size": [
+              64,
+              64
+            ]
+          }
+        ]
+      },
+      "wood_cart": {
+        "prefab": "res://BuyerKit/props/Forest_wood_cart.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              64.0,
+              125.0
+            ],
+            "png": "res://BuyerKit/props/Forest_wood_cart_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "wood_fence": {
+        "prefab": "res://BuyerKit/props/Forest_wood_fence.tscn",
+        "recommended_scale": 0.75,
+        "sprites": [
+          {
+            "anchor": [
+              63.0,
+              125.0
+            ],
+            "png": "res://BuyerKit/props/Forest_wood_fence_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "wood_sign": {
+        "prefab": "res://BuyerKit/props/Forest_wood_sign.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              31.0,
+              60.0
+            ],
+            "png": "res://BuyerKit/props/Forest_wood_sign_0.png",
+            "size": [
+              64,
+              64
+            ]
+          }
+        ]
+      }
+    },
+    "size": [
+      4096.0,
+      3072.0
+    ],
+    "spawn": [
+      2048.0,
+      3168.0
+    ]
+  },
+  {
+    "id": "Snow",
+    "instances": 162,
+    "origin": [
+      4096.0,
+      0.0
+    ],
+    "props": {
+      "bare": {
+        "prefab": "res://BuyerKit/props/Snow_bare.tscn",
+        "recommended_scale": 0.560000002384186,
+        "sprites": [
+          {
+            "anchor": [
+              216.0,
+              557.0
+            ],
+            "png": "res://BuyerKit/props/Snow_bare_0.png",
+            "size": [
+              472,
+              576
+            ]
+          }
+        ]
+      },
+      "boulder": {
+        "prefab": "res://BuyerKit/props/Snow_boulder.tscn",
+        "recommended_scale": 0.550000011920929,
+        "sprites": [
+          {
+            "anchor": [
+              190.0,
+              350.0
+            ],
+            "png": "res://BuyerKit/props/Snow_boulder_0.png",
+            "size": [
+              380,
+              374
+            ]
+          }
+        ]
+      },
+      "bridge_front_1": {
+        "prefab": "res://BuyerKit/props/Snow_bridge_front_1.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "bridge_front_2": {
+        "prefab": "res://BuyerKit/props/Snow_bridge_front_2.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "bridge_front_3": {
+        "prefab": "res://BuyerKit/props/Snow_bridge_front_3.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "bridge_front_4": {
+        "prefab": "res://BuyerKit/props/Snow_bridge_front_4.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      },
+      "cliff": {
+        "prefab": "res://BuyerKit/props/Snow_cliff.tscn",
+        "recommended_scale": 0.779999971389771,
+        "sprites": [
+          {
+            "anchor": [
+              343.0,
+              414.0
+            ],
+            "png": "res://BuyerKit/props/Snow_cliff_0.png",
+            "size": [
+              686,
+              438
+            ]
+          }
+        ]
+      },
+      "pavilion": {
+        "prefab": "res://BuyerKit/props/Snow_pavilion.tscn",
+        "recommended_scale": 0.899999976158142,
+        "sprites": [
+          {
+            "anchor": [
+              228.0,
+              414.0
+            ],
+            "png": "res://BuyerKit/props/Snow_pavilion_0.png",
+            "size": [
+              456,
+              438
+            ]
+          }
+        ]
+      },
+      "pine_a": {
+        "prefab": "res://BuyerKit/props/Snow_pine_a.tscn",
+        "recommended_scale": 0.720000028610229,
+        "sprites": [
+          {
+            "anchor": [
+              256.0,
+              557.0
+            ],
+            "png": "res://BuyerKit/props/Snow_pine_a_0.png",
+            "size": [
+              512,
+              576
+            ]
+          }
+        ]
+      },
+      "pine_b": {
+        "prefab": "res://BuyerKit/props/Snow_pine_b.tscn",
+        "recommended_scale": 0.639999985694885,
+        "sprites": [
+          {
+            "anchor": [
+              256.0,
+              557.0
+            ],
+            "png": "res://BuyerKit/props/Snow_pine_b_0.png",
+            "size": [
+              512,
+              576
+            ]
+          }
+        ]
+      },
+      "stone_bridge_0": {
+        "prefab": "res://BuyerKit/props/Snow_stone_bridge_0.tscn",
+        "recommended_scale": 1.0,
+        "sprites": []
+      }
+    },
+    "size": [
+      4096.0,
+      3072.0
+    ],
+    "spawn": [
+      4320.0,
+      1536.0
+    ]
+  },
+  {
+    "id": "Swamp",
+    "instances": 394,
+    "origin": [
+      -4096.0,
+      0.0
+    ],
+    "props": {
+      "broadleaf": {
+        "prefab": "res://BuyerKit/props/Swamp_broadleaf.tscn",
+        "recommended_scale": 0.620000004768372,
+        "sprites": [
+          {
+            "anchor": [
+              270.0,
+              470.0
+            ],
+            "png": "res://BuyerKit/props/Swamp_broadleaf_0.png",
+            "size": [
+              544,
+              512
+            ]
+          }
+        ]
+      },
+      "dead": {
+        "prefab": "res://BuyerKit/props/Swamp_dead.tscn",
+        "recommended_scale": 0.779999971389771,
+        "sprites": [
+          {
+            "anchor": [
+              236.0,
+              495.0
+            ],
+            "png": "res://BuyerKit/props/Swamp_dead_0.png",
+            "size": [
+              472,
+              512
+            ]
+          }
+        ]
+      },
+      "log": {
+        "prefab": "res://BuyerKit/props/Swamp_log.tscn",
+        "recommended_scale": 0.600000023841858,
+        "sprites": [
+          {
+            "anchor": [
+              236.0,
+              240.0
+            ],
+            "png": "res://BuyerKit/props/Swamp_log_0.png",
+            "size": [
+              472,
+              280
+            ]
+          }
+        ]
+      },
+      "pavilion": {
+        "prefab": "res://BuyerKit/props/Swamp_pavilion.tscn",
+        "recommended_scale": 0.819999992847443,
+        "sprites": [
+          {
+            "anchor": [
+              255.0,
+              470.0
+            ],
+            "png": "res://BuyerKit/props/Swamp_pavilion_0.png",
+            "size": [
+              512,
+              512
+            ]
+          }
+        ]
+      },
+      "reeds": {
+        "prefab": "res://BuyerKit/props/Swamp_reeds.tscn",
+        "recommended_scale": 0.403463244438171,
+        "sprites": [
+          {
+            "anchor": [
+              238.0,
+              318.0
+            ],
+            "png": "res://BuyerKit/props/Swamp_reeds_0.png",
+            "size": [
+              476,
+              332
+            ]
+          }
+        ]
+      },
+      "shrine": {
+        "prefab": "res://BuyerKit/props/Swamp_shrine.tscn",
+        "recommended_scale": 0.920000016689301,
+        "sprites": [
+          {
+            "anchor": [
+              228.0,
+              400.0
+            ],
+            "png": "res://BuyerKit/props/Swamp_shrine_0.png",
+            "size": [
+              456,
+              450
+            ]
+          }
+        ]
+      },
+      "willow": {
+        "prefab": "res://BuyerKit/props/Swamp_willow.tscn",
+        "recommended_scale": 0.699999988079071,
+        "sprites": [
+          {
+            "anchor": [
+              265.0,
+              495.0
+            ],
+            "png": "res://BuyerKit/props/Swamp_willow_0.png",
+            "size": [
+              544,
+              512
+            ]
+          }
+        ]
+      },
+      "wood_fence": {
+        "prefab": "res://BuyerKit/props/Swamp_wood_fence.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              4.0,
+              18.0
+            ],
+            "png": "res://BuyerKit/props/Swamp_wood_fence_0.png",
+            "size": [
+              512,
+              512
+            ]
+          }
+        ]
+      }
+    },
+    "size": [
+      4096.0,
+      3072.0
+    ],
+    "spawn": [
+      -220.0,
+      1536.0
+    ]
+  },
+  {
+    "id": "Desert",
+    "instances": 74,
+    "origin": [
+      0.0,
+      6016.0
+    ],
+    "props": {
+      "barrel_crate_stack": {
+        "prefab": "res://BuyerKit/props/Desert_barrel_crate_stack.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              32.0,
+              60.0
+            ],
+            "png": "res://BuyerKit/props/Desert_barrel_crate_stack_0.png",
+            "size": [
+              64,
+              64
+            ]
+          }
+        ]
+      },
+      "boulder": {
+        "prefab": "res://BuyerKit/props/Desert_boulder.tscn",
+        "recommended_scale": 0.600000023841858,
+        "sprites": [
+          {
+            "anchor": [
+              210.0,
+              245.0
+            ],
+            "png": "res://BuyerKit/props/Desert_boulder_0.png",
+            "size": [
+              420,
+              270
+            ]
+          }
+        ]
+      },
+      "cliff": {
+        "prefab": "res://BuyerKit/props/Desert_cliff.tscn",
+        "recommended_scale": 0.800000011920929,
+        "sprites": [
+          {
+            "anchor": [
+              336.0,
+              375.0
+            ],
+            "png": "res://BuyerKit/props/Desert_cliff_0.png",
+            "size": [
+              672,
+              400
+            ]
+          }
+        ]
+      },
+      "dead": {
+        "prefab": "res://BuyerKit/props/Desert_dead.tscn",
+        "recommended_scale": 0.699999988079071,
+        "sprites": [
+          {
+            "anchor": [
+              265.0,
+              435.0
+            ],
+            "png": "res://BuyerKit/props/Desert_dead_0.png",
+            "size": [
+              530,
+              470
+            ]
+          }
+        ]
+      },
+      "inn": {
+        "prefab": "res://BuyerKit/props/Desert_inn.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              298.0,
+              415.0
+            ],
+            "png": "res://BuyerKit/props/Desert_inn_0.png",
+            "size": [
+              596,
+              450
+            ]
+          }
+        ]
+      },
+      "poplar": {
+        "prefab": "res://BuyerKit/props/Desert_poplar.tscn",
+        "recommended_scale": 0.699999988079071,
+        "sprites": [
+          {
+            "anchor": [
+              213.0,
+              530.0
+            ],
+            "png": "res://BuyerKit/props/Desert_poplar_0.png",
+            "size": [
+              426,
+              550
+            ]
+          }
+        ]
+      },
+      "shrub": {
+        "prefab": "res://BuyerKit/props/Desert_shrub.tscn",
+        "recommended_scale": 0.600000023841858,
+        "sprites": [
+          {
+            "anchor": [
+              195.0,
+              250.0
+            ],
+            "png": "res://BuyerKit/props/Desert_shrub_0.png",
+            "size": [
+              390,
+              290
+            ]
+          }
+        ]
+      },
+      "stone_well": {
+        "prefab": "res://BuyerKit/props/Desert_stone_well.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              39.0,
+              76.0
+            ],
+            "png": "res://BuyerKit/props/Desert_stone_well_0.png",
+            "size": [
+              79,
+              81
+            ]
+          }
+        ]
+      },
+      "wood_barrel": {
+        "prefab": "res://BuyerKit/props/Desert_wood_barrel.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              31.0,
+              60.0
+            ],
+            "png": "res://BuyerKit/props/Desert_wood_barrel_0.png",
+            "size": [
+              64,
+              64
+            ]
+          }
+        ]
+      },
+      "wood_cart": {
+        "prefab": "res://BuyerKit/props/Desert_wood_cart.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              64.0,
+              125.0
+            ],
+            "png": "res://BuyerKit/props/Desert_wood_cart_0.png",
+            "size": [
+              128,
+              128
+            ]
+          }
+        ]
+      },
+      "wood_sign": {
+        "prefab": "res://BuyerKit/props/Desert_wood_sign.tscn",
+        "recommended_scale": 1.0,
+        "sprites": [
+          {
+            "anchor": [
+              31.0,
+              60.0
+            ],
+            "png": "res://BuyerKit/props/Desert_wood_sign_0.png",
+            "size": [
+              64,
+              64
+            ]
+          }
+        ]
+      }
+    },
+    "size": [
+      4096.0,
+      3072.0
+    ],
+    "spawn": [
+      2040.0,
+      6360.0
+    ]
+  }
+]

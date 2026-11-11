@@ -1,0 +1,116 @@
+[
+  {
+    "skill_id": "01_cleave",
+    "name": "裂地霸斩",
+    "character": "黑风大王（boss）",
+    "actor_status": "not_included",
+    "base_direction": "east",
+    "frames": 8,
+    "not_complete_three_stage_eight_direction_skill": true,
+    "requires_buyer_actor_or_future_completion": true
+  },
+  {
+    "skill_id": "02_whirl",
+    "name": "黑风绞杀",
+    "character": "黑风大王（boss）",
+    "actor_status": "not_included",
+    "base_direction": "east",
+    "frames": 8,
+    "not_complete_three_stage_eight_direction_skill": true,
+    "requires_buyer_actor_or_future_completion": true
+  },
+  {
+    "skill_id": "03_charge",
+    "name": "破阵狂袭",
+    "character": "黑风大王（boss）",
+    "actor_status": "not_included",
+    "base_direction": "east",
+    "frames": 8,
+    "not_complete_three_stage_eight_direction_skill": true,
+    "requires_buyer_actor_or_future_completion": true
+  },
+  {
+    "skill_id": "04_needles",
+    "name": "蚀脉毒针",
+    "character": "万毒老祖（boss）",
+    "actor_status": "five_action",
+    "base_direction": "east",
+    "frames": 8,
+    "not_complete_three_stage_eight_direction_skill": true
+  },
+  {
+    "skill_id": "05_gourd",
+    "name": "毒葫裂瘴",
+    "character": "万毒老祖（boss）",
+    "actor_status": "five_action",
+    "base_direction": "east",
+    "frames": 8,
+    "not_complete_three_stage_eight_direction_skill": true
+  },
+  {
+    "skill_id": "06_field",
+    "name": "万毒封域",
+    "character": "万毒老祖（boss）",
+    "actor_status": "five_action",
+    "base_direction": "east",
+    "frames": 8,
+    "not_complete_three_stage_eight_direction_skill": true
+  },
+  {
+    "skill_id": "07_chain",
+    "name": "锁魂骨链",
+    "character": "白骨妖后（boss）",
+    "actor_status": "five_action",
+    "base_direction": "east",
+    "frames": 8,
+    "not_complete_three_stage_eight_direction_skill": true
+  },
+  {
+    "skill_id": "08_prison",
+    "name": "森罗骨狱",
+    "character": "白骨妖后（boss）",
+    "actor_status": "five_action",
+    "base_direction": "east",
+    "frames": 8,
+    "not_complete_three_stage_eight_direction_skill": true
+  },
+  {
+    "skill_id": "09_summon",
+    "name": "白骨唤灵",
+    "character": "白骨妖后（boss）",
+    "actor_status": "five_action",
+    "base_direction": "east",
+    "frames": 8,
+    "not_complete_three_stage_eight_direction_skill": true
+  },
+  {
+    "skill_id": "10_claws",
+    "name": "裂空三爪",
+    "character": "赤目虎君（boss）",
+    "actor_status": "not_included",
+    "base_direction": "east",
+    "frames": 8,
+    "not_complete_three_stage_eight_direction_skill": true,
+    "requires_buyer_actor_or_future_completion": true
+  },
+  {
+    "skill_id": "11_roar",
+    "name": "赤瞳震啸",
+    "character": "赤目虎君（boss）",
+    "actor_status": "not_included",
+    "base_direction": "east",
+    "frames": 8,
+    "not_complete_three_stage_eight_direction_skill": true,
+    "requires_buyer_actor_or_future_completion": true
+  },
+  {
+    "skill_id": "12_slam",
+    "name": "虎煞扑杀",
+    "character": "赤目虎君（boss）",
+    "actor_status": "not_included",
+    "base_direction": "east",
+    "frames": 8,
+    "not_complete_three_stage_eight_direction_skill": true,
+    "requires_buyer_actor_or_future_completion": true
+  }
+]

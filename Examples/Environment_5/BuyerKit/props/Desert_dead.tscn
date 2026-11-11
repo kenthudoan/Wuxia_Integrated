@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Desert_dead_0.png" id="1_fqho3"]
+
+[node name="dead" type="StaticBody2D"]
+metadata/desert_kind = "dead"
+metadata/asset_id = "broadleaf_tree"
+
+[node name="_CollisionPolygon2D_4339" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-35, -25, 35, -25, 35, 0, -35, 0)
+
+[node name="_Sprite2D_4340" type="Sprite2D" parent="."]
+position = Vector2(-265, -435)
+texture = ExtResource("1_fqho3")
+centered = false

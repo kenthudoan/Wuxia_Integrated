@@ -1,0 +1,11 @@
+config_version=5
+[application]
+config/name="Wuxia Free Common VFX — Six Techniques + Sword Arc"
+run/main_scene="res://Gallery.tscn"
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=900
+window/stretch/mode="canvas_items"
+[rendering]
+renderer/rendering_method="gl_compatibility"
+textures/canvas_textures/default_texture_filter=0

@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Desert_wood_cart_0.png" id="1_u37yx"]
+
+[node name="wood_cart" type="StaticBody2D"]
+metadata/desert_kind = "wood_cart"
+metadata/asset_id = "wood_cart"
+
+[node name="_CollisionPolygon2D_4459" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-42, -24, 42, -24, 42, -1, -42, -1)
+
+[node name="_Sprite2D_4460" type="Sprite2D" parent="."]
+position = Vector2(-64, -125)
+texture = ExtResource("1_u37yx")
+centered = false

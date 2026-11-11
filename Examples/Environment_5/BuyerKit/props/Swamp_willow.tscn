@@ -1,0 +1,21 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://BuyerKit/scripts/EnvironmentMotion/EnvironmentMotion.gd" id="environment_motion"]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Swamp_willow_0.png" id="1_ohf44"]
+
+[node name="willow" type="StaticBody2D"]
+metadata/asset_id = "broadleaf_tree"
+metadata/swamp_kind = "willow"
+
+metadata/environment_kind = "willow"
+[node name="_Sprite2D_3517" type="Sprite2D" parent="."]
+position = Vector2(-265, -495)
+texture = ExtResource("1_ohf44")
+centered = false
+
+[node name="_CollisionPolygon2D_3518" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-42, -25, 42, -25, 42, 0, -42, 0)
+
+[node name="EnvironmentMotion" type="Node" parent="."]
+script = ExtResource("environment_motion")

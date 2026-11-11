@@ -1,0 +1,26 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_market_notice_board_0.png" id="1_t2u0k"]
+
+[node name="market_notice_board" type="StaticBody2D"]
+metadata/asset_id = "market_notice_board"
+
+[node name="_CollisionPolygon2D_341" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-44, -9, 44, -9, 44, 0, -44, 0)
+
+[node name="_Sprite2D_342" type="Sprite2D" parent="."]
+position = Vector2(-64, -112)
+texture = ExtResource("1_t2u0k")
+centered = false
+
+[node name="PropGroundContact" type="Polygon2D" parent="."]
+z_index = -3
+position = Vector2(2, 2)
+color = Color(0.1, 0.09, 0.07, 0.18)
+polygon = PackedVector2Array(-45, -3, -32, -4, -31, 2, -46, 3)
+
+[node name="_Polygon2D_343" type="Polygon2D" parent="."]
+z_index = -3
+position = Vector2(2, 2)
+color = Color(0.1, 0.09, 0.07, 0.18)
+polygon = PackedVector2Array(31, -3, 44, -3, 45, 2, 30, 3)

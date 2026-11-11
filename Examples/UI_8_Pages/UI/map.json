@@ -1,0 +1,81 @@
+{
+  "markers": [
+    {
+      "id": "escort_agency",
+      "position": [
+        624,
+        976
+      ]
+    },
+    {
+      "id": "martial_hall",
+      "position": [
+        1568,
+        1040
+      ]
+    },
+    {
+      "id": "warehouse",
+      "position": [
+        3224,
+        952
+      ]
+    },
+    {
+      "id": "inn",
+      "position": [
+        1184,
+        1888
+      ]
+    },
+    {
+      "id": "tea_house",
+      "position": [
+        496,
+        1816
+      ]
+    },
+    {
+      "id": "apothecary",
+      "position": [
+        2800,
+        1992
+      ]
+    },
+    {
+      "id": "weapon_shop",
+      "position": [
+        3560,
+        2376
+      ]
+    },
+    {
+      "id": "street_gate",
+      "position": [
+        2048,
+        304
+      ]
+    },
+    {
+      "id": "street_gate",
+      "position": [
+        2048,
+        2864
+      ]
+    },
+    {
+      "id": "gate_ew",
+      "position": [
+        128,
+        1536
+      ]
+    },
+    {
+      "id": "gate_ew",
+      "position": [
+        3968,
+        1536
+      ]
+    }
+  ]
+}

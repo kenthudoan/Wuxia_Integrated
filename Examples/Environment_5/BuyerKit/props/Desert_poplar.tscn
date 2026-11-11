@@ -1,0 +1,21 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://BuyerKit/scripts/EnvironmentMotion/EnvironmentMotion.gd" id="environment_motion"]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Desert_poplar_0.png" id="1_li5fm"]
+
+[node name="poplar" type="StaticBody2D"]
+metadata/desert_kind = "poplar"
+metadata/asset_id = "broadleaf_tree"
+
+metadata/environment_kind = "poplar"
+[node name="_CollisionPolygon2D_4307" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-35, -25, 35, -25, 35, 0, -35, 0)
+
+[node name="_Sprite2D_4308" type="Sprite2D" parent="."]
+position = Vector2(-213, -530)
+texture = ExtResource("1_li5fm")
+centered = false
+
+[node name="EnvironmentMotion" type="Node" parent="."]
+script = ExtResource("environment_motion")

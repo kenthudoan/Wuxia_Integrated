@@ -1,0 +1,132 @@
+[
+  {
+    "id": "suodi",
+    "folder": "Skills/01_Suodi",
+    "name_zh": "缩地成寸",
+    "name_en": "Swift Step",
+    "delivery": "Code + Demo",
+    "scene": "Skills/01_Suodi/Demo.tscn",
+    "source": "Skills/01_Suodi/Source.gd",
+    "texture_paths": {}
+  },
+  {
+    "id": "wanjian",
+    "folder": "Skills/02_Wanjian",
+    "name_zh": "万剑归宗",
+    "name_en": "Sword Convergence",
+    "delivery": "PNG + Code + Demo",
+    "scene": "Skills/02_Wanjian/Demo.tscn",
+    "source": "Skills/02_Wanjian/Source.gd",
+    "texture_paths": {
+      "sword": "Skills/02_Wanjian/PNG/wanjian_sword.png"
+    },
+    "effects": {
+      "impact": [
+        "Skills/02_Wanjian/PNG/impact/frame_000.png",
+        "Skills/02_Wanjian/PNG/impact/frame_001.png",
+        "Skills/02_Wanjian/PNG/impact/frame_002.png",
+        "Skills/02_Wanjian/PNG/impact/frame_003.png",
+        "Skills/02_Wanjian/PNG/impact/frame_004.png",
+        "Skills/02_Wanjian/PNG/impact/frame_005.png",
+        "Skills/02_Wanjian/PNG/impact/frame_006.png",
+        "Skills/02_Wanjian/PNG/impact/frame_007.png"
+      ]
+    }
+  },
+  {
+    "id": "zanghua",
+    "folder": "Skills/03_Zanghua",
+    "name_zh": "葬花吟",
+    "name_en": "Petal Rain",
+    "delivery": "PNG + Code + Demo",
+    "scene": "Skills/03_Zanghua/Demo.tscn",
+    "source": "Skills/03_Zanghua/Source.gd",
+    "texture_paths": {
+      "petal": "Skills/03_Zanghua/PNG/petal.png"
+    }
+  },
+  {
+    "id": "rulai",
+    "folder": "Skills/04_Rulai",
+    "name_zh": "如来神掌",
+    "name_en": "Heavenly Palm",
+    "delivery": "PNG + Code + Demo",
+    "scene": "Skills/04_Rulai/Demo.tscn",
+    "source": "Skills/04_Rulai/Source.gd",
+    "texture_paths": {
+      "buddha_hand_back_v2": "Skills/04_Rulai/PNG/buddha_hand_back_v2.png",
+      "buddha_crater": "Skills/04_Rulai/PNG/buddha_crater.png",
+      "buddha_rock": "Skills/04_Rulai/PNG/buddha_rock.png",
+      "buddha_dust": "Skills/04_Rulai/PNG/buddha_dust.png"
+    }
+  },
+  {
+    "id": "taiji",
+    "folder": "Skills/05_Taiji",
+    "name_zh": "斗转星移",
+    "name_en": "Taiji Reflection",
+    "delivery": "PNG + Code + Demo",
+    "scene": "Skills/05_Taiji/Demo.tscn",
+    "source": "Skills/05_Taiji/Source.gd",
+    "texture_paths": {
+      "taiji": "Skills/05_Taiji/PNG/taiji.png",
+      "taiji_bolt": "Skills/05_Taiji/PNG/taiji_bolt.png"
+    }
+  },
+  {
+    "id": "moying",
+    "folder": "Skills/06_Moying",
+    "name_zh": "墨影断江",
+    "name_en": "Ink Slash",
+    "delivery": "PNG + Code + Demo",
+    "scene": "Skills/06_Moying/Demo.tscn",
+    "source": "Skills/06_Moying/Source.gd",
+    "texture_paths": {
+      "ink_slash": "Skills/06_Moying/PNG/ink_slash.png",
+      "ink_impact": "Skills/06_Moying/PNG/ink_impact.png",
+      "ink_ground_trail": "Skills/06_Moying/PNG/ink_ground_trail.png"
+    }
+  },
+  {
+    "id": "sword",
+    "folder": "Skills/07_Sword_Arc",
+    "name_zh": "基础剑弧",
+    "name_en": "Sword Arc",
+    "delivery": "PNG + Code + Demo",
+    "scene": "Skills/07_Sword_Arc/Demo.tscn",
+    "source": "Skills/07_Sword_Arc/Source.gd",
+    "texture_paths": {},
+    "effects": {
+      "slash": [
+        "Skills/07_Sword_Arc/PNG/slash/frame_000.png",
+        "Skills/07_Sword_Arc/PNG/slash/frame_001.png",
+        "Skills/07_Sword_Arc/PNG/slash/frame_002.png",
+        "Skills/07_Sword_Arc/PNG/slash/frame_003.png",
+        "Skills/07_Sword_Arc/PNG/slash/frame_004.png",
+        "Skills/07_Sword_Arc/PNG/slash/frame_005.png",
+        "Skills/07_Sword_Arc/PNG/slash/frame_006.png",
+        "Skills/07_Sword_Arc/PNG/slash/frame_007.png"
+      ],
+      "projectile": [
+        "Skills/07_Sword_Arc/PNG/projectile/frame_000.png",
+        "Skills/07_Sword_Arc/PNG/projectile/frame_001.png",
+        "Skills/07_Sword_Arc/PNG/projectile/frame_002.png",
+        "Skills/07_Sword_Arc/PNG/projectile/frame_003.png",
+        "Skills/07_Sword_Arc/PNG/projectile/frame_004.png",
+        "Skills/07_Sword_Arc/PNG/projectile/frame_005.png",
+        "Skills/07_Sword_Arc/PNG/projectile/frame_006.png",
+        "Skills/07_Sword_Arc/PNG/projectile/frame_007.png"
+      ],
+      "impact": [
+        "Skills/07_Sword_Arc/PNG/impact/frame_000.png",
+        "Skills/07_Sword_Arc/PNG/impact/frame_001.png",
+        "Skills/07_Sword_Arc/PNG/impact/frame_002.png",
+        "Skills/07_Sword_Arc/PNG/impact/frame_003.png",
+        "Skills/07_Sword_Arc/PNG/impact/frame_004.png",
+        "Skills/07_Sword_Arc/PNG/impact/frame_005.png",
+        "Skills/07_Sword_Arc/PNG/impact/frame_006.png",
+        "Skills/07_Sword_Arc/PNG/impact/frame_007.png"
+      ]
+    }
+  }
+]

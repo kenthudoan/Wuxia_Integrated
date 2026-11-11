@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_potted_herb_0.png" id="1_kib50"]
+
+[node name="potted_herb" type="Node2D"]
+metadata/asset_id = "potted_herb"
+
+[node name="_Sprite2D_319" type="Sprite2D" parent="."]
+position = Vector2(-32, -60)
+texture = ExtResource("1_kib50")
+centered = false

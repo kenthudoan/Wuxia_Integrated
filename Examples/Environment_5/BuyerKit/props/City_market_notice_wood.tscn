@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_market_notice_wood_0.png" id="1_if85m"]
+
+[node name="market_notice_wood" type="StaticBody2D"]
+metadata/asset_id = "market_notice_wood"
+
+[node name="_CollisionPolygon2D_462" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-29, -11, 29, -11, 29, 0, -29, 0)
+
+[node name="_Sprite2D_463" type="Sprite2D" parent="."]
+position = Vector2(-35, -93)
+texture = ExtResource("1_if85m")
+centered = false

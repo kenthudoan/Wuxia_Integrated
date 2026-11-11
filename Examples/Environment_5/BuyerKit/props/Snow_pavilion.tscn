@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Snow_pavilion_0.png" id="1_pv3pm"]
+
+[node name="pavilion" type="StaticBody2D"]
+metadata/asset_id = "broadleaf_tree"
+
+[node name="_Sprite2D_2662" type="Sprite2D" parent="."]
+position = Vector2(-228, -414)
+texture = ExtResource("1_pv3pm")
+centered = false
+
+[node name="_CollisionPolygon2D_2663" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-165, -15, -133, -15, -133, 9, -165, 9)
+
+[node name="_CollisionPolygon2D_2664" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(133, -15, 165, -15, 165, 9, 133, 9)
+
+[node name="_CollisionPolygon2D_2665" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-150, -130, 150, -130, 150, -98, -150, -98)

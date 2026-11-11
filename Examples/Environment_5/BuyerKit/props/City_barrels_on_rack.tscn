@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_barrels_on_rack_0.png" id="1_t8c1r"]
+
+[node name="barrels_on_rack" type="StaticBody2D"]
+metadata/asset_id = "barrels_on_rack"
+
+[node name="_CollisionPolygon2D_485" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-36, -20, 36, -20, 36, 0, -36, 0)
+
+[node name="_Sprite2D_486" type="Sprite2D" parent="."]
+position = Vector2(-63, -125)
+texture = ExtResource("1_t8c1r")
+centered = false

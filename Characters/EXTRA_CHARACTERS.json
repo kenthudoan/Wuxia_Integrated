@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {
+      "name": "斗笠侠客 / Straw-hat Hero",
+      "directory": "Characters/Original_Hero_Limited",
+      "catalog": "Characters/Original_Hero_Limited/CLIPS.json",
+      "png_files": 240,
+      "action_groups": 32,
+      "availability": {
+        "walk": 8,
+        "idle": 8,
+        "attack3": 4,
+        "death": 4,
+        "cast_swift_step": 4,
+        "cast_buddha_palm": 4
+      },
+      "complete_five_action_character": false,
+      "missing_actions": [
+        "hurt"
+      ],
+      "count_as_distinct_design": true,
+      "not_an_extra_design_when_reused_in_maps_or_common_vfx": true
+    }
+  ]
+}

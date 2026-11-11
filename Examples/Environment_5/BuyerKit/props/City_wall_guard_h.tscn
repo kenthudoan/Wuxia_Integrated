@@ -1,0 +1,33 @@
+[gd_scene load_steps=12 format=3]
+
+[ext_resource type="Script" path="res://BuyerKit/scripts/FortifiedSurface.gd" id="1_0l87k"]
+[ext_resource type="Texture2D" path="res://BuyerKit/textures/Texture_0057.png" id="2_ihuyc"]
+[ext_resource type="Texture2D" path="res://BuyerKit/textures/Texture_0058.png" id="3_3ojvp"]
+[ext_resource type="Texture2D" path="res://BuyerKit/textures/Texture_0059.png" id="4_8vfmj"]
+[ext_resource type="Texture2D" path="res://BuyerKit/textures/Texture_0060.png" id="5_13skb"]
+[ext_resource type="Texture2D" path="res://BuyerKit/textures/Texture_0061.png" id="6_2ofde"]
+[ext_resource type="Texture2D" path="res://BuyerKit/textures/Texture_0062.png" id="7_vxc4m"]
+[ext_resource type="Texture2D" path="res://BuyerKit/textures/Texture_0063.png" id="8_yus5o"]
+[ext_resource type="Texture2D" path="res://BuyerKit/textures/Texture_0064.png" id="9_ejghf"]
+[ext_resource type="Texture2D" path="res://BuyerKit/textures/Texture_0065.png" id="10_hh5fh"]
+[ext_resource type="Texture2D" path="res://BuyerKit/textures/Texture_0066.png" id="11_u5wnc"]
+
+[node name="wall_guard_h" type="Node2D"]
+script = ExtResource("1_0l87k")
+kind = "guard_h"
+area = Rect2(0, -20, 800, 20)
+materials = {
+"body": ExtResource("2_ihuyc"),
+"cap": ExtResource("3_3ojvp"),
+"floor": ExtResource("5_13skb"),
+&"floor_tint": Color(1, 1, 1, 1),
+"guard": ExtResource("6_2ofde"),
+"pier_cap": ExtResource("8_yus5o"),
+"pier_foot": ExtResource("10_hh5fh"),
+"pier_shaft": ExtResource("9_ejghf"),
+"rail": ExtResource("7_vxc4m"),
+"side": ExtResource("4_8vfmj"),
+"tread": ExtResource("11_u5wnc")
+}
+metadata/asset_id = "replacement_city_h0"
+metadata/fortified_part = "guard_h"

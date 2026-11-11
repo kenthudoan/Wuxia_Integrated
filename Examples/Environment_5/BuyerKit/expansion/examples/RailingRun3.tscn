@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3]
+[ext_resource type="PackedScene" path="res://BuyerKit/expansion/prefabs/E08.tscn" id="1"]
+[node name="RailingRun3" type="Node2D"]
+y_sort_enabled = true
+[node name="Section0" parent="." instance=ExtResource("1")]
+position = Vector2(-176,0)
+[node name="Section1" parent="." instance=ExtResource("1")]
+position = Vector2(0,0)
+[node name="Section2" parent="." instance=ExtResource("1")]
+position = Vector2(176,0)

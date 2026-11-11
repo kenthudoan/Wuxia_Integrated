@@ -1,0 +1,171 @@
+{
+  "character": "寒月宫-女掌门",
+  "native_scale": 1,
+  "walk_playback_fps": 12,
+  "clips": {
+    "idle": {
+      "east": {
+        "files": [
+          "Examples/Hanyue/idle/east/frame_000.png",
+          "Examples/Hanyue/idle/east/frame_001.png",
+          "Examples/Hanyue/idle/east/frame_002.png",
+          "Examples/Hanyue/idle/east/frame_003.png"
+        ],
+        "fps": 4,
+        "loop": true,
+        "canvas": [
+          168,
+          168
+        ],
+        "anchor": [
+          81,
+          137
+        ]
+      },
+      "west": {
+        "files": [
+          "Examples/Hanyue/idle/west/frame_000.png",
+          "Examples/Hanyue/idle/west/frame_001.png",
+          "Examples/Hanyue/idle/west/frame_002.png",
+          "Examples/Hanyue/idle/west/frame_003.png"
+        ],
+        "fps": 4,
+        "loop": true,
+        "canvas": [
+          168,
+          168
+        ],
+        "anchor": [
+          86,
+          137
+        ]
+      },
+      "north": {
+        "files": [
+          "Examples/Hanyue/idle/north/frame_000.png",
+          "Examples/Hanyue/idle/north/frame_001.png",
+          "Examples/Hanyue/idle/north/frame_002.png",
+          "Examples/Hanyue/idle/north/frame_003.png"
+        ],
+        "fps": 4,
+        "loop": true,
+        "canvas": [
+          172,
+          172
+        ],
+        "anchor": [
+          85,
+          137
+        ]
+      },
+      "south": {
+        "files": [
+          "Examples/Hanyue/idle/south/frame_000.png",
+          "Examples/Hanyue/idle/south/frame_001.png",
+          "Examples/Hanyue/idle/south/frame_002.png",
+          "Examples/Hanyue/idle/south/frame_003.png"
+        ],
+        "fps": 4,
+        "loop": true,
+        "canvas": [
+          176,
+          176
+        ],
+        "anchor": [
+          88,
+          139
+        ]
+      }
+    },
+    "walk": {
+      "east": {
+        "files": [
+          "Examples/Hanyue/walk/east/frame_000.png",
+          "Examples/Hanyue/walk/east/frame_001.png",
+          "Examples/Hanyue/walk/east/frame_002.png",
+          "Examples/Hanyue/walk/east/frame_003.png",
+          "Examples/Hanyue/walk/east/frame_004.png",
+          "Examples/Hanyue/walk/east/frame_005.png",
+          "Examples/Hanyue/walk/east/frame_006.png",
+          "Examples/Hanyue/walk/east/frame_007.png"
+        ],
+        "fps": 8,
+        "loop": true,
+        "canvas": [
+          172,
+          172
+        ],
+        "anchor": [
+          86,
+          138
+        ]
+      },
+      "west": {
+        "files": [
+          "Examples/Hanyue/walk/west/frame_000.png",
+          "Examples/Hanyue/walk/west/frame_001.png",
+          "Examples/Hanyue/walk/west/frame_002.png",
+          "Examples/Hanyue/walk/west/frame_003.png",
+          "Examples/Hanyue/walk/west/frame_004.png",
+          "Examples/Hanyue/walk/west/frame_005.png",
+          "Examples/Hanyue/walk/west/frame_006.png",
+          "Examples/Hanyue/walk/west/frame_007.png"
+        ],
+        "fps": 8,
+        "loop": true,
+        "canvas": [
+          172,
+          172
+        ],
+        "anchor": [
+          84,
+          138
+        ]
+      },
+      "north": {
+        "files": [
+          "Examples/Hanyue/walk/north/frame_000.png",
+          "Examples/Hanyue/walk/north/frame_001.png",
+          "Examples/Hanyue/walk/north/frame_002.png",
+          "Examples/Hanyue/walk/north/frame_003.png",
+          "Examples/Hanyue/walk/north/frame_004.png",
+          "Examples/Hanyue/walk/north/frame_005.png",
+          "Examples/Hanyue/walk/north/frame_006.png",
+          "Examples/Hanyue/walk/north/frame_007.png"
+        ],
+        "fps": 8,
+        "loop": true,
+        "canvas": [
+          172,
+          172
+        ],
+        "anchor": [
+          85,
+          137
+        ]
+      },
+      "south": {
+        "files": [
+          "Examples/Hanyue/walk/south/frame_000.png",
+          "Examples/Hanyue/walk/south/frame_001.png",
+          "Examples/Hanyue/walk/south/frame_002.png",
+          "Examples/Hanyue/walk/south/frame_003.png",
+          "Examples/Hanyue/walk/south/frame_004.png",
+          "Examples/Hanyue/walk/south/frame_005.png",
+          "Examples/Hanyue/walk/south/frame_006.png",
+          "Examples/Hanyue/walk/south/frame_007.png"
+        ],
+        "fps": 8,
+        "loop": true,
+        "canvas": [
+          176,
+          176
+        ],
+        "anchor": [
+          88,
+          139
+        ]
+      }
+    }
+  }
+}

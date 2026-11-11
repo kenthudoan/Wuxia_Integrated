@@ -1,0 +1,2107 @@
+{
+  "cell_size": 64,
+  "columns": 10,
+  "items": [
+    {
+      "export_png": "res://UI/atlases/individual_64/sword.png",
+      "icon": "res://UI/icons/items/sword.png",
+      "id": "sword",
+      "name": "青锋剑",
+      "rect": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "sha256": "05d8e589660987b647c5df735aa89bbbfadf2c727d9e002396a7f94aae3575cc",
+      "source_offset": [
+        4,
+        3
+      ],
+      "source_size": [
+        55,
+        57
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/potion.png",
+      "icon": "res://UI/icons/items/potion.png",
+      "id": "potion",
+      "name": "金创药",
+      "rect": [
+        64,
+        0,
+        64,
+        64
+      ],
+      "sha256": "86848ceb403043d1040fb73117352e8aa27e63f3d4bccd8fb394b9bae8bfee11",
+      "source_offset": [
+        4,
+        3
+      ],
+      "source_size": [
+        55,
+        57
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/herb.png",
+      "icon": "res://UI/icons/items/herb.png",
+      "id": "herb",
+      "name": "碧竹草",
+      "rect": [
+        128,
+        0,
+        64,
+        64
+      ],
+      "sha256": "0ad59f46641bdfeb4ebe35412ba9ffece582636ccb27368ddfedc047eaa97632",
+      "source_offset": [
+        4,
+        3
+      ],
+      "source_size": [
+        55,
+        57
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/food.png",
+      "icon": "res://UI/icons/items/food.png",
+      "id": "food",
+      "name": "干粮",
+      "rect": [
+        192,
+        0,
+        64,
+        64
+      ],
+      "sha256": "b290070eb449a3ce0b32a816417a22e63849c86e22389dcae31ba8dc5ace6fc4",
+      "source_offset": [
+        4,
+        3
+      ],
+      "source_size": [
+        55,
+        57
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/scroll.png",
+      "icon": "res://UI/icons/items/scroll.png",
+      "id": "scroll",
+      "name": "武学残卷",
+      "rect": [
+        256,
+        0,
+        64,
+        64
+      ],
+      "sha256": "3d2282ef336d54a4e218770bf174585952f26478386eed5659155d3131e58a3f",
+      "source_offset": [
+        4,
+        3
+      ],
+      "source_size": [
+        55,
+        57
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/coin.png",
+      "icon": "res://UI/icons/items/coin.png",
+      "id": "coin",
+      "name": "铜钱",
+      "rect": [
+        320,
+        0,
+        64,
+        64
+      ],
+      "sha256": "431630b86bddc7ddd4a22aa1568ca62edcac07cab806794e58124a12bd23fa19",
+      "source_offset": [
+        18,
+        18
+      ],
+      "source_size": [
+        28,
+        28
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_iron_sword.png",
+      "icon": "res://UI/icons/items/p1_I01_iron_sword_64px.png",
+      "id": "I01_iron_sword",
+      "name": "铁剑",
+      "rect": [
+        384,
+        0,
+        64,
+        64
+      ],
+      "sha256": "17c9ebf66977e38835ed1fcfc9638d43bd539e07755c6c0dc81a676170ec65e8",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_wood_sword.png",
+      "icon": "res://UI/icons/items/p1_I01_wood_sword_64px.png",
+      "id": "I01_wood_sword",
+      "name": "木剑",
+      "rect": [
+        448,
+        0,
+        64,
+        64
+      ],
+      "sha256": "c02b52c52692fc2e8d630937f898c0133b103dc2b3c569abd678157b69f2c8ac",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_short_sword.png",
+      "icon": "res://UI/icons/items/p1_I01_short_sword_64px.png",
+      "id": "I01_short_sword",
+      "name": "短剑",
+      "rect": [
+        512,
+        0,
+        64,
+        64
+      ],
+      "sha256": "158c18c321e17049f7f3eae781ebc448da637af0f195c3b4b563dc5283fd4177",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_long_sabre.png",
+      "icon": "res://UI/icons/items/p1_I01_long_sabre_64px.png",
+      "id": "I01_long_sabre",
+      "name": "长刀",
+      "rect": [
+        576,
+        0,
+        64,
+        64
+      ],
+      "sha256": "f0ec8bb5ea801cfa00cfb254fac88bc94c48d6fc8762632f18406567f7e176c5",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_pudao.png",
+      "icon": "res://UI/icons/items/p1_I01_pudao_64px.png",
+      "id": "I01_pudao",
+      "name": "朴刀",
+      "rect": [
+        0,
+        64,
+        64,
+        64
+      ],
+      "sha256": "a1014239f17cd697665d4e551208b06504376f93f217af26867c99f6485d22d9",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_dual_sabres.png",
+      "icon": "res://UI/icons/items/p1_I01_dual_sabres_64px.png",
+      "id": "I01_dual_sabres",
+      "name": "双刀",
+      "rect": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "sha256": "e4945573f286e105e6bb8d1f6249611f2bb0e4e6616054514119538069b917b9",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_dagger.png",
+      "icon": "res://UI/icons/items/p1_I01_dagger_64px.png",
+      "id": "I01_dagger",
+      "name": "匕首",
+      "rect": [
+        128,
+        64,
+        64,
+        64
+      ],
+      "sha256": "1f82d7fe32807ee6b5d6864f97abae5329367c83f9d94845a251b6a1ede27a92",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_spear.png",
+      "icon": "res://UI/icons/items/p1_I01_spear_64px.png",
+      "id": "I01_spear",
+      "name": "长枪",
+      "rect": [
+        192,
+        64,
+        64,
+        64
+      ],
+      "sha256": "44b96196b89a9672b6fd3292622e6b4e8759122da7058ec85922e9ef4e160a81",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_iron_staff.png",
+      "icon": "res://UI/icons/items/p1_I01_iron_staff_64px.png",
+      "id": "I01_iron_staff",
+      "name": "铁棍",
+      "rect": [
+        256,
+        64,
+        64,
+        64
+      ],
+      "sha256": "364e87f599113020a6ebd6d7a106b4fb64f9e4c6d1877f71babf50a7102a57ce",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_monk_staff.png",
+      "icon": "res://UI/icons/items/p1_I01_monk_staff_64px.png",
+      "id": "I01_monk_staff",
+      "name": "禅杖",
+      "rect": [
+        320,
+        64,
+        64,
+        64
+      ],
+      "sha256": "654793bc62bfd12e355aa878a2fd066e8a38d9889b78bb756529813cff7a5008",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_dual_hammers.png",
+      "icon": "res://UI/icons/items/p1_I01_dual_hammers_64px.png",
+      "id": "I01_dual_hammers",
+      "name": "双锤",
+      "rect": [
+        384,
+        64,
+        64,
+        64
+      ],
+      "sha256": "3f0d7359fb65427af98e5d7628cec4e90d9a7048f7012782c6bc45ddf2a6a148",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_bow.png",
+      "icon": "res://UI/icons/items/p1_I01_bow_64px.png",
+      "id": "I01_bow",
+      "name": "弓",
+      "rect": [
+        448,
+        64,
+        64,
+        64
+      ],
+      "sha256": "56129cde39c3fa870dce0db5b79e888d274b3b756f75f719ddb60753cf2a6ef7",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_quiver.png",
+      "icon": "res://UI/icons/items/p1_I01_quiver_64px.png",
+      "id": "I01_quiver",
+      "name": "箭袋",
+      "rect": [
+        512,
+        64,
+        64,
+        64
+      ],
+      "sha256": "785e74def04c6a76ebf0a1ad513e3db55a580967cfb145b5d244c69de423fa1d",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_dart.png",
+      "icon": "res://UI/icons/items/p1_I01_dart_64px.png",
+      "id": "I01_dart",
+      "name": "飞镖",
+      "rect": [
+        576,
+        64,
+        64,
+        64
+      ],
+      "sha256": "cfe99545d199418f5403e0cf397c8b088faf992e259be2a457dec236b31eeb3c",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_throwing_knife.png",
+      "icon": "res://UI/icons/items/p1_I01_throwing_knife_64px.png",
+      "id": "I01_throwing_knife",
+      "name": "飞刀",
+      "rect": [
+        0,
+        128,
+        64,
+        64
+      ],
+      "sha256": "f5176f1287e39fb097a4841f79861b8821aa21df41776fa80114b4864782f3d5",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_fan.png",
+      "icon": "res://UI/icons/items/p1_I01_fan_64px.png",
+      "id": "I01_fan",
+      "name": "扇",
+      "rect": [
+        64,
+        128,
+        64,
+        64
+      ],
+      "sha256": "74c8a5a4d3772f8cc225df7a8114d218ac3aa10c71ebbcb5840703ca8cb4168b",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_fly_whisk.png",
+      "icon": "res://UI/icons/items/p1_I01_fly_whisk_64px.png",
+      "id": "I01_fly_whisk",
+      "name": "拂尘",
+      "rect": [
+        128,
+        128,
+        64,
+        64
+      ],
+      "sha256": "6f15cddd1eaf98fc4940cf6672c120d3badce53250b2b1e5dc4b053ad6ae1b18",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_soft_whip.png",
+      "icon": "res://UI/icons/items/p1_I01_soft_whip_64px.png",
+      "id": "I01_soft_whip",
+      "name": "软鞭",
+      "rect": [
+        192,
+        128,
+        64,
+        64
+      ],
+      "sha256": "7e41ae4a29a4c2c9156c169d6d3b8496bc9b820a9249afa9659be4c88c212bf1",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I01_gauntlets.png",
+      "icon": "res://UI/icons/items/p1_I01_gauntlets_64px.png",
+      "id": "I01_gauntlets",
+      "name": "拳套",
+      "rect": [
+        256,
+        128,
+        64,
+        64
+      ],
+      "sha256": "7a4bb82ea7a66f5e88ad7af1719686706111d96e9aaf1cdd55b071858fa58dd1",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_cloth_tunic.png",
+      "icon": "res://UI/icons/items/p1_I02_cloth_tunic_64px.png",
+      "id": "I02_cloth_tunic",
+      "name": "布衣",
+      "rect": [
+        320,
+        128,
+        64,
+        64
+      ],
+      "sha256": "a24b648a6dc50581749aec7b51ae72642a6fa5ca9a1aa0d35aadb4cc8eac9331",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_leather_armor.png",
+      "icon": "res://UI/icons/items/p1_I02_leather_armor_64px.png",
+      "id": "I02_leather_armor",
+      "name": "皮甲",
+      "rect": [
+        384,
+        128,
+        64,
+        64
+      ],
+      "sha256": "9f6b04be1ba596bcdf607ebd37b237fe1dfa87bfa3cabd8c8fcdae3e45840fbd",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_iron_armor.png",
+      "icon": "res://UI/icons/items/p1_I02_iron_armor_64px.png",
+      "id": "I02_iron_armor",
+      "name": "铁甲",
+      "rect": [
+        448,
+        128,
+        64,
+        64
+      ],
+      "sha256": "defd79ea38fa94de0f815be5b68a35587f1ffdb46698d0a7e80fe1959be4ffef",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_taoist_robe.png",
+      "icon": "res://UI/icons/items/p1_I02_taoist_robe_64px.png",
+      "id": "I02_taoist_robe",
+      "name": "道袍",
+      "rect": [
+        512,
+        128,
+        64,
+        64
+      ],
+      "sha256": "8076e7b7f9316e7083375090bc2d92498a1c297b5babbbf1cc98672fa353feca",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_kasaya.png",
+      "icon": "res://UI/icons/items/p1_I02_kasaya_64px.png",
+      "id": "I02_kasaya",
+      "name": "袈裟",
+      "rect": [
+        576,
+        128,
+        64,
+        64
+      ],
+      "sha256": "c2827a5fd3cb3b6b9add7050b4c3e9a43f7ae798efe566d843a1dfab662ee736",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_swordswoman_outfit.png",
+      "icon": "res://UI/icons/items/p1_I02_swordswoman_outfit_64px.png",
+      "id": "I02_swordswoman_outfit",
+      "name": "女侠劲装",
+      "rect": [
+        0,
+        192,
+        64,
+        64
+      ],
+      "sha256": "af9992b14313fcf8724649d73a3175ff82c524c5f2171bb3785d1d92300bae97",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_straw_hat.png",
+      "icon": "res://UI/icons/items/p1_I02_straw_hat_64px.png",
+      "id": "I02_straw_hat",
+      "name": "斗笠",
+      "rect": [
+        64,
+        192,
+        64,
+        64
+      ],
+      "sha256": "390c9b23012fce3c6a88d166f06909cf5cd7bd79836273ad8af07463c2987508",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_cloth_headwrap.png",
+      "icon": "res://UI/icons/items/p1_I02_cloth_headwrap_64px.png",
+      "id": "I02_cloth_headwrap",
+      "name": "布巾",
+      "rect": [
+        128,
+        192,
+        64,
+        64
+      ],
+      "sha256": "1047a40a16b2250a924a30db74502cf7b7d9e6f625160d4c4a7c501e5d3df373",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_iron_helmet.png",
+      "icon": "res://UI/icons/items/p1_I02_iron_helmet_64px.png",
+      "id": "I02_iron_helmet",
+      "name": "铁盔",
+      "rect": [
+        192,
+        192,
+        64,
+        64
+      ],
+      "sha256": "9113019d0cccfc5645c88e72df62cd30afe4cd306b253563ac281d33b622add2",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_cloth_shoes.png",
+      "icon": "res://UI/icons/items/p1_I02_cloth_shoes_64px.png",
+      "id": "I02_cloth_shoes",
+      "name": "布鞋",
+      "rect": [
+        256,
+        192,
+        64,
+        64
+      ],
+      "sha256": "cfaf0a88006617bec19d2745cbac74c2067c9673d9b1c209172c959be653507a",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_leather_boots.png",
+      "icon": "res://UI/icons/items/p1_I02_leather_boots_64px.png",
+      "id": "I02_leather_boots",
+      "name": "皮靴",
+      "rect": [
+        320,
+        192,
+        64,
+        64
+      ],
+      "sha256": "2a63ffbf60c673bd4cc6cf9d4500cda1dd8ee99fcfe441648a665c0a61787019",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_wrist_guards.png",
+      "icon": "res://UI/icons/items/p1_I02_wrist_guards_64px.png",
+      "id": "I02_wrist_guards",
+      "name": "护腕",
+      "rect": [
+        384,
+        192,
+        64,
+        64
+      ],
+      "sha256": "be1fdda00fb816feeb6de59e858e9fba0fbe21aa2fdea512371b495e997aac19",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_shin_guards.png",
+      "icon": "res://UI/icons/items/p1_I02_shin_guards_64px.png",
+      "id": "I02_shin_guards",
+      "name": "护腿",
+      "rect": [
+        448,
+        192,
+        64,
+        64
+      ],
+      "sha256": "3c292e6e7c63968c9bb24ced571be2bc069c71731e164aa70f458b9f4dda8e8d",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_belt.png",
+      "icon": "res://UI/icons/items/p1_I02_belt_64px.png",
+      "id": "I02_belt",
+      "name": "腰带",
+      "rect": [
+        512,
+        192,
+        64,
+        64
+      ],
+      "sha256": "f219c588e6a8bdfa3920dca788bef89be804809e89660ff5c8b6b92bf2d5285f",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_cloak.png",
+      "icon": "res://UI/icons/items/p1_I02_cloak_64px.png",
+      "id": "I02_cloak",
+      "name": "披风",
+      "rect": [
+        576,
+        192,
+        64,
+        64
+      ],
+      "sha256": "f4fc7186bcba855aadab08b7adda37dd3b849fd37088ec61af9271f09d3eb66f",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I02_sachet.png",
+      "icon": "res://UI/icons/items/p1_I02_sachet_64px.png",
+      "id": "I02_sachet",
+      "name": "香囊",
+      "rect": [
+        0,
+        256,
+        64,
+        64
+      ],
+      "sha256": "b68f6ff34afd5d3c2a6bfd16cc250f4bb1624a0603bca66271cd4281f23e3327",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_qi_pills.png",
+      "icon": "res://UI/icons/items/p1_I03_qi_pills_64px.png",
+      "id": "I03_qi_pills",
+      "name": "回气丹",
+      "rect": [
+        64,
+        256,
+        64,
+        64
+      ],
+      "sha256": "973e43c05d10ddfb2d2369cb1f25d99c143a3bd70da588a10a64c5a823528e81",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_antidote.png",
+      "icon": "res://UI/icons/items/p1_I03_antidote_64px.png",
+      "id": "I03_antidote",
+      "name": "解毒丹",
+      "rect": [
+        128,
+        256,
+        64,
+        64
+      ],
+      "sha256": "324e84a0723ffb06b6d5335d1afe57feb219c5e6104deaa8710dd0c47ab91016",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_styptic_powder.png",
+      "icon": "res://UI/icons/items/p1_I03_styptic_powder_64px.png",
+      "id": "I03_styptic_powder",
+      "name": "止血散",
+      "rect": [
+        192,
+        256,
+        64,
+        64
+      ],
+      "sha256": "c9cd6806b56337ce6f1abde9aaa188d46ca2a95e5d99afbe38bec865492ef988",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_healing_balm.png",
+      "icon": "res://UI/icons/items/p1_I03_healing_balm_64px.png",
+      "id": "I03_healing_balm",
+      "name": "疗伤膏",
+      "rect": [
+        256,
+        256,
+        64,
+        64
+      ],
+      "sha256": "53a1716dbe1682efe05ce3b6233bb12ae2a749311d94ef0a2aa3743e7131a49f",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_clarity_pill.png",
+      "icon": "res://UI/icons/items/p1_I03_clarity_pill_64px.png",
+      "id": "I03_clarity_pill",
+      "name": "清心丸",
+      "rect": [
+        320,
+        256,
+        64,
+        64
+      ],
+      "sha256": "afb8aabf6f377f0bb8f46479f8a526d133cbf0f7d93598671801beee3455ffcf",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_warming_pill.png",
+      "icon": "res://UI/icons/items/p1_I03_warming_pill_64px.png",
+      "id": "I03_warming_pill",
+      "name": "驱寒丹",
+      "rect": [
+        384,
+        256,
+        64,
+        64
+      ],
+      "sha256": "fe23ba14f858b52d9e7d0c72a8a28123f29d0e5435cbd6dcff5e360d41d45ea2",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_miasma_pill.png",
+      "icon": "res://UI/icons/items/p1_I03_miasma_pill_64px.png",
+      "id": "I03_miasma_pill",
+      "name": "辟瘴丹",
+      "rect": [
+        448,
+        256,
+        64,
+        64
+      ],
+      "sha256": "b5406fd2d971c017830573e064e52e37bc94abf1bbb302d9383cb99f4d301ca3",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_great_return_pill.png",
+      "icon": "res://UI/icons/items/p1_I03_great_return_pill_64px.png",
+      "id": "I03_great_return_pill",
+      "name": "大还丹",
+      "rect": [
+        512,
+        256,
+        64,
+        64
+      ],
+      "sha256": "cf84e81d3630729ee4aea4db071004f886ceb57dce171d66d7ee4f8dca8d56a1",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_lesser_return_pills.png",
+      "icon": "res://UI/icons/items/p1_I03_lesser_return_pills_64px.png",
+      "id": "I03_lesser_return_pills",
+      "name": "小还丹",
+      "rect": [
+        576,
+        256,
+        64,
+        64
+      ],
+      "sha256": "56a21b8091dd65ffee561153e46d9ce5bd4c354c84c5bfb839ae103aeb7ee794",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_revival_pill.png",
+      "icon": "res://UI/icons/items/p1_I03_revival_pill_64px.png",
+      "id": "I03_revival_pill",
+      "name": "续命丹",
+      "rect": [
+        0,
+        320,
+        64,
+        64
+      ],
+      "sha256": "5205b26b71ffd9316b33a39814f75dde4ec39ff775399793a530f82e5b8241c9",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_sleeping_powder.png",
+      "icon": "res://UI/icons/items/p1_I03_sleeping_powder_64px.png",
+      "id": "I03_sleeping_powder",
+      "name": "迷药",
+      "rect": [
+        64,
+        320,
+        64,
+        64
+      ],
+      "sha256": "02790f26fcc75a7f59ea7183017ed50e2ec8af82be81fb4d93f9ddd541b4aabc",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_poison_powder.png",
+      "icon": "res://UI/icons/items/p1_I03_poison_powder_64px.png",
+      "id": "I03_poison_powder",
+      "name": "毒粉",
+      "rect": [
+        128,
+        320,
+        64,
+        64
+      ],
+      "sha256": "d6048e8226b83ee2d4d0ebbf6a9c11974740424ccbbc4fc772c04c2ec81935af",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_fire_oil.png",
+      "icon": "res://UI/icons/items/p1_I03_fire_oil_64px.png",
+      "id": "I03_fire_oil",
+      "name": "火油瓶",
+      "rect": [
+        192,
+        320,
+        64,
+        64
+      ],
+      "sha256": "c3995c93abe69bb616cccf16c9cee21c44c39c8086d67cd9603c1d521cb55e77",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_bandage.png",
+      "icon": "res://UI/icons/items/p1_I03_bandage_64px.png",
+      "id": "I03_bandage",
+      "name": "绷带",
+      "rect": [
+        256,
+        320,
+        64,
+        64
+      ],
+      "sha256": "86bdc3219c879f8c5ee372423e8d4b12f5a52514b89580fe6616f62601c4fc63",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I03_medicine_gourd.png",
+      "icon": "res://UI/icons/items/p1_I03_medicine_gourd_64px.png",
+      "id": "I03_medicine_gourd",
+      "name": "伤药葫芦",
+      "rect": [
+        320,
+        320,
+        64,
+        64
+      ],
+      "sha256": "7afeb0856a46cbf8d120133c86df9925e43e022283799d90726b55f7e6f4a806",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I06a_silver_ingot.png",
+      "icon": "res://UI/icons/items/p1_I06a_silver_ingot_64px.png",
+      "id": "I06a_silver_ingot",
+      "name": "银锭",
+      "rect": [
+        384,
+        320,
+        64,
+        64
+      ],
+      "sha256": "3256d25e766fe7a4404d7b675cbf635c5013a253702a220c21daa9bba494a767",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I06a_gold_ingot.png",
+      "icon": "res://UI/icons/items/p1_I06a_gold_ingot_64px.png",
+      "id": "I06a_gold_ingot",
+      "name": "金锭",
+      "rect": [
+        448,
+        320,
+        64,
+        64
+      ],
+      "sha256": "55e5aa601910ec22352c6708fd9a508b11908c58e69cdc22a07b95992987eb95",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I06a_bronze_key.png",
+      "icon": "res://UI/icons/items/p1_I06a_bronze_key_64px.png",
+      "id": "I06a_bronze_key",
+      "name": "铜钥匙",
+      "rect": [
+        512,
+        320,
+        64,
+        64
+      ],
+      "sha256": "03ec0a41ef73213bba59e3a245c4d8a02bf740e3e1d6b57b95eefdbf440fa8b4",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I06a_iron_key.png",
+      "icon": "res://UI/icons/items/p1_I06a_iron_key_64px.png",
+      "id": "I06a_iron_key",
+      "name": "铁钥匙",
+      "rect": [
+        576,
+        320,
+        64,
+        64
+      ],
+      "sha256": "86323cab583bcfcce897f98a86a1cf5e580efb3c0b40b741aba9604aaa76301a",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I06a_sect_token.png",
+      "icon": "res://UI/icons/items/p1_I06a_sect_token_64px.png",
+      "id": "I06a_sect_token",
+      "name": "门派令牌",
+      "rect": [
+        0,
+        384,
+        64,
+        64
+      ],
+      "sha256": "65e4157405146bf9558b54478075007176ae7729a5a67e6e8414c67e67a9617e",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I06a_escort_writ.png",
+      "icon": "res://UI/icons/items/p1_I06a_escort_writ_64px.png",
+      "id": "I06a_escort_writ",
+      "name": "镖局押镖令",
+      "rect": [
+        64,
+        384,
+        64,
+        64
+      ],
+      "sha256": "12a1eab7fc9181dbe9925ff3844301d1400b53ccec9e2a6960736b7b1eb3335d",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I06a_wanted_notice.png",
+      "icon": "res://UI/icons/items/p1_I06a_wanted_notice_64px.png",
+      "id": "I06a_wanted_notice",
+      "name": "官府通缉令",
+      "rect": [
+        128,
+        384,
+        64,
+        64
+      ],
+      "sha256": "3e94855eba6374f4dca221927ef0a900808fdb59cd96acbe39c355237037c996",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I06a_secret_letter.png",
+      "icon": "res://UI/icons/items/p1_I06a_secret_letter_64px.png",
+      "id": "I06a_secret_letter",
+      "name": "密信",
+      "rect": [
+        192,
+        384,
+        64,
+        64
+      ],
+      "sha256": "2b72ca55894d782cde03b01be5db5f52c0e583a26b6440d644d5cdfad4e22679",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_iron_ore.png",
+      "icon": "res://UI/icons/items/p2_I04_iron_ore_64px.png",
+      "id": "I04_iron_ore",
+      "name": "铁矿",
+      "rect": [
+        256,
+        384,
+        64,
+        64
+      ],
+      "sha256": "d55c11b895440efa4b092c42e663c65e99e35b8a721b768a936e5fdf8133eaa0",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_copper_ore.png",
+      "icon": "res://UI/icons/items/p2_I04_copper_ore_64px.png",
+      "id": "I04_copper_ore",
+      "name": "铜矿",
+      "rect": [
+        320,
+        384,
+        64,
+        64
+      ],
+      "sha256": "a43a7a829b5815257c17830845c3ce609837e54655065d9e3a61b1918387a05b",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_silver_ore.png",
+      "icon": "res://UI/icons/items/p2_I04_silver_ore_64px.png",
+      "id": "I04_silver_ore",
+      "name": "银矿",
+      "rect": [
+        384,
+        384,
+        64,
+        64
+      ],
+      "sha256": "534f4a2972a0fd185b1f72521e5f8a0dbbf55cc82e5d69f01a46d4c90b971409",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_refined_iron.png",
+      "icon": "res://UI/icons/items/p2_I04_refined_iron_64px.png",
+      "id": "I04_refined_iron",
+      "name": "精铁",
+      "rect": [
+        448,
+        384,
+        64,
+        64
+      ],
+      "sha256": "30f5e826420714d02d676243636dfca685993ded84070ba9a9ec358c7cad9d7c",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_copper_ingot.png",
+      "icon": "res://UI/icons/items/p2_I04_copper_ingot_64px.png",
+      "id": "I04_copper_ingot",
+      "name": "铜锭",
+      "rect": [
+        512,
+        384,
+        64,
+        64
+      ],
+      "sha256": "f5733dfa161955d1a21d5af33b41150214afa4863ef2b0184b128a6cde5099fb",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_timber.png",
+      "icon": "res://UI/icons/items/p2_I04_timber_64px.png",
+      "id": "I04_timber",
+      "name": "木材",
+      "rect": [
+        576,
+        384,
+        64,
+        64
+      ],
+      "sha256": "c3ad04aa62627fa7497551f5a33b1ca451bf67a414e23492f335faa4fc73fcad",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_bamboo.png",
+      "icon": "res://UI/icons/items/p2_I04_bamboo_64px.png",
+      "id": "I04_bamboo",
+      "name": "竹材",
+      "rect": [
+        0,
+        448,
+        64,
+        64
+      ],
+      "sha256": "6be63bdb74aa4c06ca84df99dc85c7a9b26a986200624e11d79c5437ec9a7bb8",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_beast_hide.png",
+      "icon": "res://UI/icons/items/p2_I04_beast_hide_64px.png",
+      "id": "I04_beast_hide",
+      "name": "兽皮",
+      "rect": [
+        64,
+        448,
+        64,
+        64
+      ],
+      "sha256": "1ea91a2f893ed97d524a2b77f60663b3d200233fbc2717efe00c5822bde8b529",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_silk_thread.png",
+      "icon": "res://UI/icons/items/p2_I04_silk_thread_64px.png",
+      "id": "I04_silk_thread",
+      "name": "丝线",
+      "rect": [
+        128,
+        448,
+        64,
+        64
+      ],
+      "sha256": "1e3ab7a8596eb5f356a5952dffa39b5788a07d3f5a55bca38f7d7efe7de46cbc",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_cotton_cloth.png",
+      "icon": "res://UI/icons/items/p2_I04_cotton_cloth_64px.png",
+      "id": "I04_cotton_cloth",
+      "name": "棉布",
+      "rect": [
+        192,
+        448,
+        64,
+        64
+      ],
+      "sha256": "28353fbb17106efb108c8ecb24890d5847b7deafbf0385b7986b27a6c8403215",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_antler.png",
+      "icon": "res://UI/icons/items/p2_I04_antler_64px.png",
+      "id": "I04_antler",
+      "name": "鹿角",
+      "rect": [
+        256,
+        448,
+        64,
+        64
+      ],
+      "sha256": "b2c68822a8f5666a80b2de350c695f0b271359815cd13d22b4147213ad2e0bbc",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_tiger_bone.png",
+      "icon": "res://UI/icons/items/p2_I04_tiger_bone_64px.png",
+      "id": "I04_tiger_bone",
+      "name": "虎骨",
+      "rect": [
+        320,
+        448,
+        64,
+        64
+      ],
+      "sha256": "af6699ff79cc3e606fce6ddbe5dfb382df0f383d7701f90a13aafc78d279bc71",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_snake_gall.png",
+      "icon": "res://UI/icons/items/p2_I04_snake_gall_64px.png",
+      "id": "I04_snake_gall",
+      "name": "蛇胆",
+      "rect": [
+        384,
+        448,
+        64,
+        64
+      ],
+      "sha256": "07ac3bd3c1ec6e0680d06af31f320f63832ba3b97192e5e84b843cabbe04ed78",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_venom_sac.png",
+      "icon": "res://UI/icons/items/p2_I04_venom_sac_64px.png",
+      "id": "I04_venom_sac",
+      "name": "毒囊",
+      "rect": [
+        448,
+        448,
+        64,
+        64
+      ],
+      "sha256": "583340b7d15725f22510319fb08202b287b683a8be1a4f93a32eec080be1b49f",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_lingzhi.png",
+      "icon": "res://UI/icons/items/p2_I04_lingzhi_64px.png",
+      "id": "I04_lingzhi",
+      "name": "灵芝",
+      "rect": [
+        512,
+        448,
+        64,
+        64
+      ],
+      "sha256": "143e85b7d8d7c4138892ae4fec66d8a130bffbd656bd822064bfec585a86d2ab",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_ginseng.png",
+      "icon": "res://UI/icons/items/p2_I04_ginseng_64px.png",
+      "id": "I04_ginseng",
+      "name": "人参",
+      "rect": [
+        576,
+        448,
+        64,
+        64
+      ],
+      "sha256": "db346cee460cad63ed2fc528763541b8e71176c6084ad73f05bf5725ded24c84",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_cinnabar.png",
+      "icon": "res://UI/icons/items/p2_I04_cinnabar_64px.png",
+      "id": "I04_cinnabar",
+      "name": "朱砂",
+      "rect": [
+        0,
+        512,
+        64,
+        64
+      ],
+      "sha256": "7552e113d85a88dc2ef424121fb5135f635b72df9ea573317dd45e5542dd662b",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_sulfur.png",
+      "icon": "res://UI/icons/items/p2_I04_sulfur_64px.png",
+      "id": "I04_sulfur",
+      "name": "硫磺",
+      "rect": [
+        64,
+        512,
+        64,
+        64
+      ],
+      "sha256": "e53dc933615bb17b998c43b03efe64eb5190cdb295aa9c71fdfd50babae2497c",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I04_whetstone.png",
+      "icon": "res://UI/icons/items/p2_I04_whetstone_64px.png",
+      "id": "I04_whetstone",
+      "name": "磨刀石",
+      "rect": [
+        128,
+        512,
+        64,
+        64
+      ],
+      "sha256": "d19f7656a67c7e78bae01e9c772531234d0cc64ff68f965c70a069110f16d755",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I05_steamed_bun.png",
+      "icon": "res://UI/icons/items/p2_I05_steamed_bun_64px.png",
+      "id": "I05_steamed_bun",
+      "name": "馒头",
+      "rect": [
+        192,
+        512,
+        64,
+        64
+      ],
+      "sha256": "e31fa98aa4ff32fc808038aca7c8d7fd98c875cf3c4addb246e032bee4fa0564",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I05_stuffed_bun.png",
+      "icon": "res://UI/icons/items/p2_I05_stuffed_bun_64px.png",
+      "id": "I05_stuffed_bun",
+      "name": "包子",
+      "rect": [
+        256,
+        512,
+        64,
+        64
+      ],
+      "sha256": "6e091e15f12c9ad0428e3e7249f29afae91540eb43d4fb6f05987dea29922583",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I05_noodles.png",
+      "icon": "res://UI/icons/items/p2_I05_noodles_64px.png",
+      "id": "I05_noodles",
+      "name": "面条",
+      "rect": [
+        320,
+        512,
+        64,
+        64
+      ],
+      "sha256": "69cbe2308e69446a45f19970d05f513625b6f1427f7840152006c621c48828ee",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I05_rice.png",
+      "icon": "res://UI/icons/items/p2_I05_rice_64px.png",
+      "id": "I05_rice",
+      "name": "米饭",
+      "rect": [
+        384,
+        512,
+        64,
+        64
+      ],
+      "sha256": "32f6780dcb2e60e42a85dfbd8e25db284e6f7a94387deffe17a6703d8cdf2365",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I05_grilled_fish.png",
+      "icon": "res://UI/icons/items/p2_I05_grilled_fish_64px.png",
+      "id": "I05_grilled_fish",
+      "name": "烤鱼",
+      "rect": [
+        448,
+        512,
+        64,
+        64
+      ],
+      "sha256": "4912ca2a335773d27991ce8269efcec32d422b94456b982b59de52f704359ac1",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I05_roast_meat.png",
+      "icon": "res://UI/icons/items/p2_I05_roast_meat_64px.png",
+      "id": "I05_roast_meat",
+      "name": "烤肉",
+      "rect": [
+        512,
+        512,
+        64,
+        64
+      ],
+      "sha256": "7bb46ae96713231dd98181cf8268a56023fb12ba7d37c76324da752c31529611",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I05_chicken_leg.png",
+      "icon": "res://UI/icons/items/p2_I05_chicken_leg_64px.png",
+      "id": "I05_chicken_leg",
+      "name": "鸡腿",
+      "rect": [
+        576,
+        512,
+        64,
+        64
+      ],
+      "sha256": "60d4c5a9b6f5be358beaaddcf4c6ec7a35031945dbc58fe8acb921798bdc3a74",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I05_flatbread.png",
+      "icon": "res://UI/icons/items/p2_I05_flatbread_64px.png",
+      "id": "I05_flatbread",
+      "name": "烧饼",
+      "rect": [
+        0,
+        576,
+        64,
+        64
+      ],
+      "sha256": "c925eebb992d75ac0299870e5f006d5b7671cc7e48f0b5423ac68fb1efb0e21b",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I05_tea.png",
+      "icon": "res://UI/icons/items/p2_I05_tea_64px.png",
+      "id": "I05_tea",
+      "name": "清茶",
+      "rect": [
+        64,
+        576,
+        64,
+        64
+      ],
+      "sha256": "fb5f3404ebb90b39c25b14124e2b1910b1d14c173c5b880a198490ef72941674",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I05_rice_wine.png",
+      "icon": "res://UI/icons/items/p2_I05_rice_wine_64px.png",
+      "id": "I05_rice_wine",
+      "name": "米酒",
+      "rect": [
+        128,
+        576,
+        64,
+        64
+      ],
+      "sha256": "2b8cf92654c61418702a594eb9adf71c3e06ea1a141e07c85fb8763c15e9435d",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I05_wild_fruit.png",
+      "icon": "res://UI/icons/items/p2_I05_wild_fruit_64px.png",
+      "id": "I05_wild_fruit",
+      "name": "野果",
+      "rect": [
+        192,
+        576,
+        64,
+        64
+      ],
+      "sha256": "b12f9b19cd92eda10f1021e31043f39a25e2935f2ad08ed916ad8f1e7cdc8db8",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I06b_treasure_map.png",
+      "icon": "res://UI/icons/items/p2_I06b_treasure_map_64px.png",
+      "id": "I06b_treasure_map",
+      "name": "藏宝图",
+      "rect": [
+        256,
+        576,
+        64,
+        64
+      ],
+      "sha256": "fd8425b1940dc118aaba73780e7162ebc8adc9dc627c5683926aacef0219c2c1",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I06b_jade_pendant.png",
+      "icon": "res://UI/icons/items/p2_I06b_jade_pendant_64px.png",
+      "id": "I06b_jade_pendant",
+      "name": "玉佩",
+      "rect": [
+        320,
+        576,
+        64,
+        64
+      ],
+      "sha256": "9234a6982fc475e8e462cdbdb4483b69235d9dcc29996ac568bc79fe430dfe17",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I06b_broken_jade.png",
+      "icon": "res://UI/icons/items/p2_I06b_broken_jade_64px.png",
+      "id": "I06b_broken_jade",
+      "name": "残缺玉珏",
+      "rect": [
+        384,
+        576,
+        64,
+        64
+      ],
+      "sha256": "40b65dccd765948faad5d1908763842cb640d09103356eb9c4e23faf70301249",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I06b_ledger.png",
+      "icon": "res://UI/icons/items/p2_I06b_ledger_64px.png",
+      "id": "I06b_ledger",
+      "name": "账本",
+      "rect": [
+        448,
+        576,
+        64,
+        64
+      ],
+      "sha256": "5d1c76d3c950dcfeacf0b88547c9b7ece313b173c22b5f0bc42a2c4ce763b06a",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I06b_prescription.png",
+      "icon": "res://UI/icons/items/p2_I06b_prescription_64px.png",
+      "id": "I06b_prescription",
+      "name": "药方",
+      "rect": [
+        512,
+        576,
+        64,
+        64
+      ],
+      "sha256": "f086612964ec0992ee0fa438fe1841ced17012e611b5d6a746cf73914ac96834",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    },
+    {
+      "export_png": "res://UI/atlases/individual_64/I06b_manual.png",
+      "icon": "res://UI/icons/items/p2_I06b_manual_64px.png",
+      "id": "I06b_manual",
+      "name": "秘籍书册",
+      "rect": [
+        576,
+        576,
+        64,
+        64
+      ],
+      "sha256": "b5e558eeff774d233c67e1b7c45db0897d706e38d4f3a84fc24aa465ed08b29c",
+      "source_offset": [
+        0,
+        0
+      ],
+      "source_size": [
+        64,
+        64
+      ]
+    }
+  ],
+  "note": "deterministic packing of existing icons, not additional designs"
+}

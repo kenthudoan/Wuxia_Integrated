@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://BuyerKit/scripts/EnvironmentMotion/EnvironmentMotion.gd" id="environment_motion"]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Desert_shrub_0.png" id="1_2mc2r"]
+
+[node name="shrub" type="StaticBody2D"]
+metadata/desert_kind = "shrub"
+metadata/asset_id = "broadleaf_tree"
+
+metadata/environment_kind = "shrub"
+[node name="_Sprite2D_4304" type="Sprite2D" parent="."]
+position = Vector2(-195, -250)
+texture = ExtResource("1_2mc2r")
+centered = false
+
+[node name="EnvironmentMotion" type="Node" parent="."]
+script = ExtResource("environment_motion")

@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/terrain/Swamp_gravel.png" id="1_son40"]
+
+[node name="Swamp_gravel" type="Polygon2D"]
+z_index = -10
+texture_repeat = 3
+texture = ExtResource("1_son40")
+polygon = PackedVector2Array(0, 0, 512, 0, 512, 512, 0, 512)
+uv = PackedVector2Array(0, 0, 512, 0, 512, 512, 0, 512)

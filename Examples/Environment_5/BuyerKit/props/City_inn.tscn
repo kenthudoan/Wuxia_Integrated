@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_inn_0.png" id="1_jslru"]
+
+[node name="inn" type="StaticBody2D"]
+metadata/asset_id = "inn"
+
+[node name="_CollisionPolygon2D_11" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-204, -100, 204, -100, 204, -8, -204, -8)
+
+[node name="_Sprite2D_12" type="Sprite2D" parent="."]
+position = Vector2(-313, -443)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_jslru")
+centered = false

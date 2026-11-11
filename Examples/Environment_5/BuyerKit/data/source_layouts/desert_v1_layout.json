@@ -1,0 +1,817 @@
+{
+  "bounds": [
+    0,
+    6016,
+    4096,
+    3072
+  ],
+  "spawn": [
+    2040,
+    6360
+  ],
+  "paths": [
+    {
+      "name": "forest_connection",
+      "kind": "dirt",
+      "width": 168,
+      "points": [
+        [
+          2000,
+          5940
+        ],
+        [
+          2000,
+          6150
+        ],
+        [
+          2040,
+          6360
+        ]
+      ]
+    },
+    {
+      "name": "caravan_road",
+      "kind": "gravel",
+      "width": 164,
+      "points": [
+        [
+          2040,
+          6260
+        ],
+        [
+          2050,
+          6650
+        ],
+        [
+          1930,
+          7110
+        ],
+        [
+          2080,
+          7550
+        ],
+        [
+          2020,
+          8100
+        ],
+        [
+          2150,
+          8610
+        ],
+        [
+          2110,
+          8990
+        ]
+      ]
+    },
+    {
+      "name": "waystation_trail",
+      "kind": "gravel",
+      "width": 128,
+      "points": [
+        [
+          1930,
+          7110
+        ],
+        [
+          1570,
+          7330
+        ],
+        [
+          1250,
+          7410
+        ],
+        [
+          1000,
+          7370
+        ]
+      ]
+    },
+    {
+      "name": "oasis_trail",
+      "kind": "gravel",
+      "width": 128,
+      "points": [
+        [
+          2080,
+          7550
+        ],
+        [
+          2420,
+          7470
+        ],
+        [
+          2680,
+          7570
+        ],
+        [
+          2870,
+          7610
+        ]
+      ]
+    }
+  ],
+  "river": [
+    [
+      6016,
+      3400,
+      330
+    ],
+    [
+      6300,
+      3370,
+      290
+    ],
+    [
+      6620,
+      3440,
+      235
+    ],
+    [
+      6940,
+      3350,
+      200
+    ],
+    [
+      7200,
+      3290,
+      240
+    ],
+    [
+      7410,
+      3280,
+      560
+    ],
+    [
+      7630,
+      3280,
+      640
+    ],
+    [
+      7800,
+      3300,
+      420
+    ],
+    [
+      7900,
+      3300,
+      0
+    ]
+  ],
+  "dunes": [
+    [
+      [
+        30,
+        7280
+      ],
+      [
+        550,
+        7120
+      ],
+      [
+        1250,
+        7630
+      ],
+      [
+        1640,
+        8040
+      ],
+      [
+        1510,
+        8700
+      ],
+      [
+        700,
+        9020
+      ],
+      [
+        30,
+        9000
+      ]
+    ],
+    [
+      [
+        2460,
+        8160
+      ],
+      [
+        2920,
+        8030
+      ],
+      [
+        3420,
+        8190
+      ],
+      [
+        4066,
+        8080
+      ],
+      [
+        4066,
+        9060
+      ],
+      [
+        2580,
+        9060
+      ],
+      [
+        2340,
+        8650
+      ]
+    ]
+  ],
+  "props": [
+    {
+      "kind": "cliff",
+      "position": [
+        420,
+        6780
+      ],
+      "scale": 0.8
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        840,
+        6550
+      ],
+      "scale": 0.8
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        3650,
+        6910
+      ],
+      "scale": 0.8
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        450,
+        7920
+      ],
+      "scale": 1.0
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        1120,
+        8230
+      ],
+      "scale": 1.0
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        3490,
+        8500
+      ],
+      "scale": 1.0
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        730,
+        8840
+      ],
+      "scale": 1.0
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        2880,
+        8870
+      ],
+      "scale": 1.0
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        446,
+        6292
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        728,
+        6361
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "poplar",
+      "position": [
+        1026,
+        6308
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "poplar",
+      "position": [
+        2879,
+        6313
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        3814,
+        6291
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        272,
+        6637
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        465,
+        6571
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "poplar",
+      "position": [
+        688,
+        6581
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        974,
+        6543
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "poplar",
+      "position": [
+        1311,
+        6558
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        1496,
+        6624
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "poplar",
+      "position": [
+        2777,
+        6635
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        1262,
+        6850
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        2325,
+        6848
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        2520,
+        6859
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "dead",
+      "position": [
+        2819,
+        6832
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "dead",
+      "position": [
+        3801,
+        6852
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "dead",
+      "position": [
+        194,
+        7098
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "dead",
+      "position": [
+        448,
+        7032
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "dead",
+      "position": [
+        2535,
+        7069
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        2847,
+        7091
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        199,
+        7288
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        529,
+        7272
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3900,
+        7300
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "dead",
+      "position": [
+        231,
+        7584
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        3843,
+        7571
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        478,
+        7793
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        775,
+        7750
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "dead",
+      "position": [
+        1255,
+        7788
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        2345,
+        7843
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "dead",
+      "position": [
+        209,
+        7985
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "dead",
+      "position": [
+        1517,
+        8274
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        2600,
+        8265
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "dead",
+      "position": [
+        2796,
+        8299
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        3049,
+        8235
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "dead",
+      "position": [
+        3400,
+        8330
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        188,
+        8519
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        1529,
+        8457
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        1755,
+        8534
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        3085,
+        8506
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        3314,
+        8552
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        534,
+        8706
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        794,
+        8747
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        1019,
+        8693
+      ],
+      "scale": 0.6
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        1220,
+        8735
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        1836,
+        8781
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "dead",
+      "position": [
+        2554,
+        8743
+      ],
+      "scale": 0.7
+    },
+    {
+      "kind": "dead",
+      "position": [
+        3076,
+        8775
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "poplar",
+      "position": [
+        2860,
+        7330
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "poplar",
+      "position": [
+        2920,
+        7920
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "poplar",
+      "position": [
+        3140,
+        8100
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "poplar",
+      "position": [
+        3560,
+        8040
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "poplar",
+      "position": [
+        3710,
+        7690
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "poplar",
+      "position": [
+        3700,
+        7300
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "poplar",
+      "position": [
+        3040,
+        7060
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        2780,
+        7800
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        3000,
+        7980
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        3500,
+        7970
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        3690,
+        7530
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "shrub",
+      "position": [
+        3580,
+        7190
+      ],
+      "scale": 0.5
+    },
+    {
+      "kind": "inn",
+      "position": [
+        1000,
+        7280
+      ],
+      "scale": 1.0
+    },
+    {
+      "kind": "stone_well",
+      "position": [
+        2860,
+        7480
+      ],
+      "scale": 1
+    },
+    {
+      "kind": "wood_cart",
+      "position": [
+        1330,
+        7190
+      ],
+      "scale": 1
+    },
+    {
+      "kind": "wood_barrel",
+      "position": [
+        770,
+        7360
+      ],
+      "scale": 1
+    },
+    {
+      "kind": "wood_sign",
+      "position": [
+        2210,
+        6330
+      ],
+      "scale": 1
+    },
+    {
+      "kind": "barrel_crate_stack",
+      "position": [
+        1330,
+        7450
+      ],
+      "scale": 1
+    }
+  ]
+}

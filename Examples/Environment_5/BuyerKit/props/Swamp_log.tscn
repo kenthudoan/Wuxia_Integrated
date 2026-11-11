@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Swamp_log_0.png" id="1_ku318"]
+
+[node name="log" type="StaticBody2D"]
+metadata/asset_id = "broadleaf_tree"
+metadata/swamp_kind = "log"
+
+[node name="_Sprite2D_4248" type="Sprite2D" parent="."]
+position = Vector2(-236, -240)
+texture = ExtResource("1_ku318")
+centered = false
+
+[node name="_CollisionPolygon2D_4249" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-180, -35, 180, -35, 180, 0, -180, 0)

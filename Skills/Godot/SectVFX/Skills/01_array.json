@@ -1,0 +1,293 @@
+{
+  "id": "01_array",
+  "sect": "玄霄剑宗",
+  "name": "天枢剑阵",
+  "mode": "array",
+  "number": 1,
+  "phases": {
+    "cast": {
+      "sheet": "SectVFX/Textures/a32356c6a7b6cf330794d5a92a3afbcb2bebc5daa40f066a90d13e84e2829d6f.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            32,
+            32
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/e9a78f92ced3884ba8c89713daec79aae543761747c3d1859f5a7fcb4ea35a44.png",
+          "sha256": "60bff15de00f1e1175dbd1c79fe47b98b2c0689e79c50f3c6bfa93fb47858b00"
+        },
+        {
+          "rect": [
+            32,
+            0,
+            32,
+            32
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/c51e82342b48c9a7a0bf76dcae0f1c77a2c6aea4f671a8b892a91b82d0e9d5ba.png",
+          "sha256": "0b4fbac2249983b41d0465fe78f97327e06a1e6c8f5e7ac4a577d3a5e27890a9"
+        },
+        {
+          "rect": [
+            64,
+            0,
+            32,
+            32
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/c507f95ebf4110ede4ebf31d4574a4a5b2852b773e2a867af539d8b7b61ce24e.png",
+          "sha256": "42bc0772b638f2f25e161482550a5de682020e111400ad99240d81502db77ca4"
+        },
+        {
+          "rect": [
+            0,
+            32,
+            32,
+            32
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/0a164090fa75d9595687b9807b63f7da1e7b29edf556a88164ff421c40fcfcc6.png",
+          "sha256": "5d66ed8b271f3cb28186f9916e10a0d531346cd95ec2be0b30aee5cc226a1679"
+        },
+        {
+          "rect": [
+            32,
+            32,
+            32,
+            32
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/c9d2c4acf8bedad6725eeaaeebce9327513601c761da9293c910343cb91d41fe.png",
+          "sha256": "a1efa2d95f57393aeeb3824abfc10416bef627b8792937cf43d46abc9297980e"
+        },
+        {
+          "rect": [
+            64,
+            32,
+            32,
+            32
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/2ac0c6bc9ca46139c5fe28e23657a260d1a91e4bed1668574b35e98fa702d62c.png",
+          "sha256": "7fd9812b697785253c01cc90f2becb1caf5627d6323e262b677233dfcfeffc46"
+        },
+        {
+          "rect": [
+            0,
+            64,
+            32,
+            32
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/cb12384817842b667c5a8ee8bb6a3a8f82d7bfa4672e96974588dfa74d33cc8a.png",
+          "sha256": "da2df9f1261119025963c2f8d2e5fc962d44f017e638e418ee1e1f4003364671"
+        },
+        {
+          "rect": [
+            32,
+            64,
+            32,
+            32
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/0c718d4d6c48a782a627f11efd5697e3816375ef60055083b4827124d3e287cc.png",
+          "sha256": "b0775cba09eadf2fde241b35daa28cdcd03af6d23e99e0decd32b42f13f6d220"
+        }
+      ],
+      "anchor": [
+        16,
+        16
+      ],
+      "canvas": [
+        32,
+        32
+      ],
+      "sha256": "a32356c6a7b6cf330794d5a92a3afbcb2bebc5daa40f066a90d13e84e2829d6f"
+    },
+    "projectile": {
+      "sheet": "SectVFX/Textures/e5104b9b196ef2f71940eb342fa85d5ccb219537d1390a791e57a60be5ceefc7.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            128,
+            128
+          ],
+          "duration": 0.1,
+          "png": "SectVFX/Frames/1a207705ba5c647ef3e044c236084ec344bc9621447a00f7c4a6ce3bb091a853.png",
+          "sha256": "1fa78a92d61f09401878e6aebf2a86efb222a0c2045c44788115334e3678d795"
+        }
+      ],
+      "anchor": [
+        64,
+        64
+      ],
+      "canvas": [
+        128,
+        128
+      ],
+      "sha256": "e5104b9b196ef2f71940eb342fa85d5ccb219537d1390a791e57a60be5ceefc7"
+    },
+    "impact": {
+      "sheet": "SectVFX/Textures/58d453e25d173b3b4942f3028a47b5f433426e163cc40d8086a817159ac38468.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/3095a7e0c8cf3c8517988558b7151335231c77d051d7a4bdb4d6648dff461a2b.png",
+          "sha256": "253366485036ffd90787329e1743ee9dff3497cc242d7a824677de3ff80d6909"
+        },
+        {
+          "rect": [
+            64,
+            0,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/5eb4479eb2ec42b4c03698376450c58c0d68a57eebbd4ae44e0d349af5324c20.png",
+          "sha256": "b948b924c7388a937f1792e1c53789b416d7bf77dd74c83ae16a00a739915f80"
+        },
+        {
+          "rect": [
+            128,
+            0,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/80ddf2cacfec258e9b792cde0cbb4c024b1ffeffc28e683c17d5dbea2ef86017.png",
+          "sha256": "7e6cf8573d54fdba1e8083387cc366ec40026144a1d134acaf7646652a935412"
+        },
+        {
+          "rect": [
+            192,
+            0,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/acdcb9364af7315a6ca83564da47fce4318576e6c784c9b73b913726210a02d0.png",
+          "sha256": "bf8ef09c038f62c838cb0dfd24a5df37a01f667b5b53b7141de052bda645780e"
+        },
+        {
+          "rect": [
+            0,
+            64,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/70fcaab70e138c04dec186b6cfe01c5695400d3aaa09045696b26cf1d9b1f64c.png",
+          "sha256": "95cbe4157c631a773a1c56e2220b3d8890ab019d308269705cf80168dd0acb23"
+        },
+        {
+          "rect": [
+            64,
+            64,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/afe66c469bbad59544a667e2b875f19c0148bacb71a36f8f639286197688445e.png",
+          "sha256": "72c518aab319b2f10b0ce31c651208b3e1181610b290dfbd0fe7007ee7372051"
+        },
+        {
+          "rect": [
+            128,
+            64,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/c16dbbec4fe120cdac82ddc97ef675f28720e17d832e53aaa880a199227448b9.png",
+          "sha256": "f428efe0851f777fb4eadd3f5722e4bbe4ee7a40746e83c75dca464e03a73959"
+        },
+        {
+          "rect": [
+            192,
+            64,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/9c5ef03dd3d15c4b82379afa3621bbe2e8cf013501ead0116581d1a2eb7a5a92.png",
+          "sha256": "70d0a67beb75c1ec8428720d537d42224adbb046d4411517f10042745f8e2158"
+        },
+        {
+          "rect": [
+            0,
+            128,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/9d0f1cbd9297cd090796891aa44e578a913d380877f76c78ae633ea828960562.png",
+          "sha256": "9582b5e6d874326f2c5c407e8ab8f6e4530521d2e96e94a3da0ebdf53c788b85"
+        },
+        {
+          "rect": [
+            64,
+            128,
+            64,
+            64
+          ],
+          "duration": 0.05,
+          "png": "SectVFX/Frames/687d2fb0293acefd4a4b035f19170f9c1a6341a3a3c696df72cc4ee2650aa863.png",
+          "sha256": "052c48aa8b5e4f2c40bcd0d1bb7a4b93276276285dfa3e8a971b435dc88fdfee"
+        }
+      ],
+      "anchor": [
+        32,
+        32
+      ],
+      "canvas": [
+        64,
+        64
+      ],
+      "sha256": "58d453e25d173b3b4942f3028a47b5f433426e163cc40d8086a817159ac38468"
+    }
+  },
+  "caster": {
+    "file": "SectVFX/Textures/53847a07cf905d0130c3d8e39739fe5cecdc57fb4c785ec40e9c7f796ebe7ff3.png",
+    "anchor": [
+      64,
+      126
+    ]
+  },
+  "runtime_script": "SectVFX/Runtime/SectArrayTrap.gd",
+  "standalone_contract": {
+    "coordinate_space": "local ground positions in the VFX node; no game objects mutated",
+    "visual_contact_only": true,
+    "native_sampling": "nearest core, local shader glow",
+    "actor_optional": true
+  },
+  "motion_flags_by_facing": {
+    "south": {},
+    "north": {},
+    "west": {},
+    "east": {}
+  },
+  "has_spin_action": false,
+  "playback_contract": {
+    "clock_hz": 60,
+    "nominal_end_seconds": 12.0,
+    "preview_peak_seconds": 2.0,
+    "timing_summary": "7 falling swords; stable center/radius [138,78]; fall .46s, formation1.55s; rotation TAU/28; boundary-triggered .60-size sword, cooldown1.35s. Never shrinks or follows the target.",
+    "incoming_acceptance_window_seconds": null,
+    "automatic_demo_incoming_default": false,
+    "core_sampling": "nearest",
+    "local_soft_light": "shaders; not a full-screen blur",
+    "coordinate_space": "world ground pixels through private identity context; component placed at foot",
+    "array_frame_clock": "phase loop/clamp rules, explicitly synchronized to effect elapsed"
+  }
+}

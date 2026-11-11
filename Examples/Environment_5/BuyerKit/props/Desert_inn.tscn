@@ -1,0 +1,21 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Desert_inn_0.png" id="1_7k2ms"]
+
+[node name="inn" type="StaticBody2D"]
+metadata/desert_kind = "inn"
+metadata/asset_id = "broadleaf_tree"
+
+[node name="_CollisionPolygon2D_4453" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-160, -220, 160, -220, 160, -95, -160, -95)
+
+[node name="_CollisionPolygon2D_4454" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-255, -100, -190, -100, -190, -5, -255, -5)
+
+[node name="_CollisionPolygon2D_4455" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(140, -100, 250, -100, 250, -5, 140, -5)
+
+[node name="_Sprite2D_4456" type="Sprite2D" parent="."]
+position = Vector2(-298, -415)
+texture = ExtResource("1_7k2ms")
+centered = false

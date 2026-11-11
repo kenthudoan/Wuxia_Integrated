@@ -1,0 +1,198 @@
+{
+  "items": [
+    {
+      "id": "City_apothecary_0",
+      "original": "Buildings/City/City_apothecary_0.png",
+      "open": "Buildings/DoorStates_Open/City_apothecary_0.png",
+      "status": "open_variant",
+      "pixels_changed": 29805,
+      "is_additional_design": false
+    },
+    {
+      "id": "City_escort_agency_0",
+      "original": "Buildings/City/City_escort_agency_0.png",
+      "open": "Buildings/DoorStates_Open/City_escort_agency_0.png",
+      "status": "open_variant",
+      "pixels_changed": 18711,
+      "is_additional_design": false
+    },
+    {
+      "id": "City_gate_ew_0",
+      "original": "Buildings/City/City_gate_ew_0.png",
+      "open": "Buildings/City/City_gate_ew_0.png",
+      "status": "no_door",
+      "pixels_changed": 0,
+      "is_additional_design": false
+    },
+    {
+      "id": "City_inn_0",
+      "original": "Buildings/City/City_inn_0.png",
+      "open": "Buildings/City/City_inn_0.png",
+      "status": "already_open",
+      "pixels_changed": 0,
+      "is_additional_design": false
+    },
+    {
+      "id": "City_martial_hall_0",
+      "original": "Buildings/City/City_martial_hall_0.png",
+      "open": "Buildings/City/City_martial_hall_0.png",
+      "status": "already_open",
+      "pixels_changed": 0,
+      "is_additional_design": false
+    },
+    {
+      "id": "City_street_gate_0",
+      "original": "Buildings/City/City_street_gate_0.png",
+      "open": "Buildings/City/City_street_gate_0.png",
+      "status": "already_open",
+      "pixels_changed": 0,
+      "is_additional_design": false
+    },
+    {
+      "id": "City_tea_house_0",
+      "original": "Buildings/City/City_tea_house_0.png",
+      "open": "Buildings/City/City_tea_house_0.png",
+      "status": "already_open",
+      "pixels_changed": 0,
+      "is_additional_design": false
+    },
+    {
+      "id": "City_warehouse_0",
+      "original": "Buildings/City/City_warehouse_0.png",
+      "open": "Buildings/DoorStates_Open/City_warehouse_0.png",
+      "status": "open_variant",
+      "pixels_changed": 42466,
+      "is_additional_design": false
+    },
+    {
+      "id": "City_weapon_shop_0",
+      "original": "Buildings/City/City_weapon_shop_0.png",
+      "open": "Buildings/City/City_weapon_shop_0.png",
+      "status": "already_open",
+      "pixels_changed": 0,
+      "is_additional_design": false
+    },
+    {
+      "id": "Desert_inn_0",
+      "original": "Buildings/Desert/Desert_inn_0.png",
+      "open": "Buildings/Desert/Desert_inn_0.png",
+      "status": "already_open",
+      "pixels_changed": 0,
+      "is_additional_design": false
+    },
+    {
+      "id": "Forest_pavilion_0",
+      "original": "Buildings/Forest/Forest_pavilion_0.png",
+      "open": "Buildings/Forest/Forest_pavilion_0.png",
+      "status": "no_door",
+      "pixels_changed": 0,
+      "is_additional_design": false
+    },
+    {
+      "id": "Forest_stone_shrine_0",
+      "original": "Buildings/Forest/Forest_stone_shrine_0.png",
+      "open": "Buildings/Forest/Forest_stone_shrine_0.png",
+      "status": "no_door",
+      "pixels_changed": 0,
+      "is_additional_design": false
+    },
+    {
+      "id": "B01_512px",
+      "original": "Buildings/P1_20261028/B01_512px.png",
+      "open": "Buildings/DoorStates_Open/B01_512px.png",
+      "status": "open_variant",
+      "pixels_changed": 8171,
+      "is_additional_design": false
+    },
+    {
+      "id": "B02_512px",
+      "original": "Buildings/P1_20261028/B02_512px.png",
+      "open": "Buildings/DoorStates_Open/B02_512px.png",
+      "status": "open_variant",
+      "pixels_changed": 4415,
+      "is_additional_design": false
+    },
+    {
+      "id": "B03_512px",
+      "original": "Buildings/P1_20261028/B03_512px.png",
+      "open": "Buildings/DoorStates_Open/B03_512px.png",
+      "status": "open_variant",
+      "pixels_changed": 8463,
+      "is_additional_design": false
+    },
+    {
+      "id": "B04_512px",
+      "original": "Buildings/P1_20261028/B04_512px.png",
+      "open": "Buildings/P1_20261028/B04_512px.png",
+      "status": "already_open",
+      "pixels_changed": 0,
+      "is_additional_design": false
+    },
+    {
+      "id": "B05_512px",
+      "original": "Buildings/P1_20261028/B05_512px.png",
+      "open": "Buildings/DoorStates_Open/B05_512px.png",
+      "status": "open_variant",
+      "pixels_changed": 8516,
+      "is_additional_design": false
+    },
+    {
+      "id": "B06_512px",
+      "original": "Buildings/P1_20261028/B06_512px.png",
+      "open": "Buildings/DoorStates_Open/B06_512px.png",
+      "status": "open_variant",
+      "pixels_changed": 6577,
+      "is_additional_design": false
+    },
+    {
+      "id": "B07_512px",
+      "original": "Buildings/P2_20261028/B07_512px.png",
+      "open": "Buildings/DoorStates_Open/B07_512px.png",
+      "status": "open_variant",
+      "pixels_changed": 4857,
+      "is_additional_design": false
+    },
+    {
+      "id": "B08_512px",
+      "original": "Buildings/P2_20261028/B08_512px.png",
+      "open": "Buildings/DoorStates_Open/B08_512px.png",
+      "status": "open_variant",
+      "pixels_changed": 7558,
+      "is_additional_design": false
+    },
+    {
+      "id": "B09_384px",
+      "original": "Buildings/P2_20261028/B09_384px.png",
+      "open": "Buildings/P2_20261028/B09_384px.png",
+      "status": "already_open",
+      "pixels_changed": 0,
+      "is_additional_design": false
+    },
+    {
+      "id": "B10_384px",
+      "original": "Buildings/P2_20261028/B10_384px.png",
+      "open": "Buildings/P2_20261028/B10_384px.png",
+      "status": "already_open",
+      "pixels_changed": 0,
+      "is_additional_design": false
+    },
+    {
+      "id": "Snow_pavilion_0",
+      "original": "Buildings/Snow/Snow_pavilion_0.png",
+      "open": "Buildings/Snow/Snow_pavilion_0.png",
+      "status": "no_door",
+      "pixels_changed": 0,
+      "is_additional_design": false
+    },
+    {
+      "id": "Swamp_shrine_0",
+      "original": "Buildings/Swamp/Swamp_shrine_0.png",
+      "open": "Buildings/Swamp/Swamp_shrine_0.png",
+      "status": "no_door",
+      "pixels_changed": 0,
+      "is_additional_design": false
+    }
+  ],
+  "not_continuous_animation": true,
+  "not_automatic_collision_switching": true
+}

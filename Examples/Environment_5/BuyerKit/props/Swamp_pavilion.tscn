@@ -1,0 +1,21 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Swamp_pavilion_0.png" id="1_l1ag0"]
+
+[node name="pavilion" type="StaticBody2D"]
+metadata/asset_id = "broadleaf_tree"
+metadata/swamp_kind = "pavilion"
+
+[node name="_Sprite2D_4267" type="Sprite2D" parent="."]
+position = Vector2(-255, -470)
+texture = ExtResource("1_l1ag0")
+centered = false
+
+[node name="_CollisionPolygon2D_4268" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-142, -15, -110, -15, -110, 3, -142, 3)
+
+[node name="_CollisionPolygon2D_4269" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(126, -62, 156, -62, 156, -26, 126, -26)
+
+[node name="_CollisionPolygon2D_4270" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-120, -112, 120, -112, 120, -80, -120, -80)

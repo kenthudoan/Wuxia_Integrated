@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_reference_banner_0.png" id="1_u1nol"]
+
+[node name="reference_banner" type="Node2D"]
+metadata/asset_id = "reference_banner"
+
+[node name="_Sprite2D_364" type="Sprite2D" parent="."]
+position = Vector2(-38, -135)
+texture = ExtResource("1_u1nol")
+centered = false

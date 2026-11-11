@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Forest_stone_shrine_0.png" id="1_88ovj"]
+
+[node name="stone_shrine" type="StaticBody2D"]
+metadata/asset_id = "stone_shrine"
+
+[node name="_Sprite2D_1903" type="Sprite2D" parent="."]
+position = Vector2(-32, -61)
+texture = ExtResource("1_88ovj")
+centered = false

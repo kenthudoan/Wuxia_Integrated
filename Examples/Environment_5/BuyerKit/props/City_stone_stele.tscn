@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_stone_stele_0.png" id="1_8onyn"]
+
+[node name="stone_stele" type="Node2D"]
+metadata/asset_id = "stone_stele"
+
+[node name="_Sprite2D_213" type="Sprite2D" parent="."]
+position = Vector2(-63, -125)
+texture = ExtResource("1_8onyn")
+centered = false

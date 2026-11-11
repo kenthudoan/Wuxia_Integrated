@@ -1,0 +1,23 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://BuyerKit/scripts/EnvironmentMotion/EnvironmentMotion.gd" id="environment_motion"]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_lotus_pond_0.png" id="1_kwgbo"]
+
+[node name="lotus_pond" type="StaticBody2D"]
+z_index = -1
+metadata/asset_id = "lotus_pond"
+
+metadata/environment_kind = "lotus_pond"
+[node name="_CollisionPolygon2D_427" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-70, -140, 80, -140, 260, -112, 334, -80, 362, -26, 330, 16, 235, 34, -112, 28, -232, 15, -276, -26, -266, -78, -218, -116)
+
+[node name="_Sprite2D_428" type="Sprite2D" parent="."]
+modulate = Color(0.84, 0.84, 0.8, 1)
+position = Vector2(-286, -146)
+scale = Vector2(0.375, 0.375)
+texture = ExtResource("1_kwgbo")
+centered = false
+
+[node name="EnvironmentMotion" type="Node" parent="."]
+script = ExtResource("environment_motion")

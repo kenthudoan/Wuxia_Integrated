@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://BuyerKit/scripts/EnvironmentMotion/EnvironmentMotion.gd" id="environment_motion"]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_standing_lantern_0.png" id="1_i7wr4"]
+
+[node name="standing_lantern" type="Node2D"]
+metadata/asset_id = "standing_lantern"
+
+metadata/environment_kind = "standing_lantern"
+[node name="_Sprite2D_117" type="Sprite2D" parent="."]
+position = Vector2(-64, -125)
+texture = ExtResource("1_i7wr4")
+centered = false
+
+[node name="EnvironmentMotion" type="Node" parent="."]
+script = ExtResource("environment_motion")

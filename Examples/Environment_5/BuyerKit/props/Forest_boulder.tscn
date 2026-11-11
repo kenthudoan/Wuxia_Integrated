@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/Forest_boulder_0.png" id="1_ceebq"]
+
+[node name="boulder" type="StaticBody2D"]
+metadata/asset_id = "broadleaf_tree"
+
+[node name="_CollisionPolygon2D_1712" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-170, -90, 170, -90, 170, 0, -170, 0)
+
+[node name="_Sprite2D_1713" type="Sprite2D" parent="."]
+position = Vector2(-256, -470)
+texture = ExtResource("1_ceebq")
+centered = false

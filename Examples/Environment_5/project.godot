@@ -1,0 +1,17 @@
+config_version=5
+[application]
+config/name="Wuxia Environment Kit v1"
+run/main_scene="res://BuyerKit/Viewer.tscn"
+config/features=PackedStringArray("4.5", "GL Compatibility")
+[display]
+window/size/viewport_width=1536
+window/size/viewport_height=1024
+window/size/window_width_override=1536
+window/size/window_height_override=1024
+window/stretch/mode="viewport"
+window/stretch/scale_mode="integer"
+[rendering]
+renderer/rendering_method="gl_compatibility"
+textures/canvas_textures/default_texture_filter=0
+2d/snap/snap_2d_transforms_to_pixel=true
+environment/defaults/default_clear_color=Color(0.1,0.13,0.14,1)

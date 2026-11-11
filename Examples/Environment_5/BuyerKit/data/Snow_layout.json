@@ -1,0 +1,1544 @@
+{
+  "bounds": [
+    4096.0,
+    0.0,
+    4096.0,
+    3072.0
+  ],
+  "bridge": [
+    6970.0,
+    1600.0
+  ],
+  "paths": [
+    {
+      "kind": "paving",
+      "name": "east_gate",
+      "points": [
+        [
+          4032.0,
+          1536.0
+        ],
+        [
+          4300.0,
+          1536.0
+        ],
+        [
+          4590.0,
+          1536.0
+        ]
+      ],
+      "width": 150.0
+    },
+    {
+      "kind": "dirt",
+      "name": "snow_road",
+      "points": [
+        [
+          4500.0,
+          1536.0
+        ],
+        [
+          4900.0,
+          1536.0
+        ],
+        [
+          5300.0,
+          1620.0
+        ],
+        [
+          5700.0,
+          1600.0
+        ],
+        [
+          6100.0,
+          1580.0
+        ],
+        [
+          6500.0,
+          1600.0
+        ],
+        [
+          6810.0,
+          1600.0
+        ],
+        [
+          7130.0,
+          1600.0
+        ],
+        [
+          7380.0,
+          1480.0
+        ]
+      ],
+      "width": 150.0
+    },
+    {
+      "kind": "dirt",
+      "name": "mountain_pass",
+      "points": [
+        [
+          7380.0,
+          1480.0
+        ],
+        [
+          7520.0,
+          1260.0
+        ],
+        [
+          7520.0,
+          1100.0
+        ],
+        [
+          7760.0,
+          940.0
+        ],
+        [
+          7760.0,
+          760.0
+        ],
+        [
+          7950.0,
+          560.0
+        ],
+        [
+          7950.0,
+          320.0
+        ]
+      ],
+      "width": 132.0
+    },
+    {
+      "kind": "dirt",
+      "name": "ice_pool_trail",
+      "points": [
+        [
+          5700.0,
+          1600.0
+        ],
+        [
+          5580.0,
+          1860.0
+        ],
+        [
+          5710.0,
+          2110.0
+        ],
+        [
+          6030.0,
+          2320.0
+        ],
+        [
+          6270.0,
+          2500.0
+        ],
+        [
+          6490.0,
+          2720.0
+        ]
+      ],
+      "width": 118.0
+    },
+    {
+      "kind": "dirt",
+      "name": "pavilion_trail",
+      "points": [
+        [
+          7380.0,
+          1480.0
+        ],
+        [
+          7520.0,
+          1760.0
+        ],
+        [
+          7640.0,
+          1970.0
+        ],
+        [
+          7800.0,
+          2200.0
+        ],
+        [
+          7800.0,
+          2460.0
+        ],
+        [
+          7550.0,
+          2460.0
+        ],
+        [
+          7550.0,
+          2340.0
+        ]
+      ],
+      "width": 118.0
+    },
+    {
+      "kind": "dirt",
+      "name": "foothill_loop",
+      "points": [
+        [
+          4900.0,
+          1536.0
+        ],
+        [
+          4840.0,
+          1880.0
+        ],
+        [
+          5020.0,
+          2140.0
+        ],
+        [
+          5350.0,
+          2190.0
+        ],
+        [
+          5580.0,
+          1860.0
+        ]
+      ],
+      "width": 108.0
+    }
+  ],
+  "pool": [
+    5930.0,
+    2580.0,
+    340.0,
+    180.0
+  ],
+  "props": [
+    {
+      "kind": "cliff",
+      "position": [
+        4780.0,
+        650.0
+      ],
+      "scale": 0.78
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        5160.0,
+        800.0
+      ],
+      "scale": 0.9
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        5550.0,
+        850.0
+      ],
+      "scale": 0.68
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        5960.0,
+        900.0
+      ],
+      "scale": 0.78
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        6350.0,
+        800.0
+      ],
+      "scale": 0.78
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        6640.0,
+        630.0
+      ],
+      "scale": 0.78
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        7350.0,
+        380.0
+      ],
+      "scale": 0.78
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        7820.0,
+        1440.0
+      ],
+      "scale": 0.68
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        7420.0,
+        2840.0
+      ],
+      "scale": 0.9
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        6570.0,
+        2300.0
+      ],
+      "scale": 0.68
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        6260.0,
+        1920.0
+      ],
+      "scale": 0.68
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        5420.0,
+        2800.0
+      ],
+      "scale": 0.78
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        4830.0,
+        2640.0
+      ],
+      "scale": 0.9
+    },
+    {
+      "kind": "cliff",
+      "position": [
+        4590.0,
+        2350.0
+      ],
+      "scale": 0.78
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        4481.0,
+        222.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "bare",
+      "position": [
+        4840.0,
+        252.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "bare",
+      "position": [
+        5168.0,
+        248.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5406.0,
+        251.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "bare",
+      "position": [
+        5530.0,
+        256.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "bare",
+      "position": [
+        5953.0,
+        278.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6115.0,
+        273.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        6327.0,
+        280.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        6534.0,
+        297.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "bare",
+      "position": [
+        6695.0,
+        230.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        7377.0,
+        268.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        7645.0,
+        263.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        7756.0,
+        297.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        4445.0,
+        410.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        4623.0,
+        442.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        4849.0,
+        414.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "bare",
+      "position": [
+        4992.0,
+        414.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5216.0,
+        490.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        5368.0,
+        488.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5591.0,
+        478.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5934.0,
+        423.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        6137.0,
+        452.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6275.0,
+        451.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        6490.0,
+        435.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "bare",
+      "position": [
+        6677.0,
+        469.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        7443.0,
+        479.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "bare",
+      "position": [
+        4687.0,
+        637.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        4820.0,
+        668.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5020.0,
+        670.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "bare",
+      "position": [
+        5587.0,
+        664.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5721.0,
+        621.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5960.0,
+        638.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        6151.0,
+        641.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6326.0,
+        640.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6538.0,
+        662.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        6671.0,
+        626.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "bare",
+      "position": [
+        7446.0,
+        632.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        7588.0,
+        625.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "bare",
+      "position": [
+        4423.0,
+        869.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        4663.0,
+        807.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "bare",
+      "position": [
+        4799.0,
+        797.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "bare",
+      "position": [
+        5206.0,
+        841.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "bare",
+      "position": [
+        5412.0,
+        798.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5564.0,
+        812.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        6496.0,
+        794.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6677.0,
+        852.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        7392.0,
+        868.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        8006.0,
+        844.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        4668.0,
+        987.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        4873.0,
+        1022.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "bare",
+      "position": [
+        5026.0,
+        1051.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5386.0,
+        1038.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "bare",
+      "position": [
+        5607.0,
+        1031.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5711.0,
+        1031.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "bare",
+      "position": [
+        6112.0,
+        1059.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6282.0,
+        991.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        6540.0,
+        991.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "bare",
+      "position": [
+        6675.0,
+        1018.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        4473.0,
+        1192.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "bare",
+      "position": [
+        4835.0,
+        1236.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5024.0,
+        1223.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5746.0,
+        1236.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        5916.0,
+        1220.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "bare",
+      "position": [
+        6119.0,
+        1194.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6484.0,
+        1182.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6704.0,
+        1236.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        8005.0,
+        1174.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "bare",
+      "position": [
+        5225.0,
+        1385.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "bare",
+      "position": [
+        5365.0,
+        1365.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        6285.0,
+        1387.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        7821.0,
+        1440.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        7968.0,
+        1401.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        7747.0,
+        1603.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        8008.0,
+        1591.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "bare",
+      "position": [
+        4465.0,
+        1784.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        4679.0,
+        1774.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6309.0,
+        1805.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6473.0,
+        1800.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "bare",
+      "position": [
+        7969.0,
+        1765.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "bare",
+      "position": [
+        4491.0,
+        2010.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        5224.0,
+        1966.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5967.0,
+        2002.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6139.0,
+        1950.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6336.0,
+        1934.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "bare",
+      "position": [
+        6511.0,
+        2006.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        6703.0,
+        2006.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "bare",
+      "position": [
+        7998.0,
+        1986.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        4454.0,
+        2178.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        4624.0,
+        2168.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "bare",
+      "position": [
+        6154.0,
+        2170.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6299.0,
+        2124.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6509.0,
+        2130.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "bare",
+      "position": [
+        7966.0,
+        2143.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        4418.0,
+        2346.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        4624.0,
+        2331.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        4828.0,
+        2362.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "bare",
+      "position": [
+        5174.0,
+        2389.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5597.0,
+        2352.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6460.0,
+        2384.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        6691.0,
+        2359.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        8014.0,
+        2379.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        4489.0,
+        2579.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        4608.0,
+        2542.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        4848.0,
+        2538.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        5212.0,
+        2579.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5348.0,
+        2556.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6647.0,
+        2561.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        7995.0,
+        2501.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        4613.0,
+        2712.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        4800.0,
+        2750.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5026.0,
+        2747.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5402.0,
+        2711.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "bare",
+      "position": [
+        6668.0,
+        2750.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "bare",
+      "position": [
+        7434.0,
+        2721.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        7581.0,
+        2748.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "bare",
+      "position": [
+        7767.0,
+        2769.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        4453.0,
+        2956.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        4677.0,
+        2898.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "bare",
+      "position": [
+        5024.0,
+        2955.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "bare",
+      "position": [
+        5178.0,
+        2958.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        5583.0,
+        2894.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        5749.0,
+        2937.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_b",
+      "position": [
+        5911.0,
+        2934.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6085.0,
+        2882.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6318.0,
+        2901.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6456.0,
+        2895.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        6644.0,
+        2908.0
+      ],
+      "scale": 0.64
+    },
+    {
+      "kind": "bare",
+      "position": [
+        7378.0,
+        2939.0
+      ],
+      "scale": 0.56
+    },
+    {
+      "kind": "pine_a",
+      "position": [
+        7573.0,
+        2943.0
+      ],
+      "scale": 0.72
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        6696.0,
+        220.0
+      ],
+      "scale": 0.55
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        6669.0,
+        420.0
+      ],
+      "scale": 0.55
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        6706.0,
+        620.0
+      ],
+      "scale": 0.55
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        6673.0,
+        820.0
+      ],
+      "scale": 0.55
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        6715.0,
+        1020.0
+      ],
+      "scale": 0.55
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        6664.0,
+        1220.0
+      ],
+      "scale": 0.55
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        6695.0,
+        1420.0
+      ],
+      "scale": 0.55
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        6712.0,
+        1820.0
+      ],
+      "scale": 0.55
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        6682.0,
+        2020.0
+      ],
+      "scale": 0.55
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        6687.0,
+        2220.0
+      ],
+      "scale": 0.55
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        6714.0,
+        2420.0
+      ],
+      "scale": 0.55
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        6714.0,
+        2620.0
+      ],
+      "scale": 0.55
+    },
+    {
+      "kind": "boulder",
+      "position": [
+        6663.0,
+        2820.0
+      ],
+      "scale": 0.55
+    },
+    {
+      "kind": "pavilion",
+      "position": [
+        7550.0,
+        2340.0
+      ],
+      "scale": 0.9
+    }
+  ],
+  "river": [
+    [
+      0.0,
+      7130.0,
+      280.0
+    ],
+    [
+      400.0,
+      7060.0,
+      260.0
+    ],
+    [
+      800.0,
+      7000.0,
+      300.0
+    ],
+    [
+      1200.0,
+      6940.0,
+      270.0
+    ],
+    [
+      1560.0,
+      6970.0,
+      220.0
+    ],
+    [
+      1640.0,
+      6970.0,
+      220.0
+    ],
+    [
+      2000.0,
+      7040.0,
+      260.0
+    ],
+    [
+      2400.0,
+      6960.0,
+      290.0
+    ],
+    [
+      2800.0,
+      7080.0,
+      310.0
+    ],
+    [
+      3072.0,
+      7160.0,
+      300.0
+    ]
+  ],
+  "spawn": [
+    4320.0,
+    1536.0
+  ],
+  "stairs": [
+    [
+      7520.0,
+      1180.0,
+      132.0,
+      128.0
+    ],
+    [
+      7760.0,
+      850.0,
+      132.0,
+      128.0
+    ],
+    [
+      7950.0,
+      440.0,
+      132.0,
+      128.0
+    ]
+  ]
+}

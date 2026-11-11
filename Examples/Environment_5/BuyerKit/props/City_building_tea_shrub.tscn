@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_building_tea_shrub_0.png" id="1_e0kht"]
+
+[node name="building_tea_shrub" type="StaticBody2D"]
+metadata/asset_id = "building_tea_shrub"
+
+[node name="_CollisionPolygon2D_350" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-13, -7, 13, -7, 16, -1, -16, -1)
+
+[node name="_Sprite2D_351" type="Sprite2D" parent="."]
+position = Vector2(-48, -80)
+texture = ExtResource("1_e0kht")
+centered = false

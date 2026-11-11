@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_warehouse_frontage_0.png" id="1_3m5vt"]
+
+[node name="warehouse_frontage" type="StaticBody2D"]
+metadata/asset_id = "warehouse_frontage"
+
+[node name="_CollisionPolygon2D_445" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-204, -100, 204, -100, 204, -8, -204, -8)
+
+[node name="_Sprite2D_446" type="Sprite2D" parent="."]
+position = Vector2(-313, -443)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_3m5vt")
+centered = false

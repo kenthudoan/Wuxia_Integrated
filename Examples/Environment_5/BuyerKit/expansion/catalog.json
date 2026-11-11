@@ -1,0 +1,2246 @@
+{
+  "schema": 1,
+  "reference_actor": {
+    "file": "res://BuyerKit/expansion/reference_actor.png",
+    "sha256": "6d47b43ca3c4bf7e296e8a73a0dc53fd8e5389699ec22fb2fb1c44f71781e134",
+    "canvas": [
+      192,
+      176
+    ],
+    "visible_bbox": [
+      59,
+      26,
+      134,
+      144
+    ],
+    "anchor_px": [
+      96,
+      143
+    ],
+    "visible_height": 118,
+    "scale": 1,
+    "note": "existing idle frame only; not a new animated character"
+  },
+  "items": [
+    {
+      "id": "B01",
+      "name": "草顶农舍",
+      "kind": "building",
+      "texture": "res://BuyerKit/expansion/textures/B01_512px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/B01.tscn",
+      "sha256": "05c56aff9727f3c71f3b1ea3b7e5012c99406da30378e8d9117e1805c99223aa",
+      "canvas": [
+        512,
+        512
+      ],
+      "visible_bbox": [
+        25,
+        136,
+        487,
+        487
+      ],
+      "anchor_px": [
+        256,
+        486
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        924,
+        702
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -192,
+        -68,
+        383,
+        68
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": [
+        210,
+        319,
+        90,
+        91
+      ],
+      "door_world_height": 182,
+      "door_status": "manual approximate measurement; solid exterior facade, no entry trigger"
+    },
+    {
+      "id": "B02",
+      "name": "单层瓦顶民居",
+      "kind": "building",
+      "texture": "res://BuyerKit/expansion/textures/B02_512px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/B02.tscn",
+      "sha256": "efa17ca7098a937a864bc230eeccd7078412d65d10aed645357623cd448a6f47",
+      "canvas": [
+        512,
+        512
+      ],
+      "visible_bbox": [
+        25,
+        223,
+        487,
+        487
+      ],
+      "anchor_px": [
+        256,
+        486
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        924,
+        528
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -192,
+        -58,
+        383,
+        58
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": [
+        222,
+        365,
+        68,
+        65
+      ],
+      "door_world_height": 130,
+      "door_status": "manual approximate measurement; solid exterior facade, no entry trigger"
+    },
+    {
+      "id": "B03",
+      "name": "二层临街民居",
+      "kind": "building",
+      "texture": "res://BuyerKit/expansion/textures/B03_512px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/B03.tscn",
+      "sha256": "a76fadefeb34dbf2d709b2fbd1c07633856c26029cf547ed54a102ca593a8423",
+      "canvas": [
+        512,
+        512
+      ],
+      "visible_bbox": [
+        25,
+        57,
+        487,
+        487
+      ],
+      "anchor_px": [
+        256,
+        486
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        924,
+        860
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -192,
+        -68,
+        383,
+        68
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": [
+        232,
+        321,
+        80,
+        106
+      ],
+      "door_world_height": 212,
+      "door_status": "manual approximate measurement; solid exterior facade, no entry trigger"
+    },
+    {
+      "id": "B04",
+      "name": "富户宅院主体",
+      "kind": "building",
+      "texture": "res://BuyerKit/expansion/textures/B04_512px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/B04.tscn",
+      "sha256": "a7da3a207c5ef18b9e8e73992d91c3319c54d8a1db07450ea1fbe1c9bacf57a2",
+      "canvas": [
+        512,
+        512
+      ],
+      "visible_bbox": [
+        25,
+        99,
+        487,
+        487
+      ],
+      "anchor_px": [
+        256,
+        486
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        924,
+        776
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -192,
+        -68,
+        383,
+        68
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": [
+        214,
+        341,
+        71,
+        88
+      ],
+      "door_world_height": 176,
+      "door_status": "manual approximate measurement; solid exterior facade, no entry trigger"
+    },
+    {
+      "id": "B05",
+      "name": "门派大殿",
+      "kind": "building",
+      "texture": "res://BuyerKit/expansion/textures/B05_512px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/B05.tscn",
+      "sha256": "f44ec800bd34e000e4da7b8d0ef4b789e98d9bf867f055da8838040cf2acc3e9",
+      "canvas": [
+        512,
+        512
+      ],
+      "visible_bbox": [
+        25,
+        102,
+        487,
+        487
+      ],
+      "anchor_px": [
+        256,
+        486
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        924,
+        770
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -192,
+        -68,
+        383,
+        68
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": [
+        210,
+        328,
+        86,
+        100
+      ],
+      "door_world_height": 200,
+      "door_status": "manual approximate measurement; solid exterior facade, no entry trigger"
+    },
+    {
+      "id": "B06",
+      "name": "山寨议事堂",
+      "kind": "building",
+      "texture": "res://BuyerKit/expansion/textures/B06_512px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/B06.tscn",
+      "sha256": "ea6882cf48e5d67e4d9416242d157d0384e8f0643f1d76e04d414cf9976cda3e",
+      "canvas": [
+        512,
+        512
+      ],
+      "visible_bbox": [
+        25,
+        154,
+        487,
+        487
+      ],
+      "anchor_px": [
+        256,
+        486
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        924,
+        666
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -192,
+        -68,
+        383,
+        68
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": [
+        211,
+        361,
+        93,
+        71
+      ],
+      "door_world_height": 142,
+      "door_status": "manual approximate measurement; solid exterior facade, no entry trigger"
+    },
+    {
+      "id": "B07",
+      "name": "藏经阁/藏书楼",
+      "kind": "building",
+      "texture": "res://BuyerKit/expansion/textures/B07_512px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/B07.tscn",
+      "sha256": "5afa374598d5b5878f83fdc73d4aa535de4690cd1918d85457676f6f440d845f",
+      "canvas": [
+        512,
+        512
+      ],
+      "visible_bbox": [
+        56,
+        25,
+        456,
+        487
+      ],
+      "anchor_px": [
+        256,
+        486
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        800,
+        924
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -166,
+        -68,
+        332,
+        68
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": [
+        219,
+        369,
+        76,
+        64
+      ],
+      "door_world_height": 128,
+      "door_status": "manual approximate measurement; solid exterior facade, no entry trigger"
+    },
+    {
+      "id": "B08",
+      "name": "弟子宿舍",
+      "kind": "building",
+      "texture": "res://BuyerKit/expansion/textures/B08_512px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/B08.tscn",
+      "sha256": "3e66b9be1253ab1687f18aa06c0595bcd8c01ab1dfd153cd8f1742b81ef44267",
+      "canvas": [
+        512,
+        512
+      ],
+      "visible_bbox": [
+        25,
+        320,
+        487,
+        487
+      ],
+      "anchor_px": [
+        256,
+        486
+      ],
+      "world_scale": 3,
+      "world_visible_size": [
+        1386,
+        501
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -192,
+        -37,
+        383,
+        37
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": [
+        230,
+        414,
+        51,
+        43
+      ],
+      "door_world_height": 129,
+      "door_status": "manual approximate measurement; solid exterior facade, no entry trigger"
+    },
+    {
+      "id": "B09",
+      "name": "寺院佛殿",
+      "kind": "building",
+      "texture": "res://BuyerKit/expansion/textures/B09_384px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/B09.tscn",
+      "sha256": "d7d6075a5407a6a1ef2150dfd4a75d2e16371f7e476d709a0c9e43e7d355085d",
+      "canvas": [
+        384,
+        384
+      ],
+      "visible_bbox": [
+        19,
+        78,
+        365,
+        365
+      ],
+      "anchor_px": [
+        192,
+        364
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        692,
+        574
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -144,
+        -63,
+        287,
+        63
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": [
+        158,
+        228,
+        65,
+        73
+      ],
+      "door_world_height": 146,
+      "door_status": "manual approximate measurement; solid exterior facade, no entry trigger"
+    },
+    {
+      "id": "B10",
+      "name": "废弃破庙主体",
+      "kind": "building",
+      "texture": "res://BuyerKit/expansion/textures/B10_384px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/B10.tscn",
+      "sha256": "d104b5b55dbd26da1762878c15d4eb08b9f16e5af983f3d1f80a958ce5e389ea",
+      "canvas": [
+        384,
+        384
+      ],
+      "visible_bbox": [
+        19,
+        41,
+        365,
+        365
+      ],
+      "anchor_px": [
+        192,
+        364
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        692,
+        648
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -144,
+        -68,
+        287,
+        68
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": [
+        153,
+        196,
+        65,
+        71
+      ],
+      "door_world_height": 142,
+      "door_status": "manual approximate measurement; solid exterior facade, no entry trigger"
+    },
+    {
+      "id": "E01",
+      "name": "长柄竹扫帚",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E01_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E01.tscn",
+      "sha256": "54d12ea40b28755833e6861c2aa3d991b45c8f491a347da6bc475f2f0e9edf1d",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        42,
+        13,
+        86,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        44,
+        102
+      ],
+      "layer": "walkable_decoration",
+      "collision_rect_local": null,
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "ground below actor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E04",
+      "name": "木料储放架",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E04_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E04.tscn",
+      "sha256": "892131d2f3dbab463f916995f57f26f10cbca0d98ea93a968654d46575b00ba3",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        14,
+        13,
+        114,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        200,
+        204
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -33,
+        -22,
+        65,
+        22
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E05",
+      "name": "矮石槽花盆",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E05_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E05.tscn",
+      "sha256": "436b45d6c34f07fae074891f075964d9261573a78515255a738f2575afb580a2",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        7,
+        28,
+        57,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        50,
+        29
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -16,
+        -6,
+        32,
+        6
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E08",
+      "name": "独立石栏杆",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E08_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E08.tscn",
+      "sha256": "c0982e03a43e95d3923848a3b9e6d72c24520188d20e1ce242edd4462fe06d7f",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        13,
+        69,
+        115,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        204,
+        92
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -49,
+        -10,
+        97,
+        10
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null,
+      "connection_markers_local": [
+        [
+          -44,
+          0
+        ],
+        [
+          44,
+          0
+        ]
+      ],
+      "repeat_spacing_world": 176
+    },
+    {
+      "id": "E11",
+      "name": "木靠背椅",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E11_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E11.tscn",
+      "sha256": "03745ea49d735aa0ae4b12bec775fe2c94b975328f102cbc3548bb6cf4388f48",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        18,
+        7,
+        45,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        27,
+        50
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -9,
+        -11,
+        18,
+        11
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E12",
+      "name": "长条木凳",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E12_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E12.tscn",
+      "sha256": "bc4cb084cb5fe1e7150f01c37da12af3f084fa7766ec03e444dd9468d05cf7aa",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        13,
+        84,
+        115,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        102,
+        31
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -33,
+        -7,
+        66,
+        7
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E13",
+      "name": "方木小凳",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E13_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E13.tscn",
+      "sha256": "977d73e16f0fca7193c5ccb52e1ede1acb25830eaef2c50a35ed00ac81838b67",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        9,
+        7,
+        54,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        45,
+        50
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -15,
+        -11,
+        29,
+        11
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E14",
+      "name": "简易木床",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E14_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E14.tscn",
+      "sha256": "1e37c20f7be1f2a7224d8a91ef0d7c3df823f08ee425a70c8b4546cc0f3c5fa7",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        27,
+        13,
+        100,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        146,
+        204
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -24,
+        -22,
+        47,
+        22
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E15",
+      "name": "衣柜",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E15_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E15.tscn",
+      "sha256": "3d6ccb2dd0f1fb58630fa2b6bd01d2018791cfc396e1bd882e1dff809995b6cd",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        31,
+        13,
+        96,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        130,
+        204
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -21,
+        -22,
+        42,
+        22
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E16",
+      "name": "书架",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E16_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E16.tscn",
+      "sha256": "d11a686bd6b31052d672b19a0348b5622766806a6fa0898548e6a13239148d48",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        35,
+        13,
+        93,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        116,
+        204
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -19,
+        -22,
+        38,
+        22
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E17",
+      "name": "兵器架",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E17_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E17.tscn",
+      "sha256": "e69640ba07a3ff0971f361f4606666ef82e3c4e5d15041db3e1b6a5e0453f526",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        27,
+        13,
+        100,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        73,
+        102
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -24,
+        -22,
+        47,
+        22
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E18",
+      "name": "箭靶",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E18_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E18.tscn",
+      "sha256": "7d5f1ee21dc2e3dce1d511d6499b6e279c9eca5094fd70df1444ecb807a54b56",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        24,
+        13,
+        103,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        79,
+        102
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -26,
+        -22,
+        51,
+        22
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E19",
+      "name": "供桌香案",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E19_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E19.tscn",
+      "sha256": "b2e1f91f60f3bb8ae80e2c2962a7bc80a8a630ec2ff9e1716ea744456fe68a08",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        13,
+        48,
+        115,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        102,
+        67
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -33,
+        -15,
+        66,
+        15
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E20",
+      "name": "火盆",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E20_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E20.tscn",
+      "sha256": "61e803fc956f780677fef2a29d6158a2933bc29218478055547b4a04f0d8f1cd",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        7,
+        20,
+        57,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        50,
+        37
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -16,
+        -8,
+        32,
+        8
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E21",
+      "name": "闭合木宝箱",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E21_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E21.tscn",
+      "sha256": "851417c34a731f4d44d21812acf39c6cee7db38607985aedb8db56539527525a",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        7,
+        17,
+        57,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        50,
+        40
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -16,
+        -9,
+        32,
+        9
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E22",
+      "name": "立式火把架",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E22_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E22.tscn",
+      "sha256": "444cb271c417c2af7c5e3b1a0f0ef879d0d7366524ad21445c24210188e90d4b",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        49,
+        13,
+        79,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        60,
+        204
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -10,
+        -22,
+        20,
+        22
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E23",
+      "name": "谷物麻袋",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E23_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E23.tscn",
+      "sha256": "3f545d66f95cea2b7d4c4c472dfc2c96bcb40368380c052b72cf118806aedb1e",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        12,
+        7,
+        52,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        40,
+        50
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -13,
+        -11,
+        26,
+        11
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E24",
+      "name": "空竹篮",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E24_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E24.tscn",
+      "sha256": "9a18fe70ce206b21ddb6adc51f63dbfdfb4620f7216e814e569de0782b328469",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        13,
+        7,
+        51,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        38,
+        50
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -13,
+        -11,
+        25,
+        11
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E25",
+      "name": "提水木桶",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E25_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E25.tscn",
+      "sha256": "d6169195cba7f592d282205047247468c4fbfcbcfe5bef1db5b050431e8951d8",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        16,
+        7,
+        48,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        32,
+        50
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -11,
+        -11,
+        21,
+        11
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E26",
+      "name": "土灶",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E26_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E26.tscn",
+      "sha256": "1a7c727c5258825aa4f500b1512d7a74bfc71ebc552bdc0a7475bf3a6498dae8",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        19,
+        13,
+        108,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        89,
+        102
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -29,
+        -22,
+        58,
+        22
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E27",
+      "name": "支架铁锅",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E27_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E27.tscn",
+      "sha256": "f226593856204cac2c64985227126b6add7c0447231298df870190e3a53285b1",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        21,
+        13,
+        106,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        85,
+        102
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -28,
+        -22,
+        55,
+        22
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E28",
+      "name": "茶壶",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E28_32px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E28.tscn",
+      "sha256": "6d9575b118f350afb9fba0de7167c7e2604cf40a13ece7767af49d801611a093",
+      "canvas": [
+        32,
+        32
+      ],
+      "visible_bbox": [
+        4,
+        11,
+        28,
+        28
+      ],
+      "anchor_px": [
+        16,
+        27
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        24,
+        17
+      ],
+      "layer": "walkable_decoration",
+      "collision_rect_local": null,
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "ground below actor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E29",
+      "name": "茶碗",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E29_32px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E29.tscn",
+      "sha256": "64cb10f04666c6d574dce1a034a11ffac487a9c7b7555b9a8644c7fc30a63d4d",
+      "canvas": [
+        32,
+        32
+      ],
+      "visible_bbox": [
+        4,
+        9,
+        28,
+        28
+      ],
+      "anchor_px": [
+        16,
+        27
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        24,
+        19
+      ],
+      "layer": "walkable_decoration",
+      "collision_rect_local": null,
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "ground below actor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E30",
+      "name": "铁砧",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E30_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E30.tscn",
+      "sha256": "67c53a9bfcc6270379ddf31e18c5714e68a4d485919123ed69edea8cc97facfb",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        9,
+        7,
+        55,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        46,
+        50
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -15,
+        -11,
+        30,
+        11
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E31",
+      "name": "锻炉",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E31_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E31.tscn",
+      "sha256": "95e4c52ed7c535a0f46c3fdc276e9fab4d865ec42d01eadec13ad6435be22e87",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        18,
+        13,
+        109,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        91,
+        102
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -30,
+        -22,
+        59,
+        22
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E32",
+      "name": "磨刀石架",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E32_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E32.tscn",
+      "sha256": "eafa5b9ce19515a299ad2e9ee4e631ca8ab81600b327353247b92fd02ef25d41",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        14,
+        7,
+        49,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        35,
+        50
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -12,
+        -11,
+        23,
+        11
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E33",
+      "name": "石磨盘",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E33_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E33.tscn",
+      "sha256": "a79edd2b648f08ad6e363cb0d5e57fe24d333769481fc0c62458342051c4d47f",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        13,
+        17,
+        115,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        102,
+        98
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -33,
+        -22,
+        66,
+        22
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E34",
+      "name": "药材晾晒架",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E34_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E34.tscn",
+      "sha256": "4e165b5870c7ad503f9d8c8e8d7af272f939e38f1fe9f685379193d8a626ca99",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        15,
+        13,
+        113,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        98,
+        102
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -32,
+        -22,
+        64,
+        22
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E35",
+      "name": "木澡盆",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E35_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E35.tscn",
+      "sha256": "ec678f539d6bf51d54470c009c65d67a94d59e2881ca792b328638bd9ed3cccd",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        13,
+        44,
+        115,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        204,
+        142
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -33,
+        -16,
+        66,
+        16
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E36",
+      "name": "晾衣架",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E36_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E36.tscn",
+      "sha256": "1441654e73403eb48894bb0271e063918a3753d36d7eacc1147a54f3291b112e",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        13,
+        40,
+        115,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 2,
+      "world_visible_size": [
+        204,
+        150
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -33,
+        -16,
+        66,
+        16
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E37",
+      "name": "干草捆",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E37_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E37.tscn",
+      "sha256": "c42faef5ede92010038ab52d3338fd245332906ea78c71241a4811945e0c6548",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        7,
+        25,
+        57,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        50,
+        32
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -16,
+        -7,
+        32,
+        7
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E38",
+      "name": "木工工作台",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E38_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E38.tscn",
+      "sha256": "dd0c17397fb82442056461b4e89668f67e0dabdba54bbd9e682bf8e9cab990e7",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        13,
+        48,
+        115,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        102,
+        67
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -33,
+        -15,
+        66,
+        15
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E39",
+      "name": "钓具支架",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E39_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E39.tscn",
+      "sha256": "7074c066931e9cf5b0ffd172312aff33c6106ef4c2c68b37c603ec30f7a69fa2",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        30,
+        13,
+        98,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        68,
+        102
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -22,
+        -22,
+        44,
+        22
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E40",
+      "name": "落叶堆",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E40_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E40.tscn",
+      "sha256": "990cbc816bb848fe683d2c4256654d09d63ed7663cc1c123ff4c6106b525645d",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        7,
+        35,
+        57,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        50,
+        22
+      ],
+      "layer": "walkable_decoration",
+      "collision_rect_local": null,
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "ground below actor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E41",
+      "name": "散落枯枝",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E41_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E41.tscn",
+      "sha256": "50cb7ea0f87f5caa6e4adcfac2765cac7a822f38cb0b27e2b1108f5ae34033ec",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        7,
+        15,
+        57,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        50,
+        42
+      ],
+      "layer": "walkable_decoration",
+      "collision_rect_local": null,
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "ground below actor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E42",
+      "name": "砍伐树桩",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E42_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E42.tscn",
+      "sha256": "c9072a1959e8071d288cff268daa0ce3acb081ad592aacead9187d1bf173e042",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        7,
+        18,
+        57,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        50,
+        39
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -16,
+        -9,
+        32,
+        9
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E43",
+      "name": "蘑菇簇",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E43_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E43.tscn",
+      "sha256": "6ec44ce436f380e97d14b4e2c4885f90eed9b496c3125dffbea793959d050013",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        7,
+        10,
+        57,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        50,
+        47
+      ],
+      "layer": "walkable_decoration",
+      "collision_rect_local": null,
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "ground below actor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E44",
+      "name": "独立荷花/荷叶簇",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E44_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E44.tscn",
+      "sha256": "2031ef245ce90de31507a7d54a361c740f3f6ca4929cadb3f94c0be1ff4d68d4",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        13,
+        45,
+        115,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        102,
+        70
+      ],
+      "layer": "walkable_decoration",
+      "collision_rect_local": null,
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "ground below actor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E45",
+      "name": "捆扎芦苇/柴束",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E45_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E45.tscn",
+      "sha256": "4f6ff6b12a8522d5deda42e9e00b4a1ba4374bd72f82dd5531c65e9ba8824996",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        13,
+        7,
+        50,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        37,
+        50
+      ],
+      "layer": "walkable_decoration",
+      "collision_rect_local": null,
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "ground below actor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E46",
+      "name": "墓碑",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E46_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E46.tscn",
+      "sha256": "1b556cee80a978e551d25def0c16fa2c91461b859511967ce5d2a8bb9e4a6ef7",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        14,
+        7,
+        49,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        35,
+        50
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -12,
+        -11,
+        23,
+        11
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E47",
+      "name": "断裂石碑与残基组合",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E47_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E47.tscn",
+      "sha256": "e4c3ac94c6fcceef31f46710cf87aaf0e4ac0e573f8e442c1f43cbed47a0be3c",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        13,
+        22,
+        115,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        102,
+        93
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -33,
+        -20,
+        66,
+        20
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E48",
+      "name": "侧翻破车",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E48_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E48.tscn",
+      "sha256": "16d23580ef99142ba0cc70892a3a4c003aafbdf28518482a71258431f58442cd",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        13,
+        30,
+        115,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        102,
+        85
+      ],
+      "layer": "solid_exterior",
+      "collision_rect_local": [
+        -33,
+        -19,
+        66,
+        19
+      ],
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "same sibling Y-sort by root ground anchor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E49",
+      "name": "碎木箱残骸",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E49_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E49.tscn",
+      "sha256": "546b1bdb507603e83ff482dabcf8e0cb882478ec0c21beee94052f594a07248e",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        7,
+        14,
+        57,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        50,
+        43
+      ],
+      "layer": "walkable_decoration",
+      "collision_rect_local": null,
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "ground below actor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E50",
+      "name": "碎陶罐残骸",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E50_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E50.tscn",
+      "sha256": "eb6eb95ced62f323994462e1a99a8892d20f58d5e685f79cc143e425e30a0edd",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        7,
+        11,
+        57,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        50,
+        46
+      ],
+      "layer": "walkable_decoration",
+      "collision_rect_local": null,
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "ground below actor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E51",
+      "name": "散落骸骨",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E51_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E51.tscn",
+      "sha256": "a8349da95dc2283258d0768a64378eb9032f3752176f4d8d0a2e6c36c85ec257",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        13,
+        50,
+        115,
+        115
+      ],
+      "anchor_px": [
+        64,
+        114
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        102,
+        65
+      ],
+      "layer": "walkable_decoration",
+      "collision_rect_local": null,
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "ground below actor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E52",
+      "name": "熄灭营火石圈",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E52_64px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E52.tscn",
+      "sha256": "586df3c1114981e005a9b85907d916f5821fa624f4b19722984b492fa429738c",
+      "canvas": [
+        64,
+        64
+      ],
+      "visible_bbox": [
+        7,
+        23,
+        57,
+        57
+      ],
+      "anchor_px": [
+        32,
+        56
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        50,
+        34
+      ],
+      "layer": "walkable_decoration",
+      "collision_rect_local": null,
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "ground below actor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    },
+    {
+      "id": "E53",
+      "name": "焦黑地面贴花",
+      "kind": "prop",
+      "texture": "res://BuyerKit/expansion/textures/E53_128px.png",
+      "prefab": "res://BuyerKit/expansion/prefabs/E53.tscn",
+      "sha256": "06e98cac19ec3346c35e60e91580c1d10c5b3e504d76081526b3ab2280a5c341",
+      "canvas": [
+        128,
+        128
+      ],
+      "visible_bbox": [
+        13,
+        38,
+        115,
+        89
+      ],
+      "anchor_px": [
+        64,
+        64
+      ],
+      "world_scale": 1,
+      "world_visible_size": [
+        102,
+        51
+      ],
+      "layer": "ground_decal",
+      "collision_rect_local": null,
+      "collision_note": "Editable base-footprint rectangle; no roof collision, no interior/navmesh",
+      "render_policy": "ground below actor",
+      "door_rect_source": null,
+      "door_world_height": null,
+      "door_status": null
+    }
+  ],
+  "scope": "Environment prefabs; no door-entry or navigation system."
+}

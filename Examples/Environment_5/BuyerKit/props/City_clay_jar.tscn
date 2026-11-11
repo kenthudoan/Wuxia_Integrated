@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_clay_jar_0.png" id="1_pbuy8"]
+
+[node name="clay_jar" type="StaticBody2D"]
+metadata/asset_id = "clay_jar"
+
+[node name="_CollisionPolygon2D_185" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-11, -14, 11, -14, 11, -1, -11, -1)
+
+[node name="_Sprite2D_186" type="Sprite2D" parent="."]
+position = Vector2(-31, -60)
+texture = ExtResource("1_pbuy8")
+centered = false

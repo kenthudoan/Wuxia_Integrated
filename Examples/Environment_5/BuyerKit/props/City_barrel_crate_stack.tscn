@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_barrel_crate_stack_0.png" id="1_w2raj"]
+
+[node name="barrel_crate_stack" type="StaticBody2D"]
+metadata/asset_id = "barrel_crate_stack"
+
+[node name="_CollisionPolygon2D_329" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-24, -18, 24, -18, 24, -1, -24, -1)
+
+[node name="_Sprite2D_330" type="Sprite2D" parent="."]
+position = Vector2(-32, -60)
+texture = ExtResource("1_w2raj")
+centered = false

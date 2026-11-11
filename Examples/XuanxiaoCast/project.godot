@@ -1,0 +1,13 @@
+config_version=5
+[application]
+config/name="Xuanxiao Cast - Native 1x"
+run/main_scene="res://Demo.tscn"
+[display]
+window/size/viewport_width=840
+window/size/viewport_height=510
+window/size/window_width_override=840
+window/size/window_height_override=510
+[rendering]
+renderer/rendering_method="gl_compatibility"
+textures/default_filters/use_nearest_mipmap_filter=false
+textures/canvas_textures/default_texture_filter=0

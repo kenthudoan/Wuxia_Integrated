@@ -1,0 +1,421 @@
+{
+  "id": "06_dash",
+  "sect": "寒月宫",
+  "name": "踏月无痕",
+  "mode": "dash",
+  "number": 3,
+  "phases": {
+    "cast": {
+      "sheet": "SectVFX/Textures/30f403f57f41a6499e8c2fee9b7a2554d96769d78622b87bf40169c4cd5a9c43.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/bbb646ea4c0b889c88f846bc702af64ffa53fc0f24f705d30af6628422bdfe74.png",
+          "sha256": "5dd833f2b0f35d33032f4c5248d2e18f68bb5ebea4ce84463cbf98c124d1fd24"
+        },
+        {
+          "rect": [
+            48,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/3619d9a392fb0dfc3f4d1ad96f99ab7e70ba88215e723604a686cca2be2e8fa8.png",
+          "sha256": "eb32603fa493226b84406f6a798bf4ca84dee0a202263f795c42d7fff9af2e97"
+        },
+        {
+          "rect": [
+            96,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/84d92239d6ecd60771a5eeae39cbb432abfbb76dbb8db0ad8085695f9aada532.png",
+          "sha256": "a2cd313ab7897c216e560dba2619285fac64929b7ed832e54b7cc0dbcfb9b99c"
+        },
+        {
+          "rect": [
+            144,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/7187de27e9de7b3ca0ddc23a4e458fd96402d46d3557dcf52c3aed4ea6c74303.png",
+          "sha256": "c7e2e189fefb8a2822018c93565d74fd3c586d4aac76330acc0fb37452f9f944"
+        },
+        {
+          "rect": [
+            0,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/679b54adb1585445c0d9b992d649cf3d0e52459e8dff0fb9f71e3c37e8c92d4a.png",
+          "sha256": "6c8e5f68819d58c4df97fcbe125a3a31384bc1d65acc6ddd4d1b7835aa22c5aa"
+        },
+        {
+          "rect": [
+            48,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/0515eb978561d64d610793fbfa45b910cccd8f355f52b19ece0c4d6045392428.png",
+          "sha256": "0cd1aa8a147a349f2397a7edbb4f0cc2a93d604f797d35c24a19bc8128d5d6ab"
+        },
+        {
+          "rect": [
+            96,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/7a53b58fca84041cd49bca5b242c45ae4303c3b0d2e918ec3d8b64be6153f62d.png",
+          "sha256": "50040da3f7fbee51eb3bb6cd6587bf99cd848dd5c1ebdb9f12d71c5a564b4bc6"
+        },
+        {
+          "rect": [
+            144,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/b22a36c9dbc4425c44cde075128c52c4efe93bde49efa52e045d7cecacb7d97a.png",
+          "sha256": "ffe8bc3a9bc966c9a75415fe6ba4c969625ef2820eee4130cbceb4d8f8c70520"
+        },
+        {
+          "rect": [
+            0,
+            96,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/c0878710b528047d269e1ef7ac33f5dcca9ff25210d1b7e1f7a6f58e7d361bc5.png",
+          "sha256": "69ecc48676075e12fe530aad0cbef7474a7bed33f5c646b10784fc99314ce542"
+        },
+        {
+          "rect": [
+            48,
+            96,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/2b4d364af370a7a01502e902406fbe0f0fb63d7142e8533ba805cb73fe8d992c.png",
+          "sha256": "ef5a2ed34fef0c2b88e45be4c6f35d2a6aeb37a2c77f0f9eeb91f5b1f0d34ee3"
+        },
+        {
+          "rect": [
+            96,
+            96,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/6f57834ef476afecfada4f5da0333ca63a2376000660c9876a8b9862a00014af.png",
+          "sha256": "5f4fd3662403a745ed759597f7b20db77c1eb383167e6edcc20d488723ecbafa"
+        },
+        {
+          "rect": [
+            144,
+            96,
+            48,
+            48
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/08e3e2837acbb2a4374d14c959993b76b8cf778d7844e0b9090644901d678c19.png",
+          "sha256": "b0a78e5095d79f7cb384f8e12a88ff3aed39844b52d0f217d5104db496475f4b"
+        }
+      ],
+      "anchor": [
+        24,
+        24
+      ],
+      "canvas": [
+        48,
+        48
+      ],
+      "sha256": "30f403f57f41a6499e8c2fee9b7a2554d96769d78622b87bf40169c4cd5a9c43"
+    },
+    "projectile": {
+      "sheet": "SectVFX/Textures/02d2c0dd885de3afdf14397bdb7ea3691980c697567a0e2015b671ed713657e3.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/ff58778262057866d3883a9d9ea96b70041e9f3916d1c04411d99f690c2ebfaa.png",
+          "sha256": "5dc819f6e25f064b3a33b988e9c5de38984f6802f615df501e48ca2d777fa19a"
+        },
+        {
+          "rect": [
+            96,
+            0,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/99f46abc741f4fac6ef1b17c0733e6ec2f11a6bb824c456412e1f96571b6af14.png",
+          "sha256": "08a8a4fccf70deed2486d6e69d9d98fdcb6d5792aa6369d0f76b94fbe9409dfd"
+        },
+        {
+          "rect": [
+            192,
+            0,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/f31821e18c43c1ca1b206c8b43bfdc8fab18d2a5b457ec54accfdaa5180d2c57.png",
+          "sha256": "d23fd00ff7cf4777d356702fa1608d1ae445dc1e98e7b9a724ebf3cc45e79a54"
+        },
+        {
+          "rect": [
+            288,
+            0,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/9bcf4151ab0119a49674a90f2a12a0dabcb1bed92a6e250d66bf32cdf2a9d97a.png",
+          "sha256": "7aa2f1d9fe3acb7364c8eb1dc85933906703b80fd78355a1c871501b5f382ea4"
+        },
+        {
+          "rect": [
+            0,
+            96,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/e3941b938c2afb6cee8b6c00cd31d1ded42eeb2871709132bbc4826253d36c83.png",
+          "sha256": "5cefafe93234b140d6bf9cc7d0e7846bd94d928a74434c95fcb737c08e55ffba"
+        },
+        {
+          "rect": [
+            96,
+            96,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/c8a0fd58d22da67886c53bec0a8d5bc9a613693a4fd47439e832038c9c5fba55.png",
+          "sha256": "bdef675f83c7b0232e66108f88289518f8a758c303ba84ce174bc8d60025ec9c"
+        },
+        {
+          "rect": [
+            192,
+            96,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/c64bed221b5292e6d070d3709917b5501cfdc97324b61776c8ec2d342e015f47.png",
+          "sha256": "fad0d7b9707d34f0e15e8a32d77f0b1728d60a3290ccf3e5ac8893f81c26b737"
+        },
+        {
+          "rect": [
+            288,
+            96,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/95fcaaf5d319b28e9d04b090ba616a2dcd815ae650b9a75a5f7c5004c4de4063.png",
+          "sha256": "60086cc88c3e72fc52f12615ee824647df28d733b8207d0e7c3cb5dae72f35d7"
+        },
+        {
+          "rect": [
+            0,
+            192,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/87f3c5de6558c5e256bf97c9b3ce3a668791946b3629314e23f440b540432db4.png",
+          "sha256": "c11ced20a83b5bb541a4fe36d685eb4e6cfc4f775490339e83e1f1079f7c5029"
+        },
+        {
+          "rect": [
+            96,
+            192,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/c48fad35fe6571e14a54adfee3d0a911a20bcf159c12dba71ce508329426fb95.png",
+          "sha256": "ddc9d9a1f380895708760adfe4971ecc3778cd5f80d704f1d7e691c9556cc433"
+        },
+        {
+          "rect": [
+            192,
+            192,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/77ec68c9b743379ba170b495b4afd2352810f26e2aeab4022e310aaa627c6b81.png",
+          "sha256": "0185245f32616252887ef2704e1768745d871dbd2832279121c9169f9a92335f"
+        },
+        {
+          "rect": [
+            288,
+            192,
+            96,
+            96
+          ],
+          "duration": 0.083,
+          "png": "SectVFX/Frames/52f3126f6522ba6e9207353574f0c165357e52b5a3c2e33f70c551cbc84c33c9.png",
+          "sha256": "e93cf7cf69e59a49eaaa011e5f0ec7b6e385408ba1b4025b9231832d7c87ec46"
+        }
+      ],
+      "anchor": [
+        48,
+        48
+      ],
+      "canvas": [
+        96,
+        96
+      ],
+      "sha256": "02d2c0dd885de3afdf14397bdb7ea3691980c697567a0e2015b671ed713657e3"
+    },
+    "impact": {
+      "sheet": "SectVFX/Textures/ff7f318f3668f328b3a681b0ce91790cae50856e4b1d75de3ebdfcc06a1980b0.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/273e41bb3d1f26d22582dd88d3018cb2a8aad2a8602dbe48d94609732cdce68c.png",
+          "sha256": "6fbf38eb61a352292c1f8e458fdfaa7c14d35689408385f9f9a7f64436623fc4"
+        },
+        {
+          "rect": [
+            48,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/e113845b1478df9212cbb6399fa5d38ca6a65f5a8a56eff97067e740af771262.png",
+          "sha256": "f77c3958779cbe6f886d3116d712973e5ebf3d3a291b30e47e40825f320bb1da"
+        },
+        {
+          "rect": [
+            96,
+            0,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/6dae0ab0b1c3013a0450ae33279ea75f62bd62ef9dd1916abdf03ef329ed0846.png",
+          "sha256": "b80778f01bfd3e91421d7e51aba10b651a952c4b59b7600ebf7b65cf07d11cec"
+        },
+        {
+          "rect": [
+            0,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/67cb6ec5aa9bcaee4c0fe5e718a987c33cb188d986318a3263a6fd507766d73d.png",
+          "sha256": "521a858f63e919fdc358b3223ea57b6afa197886effd59eaf8c2f6bc1555cc23"
+        },
+        {
+          "rect": [
+            48,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/b5eadb22c462b756dae851e56be8ab0aa180e38b30b3d0ce56502c2b84cd6719.png",
+          "sha256": "631529d16ab5667b4dca10ef2ba0fe674f21815a240a50db634c6bec425d507c"
+        },
+        {
+          "rect": [
+            96,
+            48,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/08e3e2837acbb2a4374d14c959993b76b8cf778d7844e0b9090644901d678c19.png",
+          "sha256": "b0a78e5095d79f7cb384f8e12a88ff3aed39844b52d0f217d5104db496475f4b"
+        },
+        {
+          "rect": [
+            0,
+            96,
+            48,
+            48
+          ],
+          "duration": 0.063,
+          "png": "SectVFX/Frames/08e3e2837acbb2a4374d14c959993b76b8cf778d7844e0b9090644901d678c19.png",
+          "sha256": "b0a78e5095d79f7cb384f8e12a88ff3aed39844b52d0f217d5104db496475f4b"
+        }
+      ],
+      "anchor": [
+        24,
+        24
+      ],
+      "canvas": [
+        48,
+        48
+      ],
+      "sha256": "ff7f318f3668f328b3a681b0ce91790cae50856e4b1d75de3ebdfcc06a1980b0"
+    }
+  },
+  "caster": {
+    "file": "SectVFX/Textures/28080ca31bec3b008e8b4a7b2dc860479232a84d8a040deac42685d4dacd9b7c.png",
+    "anchor": [
+      64,
+      123
+    ]
+  },
+  "runtime_script": "SectVFX/Runtime/SectHanyueEffects.gd",
+  "standalone_contract": {
+    "coordinate_space": "local ground positions in the VFX node; no game objects mutated",
+    "visual_contact_only": true,
+    "native_sampling": "nearest core, local shader glow",
+    "actor_optional": true
+  },
+  "motion_flags_by_facing": {},
+  "has_spin_action": false,
+  "playback_contract": {
+    "clock_hz": 60,
+    "nominal_end_seconds": 1.48,
+    "preview_peak_seconds": 0.65,
+    "timing_summary": "Glide .32->.88; three independently fading afterimages at .16/.48/.78of movement; lower curved wind at screen-up30px, facing-aligned. No new actor actions.",
+    "incoming_acceptance_window_seconds": null,
+    "automatic_demo_incoming_default": false,
+    "core_sampling": "nearest",
+    "local_soft_light": "shaders; not a full-screen blur",
+    "coordinate_space": "world ground pixels through private identity context; component placed at foot",
+    "array_frame_clock": "paused atlas clock",
+    "optional_actor_source": "caster_frame_provider(time)->texture+anchor; Examples/Hanyue uses existing unmodified Idle/Walk; not a new casting clip"
+  }
+}

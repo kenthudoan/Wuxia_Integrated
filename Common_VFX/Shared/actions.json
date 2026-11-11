@@ -1,0 +1,241 @@
+{
+  "fps": 8,
+  "actions": {
+    "attack3_west": [
+      "Shared/ActorActions/attack3/west/frame_000.png",
+      "Shared/ActorActions/attack3/west/frame_001.png",
+      "Shared/ActorActions/attack3/west/frame_002.png",
+      "Shared/ActorActions/attack3/west/frame_003.png",
+      "Shared/ActorActions/attack3/west/frame_004.png",
+      "Shared/ActorActions/attack3/west/frame_005.png",
+      "Shared/ActorActions/attack3/west/frame_006.png",
+      "Shared/ActorActions/attack3/west/frame_007.png"
+    ],
+    "attack3_north": [
+      "Shared/ActorActions/attack3/north/frame_000.png",
+      "Shared/ActorActions/attack3/north/frame_001.png",
+      "Shared/ActorActions/attack3/north/frame_002.png",
+      "Shared/ActorActions/attack3/north/frame_003.png",
+      "Shared/ActorActions/attack3/north/frame_004.png",
+      "Shared/ActorActions/attack3/north/frame_005.png",
+      "Shared/ActorActions/attack3/north/frame_006.png",
+      "Shared/ActorActions/attack3/north/frame_007.png"
+    ],
+    "attack3_east": [
+      "Shared/ActorActions/attack3/east/frame_000.png",
+      "Shared/ActorActions/attack3/east/frame_001.png",
+      "Shared/ActorActions/attack3/east/frame_002.png",
+      "Shared/ActorActions/attack3/east/frame_003.png",
+      "Shared/ActorActions/attack3/east/frame_004.png",
+      "Shared/ActorActions/attack3/east/frame_005.png",
+      "Shared/ActorActions/attack3/east/frame_006.png",
+      "Shared/ActorActions/attack3/east/frame_007.png"
+    ],
+    "attack3_south": [
+      "Shared/ActorActions/attack3/south/frame_000.png",
+      "Shared/ActorActions/attack3/south/frame_001.png",
+      "Shared/ActorActions/attack3/south/frame_002.png",
+      "Shared/ActorActions/attack3/south/frame_003.png",
+      "Shared/ActorActions/attack3/south/frame_004.png",
+      "Shared/ActorActions/attack3/south/frame_005.png",
+      "Shared/ActorActions/attack3/south/frame_006.png",
+      "Shared/ActorActions/attack3/south/frame_007.png"
+    ],
+    "death_west": [
+      "Shared/ActorActions/death/west/frame_000.png",
+      "Shared/ActorActions/death/west/frame_001.png",
+      "Shared/ActorActions/death/west/frame_002.png",
+      "Shared/ActorActions/death/west/frame_003.png",
+      "Shared/ActorActions/death/west/frame_004.png",
+      "Shared/ActorActions/death/west/frame_005.png",
+      "Shared/ActorActions/death/west/frame_006.png",
+      "Shared/ActorActions/death/west/frame_007.png"
+    ],
+    "death_north": [
+      "Shared/ActorActions/death/north/frame_000.png",
+      "Shared/ActorActions/death/north/frame_001.png",
+      "Shared/ActorActions/death/north/frame_002.png",
+      "Shared/ActorActions/death/north/frame_003.png",
+      "Shared/ActorActions/death/north/frame_004.png",
+      "Shared/ActorActions/death/north/frame_005.png",
+      "Shared/ActorActions/death/north/frame_006.png",
+      "Shared/ActorActions/death/north/frame_007.png"
+    ],
+    "death_east": [
+      "Shared/ActorActions/death/east/frame_000.png",
+      "Shared/ActorActions/death/east/frame_001.png",
+      "Shared/ActorActions/death/east/frame_002.png",
+      "Shared/ActorActions/death/east/frame_003.png",
+      "Shared/ActorActions/death/east/frame_004.png",
+      "Shared/ActorActions/death/east/frame_005.png",
+      "Shared/ActorActions/death/east/frame_006.png",
+      "Shared/ActorActions/death/east/frame_007.png"
+    ],
+    "death_south": [
+      "Shared/ActorActions/death/south/frame_000.png",
+      "Shared/ActorActions/death/south/frame_001.png",
+      "Shared/ActorActions/death/south/frame_002.png",
+      "Shared/ActorActions/death/south/frame_003.png",
+      "Shared/ActorActions/death/south/frame_004.png",
+      "Shared/ActorActions/death/south/frame_005.png",
+      "Shared/ActorActions/death/south/frame_006.png",
+      "Shared/ActorActions/death/south/frame_007.png"
+    ],
+    "suodi_south": [
+      "Shared/ActorActions/suodi/south/frame_000.png",
+      "Shared/ActorActions/suodi/south/frame_001.png",
+      "Shared/ActorActions/suodi/south/frame_002.png",
+      "Shared/ActorActions/suodi/south/frame_003.png",
+      "Shared/ActorActions/suodi/south/frame_004.png",
+      "Shared/ActorActions/suodi/south/frame_005.png",
+      "Shared/ActorActions/suodi/south/frame_006.png",
+      "Shared/ActorActions/suodi/south/frame_007.png"
+    ],
+    "suodi_east": [
+      "Shared/ActorActions/suodi/east/frame_000.png",
+      "Shared/ActorActions/suodi/east/frame_001.png",
+      "Shared/ActorActions/suodi/east/frame_002.png",
+      "Shared/ActorActions/suodi/east/frame_003.png",
+      "Shared/ActorActions/suodi/east/frame_004.png",
+      "Shared/ActorActions/suodi/east/frame_005.png",
+      "Shared/ActorActions/suodi/east/frame_006.png",
+      "Shared/ActorActions/suodi/east/frame_007.png"
+    ],
+    "suodi_north": [
+      "Shared/ActorActions/suodi/north/frame_000.png",
+      "Shared/ActorActions/suodi/north/frame_001.png",
+      "Shared/ActorActions/suodi/north/frame_002.png",
+      "Shared/ActorActions/suodi/north/frame_003.png",
+      "Shared/ActorActions/suodi/north/frame_004.png",
+      "Shared/ActorActions/suodi/north/frame_005.png",
+      "Shared/ActorActions/suodi/north/frame_006.png",
+      "Shared/ActorActions/suodi/north/frame_007.png"
+    ],
+    "suodi_west": [
+      "Shared/ActorActions/suodi/west/frame_000.png",
+      "Shared/ActorActions/suodi/west/frame_001.png",
+      "Shared/ActorActions/suodi/west/frame_002.png",
+      "Shared/ActorActions/suodi/west/frame_003.png",
+      "Shared/ActorActions/suodi/west/frame_004.png",
+      "Shared/ActorActions/suodi/west/frame_005.png",
+      "Shared/ActorActions/suodi/west/frame_006.png",
+      "Shared/ActorActions/suodi/west/frame_007.png"
+    ],
+    "rulai_south": [
+      "Shared/ActorActions/rulai/south/frame_000.png",
+      "Shared/ActorActions/rulai/south/frame_001.png",
+      "Shared/ActorActions/rulai/south/frame_002.png",
+      "Shared/ActorActions/rulai/south/frame_003.png",
+      "Shared/ActorActions/rulai/south/frame_004.png",
+      "Shared/ActorActions/rulai/south/frame_005.png",
+      "Shared/ActorActions/rulai/south/frame_006.png",
+      "Shared/ActorActions/rulai/south/frame_007.png"
+    ],
+    "rulai_east": [
+      "Shared/ActorActions/rulai/east/frame_000.png",
+      "Shared/ActorActions/rulai/east/frame_001.png",
+      "Shared/ActorActions/rulai/east/frame_002.png",
+      "Shared/ActorActions/rulai/east/frame_003.png",
+      "Shared/ActorActions/rulai/east/frame_004.png",
+      "Shared/ActorActions/rulai/east/frame_005.png",
+      "Shared/ActorActions/rulai/east/frame_006.png",
+      "Shared/ActorActions/rulai/east/frame_007.png"
+    ],
+    "rulai_north": [
+      "Shared/ActorActions/rulai/north/frame_000.png",
+      "Shared/ActorActions/rulai/north/frame_001.png",
+      "Shared/ActorActions/rulai/north/frame_002.png",
+      "Shared/ActorActions/rulai/north/frame_003.png",
+      "Shared/ActorActions/rulai/north/frame_004.png",
+      "Shared/ActorActions/rulai/north/frame_005.png",
+      "Shared/ActorActions/rulai/north/frame_006.png",
+      "Shared/ActorActions/rulai/north/frame_007.png"
+    ],
+    "rulai_west": [
+      "Shared/ActorActions/rulai/west/frame_000.png",
+      "Shared/ActorActions/rulai/west/frame_001.png",
+      "Shared/ActorActions/rulai/west/frame_002.png",
+      "Shared/ActorActions/rulai/west/frame_003.png",
+      "Shared/ActorActions/rulai/west/frame_004.png",
+      "Shared/ActorActions/rulai/west/frame_005.png",
+      "Shared/ActorActions/rulai/west/frame_006.png",
+      "Shared/ActorActions/rulai/west/frame_007.png"
+    ]
+  },
+  "effects": {},
+  "anchors": {
+    "attack3": {
+      "south": [
+        96,
+        140
+      ],
+      "east": [
+        96,
+        138
+      ],
+      "north": [
+        98,
+        132
+      ],
+      "west": [
+        98,
+        138
+      ]
+    },
+    "death": {
+      "south": [
+        68,
+        132
+      ],
+      "east": [
+        78,
+        132
+      ],
+      "north": [
+        76,
+        128
+      ],
+      "west": [
+        78,
+        132
+      ]
+    },
+    "suodi": {
+      "south": [
+        64,
+        134
+      ],
+      "east": [
+        64,
+        132
+      ],
+      "north": [
+        64,
+        128
+      ],
+      "west": [
+        64,
+        132
+      ]
+    },
+    "rulai": {
+      "south": [
+        64,
+        132
+      ],
+      "east": [
+        68,
+        132
+      ],
+      "north": [
+        64,
+        128
+      ],
+      "west": [
+        64,
+        132
+      ]
+    }
+  },
+  "notes": "Fixed per-clip foot pivots, no per-frame bounding-box recentering; death body is allowed to collapse in source canvas."
+}

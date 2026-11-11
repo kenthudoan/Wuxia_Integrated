@@ -1,0 +1,33 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_training_wood_dummy_0.png" id="1_sa72q"]
+[ext_resource type="FontFile" path="res://assets/fonts/SourceHanSerifCN-Regular.otf" id="2_lh5bj"]
+
+[node name="training_wood_dummy" type="StaticBody2D"]
+metadata/asset_id = "training_wood_dummy"
+metadata/training_origin = Vector2(1440, 1120)
+metadata/training_hp = 300
+metadata/training_hits = 0
+metadata/training_label = null
+
+[node name="_CollisionPolygon2D_201" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-16, -20, 16, -20, 16, 0, -16, 0)
+
+[node name="_Sprite2D_202" type="Sprite2D" parent="."]
+position = Vector2(-63, -125)
+texture = ExtResource("1_sa72q")
+centered = false
+
+[node name="_Label_1047" type="Label" parent="."]
+offset_left = -45.0
+offset_top = -148.0
+offset_right = 45.0
+offset_bottom = -104.0
+theme_override_colors/font_color = Color(0.9098039, 0.8509804, 0.7019608, 1)
+theme_override_colors/font_outline_color = Color(0.14117648, 0.14117648, 0.1254902, 1)
+theme_override_constants/outline_size = 3
+theme_override_fonts/font = ExtResource("2_lh5bj")
+theme_override_font_sizes/font_size = 14
+text = "300/300
+木桩 · 0击"
+horizontal_alignment = 1

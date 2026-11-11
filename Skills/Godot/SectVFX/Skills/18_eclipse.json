@@ -1,0 +1,339 @@
+{
+  "id": "18_eclipse",
+  "sect": "幽冥教",
+  "name": "蚀月归墟",
+  "mode": "eclipse",
+  "number": 3,
+  "phases": {
+    "cast": {
+      "sheet": "SectVFX/Textures/72851529a9f85e94aa93670e7e933dabca29a013efc0fe4aaf7f4737733e2a45.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1983,
+            793
+          ],
+          "duration": 1,
+          "png": "SectVFX/Frames/2c2a4e1777b0e485a19e6303916f440d73baa2dd4cc5106660d541557fd0be8c.png",
+          "sha256": "5bb2ff95b82843f26199e22b3ad7b6c88606dcf061b16721bae3fb9bc300c623"
+        }
+      ],
+      "canvas": [
+        1983,
+        793
+      ],
+      "logical_canvas": [
+        341,
+        136
+      ],
+      "anchor": [
+        990,
+        430
+      ],
+      "sha256": "72851529a9f85e94aa93670e7e933dabca29a013efc0fe4aaf7f4737733e2a45",
+      "visible_bbox_alpha8": [
+        70,
+        41,
+        1932,
+        751
+      ],
+      "visible_size": [
+        320,
+        122
+      ]
+    },
+    "projectile": {
+      "sheet": "SectVFX/Textures/72851529a9f85e94aa93670e7e933dabca29a013efc0fe4aaf7f4737733e2a45.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1983,
+            793
+          ],
+          "duration": 1,
+          "png": "SectVFX/Frames/2c2a4e1777b0e485a19e6303916f440d73baa2dd4cc5106660d541557fd0be8c.png",
+          "sha256": "5bb2ff95b82843f26199e22b3ad7b6c88606dcf061b16721bae3fb9bc300c623"
+        }
+      ],
+      "canvas": [
+        1983,
+        793
+      ],
+      "logical_canvas": [
+        341,
+        136
+      ],
+      "anchor": [
+        990,
+        430
+      ],
+      "sha256": "72851529a9f85e94aa93670e7e933dabca29a013efc0fe4aaf7f4737733e2a45",
+      "visible_bbox_alpha8": [
+        70,
+        41,
+        1932,
+        751
+      ],
+      "visible_size": [
+        320,
+        122
+      ]
+    },
+    "impact": {
+      "sheet": "SectVFX/Textures/9b8bdd524b9734fe505bdb6f670946c22eafabf54a90acf8c6988a7871c6eb64.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1536,
+            1024
+          ],
+          "duration": 1,
+          "png": "SectVFX/Frames/a140586060a030668ea00cbd851c1ad3538fae0745714b850ac2a18f5076b00f.png",
+          "sha256": "5c97f5169540cb680669d8d9b914d6adef92d1e9e645edd0c503d8736ede0335"
+        }
+      ],
+      "canvas": [
+        1536,
+        1024
+      ],
+      "logical_canvas": [
+        225,
+        150
+      ],
+      "anchor": [
+        800,
+        530
+      ],
+      "sha256": "9b8bdd524b9734fe505bdb6f670946c22eafabf54a90acf8c6988a7871c6eb64",
+      "visible_bbox_alpha8": [
+        104,
+        72,
+        1469,
+        977
+      ],
+      "visible_size": [
+        200,
+        133
+      ]
+    },
+    "ribbon": {
+      "sheet": "SectVFX/Textures/e4c067dfc0de34201f930794c701dbfa5524300d1e4a31b38d3cee5ba0a9642d.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1983,
+            793
+          ],
+          "duration": 1,
+          "png": "SectVFX/Frames/a977085acd29b95b663e673329236fb19a77c02ce1a3ed5685065284013efb66.png",
+          "sha256": "827798b3df3e2f9c14d257be714d6cbd519f66090d772b4f3d4f664e231b30e6"
+        }
+      ],
+      "canvas": [
+        1983,
+        793
+      ],
+      "logical_canvas": [
+        275,
+        110
+      ],
+      "anchor": [
+        52,
+        405
+      ],
+      "sha256": "e4c067dfc0de34201f930794c701dbfa5524300d1e4a31b38d3cee5ba0a9642d",
+      "visible_bbox_alpha8": [
+        52,
+        95,
+        1926,
+        714
+      ],
+      "visible_size": [
+        260,
+        86
+      ]
+    },
+    "coil": {
+      "sheet": "SectVFX/Textures/39467e4afda9c1e284f7bf1de9bd1ea9c68baa6cd6a14307d5cba1b18c70f2cd.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1374,
+            1145
+          ],
+          "duration": 1,
+          "png": "SectVFX/Frames/95949ab69c9747f03537180231db125cfdba987b23b4f1979013b0eb4219f55b.png",
+          "sha256": "6eae3ab04d4c493e779eff34c25a6d09554a1889b5a6db98c28f367e3ac68dde"
+        }
+      ],
+      "canvas": [
+        1374,
+        1145
+      ],
+      "logical_canvas": [
+        153,
+        128
+      ],
+      "anchor": [
+        700,
+        960
+      ],
+      "sha256": "39467e4afda9c1e284f7bf1de9bd1ea9c68baa6cd6a14307d5cba1b18c70f2cd",
+      "visible_bbox_alpha8": [
+        86,
+        60,
+        1298,
+        1099
+      ],
+      "visible_size": [
+        135,
+        116
+      ]
+    },
+    "moon": {
+      "sheet": "SectVFX/Textures/72851529a9f85e94aa93670e7e933dabca29a013efc0fe4aaf7f4737733e2a45.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1983,
+            793
+          ],
+          "duration": 1,
+          "png": "SectVFX/Frames/2c2a4e1777b0e485a19e6303916f440d73baa2dd4cc5106660d541557fd0be8c.png",
+          "sha256": "5bb2ff95b82843f26199e22b3ad7b6c88606dcf061b16721bae3fb9bc300c623"
+        }
+      ],
+      "canvas": [
+        1983,
+        793
+      ],
+      "logical_canvas": [
+        341,
+        136
+      ],
+      "anchor": [
+        990,
+        430
+      ],
+      "sha256": "72851529a9f85e94aa93670e7e933dabca29a013efc0fe4aaf7f4737733e2a45",
+      "visible_bbox_alpha8": [
+        70,
+        41,
+        1932,
+        751
+      ],
+      "visible_size": [
+        320,
+        122
+      ]
+    },
+    "ink": {
+      "sheet": "SectVFX/Textures/3a098fe37c61852438ec2f55b6535f8ef74a9ff3cdbf8a340443bc45efcc6ef1.png",
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            1024,
+            1536
+          ],
+          "duration": 1,
+          "png": "SectVFX/Frames/4f05b740b08d335f2e723e6465432fb5ad18cd3eee05d71677f78207ad7ef5a5.png",
+          "sha256": "1104169d7e13d26ff8e93d114e1736d2276b5d897f95d46dd7676f139398d501"
+        }
+      ],
+      "canvas": [
+        1024,
+        1536
+      ],
+      "logical_canvas": [
+        77,
+        116
+      ],
+      "anchor": [
+        535,
+        1450
+      ],
+      "sha256": "3a098fe37c61852438ec2f55b6535f8ef74a9ff3cdbf8a340443bc45efcc6ef1",
+      "visible_bbox_alpha8": [
+        285,
+        33,
+        784,
+        1522
+      ],
+      "visible_size": [
+        38,
+        112
+      ]
+    },
+    "crescent_core": {
+      "sheet": "SectVFX/Textures/Crescent_R1_256.png",
+      "canvas": [
+        256,
+        256
+      ],
+      "logical_canvas": [
+        256,
+        256
+      ],
+      "anchor": [
+        128,
+        180
+      ],
+      "frames": [
+        {
+          "rect": [
+            0,
+            0,
+            256,
+            256
+          ],
+          "duration": 3.35,
+          "png": "SectVFX/Textures/Crescent_R1_256.png",
+          "sha256": "e23bf6fc2c4df63376e6690b46ec0e4f54f598f6b034dce2bd7578e7c0f652c7"
+        }
+      ],
+      "native_frame_type": "single_frame"
+    }
+  },
+  "caster": {
+    "file": "SectVFX/Textures/57cb0ba5694c389470133aff2822bd29d219af318d50a263c57ee77058039792.png",
+    "anchor": [
+      64,
+      114
+    ]
+  },
+  "runtime_script": "SectVFX/Runtime/SectYoumingEffects.gd",
+  "standalone_contract": {
+    "coordinate_space": "local ground positions in the VFX node; no game objects mutated",
+    "visual_contact_only": true,
+    "native_sampling": "nearest core, local shader glow",
+    "actor_optional": true
+  },
+  "motion_flags_by_facing": {},
+  "has_spin_action": false,
+  "playback_contract": {
+    "clock_hz": 60,
+    "nominal_end_seconds": 3.2,
+    "preview_peak_seconds": 2.65,
+    "timing_summary": "Appear .0->.5; inward flecks and broken lunar form; collapse2.45->2.85, cleanup3.2.",
+    "incoming_acceptance_window_seconds": null,
+    "automatic_demo_incoming_default": false,
+    "core_sampling": "nearest",
+    "local_soft_light": "shaders; not a full-screen blur",
+    "coordinate_space": "world ground pixels through private identity context; component placed at foot",
+    "array_frame_clock": "paused atlas clock"
+  }
+}

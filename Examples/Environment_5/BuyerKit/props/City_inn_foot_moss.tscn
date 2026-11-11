@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://BuyerKit/props/City_inn_foot_moss_0.png" id="1_7fh0a"]
+
+[node name="inn_foot_moss" type="Node2D"]
+z_index = -1
+metadata/asset_id = "inn_foot_moss"
+
+[node name="_Sprite2D_167" type="Sprite2D" parent="."]
+position = Vector2(-44, -19)
+texture = ExtResource("1_7fh0a")
+centered = false
